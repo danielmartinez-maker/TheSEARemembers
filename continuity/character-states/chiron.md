@@ -260,3 +260,10 @@
 - Chiron leaves before Percy and Leandros talk about Atlantis. He does not learn Percy's altered-childhood memory gap from this chapter.
 - Thalia's heel is not assessed. Chiron's Chapter 193 plan and the Chapter 204 reassessment remain active.
 **Carry-forward after Ch203.** The canoe-shed labels and six drying coils are prepared. The earlier awning, fence, Cabin One rail, north-step, and stool items remain open; no medical decision changes.
+
+### Chapter 208 · Inspection remains pending
+
+- **Source:** [Chapter 208](../../chapters/208-the-work-nobody-sees.md); [194–208 chapter ledger](../chapter-ledgers/194-208.md).
+- Chiron tells Silena that Amphitrite plans to remain through the following morning. No later visit date is set.
+- He permits Leandros to prepare brace stock only after Beckendorf confirms measurements. Chiron and Beckendorf check the fence ground; it still yields, so the board and fence remain in place.
+- Chiron does not witness Silena's private watercolor exchange with Amphitrite or Leandros's later splice work on the separate drying-rack loop. No injury or Thalia health status changes.

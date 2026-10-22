@@ -161,3 +161,13 @@
 - Amphitrite is still not told about Percy's erased-future memories or altered-childhood memory gap.
 
 **Carry-forward after Ch202.** Amphitrite has a small watercolor strip from Silena, placed flat between pages. Silena's letter remains private, and no maternal title has been chosen by either sister. Amphitrite's multi-day stay does not resolve Clarisse's hurt or establish a finished family bond.
+
+### Chapter 208 · Attention without taking over
+
+- **Knowledge provenance:** FIRSTHAND in Silena-limited POV for the shared scenes.
+- **Source:** [Chapter 208](../../chapters/208-the-work-nobody-sees.md); [194–208 chapter ledger](../chapter-ledgers/194-208.md).
+- Amphitrite asks before joining Silena, holding her page, commenting on it, and offering a goodbye hug. Silena chooses company and later shares a watercolor study, then declines the hug; Amphitrite accepts without pressure.
+- Silena says she likes Amphitrite's company while also saying she does not know her well yet. No maternal title is requested or chosen. Amphitrite leaves after breakfast, with no return date established.
+- Silena does not tell Amphitrite the contents of her private letter to Maria. Amphitrite remains unaware of Percy's erased-future memories and altered-childhood memory gap.
+
+**Carry-forward after Ch208.** The relationship has advanced through a bounded watercolor exchange and a freely declined hug. Clarisse's pace remains separate; no title or finished family bond is assumed.

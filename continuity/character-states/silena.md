@@ -316,3 +316,12 @@
 
 **Carry-forward after Ch207.** Silena's anger and Clarisse's response remain separate. She is not the automatic interpreter or peacemaker; the recipe remains hers.
 
+### Chapter 208 · Her words and work remain hers
+
+- **Knowledge provenance:** FIRSTHAND, in Silena-limited POV.
+- **Source:** [Chapter 208](../../chapters/208-the-work-nobody-sees.md); [194–208 chapter ledger](../chapter-ledgers/194-208.md).
+- Silena tells Leandros she will not translate Clarisse's anger or report his work. She names her own anger and fluency as separate from a duty to make the family easier for him. His apology remains unresolved; no forgiveness timeline is given.
+- She chooses to join Amphitrite for watercolor time, sets limits on when her study is seen and discussed, and chooses to share the dried page. She declines Amphitrite's goodbye hug and says she likes her company while acknowledging she does not know her well yet. No maternal title, letter delivery, or response from Maria occurs.
+- Silena continues her own inventory task and artwork; she is not made the automatic messenger or caretaker. She does not learn the details of Percy's private Chapter 207 conversation with Leandros.
+
+**Carry-forward after Ch208.** Silena's anger remains separate from Clarisse's; the rosemary recipe and Maria letter remain hers. Her relationship with Amphitrite is growing by voluntary, bounded contact, without a chosen title.

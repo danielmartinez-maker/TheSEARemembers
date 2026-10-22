@@ -327,3 +327,12 @@
 
 **Carry-forward after Ch207.** Leandros has apologized and is still impatient for an answer. Clarisse does not promise forgiveness or broad trust. The fence inspection and board reset remain delayed until the ground firms.
 
+### Chapter 208 · Separate responses remain separate
+
+- **Knowledge provenance:** REPORTED BY SILENA / limited scene knowledge.
+- **Source:** [Chapter 208](../../chapters/208-the-work-nobody-sees.md); [194–208 chapter ledger](../chapter-ledgers/194-208.md).
+- Clarisse hears from Silena that the storm-damaged canvas seam passed its check and that the two coils remain damp. She asks about the delayed board; the ground still yields.
+- Silena does not carry Leandros's words or tell Clarisse about his separate, untested rack-loop splice. Clarisse does not learn of that repair in this chapter.
+- No apology, forgiveness, trust, or authority change occurs. Her relationship with Amphitrite remains on its own path and no title is chosen.
+
+**Carry-forward after Ch208.** Clarisse has no new response milestone with Leandros and no new information about the loop splice. The fence and board remain pending.

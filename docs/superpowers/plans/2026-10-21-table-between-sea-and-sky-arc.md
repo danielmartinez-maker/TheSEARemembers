@@ -108,7 +108,8 @@ Files: Chapters 206–210 and continuity updates.
 - [x] Verify 10,083 body words by the repository whitespace-token method; Clarisse-limited POV, ten scenes, continuity YAML, 194–206 ledger/handoff, index, arc progress, and selected character-state updates added. The fence drainage remains open, and neither newcomer receives instant trust or authority.
 - [x] Ch207: Leandros takes responsibility without rushing forgiveness.
 - [x] Verify 10,096 body words by the repository whitespace-token method; Percy-limited POV, continuity YAML, current 194–207 ledger/handoff, index, arc progress, and selected character-state notes added. Clarisse and Silena keep separate unresolved responses; the drainage work remains open.
-- [ ] Ch208: Silena refuses to translate everyone; Leandros begins unpraised practical repair.
+- [x] Ch208: Silena refuses to translate everyone; Leandros begins unpraised practical repair.
+- [x] Verify 10,025 body words by the repository whitespace-token method; Silena-limited POV, Chapter 208 continuity YAML, current 194–208 ledger/handoff, index, arc progress, and scoped character-state notes added. The canvas seam passes its fiber check; the new rack-loop splice remains pending inspection, the coils remain damp, and the drainage board remains in place.
 - [ ] Ch209: Zeus’s new face, volatile attention, and comparison pattern are handled within existing canon.
 - [ ] Ch210: Thalia and Annabeth make a shared choice without turning independence into estrangement.
 
@@ -142,8 +143,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **13/25**.
-- Arc body words: **143,808 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–207, index, chapter YAMLs, the current 194–207 ledger, and selected sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 208, where Silena refuses to translate everyone and Leandros begins unpraised practical repair.
+- Chapters complete: **15/25**.
+- Arc body words: **153,833 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–208, index, chapter YAMLs, the current 194–208 ledger, and selected sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 209, where Zeus's visit exposes the selective attention pattern with Ianthe.
 

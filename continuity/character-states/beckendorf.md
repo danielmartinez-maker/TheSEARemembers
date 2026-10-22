@@ -67,3 +67,10 @@ The available chapter files 001–193 were searched for Beckendorf and possible 
 - **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–202 chapter ledger](../chapter-ledgers/194-202.md).
 - Beckendorf declines ladder work while the wind shifts and because the correct replacement strap is unavailable. He does not inspect or repair the awning. No worker is assigned without agreement.
 
+### Chapter 208 · Fiber check and bounded repair
+
+- **Source:** [Chapter 208](../../chapters/208-the-work-nobody-sees.md); [194–208 chapter ledger](../chapter-ledgers/194-208.md).
+- Beckendorf checks the repaired storm-damaged canvas seam; it passes the fiber check. He records the result and stores the cover dry for inspection before use.
+- The centers of both coils remain damp, so they stay on their spacers.
+- He identifies a separate stretched loop on the drying-rack cover and keeps it from carrying weight. Leandros says Beckendorf approved a splice after the cover is supported on a bench. Beckendorf has not inspected or load-tested the new splice by the chapter close.
+- The ground still yields at the fence, so the temporary board is not reset. No worker receives authority by contributing useful work.

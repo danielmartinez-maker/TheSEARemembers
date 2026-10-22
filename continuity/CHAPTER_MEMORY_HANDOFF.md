@@ -193,3 +193,12 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Thalia / health:** Thalia does not appear. Her existing care plan remains; there is no new heel exam or clearance.
 - **Ch207→Ch208:** Preserve the open drainage work and delayed board inspection. Leandros has apologized but has not earned trust, authority, or forgiveness. Percy does not become a mediator; Clarisse and Silena's answers remain separate.
 
+
+## Chapter 208 continuation
+
+- **Ch207→Ch208:** Continue the delayed canvas fiber check, damp coils, and ground-dependent drainage work. Keep Leandros's apology separate from Silena's forgiveness and Clarisse's response.
+- **Silena / Leandros:** Silena refuses to translate Clarisse's anger or report Leandros's work. He still wants a response and recognition; she makes her own position clear without giving him a forgiveness timeline.
+- **Silena / Amphitrite:** Silena chooses watercolor company, sets limits on when Amphitrite looks or comments, shares a study, and declines a goodbye hug. Amphitrite leaves after breakfast. No maternal title or private letter disclosure occurs; Clarisse's relationship remains distinct.
+- **Camp repairs:** Beckendorf's fiber check passes on the storm-damaged canvas seam, which stays stored dry pending use. The two coils remain damp at their centers on spacers. Leandros starts a splice on a separate drying-rack cover loop only after the cover is supported; its inspection and load test remain pending. The ground still yields, so the temporary board and fence stay in place.
+- **Percy / Annabeth / knowledge:** They remain secure. No erased-future memories are disclosed, and Silena does not hear Percy's private Chapter 207 conversation with Leandros. Amphitrite remains unaware of his memory predicament. Thalia is absent with no new health event.
+- **Ch208→Ch209:** Continue the open repair checks and the separate family responses. The next planned event is Zeus's visit; Ianthe is not responsible for his behavior.

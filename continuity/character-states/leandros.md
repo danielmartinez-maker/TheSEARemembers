@@ -105,3 +105,12 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 
 **Current handoff after Ch207.** Leandros remains in Cabin Three without authority or broad trust. His apology has not resolved the harm. The fence and board are still pending; two coils remain damp and the canvas needs a fiber check.
 
+### Chapter 208 · Repair without a witness
+
+- **Source:** [Chapter 208](../../chapters/208-the-work-nobody-sees.md); [194–208 chapter ledger](../chapter-ledgers/194-208.md).
+- Under Beckendorf's direction, Leandros repairs the storm-damaged canvas seam. Beckendorf's fiber check passes; the canvas is stored dry and must be checked before use.
+- He asks Silena again to translate what his sisters mean and to carry recognition of his work. She refuses, explaining that being good at talking does not make her responsible for managing their relationships. He still wants an answer and notices his expectation of recognition; no forgiveness or trust milestone follows.
+- Chiron allows him to prepare brace stock only after Beckendorf confirms the measurements. The ground still yields, so the board and fence stay in place.
+- After the drying-rack cover is supported on a bench, Leandros starts a splice on a separate stretched loop. He says Beckendorf approved the repair. Silena sees him working without being asked to witness it; the splice remains uninspected and untested. Clarisse does not learn about it in this chapter.
+
+**Carry-forward after Ch208.** Leandros has begun a practical repair without praise or an audience, but it is not yet approved for use. His status impatience and wish to be seen persist. He has no authority, broad trust, or forgiveness milestone.

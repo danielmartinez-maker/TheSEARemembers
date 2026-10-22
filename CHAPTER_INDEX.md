@@ -211,6 +211,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **205.** [The Shape of No](chapters/205-the-shape-of-no.md)
 - **206.** [The Storm’s Mistake](chapters/206-the-storms-mistake.md)
 - **207.** [What Water Cannot Carry](chapters/207-what-water-cannot-carry.md)
+- **208.** [The Work Nobody Sees](chapters/208-the-work-nobody-sees.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

@@ -440,3 +440,13 @@ These scoped updates link the chapter-specific records completed or corrected in
 - Percy refuses to interpret his sisters and says he does not yet know how he and Leandros should act like brothers. Annabeth does not witness this conversation. Percy and Annabeth remain secure and affectionate; his rope scrape is wrapped. No erased-future memory is disclosed.
 - Ianthe offers her own wind readings to Beckendorf, who requires source attribution and comparison before the data is used. She does not change the work list. The tags return in order; the canvas still awaits a fiber check, the two coils remain damp, and the fence/board remain open.
 
+
+
+## October 22, 2026 source-anchored continuation · Chapter 208
+
+- **Source:** [Chapter 208](../chapters/208-the-work-nobody-sees.md) and [current 194–208 ledger](chapter-ledgers/194-208.md).
+- Silena tells Leandros she will not translate Clarisse's anger or report his work. His apology remains heard but unresolved; she gives no forgiveness timeline.
+- Silena chooses watercolor time with Amphitrite, shares her study, and declines a goodbye hug. No maternal title, letter delivery, or response from Maria is shown. Amphitrite leaves after breakfast and remains unaware of Percy's secret.
+- Leandros repairs the storm-damaged canvas seam under Beckendorf's direction; the fiber check passes. He later begins an approved splice on a separate drying-rack cover loop while it is supported. Silena sees the work; it is not tested, publicly praised, or known to Clarisse by the chapter close.
+- The two coils remain damp, the three tags remain checked, and the soft ground keeps the drainage board and fence in place. No injury or Thalia health update occurs.
+- Percy and Annabeth remain secure. Silena does not learn the details of Percy's private conversation with Leandros; only Percy and Annabeth retain erased-future autobiographical memory.
