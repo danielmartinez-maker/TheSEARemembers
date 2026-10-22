@@ -1,5 +1,5 @@
 # Scene study: After the Music
-**Placement:** Possible pivotal scene within provisional Chapter 223. **Noncanonical excerpt**, not a full chapter. Exact timing and circumstances depend on Chapters 217–222 being drafted.  
+**Placement:** Historical alternate study for provisional Chapter 223. **Superseded on setting**: author's later instruction establishes the first kiss by the lake at dusk, not the pavilion. This remains noncanonical and should **not** be used verbatim. Exact timing and circumstances depend on Chapters 217–222 being drafted.  
 **POV:** Annabeth-limited. **Ages:** Annabeth ~14, Leandros 16. **Content:** age-appropriate, nonsexual romantic intensity; no timeline secret disclosed.
 
 ---
@@ -136,4 +136,4 @@ Annabeth went inside before she could say anything else. Percy was near the hear
 
 ---
 
-**Developmental note (not part of story):** This is a potential first-kiss sequence for **Chapter 223**, not a claim the preceding chapters were written or that this event already occurred in canon. It deliberately keeps Annabeth's agency, both characters' flaws, Percy's established love, and the moral stakes in focus. The intended raw passion is emotional and romantic, not sexualized.
+**Developmental note (not part of story):** The first-kiss location in this old probe is superseded by the lake illustration and updated arc design. Do not treat this scene as current Chapter 223 prose.  This is a potential first-kiss sequence for **Chapter 223**, not a claim the preceding chapters were written or that this event already occurred in canon. It deliberately keeps Annabeth's agency, both characters' flaws, Percy's established love, and the moral stakes in focus. The intended raw passion is emotional and romantic, not sexualized.
