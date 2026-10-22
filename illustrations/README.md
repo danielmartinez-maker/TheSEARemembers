@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 15 of 193 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 20 of 193 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -93,3 +93,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/015-beryl-s-letters.md)
 
 ![Thalia and Annabeth sort old family photographs together beside an unopened letter.](015-beryls-letters.jpg)
+
+## 016. Capture the Flag
+
+[Source chapter](../chapters/016-capture-the-flag.md)
+
+![Clarisse plans the match with Percy and Silena in the Poseidon cabin.](016-capture-the-flag.jpg)
+
+## 017. Lake Day
+
+[Source chapter](../chapters/017-lake-day.md)
+
+![Percy races Zoe across the lake as Clarisse, Silena, Thalia and Annabeth cheer from the dock.](017-lake-day.jpg)
+
+## 018. The Forge
+
+[Source chapter](../chapters/018-the-forge.md)
+
+![Annabeth tests the bronze owl while Percy holds a light and Clarisse, Silena and Beckendorf work nearby.](018-the-forge.jpg)
+
+## 019. The Brother Across the Country
+
+[Source chapter](../chapters/019-the-brother-across-the-country.md)
+
+![Thalia and Annabeth meet ten-year-old Jason through a supervised Iris-message, with Percy and their friends beside them.](019-the-brother-across-the-country.jpg)
+
+## 020. Cake and Lightning
+
+[Source chapter](../chapters/020-cake-and-lightning.md)
+
+![Thalia celebrates her belated birthday with a blue cake, a handmade pendant and her friends around the bonfire.](020-cake-and-lightning.jpg)
