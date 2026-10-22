@@ -482,3 +482,14 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - She serves Thalia and Ianthe tea during their ordinary conversation. No relationship or erased-future memory boundary changes; Ianthe does not reveal her private note to Zeus.
 
 **Carry-forward after Ch215.** Annabeth remains secure with Percy and lets Thalia and Ianthe define their own exchange.
+
+### Chapter 216 · Her memories remain hers
+
+- **Knowledge provenance:** FIRSTHAND for the portrait game and conversation; sees Zeus only from across the green and receives the private-meeting details through Ianthe's report.
+- **Source:** [Chapter 216](../../chapters/216-the-faces-we-remember.md); [194–216 chapter ledger](../chapter-ledgers/194-216.md).
+- Annabeth takes part in a casual portrait game, draws Percy, and shares a secure, ordinary exchange with him.
+- She tells Ianthe what she remembers from the Chapter 209 visit: Zeus praised Ianthe's listening, used that praise to compare her with Thalia and Annabeth, and called Annabeth less pleasant than before. Annabeth speaks only for herself and does not turn the account into advice about Ianthe's feelings.
+- Annabeth sees Zeus's unfamiliar new guise from across the green but is not present for his private conversation with Ianthe. She hears only what Ianthe chooses to report.
+- Annabeth does not learn the contents of Ianthe's private note to Zeus. Percy and Annabeth remain secure; no erased-future memory is disclosed or transferred.
+
+**Carry-forward after Ch216.** Annabeth and Thalia agree to share only their own memories and to say when they do not know. Annabeth remains secure with Percy and does not decide Ianthe's room or family response.

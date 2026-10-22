@@ -128,10 +128,11 @@ Files: Chapters 211–218, continuity handoffs, canon/index updates.
 - [x] Ch214: properly spaced heel follow-up shows the actual healing status and Chiron’s guidance.
 - [x] Verify 10,186 body words by the repository whitespace-token method; Thalia-limited POV, Chapter 214 continuity YAML, current 194–214 ledger/handoff, index, arc progress, and scoped character-state updates added.
 - [x] Ch215: Ianthe records a bounded task, makes one unauthorized command, and repairs the work log without earning instant trust.
-- [ ] Ch216: A separate Zeus interaction or aftermath deepens the Grace siblings' response without making Ianthe responsible for him.
+- [x] Ch216: Zeus returns in a new guise; Ianthe chooses a private meeting, and Thalia and Annabeth set limits on what they will share without directing her feelings.
+- [x] Verify 11,540 body words by the repository whitespace-token method; Thalia-limited POV, Chapter 216 continuity YAML, current 194–216 ledger, index, arc progress, and scoped character-state updates added.
 - [ ] Ch217: Poseidon attention reopens existing hurt; Amphitrite supports Clarisse without speaking for her; Clarisse’s separate title choice is earned.
 - [ ] Ch218: shared meal closes with negotiated belonging, unresolved asymmetry, and no instant-perfect-family claim.
-- [x] Update selected character states, the 194–215 arc ledger, chapter index, and spec/plan progress to reflect Chapters 212–215's witnessed events.
+- [x] Update selected character-state profiles, the 194–216 arc ledger, chapter index, illustration count, README, FIC_CONTEXT, and spec/plan progress to reflect Chapters 212–216's witnessed events.
 
 Check: private milestones are in separate scenes, no title is awarded for one favor, and all sibling/couple memory boundaries remain intact.
 
@@ -149,8 +150,9 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **22/25**.
-- Arc body words: **225,287 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–215, index, chapter YAMLs, the current 194–215 ledger, and selected sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 216, “The Faces We Remember,” staging a separate Zeus interaction or aftermath while preserving Annabeth's and Thalia's boundaries and leaving Ianthe free of responsibility for Zeus's choices.
+- Chapters complete: **23/25**.
+- Arc body words: **236,827 / 250,000**; **13,173** remain to the cumulative floor.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–216, index, chapter YAMLs, the current 194–216 ledger, and selected sibling/relationship profiles are on PR #103.
+- Illustration coverage is **120 of 216 chapters**; the latest illustration commit was preserved.
+- Current next action: draft Chapter 217, “Nothing Owed to the Sea,” preserving Clarisse's and Silena's separate histories and Clarisse's agency around Amphitrite.
 

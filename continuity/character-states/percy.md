@@ -455,3 +455,13 @@
 - No new memory or parental information is disclosed. Percy and Annabeth remain secure.
 
 **Carry-forward after Ch214.** Percy knows only what Thalia chose to tell him; he is not assigned as medical or family intermediary.
+
+### Chapter 216 · Present, not a messenger
+
+- **Knowledge provenance:** FIRSTHAND in Thalia-limited POV for the portrait game and public pavilion scene; Percy does not hear Ianthe's private conversation with Zeus.
+- **Source:** [Chapter 216](../../chapters/216-the-faces-we-remember.md); [194–216 chapter ledger](../chapter-ledgers/194-216.md).
+- Percy brings fruit to the portrait game, draws Annabeth, and shares a small, secure couple exchange. Their established relationship remains unchanged.
+- He is at the pavilion when Ianthe meets Zeus but does not ask to join or carry messages. He learns no private details from the conversation.
+- Percy and Annabeth disclose no erased-future memories or altered-childhood memory gap.
+
+**Carry-forward after Ch216.** Percy remains present as Annabeth's partner and a Poseidon sibling without becoming the family's interpreter. Only he and Annabeth retain erased-future autobiographical memory.

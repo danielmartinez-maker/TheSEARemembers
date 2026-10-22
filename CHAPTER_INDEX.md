@@ -219,6 +219,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **213.** [The Person in the Middle](chapters/213-the-person-in-the-middle.md)
 - **214.** [The Heel’s Measure](chapters/214-the-heels-measure.md)
 - **215.** [Her Own Instructions](chapters/215-her-own-instructions.md)
+- **216.** [The Faces We Remember](chapters/216-the-faces-we-remember.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

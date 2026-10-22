@@ -320,3 +320,13 @@
 - No new heel symptom, exam, activity instruction, or clearance occurs for Thalia; Chapter 214's two-week follow-up and limited archery plan remain active.
 
 **Carry-forward after Ch215.** Thalia's current care plan remains unchanged; Ianthe has no new camp authority.
+
+### Chapter 216 · Choice without pressure
+
+- **Knowledge provenance:** REPORTED by Ianthe in Thalia-limited POV.
+- **Source:** [Chapter 216](../../chapters/216-the-faces-we-remember.md); [194–216 chapter ledger](../chapter-ledgers/194-216.md).
+- Chiron tells Ianthe that Zeus has arrived and asks whether she is willing to speak with him. He does not press her, set a deadline, or require her sisters to attend.
+- Ianthe chooses to meet Zeus alone. No room assignment or camp authority follows from the visit.
+- No heel symptom, examination, activity instruction, or clearance is recorded for Thalia; the Chapter 214 plan remains active.
+
+**Carry-forward after Ch216.** Ianthe's room placement remains unresolved; Thalia's two-week review remains due.

@@ -137,3 +137,16 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 - Ianthe still wants Zeus to notice her weather observations. Her private note to him remains unsent and known only to Ianthe and Thalia.
 
 **Carry-forward after Ch215.** Ianthe has shown she can correct a record and complete a bounded observation task. She has not earned authority, forgiveness, a room decision, or broad trust; her wish for Zeus's attention remains.
+
+### Chapter 216 · Attention without a decision
+
+- **Knowledge provenance:** REPORTED by Ianthe to Thalia and Annabeth in Thalia-limited POV.
+- **Source:** [Chapter 216](../../chapters/216-the-faces-we-remember.md); [194–216 chapter ledger](../chapter-ledgers/194-216.md).
+- Ianthe joins a casual portrait game after helping label the Big House lost-property basket. She remains exacting about rules and admits she may judge disorganized campers as stupid; no action against anyone follows.
+- When she asks what her older sisters remember about Zeus's changing appearances, Thalia and Annabeth offer their own memories and say they will not make those memories instructions for Ianthe.
+- After Chiron offers the choice, Ianthe meets Zeus alone in a new guise. She brings a short rain observation, not her full weather notebook or her private note. She reports that Zeus asks how she is settling, offers to speak about her room, asks about her bounded rack task, praises her directness, and says he remembers the earlier comparison differently.
+- Ianthe declines Zeus's offer to decide the room and tells him she does not want another comparison with her sisters. She hears no apology or dated return plan. She still values his attention and remains unsure how to reconcile his version with hers.
+- Thalia admits watching from across the green after Ianthe asked her not to wait nearby. Ianthe says the boundary still mattered. Thalia apologizes; Ianthe does not grant a trust milestone.
+- The Cabin One room/cot remain unresolved; her broad weather notes remain unverified. Her private, unsent note to Zeus remains known only to Ianthe and Thalia.
+
+**Carry-forward after Ch216.** Ianthe still wants Zeus's attention and can disagree with him without giving up the good feeling of his praise. Her status assumptions and tendency to judge persist. No authority, room placement, broad trust, or parental repair follows.

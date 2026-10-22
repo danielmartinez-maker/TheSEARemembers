@@ -396,3 +396,16 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - Thalia receives no heel symptom, examination, activity decision, or clearance. Carry forward the Chapter 214 limited arrow plan and two-week review.
 
 **Carry-forward after Ch215.** Thalia's heel remains under the Chapter 214 care plan; her next review is in two weeks. She and Ianthe remain open-ended sisters with no room placement or instant trust decision.
+
+### Chapter 216 · Sharing without monitoring
+
+- **Knowledge provenance:** FIRSTHAND in Thalia-limited POV for her own actions and distant view; Ianthe's meeting details are REPORTED by Ianthe.
+- **Source:** [Chapter 216](../../chapters/216-the-faces-we-remember.md); [194–216 chapter ledger](../chapter-ledgers/194-216.md).
+- Thalia joins a casual portrait game with Annabeth and Ianthe while finishing lost-property labels.
+- She shares one memory of Zeus praising Annabeth as easy and calling Thalia a problem; she cannot place the face and does not claim to remember the full conversation. Annabeth shares her own memory of the Chapter 209 visit.
+- Thalia agrees that she will share her own memories when asked, say when she does not know, and avoid turning them into instructions for Ianthe.
+- After Ianthe chooses to meet Zeus alone, Thalia watches from across the green despite agreeing not to wait nearby. She sees only the new guise and a forehead kiss, not the conversation. She names the boundary slip to Ianthe, apologizes, and accepts that Ianthe can choose when to seek her.
+- Thalia walks a short level path and uses the cane for the dip. No new symptom, examination, activity decision, or clearance occurs; Chapter 214's limited plan and two-week review remain active.
+- Ianthe's private note to Zeus remains unsent and known only to Ianthe and Thalia.
+
+**Carry-forward after Ch216.** Thalia and Ianthe remain sisters with an open, specific boundary; no trust or room decision changes. Thalia remains under her existing care plan.

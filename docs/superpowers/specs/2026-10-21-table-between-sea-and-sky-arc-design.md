@@ -3,7 +3,7 @@
 **Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–215 are drafted on PR #103 at 225,287 body words across twenty-two installments. Chapter 215, “Her Own Instructions,” is 10,024 body words. Chapter 216 is next. This is an in-progress checkpoint, not arc completion.
+**Implementation checkpoint (2026-10-22):** Chapters 194–216 are drafted on PR #103 at 236,827 body words across twenty-three installments. Chapter 216, “The Faces We Remember,” is 11,540 body words. Chapter 217 is next. This is an in-progress checkpoint, not arc completion.
 
 ## Author-approved direction
 
@@ -72,7 +72,7 @@ All titles are working titles. Each chapter is a full installment with one or mo
 | 213 | The Person in the Middle | Percy and Annabeth disagree over whether to intervene in a sibling conflict. They make a plan together and remain a couple; Percy is not the camp’s universal counselor. Leandros and Ianthe compare fatherly absences without making their childhoods interchangeable. |
 | 214 | The Heel’s Measure | A later, properly spaced follow-up shows Thalia’s actual recovery or remaining limits, guided by Chiron. Do not use her injury as a test of love or a shortcut to a dramatic rescue. |
 | 215 | Her Own Instructions | Ianthe is given a meaningful responsibility with clear limits and chooses whether to delegate or ask. She slips into command once, owns the effect, and repairs the work herself with others. |
-| 216 | The Faces We Remember | A second, separately staged Zeus interaction or its aftermath deepens the Grace siblings’ response to his pattern of appearances. Ianthe does not become responsible for changing Zeus. Annabeth and Thalia define what they will share with her. |
+| 216 | The Faces We Remember | Thalia-limited: Zeus returns in a new guise; Ianthe chooses to meet him alone. She reports a bounded, unresolved exchange. Annabeth and Thalia share their own memories without directing her feelings or taking responsibility for Zeus. |
 | 217 | Nothing Owed to the Sea | Poseidon’s attention to Leandros reopens Clarisse’s and Silena’s hurt. Amphitrite supports Clarisse without speaking for her. Clarisse’s later, private “Mom” choice is earned through the accumulated relationship, not Poseidon’s behavior. |
 | 218 | Tide, Thunder, Home | A shared seasonal meal closes this movement. The seven siblings can sit and work together with negotiated boundaries; not all trust is repaired. Leandros and Ianthe remain imperfect, Percy/Annabeth and established couples remain secure, and future family work stays open. |
 

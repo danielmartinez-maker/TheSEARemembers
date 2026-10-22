@@ -96,3 +96,15 @@ Father of Thalia, Annabeth, Jason in altered history. No verified direct on-page
 - He is not told Percy and Annabeth's erased-future memories or altered-childhood memory gap.
 
 **Carry-forward after Ch209.** No later visit, durable change, or future date is established. Each visit must use a new physical guise; one selective compliment or considerate invitation does not cure volatility or neglect.
+
+### Chapter 216 · A second visit, no repair
+
+- **Knowledge provenance:** Zeus's appearance is witnessed at a distance by Thalia and Annabeth; the private conversation is REPORTED by Ianthe.
+- **Source:** [Chapter 216](../../chapters/216-the-faces-we-remember.md); [194–216 chapter ledger](../chapter-ledgers/194-216.md).
+- Zeus visits in a new physical guise, distinct from the green-raincoat man in Chapter 209. He meets Ianthe alone after she accepts Chiron's invitation.
+- Ianthe reports that he asks how she is settling, offers to speak about her room, asks about her bounded rack task, praises her directness, and says he remembers the Chapter 209 comparison differently. She declines to let him decide the room and says she does not want him to compare her with her sisters.
+- No apology, gift, authority grant, or dated return promise occurs. He does not resolve the Cabin One room question or verify Ianthe's broader weather notes.
+- Thalia and Annabeth see the unfamiliar face and a brief forehead kiss from across the green; they do not hear the conversation or infer Ianthe's response before she tells them.
+- No erased-future memory or knowledge of Percy's altered-childhood memory gap is disclosed to him.
+
+**Carry-forward after Ch216.** Zeus's relationship with Ianthe remains unresolved; she still values his attention, while Thalia and Annabeth retain their own separate histories of his visits.
