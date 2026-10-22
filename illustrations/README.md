@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 20 of 193 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 25 of 193 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -123,3 +123,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/020-cake-and-lightning.md)
 
 ![Thalia celebrates her belated birthday with a blue cake, a handmade pendant and her friends around the bonfire.](020-cake-and-lightning.jpg)
+
+## 021. Strawberry Fields and Amphitheater Nights
+
+[Source chapter](../chapters/021-strawberry-fields-and-amphitheater-nights.md)
+
+![Silena teaches Percy and Clarisse to make jam after the harvest, with the amphitheater in the distance.](021-strawberry-fields-and-amphitheater-nights.jpg)
+
+## 022. Storm Training
+
+[Source chapter](../chapters/022-storm-training.md)
+
+![Annabeth notices a small static charge during supervised practice as Thalia coaches her and Chiron watches.](022-storm-training.jpg)
+
+## 023. Sally’s Blue
+
+[Source chapter](../chapters/023-sally-s-blue.md)
+
+![Percy and Tyson bake blue cookies with Clarisse and Silena in the cabin kitchen.](023-sally-s-blue.jpg)
+
+## 024. The Climbing Wall
+
+[Source chapter](../chapters/024-the-climbing-wall.md)
+
+![Percy, Grover and Ella race Annabeth, Thalia and Clarisse up the lava-lit climbing wall.](024-the-climbing-wall.jpg)
+
+## 025. Night Watches
+
+[Source chapter](../chapters/025-night-watches.md)
+
+![Percy and Silena make a careful night-watch report at the closed west path, with no creature visible.](025-night-watches.jpg)
