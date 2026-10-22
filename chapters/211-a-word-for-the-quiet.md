@@ -1254,128 +1254,99 @@ She used no word at breakfast either. She sat beside Clarisse, traded the heel o
 
 The day made room for other things.
 
-At lunch, Chiron told Silena that Amphitrite would return to Atlantis before evening. He said it as a piece of information, not a deadline. Silena answered that she had heard him. She did not ask whether Amphitrite would come back soon.
+At lunch, Chiron mentioned that Amphitrite would be returning to Atlantis before evening. Silena nodded and passed the bread to Percy, because that was the sort of thing she did when she had no idea what to say and didn't want anybody to notice. The news wasn't a surprise. Amphitrite had councils to attend and a whole city beneath the sea that kept running whether she was at camp or not. Silena knew all of that. She had known it every time Amphitrite visited. It did nothing to explain why the rest of the meal seemed to go on without her, voices rising and falling around the table while she worried at a loose thread on her cuff.
 
-Later, she found herself by the garden path with a stack of washed cloths for the Big House. Amphitrite stood beside the gate, speaking quietly with one of the naiads. When the naiad left, Amphitrite turned toward Silena.
+She spent the early afternoon helping with the Big House linen, partly because the basket was full and partly because the work required two hands. She could fold a sheet so its corners met even when her head was full of other things. Her painting was drying in its portfolio back at Cabin Three, and the letter to Maria was still in her drawer, addressed but unsent. Silena had read it so often that she knew which sentences were trying too hard. She'd spent an entire page telling her mother what the camp looked like in winter without writing the one thing she actually wanted to ask: whether Maria missed her. Now there was another woman she wanted to see, and that desire sat badly beside the letter, as though one ought to cancel the other.
 
-“Are those going upstairs?” she asked.
+Amphitrite was by the garden gate when Silena came out with the clean cloths. She was speaking with a naiad whose hands were wet to the wrists. Whatever had been under discussion ended with a brief laugh and a gesture toward the lake; then the naiad slipped away, leaving Amphitrite alone among the bare stems. The queen wore the same dark-blue cloak she'd worn at breakfast, but the wind had pulled a strand of hair loose behind her ear. For a strange instant Silena could imagine her coming to the porch on an ordinary Tuesday, bringing nothing more ceremonial than the wrong kind of bread and asking whether there was tea.
 
-“Yes. The clean cloths.”
+“That's an impressive mountain of laundry,” Amphitrite said when she noticed the basket. “I was about to offer to help, but I think I might make matters worse.”
 
-“Would you like help?”
+Silena glanced down. A towel was trailing over the rim and threatening to fall into the mud. “Only if you pick it up by that corner. Chiron keeps saying the linen cupboard is overflowing, and then somebody produces six more cloths from nowhere.”
 
-“No, thanks.”
+“Palaces have a similar problem. Everyone believes clean linen appears because somebody asked politely.” Amphitrite rescued the dangling towel without touching the rest of the basket. “Where are you taking this?”
 
-“All right.”
+“Upstairs. It's not heavy.” Silena adjusted her grip, then regretted the defensiveness in her voice. Amphitrite hadn't suggested she was weak. She hadn't taken over the painting either, or laughed when Silena decided a color was wrong after spending an hour mixing it. She kept waiting for the moment that patience would turn out to have a price.
 
-Silena shifted the basket against her hip. The weight was manageable. “Are you leaving today?”
+Amphitrite took her hands away from the basket. “I believe you.”
 
-“Yes.”
+They stood there with the garden between them, neither in much danger of saying something useful. Silena could hear campers shouting over a game by the cabins, and the normality of it irritated her. Somebody was probably winning at something ridiculous while she stood here trying to work out how to ask a woman whether leaving today meant she might not come back for months. At last she set the basket on the wall, careful of the damp moss, and brushed her palms against her skirt.
 
-“Because of the harbor meeting?”
+“Chiron said you're going back this evening.”
 
-“That, and the council in Atlantis.”
+“I am. There's a harbor council I ought to have attended yesterday, and I've put it off as long as I can.” Amphitrite smiled faintly. “Triton has been very gracious about it, which is how I know he's annoyed.”
 
-“How long will you be gone?”
+Silena laughed before she could stop herself. “He does that with Percy. He's polite right up until Percy realizes he's in trouble.”
 
-“I don’t know.”
+“He learned it from me, I'm afraid.” The smile faded into something more attentive. “Were you hoping we would have more time?”
 
-Silena nodded. The question had not asked for a promise. The answer did not make her feel left behind. She set the basket down on the low wall so she could rest her arms.
+Silena almost said no. She had been good at that answer for years, good enough that even Clarisse sometimes accepted it before looking twice. This time she picked up the loose end of her cuff and wound it around one finger, then unwound it. “I think so. I don't know. We had time. It's not as if you didn't spend it with me.”
 
-“Would you like to walk with me for a minute?” Amphitrite asked.
+“I liked spending it with you,” Amphitrite said. “And I'd have liked more.”
 
-“Where?”
+There was no clever reply to that. Silena had expected reassurance, a promise about the next visit, perhaps one of the lovely courtly speeches Amphitrite could make when she wanted a room to listen. Instead, she'd been given something small and unadorned, and it hurt more than it should have. She picked the basket up again before her face could give her away.
 
-“Wherever you’re going.”
+“Would you walk with me to the linen room?” she asked. “I can carry this, but I wouldn't mind the company.”
 
-Silena glanced at the Big House steps. “I have to take these up.”
+“I would love to.”
 
-“Then I’ll walk that far.”
+They took the upper path together. Amphitrite didn't hurry her, even when a gust of wind caught the cloak against her knees, and Silena found herself talking about the absurdly uneven stack of sheets on the landing. She told her about the pale blue wash she'd been trying to save in her painting, about how Clarisse had asked whether the rosemary belonged in stew, about Percy stealing crust from a loaf that had barely come out of the oven. The details weren't important to anybody outside the cabin. Amphitrite listened as if they were, and when Silena forgot what she was saying halfway through a sentence, she didn't fill in the rest.
 
-They picked up the basket together only after Silena asked Amphitrite to take one side. At the steps, Silena stopped. The first cloth was folded unevenly; she could see the loose edge peeking from the top. She adjusted it. Amphitrite waited without reaching.
+At the Big House steps Silena stopped to shift the basket. “Could you take that side for a moment? The handle's cutting into my fingers.”
 
-“I didn’t want you to do that for me,” Silena said.
+Amphitrite took the handle and followed her up. It was such a simple thing that Silena resented herself for noticing. Maria had carried things for her. Clarisse had too, and Percy, often while complaining that someone had packed stones into them. Nothing about sharing a heavy basket made Amphitrite a mother. Silena knew that; she wasn't a child who confused being helped with being loved. Yet as they made their awkward way around the turn in the stair and nearly caught the basket on the railing, she felt suddenly and painfully happy, the kind of happiness that made her afraid to move in case it vanished.
 
-“I know.”
+They left the linen outside the cupboard. The first towel had come unfolded during the climb, and Silena fixed it because otherwise she'd think about it all night. Amphitrite lingered by the doorway, looking down at the neat stack. She didn't ask if Silena wanted anything else. Silena was grateful, and then she was angry at being grateful, and then she could hardly remember why she'd stopped walking in the first place.
 
-“I just wanted help carrying it.”
+“Can I tell you something?” Silena asked.
 
-“Then that’s what I did.”
+Amphitrite looked up. “Of course.”
 
-Silena picked the basket back up. They climbed the steps side by side. At the landing, she set the cloths down outside the linen room.
+“I've been wanting to say it for a while. Which makes this a terrible way to start, because now it's going to sound like a proclamation.” Her laugh came out thin. “And you're already a queen. You probably hear enough proclamations.”
 
-“Thanks,” she said.
+“More than enough.”
 
-“Of course.”
+“I'm serious.”
 
-They stood in the shadow of the porch roof. The afternoon had cooled. Behind them, a wind bell tapped once against its wooden frame and then fell still.
+“So am I.” Amphitrite stood a little straighter, her hands loose at her sides. “I'm listening.”
 
-Silena had not planned to say anything. The word did not arrive because Amphitrite had carried the basket, or because she was leaving, or because Silena wanted to keep her close. It had been gathering quietly in the spaces between visits, in the times Amphitrite had waited, and in the things she had not taken.
+Silena looked toward the landing. Nobody was there. She wished there had been a reason to delay, a misplaced sheet or a door that needed shutting, something useful she could do with her hands. In Cabin Three she knew where she belonged; she could be angry with Clarisse, tease Percy, put her painting aside for a day, and still find the same people at breakfast. This felt different because there was no name for it that she'd been willing to say aloud, and because naming it might make it harder to bear when Amphitrite went back beneath the sea.
 
-“Mom?”
+“Mom?” she said, so quietly that she almost hoped the wind had swallowed it.
 
-Amphitrite looked at her. Her face did not change into a queen’s smile or a mother’s performance. “Yes?”
+Amphitrite's expression changed. Not dramatically, not all at once. Her lips parted, and for the first time that afternoon she seemed to forget about speaking like a queen. She took a breath, then let it out. “Yes, sweetheart?”
 
-“I think I want to call you that sometimes.”
+Silena's eyes filled before she could decide whether to be embarrassed. “I don't mean all the time. I mean, I don't know what I mean exactly. Maria is my mother. I haven't even sent her the letter I wrote, and I don't want this to be some horrible way of giving up on her.”
 
-“If that is what you want, I’ll answer.”
+“Oh, Silena.” Amphitrite's voice had roughened. She started to reach for her, then stopped, leaving Silena room to move. “Loving me doesn't take a single thing away from her.”
 
-“Not in front of everyone.”
+“I know that in my head.” Silena rubbed at her cheek and was annoyed to find her fingers wet. “I just wanted it to be true somewhere else, too.”
 
-“Then not in front of everyone.”
+“It can be.” Amphitrite swallowed, and Silena saw with a shock that there were tears in her eyes as well. “You don't have to work out the rules for it today.”
 
-“I’m not saying it replaces my mother.”
+That was nearly enough to undo her. Silena stepped forward and rested her forehead briefly against Amphitrite's shoulder. She was trembling, which felt ridiculous because nothing frightening had happened, but Amphitrite held still until Silena lifted her head. She smelled faintly of salt and something floral Silena could never identify properly. It wasn't Maria's scent. The difference no longer felt like a betrayal.
 
-“I would not ask that.”
+“I don't want everybody to know yet,” Silena said, wiping her face with the back of her sleeve. “Especially Clarisse. She's still figuring out what she wants from you, and I don't want her thinking I've made some decision for the cabin.”
 
-“Maria is still my mother.”
+“You haven't.” Amphitrite touched the cuff Silena had been twisting, then withdrew her hand. “I won't tell her. Or Percy. This can be ours until you want otherwise.”
 
-“Yes.”
+Silena let herself breathe. “You'll be back?”
 
-“I don’t know if she’ll write back.”
+“I intend to. There are ways to write, and ways to ask Chiron to send a message when you want one. I'm not going to promise a day I can't be certain of.” She gave a crooked little smile. “I've spent far too many years watching other people make promises to children they couldn't keep.”
 
-“I know that’s yours to wait on.”
+Silena knew who some of those people were. She wasn't going to ask Amphitrite to explain them now. She reached out, gave her a quick, fierce hug, and was startled by how readily the older woman hugged her back. It lasted only a moment. Neither seemed eager to be the one who ended it.
 
-Silena searched her expression for a promise she had not asked for. She did not find one. “I don’t want Clarisse to feel like she has to.”
+“You really are going to be late for that council,” Silena murmured against her shoulder.
 
-“She does not.”
+“Probably. Triton will survive.”
 
-“I don’t want Percy to tell people.”
+“That's not what I meant.”
 
-“Then I won’t tell Percy.”
+“I know.” Amphitrite pulled back enough to look at her. “I'm glad you told me.”
 
-Silena let out a breath. “You don’t have to make a speech.”
+Silena nodded, unable to trust her voice. She stayed on the landing while Amphitrite descended the stairs. At the bottom, the queen looked back once. Silena raised her hand, then laughed at herself and waved properly, like someone seeing a parent off at the door. Amphitrite returned the wave and passed through the garden gate without summoning a procession or making the farewell into something people would ask about later.
 
-“I wasn’t going to.”
-
-“I just wanted you to know.”
-
-“Thank you for telling me.”
-
-The words landed softly. Silena leaned her shoulder against the doorframe. “I’ll probably still call you Amphitrite most of the time.”
-
-“That is all right.”
-
-“And maybe I’ll take it back.”
-
-“You can.”
-
-“I might not.”
-
-“I hope you won’t feel you have to.”
-
-Silena studied the fold of cloth visible through the linen-room door. She could still feel the basket weight in her arms. “I don’t.”
-
-“Would you like me to go now?”
-
-“Yes. I want to stay here for a minute.”
-
-Amphitrite inclined her head and walked down the steps. She did not ask Silena to come with her, and Silena did not call her back.
-
-The word stayed between them, small enough not to need a witness.
-
-Silena waited until Amphitrite passed beyond the garden wall. Then she took the basket inside and finished the delivery.
-
+For several minutes Silena stood beside the linen room with her hands empty. She ought to have felt lighter. Instead, she felt tired and pleased and bereft all at once, and somewhere beneath it was the absurd wish that she could run after Amphitrite and say the word again just to hear her answer. She wasn't going to do that. The basket still needed putting away, and Clarisse would wonder why she'd missed the start of supper. Silena gathered up the clean cloths, carried them into the cupboard, and found that her hands had stopped shaking by the time the last shelf was straight.
 
 By the time Silena returned to Cabin Three, the table was already set for dinner. Clarisse had placed the bowls in a line. Percy and Annabeth were arguing over whether the bread should sit near the soup or at the far end.
 
