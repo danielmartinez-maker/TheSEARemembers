@@ -1972,21 +1972,33 @@ Leandros picked at the split edge of his boat. “I know all that. The trouble i
 
 Leandros didn't answer at once. From the kitchen came the scrape of a pan and the muffled sound of a cook telling somebody to put something back where they'd found it. The afternoon had continued without requiring any of them to solve the problem of being Poseidon's sons. Percy was embarrassed to feel relieved. He wanted Leandros to like him, and he was tired of pretending otherwise; he also had no idea how to say that without making the other boy feel cornered.
 
-“My mother drove me all the way to the bus station,” Leandros said suddenly. “She acted like she'd only come to make sure I had my bag, but she kept checking whether I'd eaten. Three times. I got angry with her for it.” He turned the boat over. “Now I can't stop thinking about her standing there after I left.”
+Leandros turned the paper boat over. “When I told Ianthe about leaving my mother, I made it sound like I knew what I wanted. I didn't. I still don't.” He pressed the warped bottom gently with his thumb. “I wanted to come here so badly I could taste it. I thought I'd finally meet people who understood the sea the way I do. Then I got here and all anyone seems to understand is how wrong I am.”
 
-“You could write to her.”
+Percy winced. “Well, you have been wrong about a few things.”
 
-“I have.” Leandros gave him a flat look. “I'm capable of that much.”
+“Thank you. That helps enormously.”
 
-“I wasn't suggesting you weren't.”
+“Sorry. I'm not good at telling people what they want to hear.” He considered it, then added, “Actually, I'm excellent at telling people what they want to hear. It's getting through an entire afternoon without doing that that's difficult.”
 
-“You were about to ask if she wrote back.”
+Leandros's mouth twitched, but the smile didn't last. “My mother will ask whether I'm settling in. I've written to her, and I keep avoiding that part. If I tell her about Clarisse, she'll worry. If I say it's all fine, she'll know I'm lying.”
 
-Percy lifted both hands. “All right. Fine. I probably was. I'm trying to learn when to shut up.”
+“Then don't pretend it's all fine.” Percy was surprised by how simple the suggestion sounded when he wasn't trying to make it solve everything. “You can miss her and still want to stay. You already said that much earlier.”
 
-“Start there, then.” Leandros almost smiled. It was gone too quickly to count as peace, but Percy caught it. “I'm still angry with you about Atlantis. That's not changing because we played with paper and talked about our mothers.”
+“It's easier saying it to people who won't put it in a letter and read it three times.”
 
-“Good. Because I've got feelings about it too, and I've run out of energy to be the reasonable one.” Percy meant it more than he expected. He let the admission sit there without explaining it.
+“Yeah,” Percy said. “I guess it is.”
+
+They sat in silence for a moment. Percy could have told him what to write, but the more he thought about it, the more absurd it seemed to hand somebody a sentence about his own mother. He had spent most of this afternoon watching Leandros take offense at being instructed, and he was finally beginning to believe he might learn something from it. “For the record, I'm still angry about Atlantis sometimes,” Percy said. “People talk about what I had there as if having a home means remembering it. I wish I could.”
+
+Leandros looked up sharply. “You don't have to say that to make me feel better.”
+
+“Good, because it doesn't make me feel better either.” Percy reached for a dry corner of the cloth and smoothed it against the table. “I want to be your brother. I also want you to stop acting like I'm personally responsible for every choice Poseidon made.”
+
+“You aren't.”
+
+“Doesn't always sound like you believe that.”
+
+“I'm working on it.” Leandros said the words grudgingly, and for once Percy didn't ask for a clearer answer.
 
 Annabeth appeared in the doorway wearing her jacket, her hair tucked awkwardly beneath the collar. She took one look at Percy's face and then at Leandros, clearly considered asking what had happened, and wisely decided against it. “I was going to steal you for a walk,” she said. “But if you've decided to set up a permanent residence in Chiron's kitchen, I'll find somebody else.”
 
