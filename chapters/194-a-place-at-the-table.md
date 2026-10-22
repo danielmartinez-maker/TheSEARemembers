@@ -1,6 +1,6 @@
 ## Chapter 194: A Place at the Table
 
-Percy had the dishes done before breakfast on Monday, but he did not remember deciding to start them.
+Percy washed the last of Sunday's dishes before breakfast on Monday. The job did not need a plan.
 
 He found himself at Cabin Three’s washbasin with his sleeves rolled twice above his wrists, a towel over one shoulder and cold water running down the backs of his hands. There was a stack of bowls beside him, three plates on the drying board, and a cup turned upside down in a patch of weak morning sun. Someone had left a spoon in the cocoa pot. He scraped the last of the dark sweetness into the sink, rinsed the pot, and heard Clarisse behind him.
 
@@ -670,7 +670,7 @@ She gave him a look and left toward the hill. Callum returned with Chiron a few 
 
 Leandros’s expression shifted, a small crack in his certainty. “She did?”
 
-“She asked that you be kept safe and that you be allowed to write to her as often as you wish. She also included your medical history and the name of your school. I will keep the letter private.”
+“She asked that you be kept safe and that you be allowed to write to her as often as you wish. I will keep the letter private.”
 
 “She wrote all that?”
 
