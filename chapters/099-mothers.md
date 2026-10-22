@@ -164,7 +164,7 @@ Percy couldn’t speak. Annabeth’s hand tightened on his arm.
 
 Tyson had started to cry openly, great happy tears splashing into his peanut butter. Triton looked away, jaw working, but he shifted his chair half an inch closer to Tyson. Percy felt his own eyes burn.
 
-“Thank you — Mother,” Percy said, letting the familiar word carry the old grief too. It still felt strange and right, a place in the family that he was learning to inhabit.
+“Thank you — Mom,” Percy said, letting the familiar word carry the old grief too. It still felt strange and right, a place in the family that he was learning to inhabit.
 
 Amphitrite’s eyes glistened. She rose, composed again in an instant. “Now. I will take tea with Chiron and frighten the harpies, and then I will return to the sea before your head counselor Dionysus accuses me of upstaging him.” A ripple of laughter. “Be kind to one another, my sons.”
 
