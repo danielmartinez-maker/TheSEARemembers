@@ -55,9 +55,12 @@ def audit(root: Path, minimum: int = 10000) -> dict:
     files = sorted((p for p in chapter_dir.glob("*.md") if PATTERN.fullmatch(p.name)),
                    key=lambda p: int(PATTERN.fullmatch(p.name).group(1)))
     chapters = {}
+    highest_chapter = max(
+        (int(PATTERN.fullmatch(path.name).group(1)) for path in files), default=0
+    )
     report = {
-        "scope": "193 numbered chapter files; bonus interludes excluded",
-        "threshold": minimum, "expected_chapters": 193,
+        "scope": f"Chapters 001–{highest_chapter:03d}; bonus interludes excluded",
+        "threshold": minimum, "expected_chapters": highest_chapter,
         "count_method": "whitespace-separated body tokens; headings/dividers/comments excluded",
         "duplicate_method": "all consecutive 300-token windows, rolling 64-bit hash + exact token comparison",
         "chapter_count": len(files),
@@ -108,7 +111,7 @@ def audit(root: Path, minimum: int = 10000) -> dict:
         if not words:
             report["errors"].append(f"{path.name}: empty body")
 
-    report["missing_chapters"] = [n for n in range(1, 194) if n not in chapters]
+    report["missing_chapters"] = [n for n in range(1, highest_chapter + 1) if n not in chapters]
     report["passing"] = sum(x["passes_length"] for x in report["chapters"])
     report["failing"] = sum(not x["passes_length"] for x in report["chapters"])
     report["total_shortfall"] = sum(x["shortfall"] for x in report["chapters"])
@@ -168,8 +171,9 @@ def main() -> int:
     ap.add_argument("--strict-duplicates", action="store_true")
     args = ap.parse_args()
     result = audit(ROOT, args.minimum)
-    print("Chapters: {}/193; length passing: {}; short: {}; missing body words: {:,}".format(
-        result["chapter_count"], result["passing"], result["failing"], result["total_shortfall"]))
+    print("Chapters: {}/{}; length passing: {}; short: {}; missing body words: {:,}".format(
+        result["chapter_count"], result["expected_chapters"], result["passing"],
+        result["failing"], result["total_shortfall"]))
     print("300-token windows checked: {:,}; exact cross-chapter matched windows: {:,}".format(
         result["window_comparisons"], result["matched_window_count"]))
     if args.json:
@@ -182,7 +186,7 @@ def main() -> int:
             "",
             "Machine-generated. Not an editorial certificate; source branch must be recorded by the CI job.",
             "",
-            f"- Chapters: {result['chapter_count']} / 193",
+            f"- Chapters: {result['chapter_count']} / {result['expected_chapters']}",
             f"- At least {args.minimum:,} body words: {result['passing']} chapters",
             f"- Below minimum: {result['failing']} chapters",
             f"- Total body-word shortfall: {result['total_shortfall']:,}",
