@@ -462,3 +462,203 @@ Leandros looked at the water. He had missed his mother every day and resented th
 
 She nodded, and he was unexpectedly grateful that she didn't make a speech about it. The silence between them held for a few breaths, filled by water moving against the shore. In the distance they could hear someone working a loose latch on the boathouse door, the faint metallic knock carrying over the still air. It would have been an ordinary pause with anybody else. Leandros found himself wanting it to last.
 
+"You know," Annabeth said at last, "I used to think that if I could draw something accurately enough, it would stop surprising me."
+
+Leandros turned toward her. "A map?"
+
+"Anything. A city. A building. The way people move through a space." She bent to pick up the measuring rod and brushed gravel from its bottom. "If I knew where all the walls were, I could tell what would happen when somebody came through the door. It turns out people don't pay much attention to walls."
+
+"That's because walls don't usually tell them they're wrong."
+
+"Mine might."
+
+He laughed. She grinned at him, and the grin took him by surprise. Annabeth smiled often around Percy, sometimes at Thalia, and less often when she was looking at one of the new siblings. He had never been the sole cause of it before. He tried to keep his own expression neutral and failed. The two of them stood on the upper path, laughing at a joke that wasn't funny enough to deserve it, and he felt oddly exposed, as if somebody had opened the notebook in which he'd kept all his private humiliations.
+
+"What do you do when the water surprises you?" she asked.
+
+"Get wet, usually."
+
+"Leandros."
+
+"I'm serious. I got knocked into the harbor when I was nine because I thought the wake from a passing ferry would lift the boat slowly enough for me to step across. My mother said she'd never seen a boy go from arrogant to dripping in such a short amount of time."
+
+"She sounds sensible."
+
+"She was furious. Then she sat me in the office with a blanket and made me draw exactly what had happened. I had to put the ferry on the right side of the harbor and mark where the little boat was tied, and I kept trying to make the drawing show that it wasn't my fault. She wouldn't let me. She said if I was ever going to work near water, I had to be able to tell the difference between the truth and the story that made me feel clever."
+
+Annabeth had stopped smiling. She studied him with an attention that felt more dangerous than any argument. "Did it work?"
+
+"Sometimes," he said. "Not as often as she'd like."
+
+"I think she'd get along with Chiron."
+
+"She'd probably tell him he's too patient."
+
+"She'd definitely get along with Clarisse."
+
+That made him laugh harder. He pictured the two women side by side, both looking at him as if they'd been waiting years for the other to turn up. He wasn't sure he could survive the encounter. Annabeth's laugh joined his, lower than he'd expected and much less controlled than her usual sharp little bursts of amusement. The sound faded slowly. When it was gone he realized he was still looking at her.
+
+He turned toward the lake, embarrassed. A pale scrap of cloth from their morning test had caught on a branch below the safe landing and was fluttering just above the water. The warning rope stood between them and the crack, taut where Clarisse had retied it. Beyond the old stones the shore looked solid. Leandros knew better now than to trust the appearance. He wanted to tell Annabeth that she'd asked his mother a question without ever meeting her and somehow made him feel less alone. The sentence seemed dangerously close to something people said when they were trying to impress a girl, and he hated that he was thinking in those terms at all.
+
+"You've got that look again," Annabeth said.
+
+He closed his eyes. "I'm beginning to think my face has betrayed me."
+
+"Your face is very opinionated."
+
+"It learned from yours."
+
+"Mine is usually right."
+
+"Of course it is."
+
+She gave him a sidelong glance, amused and challenging at once. He knew she was waiting for him to object. They could have kept arguing until the light failed, and he would have enjoyed it. The realization unsettled him enough that he stepped back from the rope and pointed toward the notch above the old stones, dragging the conversation back to something with measurements.
+
+"If the ground there is still shifting, we should mark the safe route farther inland," he said. "Not just close the lower path. Someone walking past in the dark could come down from the trees and think it's all right."
+
+Annabeth followed his gesture. "You're right. The existing line's visible from the landing, not from the upper fork. We should add a warning there before supper."
+
+He braced for a correction and didn't get one. She was looking at the land as if the problem interested her more than his satisfaction in solving it. He liked her better for that, then immediately felt guilty about comparing her with anybody else. His mother had taught him not to trust a boat that looked seaworthy merely because he'd fallen in love with its paint. It occurred to him that the lesson might apply to people, though he had no intention of admitting it aloud.
+
+They went back toward the boathouse to find Beckendorf and another length of rope. Leandros carried the measuring rod and Annabeth kept the map against her side. Neither spoke for a while. The path had begun to freeze where the sun no longer touched it, and she nearly slipped once on a flat stone that looked dry. Leandros caught her elbow by instinct, not pulling her closer so much as keeping her from landing hard on the gravel. She recovered immediately and jerked away, offended more by her own carelessness than by his hand.
+
+"I'm fine," she said.
+
+"I can see that. You nearly weren't."
+
+"I saw the stone."
+
+"After it tried to murder you?"
+
+She stared at him, then snorted. "You're spending too much time with Percy."
+
+His hand dropped to his side. The joke was harmless. It still landed in a place he hadn't known was tender. Percy had become a kind of measure for him, the brother who'd been raised in Atlantis, the boy who knew how to laugh at his own mistakes, the one everyone seemed to trust before he even opened his mouth. Leandros had resented him for that, sometimes with a bitterness he knew was ugly. He could hear something of Percy's rhythm in his own teasing now and disliked how pleased he'd been when Annabeth laughed.
+
+"Maybe," he said. "There are worse people to learn from."
+
+Annabeth looked at him. For an instant he thought she might say something about the two brothers, about the way they'd spent weeks circling one another with their different versions of Poseidon. Instead she slipped the measuring rod from his hand so she could carry it around the narrow corner of the path without catching it on the fence. She didn't ask if he wanted her to. She simply did it, the sort of ordinary gesture that made him want to protest and thank her at the same time.
+
+Beckendorf agreed to the extra warning line. He had them set it well above the unstable bank and instructed Leandros to fetch two more stakes from the dry shed while Annabeth checked that no alternate path led down from the trees. Their work was neither dangerous nor especially exciting, and Leandros was grateful for it. He had begun to suspect that something about the conversation on the path would stay with him longer than the details of the drainage cut. Labor gave him a reason to use his hands and not think about it.
+
+By the time they finished, the lake had gone dark with the first shadows of evening. Annabeth was crouched at the upper fork, drawing a new arrow on the map. She didn't write Leandros's name beside it. He noticed, felt the old reflex to demand recognition, and let it pass. The arrow had come from his suggestion, but she was the one who knew how the path would be used. It could belong to their work without belonging to either of them alone.
+
+"That should keep everyone off the bank," she said, standing with a small groan and pressing a gloved hand against her knee. "At least until Beckendorf can inspect it properly. I hate leaving something unfinished."
+
+"Then you're going to hate living beside a lake. It changes while you're asleep."
+
+"Not everything changes."
+
+"No," he said. "Not everything."
+
+He looked at her, intending to make a joke about Percy's scarf or her ink-stained hands, and found that he couldn't decide which would be more foolish. She looked tired and pleased, as she had that morning when the map finally began to make sense. He liked the expression. He didn't want to like it. Those two things belonged together for the moment, and he had no idea how to separate them.
+
+"I'll see you at supper," she said.
+
+"Sure."
+
+She started up the path and then stopped. "Leandros?"
+
+He turned.
+
+"Your mother's drawings really are good. You should write to her about what we found. She might know something else about this kind of channel."
+
+He stared at her for a moment, too surprised to answer immediately. She had spent the morning helping solve a problem and still remembered a story he'd told her about somebody she'd never met. It was such a small thing to be moved by, and it made him feel ridiculous. He found his voice before she could ask if he'd heard her.
+
+"I will," he said. "And I'll tell her you said that."
+
+Annabeth smiled. "Don't make it sound like I was impressed by you."
+
+"Perish the thought."
+
+She laughed and went up the path, boots crunching over the frozen gravel. Leandros watched until she passed the bend. Then he picked up the spare stakes and carried them back to the shed, feeling like a fool in several new and unfamiliar ways.
+
+---
+
+Annabeth was almost back to Cabin One when she realized she'd forgotten her pencil at the lakeshore. It wasn't an important pencil. She had others, and she'd been known to lose one on the way from the desk to the door. But this one was short and smooth where she'd worn the wood down with her thumb, and she had used it for every version of the new shoreline map. She turned back halfway down the path, paused, and stared toward the darkening trees, trying to decide whether retrieving a pencil was worth being late for supper.
+
+The irritating truth was that she wanted to go back. Not for the pencil, or at least not only for it. She wanted to hear what Leandros would say if she told him his diagram was better than hers, and she wanted to argue with him about whether his mother's method would work in salt water and fresh water the same way. She wanted the particular energy of their conversation again. It had left her impatient with herself and somehow more awake than she'd felt in days.
+
+She stood in the cold until the wish passed, or rather until she could pretend it had passed. Then she kept walking toward the cabin. Percy had promised to save her a place at supper. He'd probably saved her some bread too, unless Clarisse had caught him eating it first. She thought of his hand on hers beneath the lunch table, and the remembered warmth struck her with a sharp, uncomfortable tenderness. Whatever had happened at the lake was not something she needed to make into a secret. There was nothing to conceal. She hadn't kissed Leandros, hadn't made a promise, hadn't even said something she wouldn't have said in front of Percy.
+
+So why had she felt relieved when the others left?
+
+At Cabin One, Thalia was struggling to get a boot over the splint without catching the edge of the wrap. Annabeth knelt beside her and held the boot steady, resisting the urge to take over. Her sister swore twice, accused the leather of being personally vindictive, and finally got her heel into place. When she sat back, triumphant and flushed, Annabeth found herself laughing at the absurdity of it. She loved this girl, who had spent years being a parent when she ought to have had time to be young, and who could still turn a struggle with a boot into a declaration of war.
+
+"You're late," Thalia said.
+
+"The shore needed another warning line. We had to mark the upper fork."
+
+"We?"
+
+"Me and Leandros. Beckendorf checked the line afterward."
+
+Thalia's hands went still for the smallest fraction of a second. "You've been spending a lot of time with him."
+
+"Chiron assigned him to the project. He's the one who noticed the current."
+
+"I didn't ask whether he was assigned."
+
+Annabeth looked up sharply. She could hear in Thalia's tone the old urge to protect her from things she hadn't yet realized were dangerous. It irritated her before she had the chance to work out whether the irritation was deserved. "Then what are you asking?"
+
+"Nothing." Thalia tightened the boot, grimaced, and leaned back. "I was making conversation. It sounded like you had a decent afternoon for once."
+
+Annabeth should have believed her. Thalia could be protective and curious without every question being an interrogation. Instead she found herself wanting to explain the entire day, to establish that nothing had happened which required an explanation. The impulse was so obviously disproportionate that she kept her mouth shut and pretended to examine the boot.
+
+"Your heel okay?" she asked.
+
+"Yes. And don't change the subject by checking my injury."
+
+"Then stop changing it by checking mine."
+
+Thalia stared at her. Annabeth stared back. A long, ridiculous silence followed, and then Thalia barked out a laugh.
+
+"Gods, we're both impossible."
+
+"You're more impossible. You got a head start."
+
+"True. I've had years to perfect it."
+
+Annabeth sat back against the bed frame, laughing with her sister until the strange tightness in her chest loosened. She wanted to tell Thalia about the little sketch Leandros's mother had made and the way he talked about her when he forgot he was supposed to be impressive. She didn't. There was no good reason to keep it back, and she didn't like discovering that she had chosen not to say it.
+
+They went to supper together. Percy was waiting at the table with a plate of bread and the solemn expression of someone who had been given a great responsibility. He stood when he saw Annabeth, then remembered that he was holding the last roll and looked undecided about which obligation came first. She took the roll from him and kissed him before sitting down. He grinned and put an arm around the back of her chair.
+
+"I held this for you," he said, looking at the empty place where the bread had been.
+
+"I noticed. Heroic effort."
+
+"Did you solve the lake?"
+
+"Not exactly. But we found out where it was taking the bank. Beckendorf's keeping the old landing closed until the footing can be checked. Nobody's going down that path in the meantime."
+
+Percy listened while she explained, asking questions that were half jokes and half genuine attempts to understand the map. She liked telling him. That was another truth she could hold beside the uneasy one she hadn't admitted. Leandros came in a few minutes later, carrying his mother's waterproof notebook beneath his arm. He sat with Clarisse and Silena at the far end of the table, and for most of the meal Annabeth barely looked his way. She didn't need to. She was acutely aware of where he was anyway, of his laugh when Clarisse insulted his knot, of the moment he leaned over to show Silena the sketched current.
+
+Percy nudged her shoulder. "You're miles away."
+
+"Thinking."
+
+"Should I be worried?"
+
+"Only if you plan to stand on the north bank tomorrow."
+
+"I'll do my best to avoid a premature burial."
+
+She smiled and leaned into him. He rested his cheek against her hair, and she let herself stay there while the conversation swelled around them. His affection was real, hers was real, and the fact that she could feel the presence of someone else across the room did not erase any of it. She told herself that this was simply what happened when a person discovered an unexpectedly interesting mind. People were allowed to be interesting. She had never promised Percy she wouldn't admire anybody else.
+
+That was true, and she knew it. It was also the first argument she had made to herself all day that sounded suspiciously like a defense.
+
+---
+
+After the others had gone to bed, Leandros took his mother's notebook down from the shelf and found the page where she'd drawn the first harbor wall. He had never been especially sentimental about the book. At home it had been a practical thing, full of notes about the weather and the way water moved around the pilings, and his mother had scolded him when he got fish scales on its cover. Here at camp it had become proof that he came from a place that had existed before anybody knew his father was Poseidon. The pages smelled faintly of old paper and the salt air he'd carried into them over years.
+
+He began a letter home. He told his mother about the dangerous bank, about the missing stake, about the old drainage cut and the floating strips of cloth. He described how Beckendorf had kept everyone back from the crack and how Chiron had ordered the lower path closed. For once he didn't make himself sound like the hero of the day. He wrote that Annabeth had spotted the old channel on the original map, and that together they'd found a better way to mark the safe path. His mother would approve of the caution, though she'd probably complain that nobody had thought to inspect the outflow sooner.
+
+He found himself describing Annabeth's work in more detail than he had intended. He wrote that she was quick to see where the drawings disagreed, quicker to tell somebody so, and sometimes impossible to argue with because she enjoyed it too much. He wrote that she'd listened to his explanation of the current and asked questions that made him look again at things he thought he understood. He almost wrote that she had laughed at one of his jokes and made him forget what he'd been trying to prove. Then he stopped, pencil poised above the page.
+
+His mother knew about Percy. He had written about his brother in the first letter from camp, carefully and without much kindness. He'd said Percy was the favored son who'd grown up beneath the sea and still couldn't remember it, that everybody seemed to love him without requiring him to do anything to earn it. The letter had been spiteful enough that Leandros regretted it almost as soon as he sent it. His mother had written back that people rarely chose which parts of their childhood would be easy, and that he ought to find out who Percy was before deciding what he deserved.
+
+Leandros folded the unfinished page and set it beside his pillow. He could hear Percy laughing quietly across the cabin, probably at something Silena had said before the lantern went down. Leandros wanted to tell him about the morning, about how Annabeth had admired the old diagram and how much it had meant to hear somebody say that his mother's work was good. He wanted, more painfully, not to tell him at all. The second desire frightened him enough that he sat for a long time in the dark, staring at the notebook.
+
+Nothing had happened. It was true. They had worked beside a lake, argued, learned something, and gone home. But Leandros had spent the evening remembering the shape of Annabeth's smile when she'd told him his mother sounded sensible. He had caught himself wondering whether she'd remember his joke, whether she'd look for him at breakfast, whether she would come back to the shore when the weather turned again. He had not wanted to ask those questions. They were there anyway.
+
+Across the room Percy wished Silena good night, and the cabin settled. Leandros opened the notebook once more, not to the drawing of the harbor wall but to the blank page after it. He wrote down what the lake had taught them: the current could run in the wrong direction when the bank concealed an old channel. The line was useful. It belonged in the record. He stared at it until the words blurred, then shut the book and left it beside his bed.
+
