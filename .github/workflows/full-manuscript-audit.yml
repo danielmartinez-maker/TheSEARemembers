@@ -1,4 +1,4 @@
-name: Full manuscript QA and 193-chapter memory evidence
+name: Full manuscript QA and chapter memory evidence
 
 on:
   push:
@@ -38,11 +38,11 @@ jobs:
         run: python scripts/audit_chapter_structure.py --json editorial/audits/generated-chapter-structure.json
       - name: Check 300-word windows across chapters and bonus interludes
         run: python scripts/audit_duplicate_windows.py --chapters chapters --bonus bonus --words 300 --json editorial/audits/generated-all-text-300-word-qa.json --strict-duplicates
-      - name: Build 193-chapter provisional source locator index
+      - name: Build provisional chapter source locator index
         run: |
           python scripts/build_memory_evidence_index.py \
-            --json continuity/evidence/generated-ch001-193.json \
-            --markdown continuity/evidence/generated-ch001-193.md
+            --json continuity/evidence/generated-ch001-current.json \
+            --markdown continuity/evidence/generated-ch001-current.md
       - name: Enforce anchored relationship memory regressions
         run: python scripts/check_character_memory.py
       - name: Upload evidence and mechanical audit
