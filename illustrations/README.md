@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 95 of 211 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 100 of 211 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -576,3 +576,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/095-annabeth-sick.md)
 
 ![Percy keeps watch beside sick Annabeth while Thalia sleeps on the nearby cot.](095-annabeth-sick.jpg)
+
+## 096. Training Together
+
+[Source chapter](../chapters/096-training-together.md)
+
+![Clarisse and Silena help Percy shape a water arch while Thalia and Annabeth practice separate sparks at the bronze target.](096-training-together.jpg)
+
+## 097. The Map
+
+[Source chapter](../chapters/097-the-map.md)
+
+![Annabeth unveils her finished watercolor camp map as Percy, Clarisse and Silena gather around.](097-the-map.jpg)
+
+## 098. Fathers' Day (Gods)
+
+[Source chapter](../chapters/098-fathers-day-gods.md)
+
+![Percy greets Poseidon at the beach barbecue as Zeus descends behind him and campers gather nearby.](098-fathers-day-gods.jpg)
+
+## 099. Mothers
+
+[Source chapter](../chapters/099-mothers.md)
+
+![Amphitrite gives Percy a knitted blue shawl while Annabeth watches, Tyson sits nearby and Triton raises his conch.](099-mothers.jpg)
+
+## 100. The Thousandth Campfire
+
+[Source chapter](../chapters/100-the-thousandth-campfire.md)
+
+![Clarisse and Silena share a quiet handclasp at the thousandth campfire as Amphitrite listens with the campers.](100-the-thousandth-campfire.jpg)
