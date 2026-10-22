@@ -1,7 +1,5 @@
 ## Chapter 213: The Person in the Middle
 
-## Chapter 213: The Person in the Middle
-
 Percy made the first boat from the corner of a list Chiron had already copied into the supply ledger.
 
 Annabeth watched him crease the paper.
