@@ -14,15 +14,16 @@
 ## Point of view
 - Scene 1 Annabeth: opening loss of red stake and first survey.
 - Scene 2 Leandros: Clarisse, Annabeth's arrival, and water demonstration.
-- Scene 3 Annabeth: Thalia, Ianthe, Percy, and her private recognition of interest.
-- Scene 4 Leandros: mother’s maps and conversations by the shore.
-- Scene 5 Annabeth: return to cabin, Thalia conversation and supper.
-- Scene 6 Leandros: private letter draft to his mortal mother.
+- Scene 3 Leandros: floating-cloth experiments and growing interest in Annabeth's work.
+- Scene 4 Annabeth: Thalia, Ianthe, Percy, and her private recognition of interest.
+- Scene 5 Leandros: mother’s maps and conversations by the shore.
+- Scene 6 Annabeth: return to cabin, Thalia conversation and supper.
+- Scene 7 Leandros: private letter draft to his mortal mother.
 
 ## Character states and knowledge
 - **Annabeth, approximately 14:** Still fully and warmly committed to Percy; no secret romantic relationship has begun, no kiss with Leandros, and no explicit confession of attraction. She is increasingly aware she seeks Leandros's company for reasons that are not purely technical. She has not explained the feeling to Percy or Thalia. Remembers erased life only with Percy.
 - **Percy, approximately 14:** His affectionate established relationship with Annabeth remains intact; he freely agrees Leandros can help with the shoreline survey. Notices Annabeth is distracted at supper but has no grounds to know why. Remains emotionally troubled by Poseidon's unequal presence and Leandros's resentment. Shares erased-life memory with Annabeth only.
-- **Leandros, age 16:** Annabeth and Percy are not his biological kin; Percy *is* his paternal half-brother. Leandros is starting to become conscious of attraction while continuing to resent perceived favoritism toward Percy. Has a mortal mother associated with a marina and notebook full of current sketches; no special knowledge of erased future. Ends writing his mother a letter he has **not yet sent**.
+- **Leandros, age 16:** Annabeth is not his biological kin; Percy *is* his paternal half-brother. Leandros is starting to become conscious of attraction while continuing to resent perceived favoritism toward Percy. Has a mortal mother associated with a marina and notebook full of current sketches; no special knowledge of erased future. Ends writing his mother a letter he has **not yet sent**.
 - **Thalia:** Continued splint/heel restriction with modified archery only; no new clearance or injury. Notices Annabeth mentions Leandros but **does not know a romantic secret**. Shares no erased-life knowledge.
 - **Ianthe:** Continuing bounded weather/log assignments; sees the route map and Leandros credited with observations, no romance knowledge or secret discovered.
 - **Clarisse:** Disagrees with Leandros about a knot and recognizes a useful current observation; no new forgiveness milestone, no private romantic information.
@@ -46,7 +47,7 @@
 
 ## Verification actually performed
 - Counted Chapter 219 draft at **11,643** whitespace-based body words.
-- Counted section separators; validated **six scenes** in third-person limited with deliberate scene breaks.
+- Counted section separators; validated **seven scenes** in third-person limited with deliberate scene breaks.
 - Measured narrative paragraph median **72 words**, mean **63 words**, with **53%** of narrative paragraphs at least 70 words; shorter beats and discrete speech remain.
 - Every-offset cross-file 300-token scan over this draft and only Chapters 213 and 216: **32,937 windows, zero exact cross-file matches**.
 - **Not done:** complete manuscript duplicate scan, semantic repetitions against Chapters 217–218, full chronological reconciliation, hosted CI/full manuscript QA on this isolated draft branch, independent literary signoff.
