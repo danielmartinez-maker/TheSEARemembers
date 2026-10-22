@@ -1658,7 +1658,7 @@ Percy nearly choked on air. “That’s not how that conversation went.”
 
 Annabeth leaned back in her chair. “He’s moving into Cabin Three, not taking your bed.”
 
-“He can have the old cot,” Percy said.
+“Leandros can have the old cot,” Percy said.
 
 “Why do you get to decide?”
 
