@@ -40,9 +40,17 @@
 - He accepts the direct answer, but continues to ask what he gets from family belonging and resists the idea that others must decide camp safety with him.
 - The map does not establish him as an authority. His mother, marina danger, and longer-term cabin placement remain as last recorded.
 
+### Chapter 197 · The Room We Keep
+
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–198 ledger](../chapter-ledgers/194-198.md#L40).
+- Leandros sees Silena's unfinished copy of the three-wave sketch and misreads it as a present for Amphitrite. Though Silena explains that she decides whether it is shown, he publicly describes it as a gift at lunch, putting her on the spot.
+- He asks whether Poseidon knew Amphitrite was visiting or had told her about Leandros. She says Chiron invited her and told her of Leandros's arrival; Poseidon had not told her about him.
+- He later apologizes for speaking for her and says he wanted Amphitrite to see him with the Camp Three siblings. He accepts that Silena may not want a four-person picture. His understanding is partial; no trust or forgiveness is established.
+- He repairs a camp canvas cover for the paddle rack. The practical work does not grant him cabin authority.
+
 ## Current handoff
 
-At the close of Chapter 196, Leandros has made one direct request to Clarisse and accepted a limited “not tonight”; no trust or forgiveness is established. His current-reading is real but narrow, and the posted camp map remains a working draft with uncertain shoreline. His status assumptions, impatience, and need for control persist. His mortal mother’s identity remains unspecified; the marina monster remains unknown. He has not met Ianthe, Rhode, Benthesikyme, Triton, or Tyson through Chapter 196.
+At the close of Chapter 197, Leandros has apologized for one specific overstep but still wants a family picture and has not earned broad trust. Silena's project remains hers and unfinished. He has repaired a canvas cover for the paddle rack. His status assumptions, impatience, and need for control persist. His mortal mother's identity remains unspecified; the marina monster remains unknown. He has not met Ianthe, Rhode, Benthesikyme, Triton, or Tyson through Chapter 197.
 
 ## Sources
 

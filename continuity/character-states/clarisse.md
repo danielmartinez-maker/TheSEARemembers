@@ -260,4 +260,11 @@
 - **State and events:** Clarisse tells Leandros she remains angry, answers his direct question about walking the boathouse route with “not tonight,” and does not commit to tomorrow. She tells him to ask her again when she is not carrying the repair list. Annabeth does not interpret Clarisse’s feelings for him.
 - **Carry-forward:** This is not trust or forgiveness. Clarisse’s Poseidon grievance and separate relationship with Amphitrite remain unresolved.
 
-**Current carry-forward at Ch196.** Leandros has heard Clarisse’s anger directly; she has not decided whether to walk him tomorrow or promised closeness. The awning remains torn, the fence braced, the Cabin One rail and first-hard-frost check remain open. Annabeth re-glued her stool, which holds once but still needs curing. No new Poseidon visit, apology, or Amphitrite title is shown.
+**Historical carry-forward at Ch196.** Leandros has heard Clarisse’s anger directly; she has not decided whether to walk him tomorrow or promised closeness. The awning remains torn, the fence braced, the Cabin One rail and first-hard-frost check remain open. Annabeth re-glued her stool, which holds once but still needs curing. No new Poseidon visit, apology, or Amphitrite title is shown.
+### Chapter 197 · The Room We Keep
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–198 ledger](../chapter-ledgers/194-198.md#L40).
+- Clarisse offers to speak to Leandros after he puts Silena on the spot, then respects Silena's decision to handle it herself. She does not mediate, take over Silena's boundary, or make the apology her own task.
+- She shares lunch with Amphitrite and does not make a maternal-title choice. Her anger toward Poseidon and relationship with Amphitrite remain unresolved.
+
+**Current carry-forward at Ch197.** Clarisse is still fifteen and in Cabin Three. Silena has handled her own boundary with Leandros; no new trust or apology is established between Clarisse and Leandros. Her relationship with Amphitrite remains on its separate, slower path, with no title chosen.

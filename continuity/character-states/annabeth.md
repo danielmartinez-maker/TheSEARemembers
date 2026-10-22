@@ -309,7 +309,7 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **State and events:** Annabeth meets Leandros for the first time at Cabin Three. She and Percy disagree briefly over the broken stool; she says she wants to handle the repair, and Percy agrees to hold the pieces. Their affection and partnership remain secure.
 - **Carry-forward:** The stool still needs repair. Annabeth’s autonomy remains distinct from Percy’s wish to help.
 
-**Current carry-forward at Ch195.** Annabeth remains fourteen in the late-summer/early-autumn chronology and Percy’s chosen partner. She has met Leandros but has not agreed to guide him or assume responsibility for his belonging. The Cabin One stool is still broken; she plans to work on it with Percy holding the pieces. The loose rail, first-hard-frost recheck, torn awning, and bent fence remain unresolved. Her erased-future memory stays private; no new disclosure occurs.
+**Historical carry-forward at Ch195.** Annabeth remains fourteen in the late-summer/early-autumn chronology and Percy’s chosen partner. She has met Leandros but has not agreed to guide him or assume responsibility for his belonging. The Cabin One stool is still broken; she plans to work on it with Percy holding the pieces. The loose rail, first-hard-frost recheck, torn awning, and bent fence remain unresolved. Her erased-future memory stays private; no new disclosure occurs.
 
 
 ### Chapter 196 · What a Map Leaves Out
@@ -317,3 +317,11 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **Source:** [Chapter 196](../../chapters/196-what-a-map-leaves-out.md).
 - **State and events:** Annabeth draws and posts a working map with checked paths distinguished from an unverified shore route. She helps Leandros orient himself but refuses to explain Clarisse’s private feelings for him. She and Percy argue over his attempt to smooth over Leandros’s offense; both name their parts and repair it directly. The stool is re-glued and holds once, with more curing needed.
 - **Carry-forward:** The map’s shore notes remain provisional. Annabeth remains Percy’s established partner and does not take responsibility for Leandros’s family bonds.
+### Chapter 197 · The Room We Keep
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–198 ledger](../chapter-ledgers/194-198.md#L40).
+- Annabeth continues refining the provisional shore map with Percy. They share an ordinary affectionate moment while working; the map remains provisional and their relationship secure.
+- She is present when Silena returns from lunch but does not press her to explain. No memory secret is disclosed.
+
+
+**Current carry-forward at Ch197.** Annabeth remains fourteen in the late-summer/early-autumn chronology and Percy’s chosen partner. She and Percy remain secure while continuing the provisional shore map. Annabeth’s Cabin One stool still needs more curing; the map’s shoreline remains unverified. She does not assume responsibility for Silena’s boundary or Leandros’s family bonds, and her erased-future memory remains private.

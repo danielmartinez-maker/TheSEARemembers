@@ -2,7 +2,7 @@
 
 *Percy Jackson and the Olympians fanfiction · Time travel · Canon divergence · Percabeth*
 
-**Work in progress.** This repository organizes 193 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
+**Work in progress.** This repository organizes 197 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
 
 - [Chapters](chapters/)
 - [Bonus interludes](bonus/)
@@ -10,6 +10,10 @@
 - [Manifest and integrity checks](manifest.json)
 
 Edit chapters independently using pull requests or direct commits. This is an unofficial, noncommercial fan work set in Rick Riordan's Percy Jackson universe.
+
+## Active family-first arc (October 22, 2026)
+
+PR #103 is drafting Chapters 194–218. Chapters 194–197 now contain 41,825 body words across four installments; Chapter 197 measures 10,214 body words by the repository's whitespace-token method. The hosted manuscript and character-memory checks for the current arc update are pending.
 
 ## Canon and editing
 
@@ -19,7 +23,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 - [Character-memory audit](editorial/audits/CHARACTER-MEMORY-2026-10-13.md): targeted confirmed repairs, with explicit limits on what has been reviewed.
 - [Character-memory regression check](scripts/check_character_memory.py): tests source-anchored relationship facts and lists possible first-introduction dialogue for manual review; also runs in GitHub Actions.
 
-## Current PR candidate and local QA (October 17, 2026)
+## Historical PR candidate and local QA (October 17, 2026)
 
 - [Evidence-backed four-phase execution record](editorial/audits/FOUR-PHASE-EXECUTION-2026-10-13.md): what passed, what was revised and what remains incomplete.
 - [Per-chapter machine-generated continuity cue index](continuity/evidence/generated-ch001-193.md): 193 chapter locators; witnesses, relationships and secret knowledge explicitly **unverified** until human scene review.

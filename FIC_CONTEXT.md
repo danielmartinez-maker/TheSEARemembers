@@ -2,7 +2,7 @@
 ## Canon bible and editorial operating rules
 
 **Status:** Work in progress  
-**Updated:** 2026-10-21
+**Updated:** 2026-10-22
 **Scope:** Drafting, editing, continuity review, chapter handoffs, and reader-edition assembly  
 **Fandom:** *Percy Jackson and the Olympians*  
 **Primary pairing:** Percy Jackson / Annabeth Grace (established Percabeth)
@@ -28,10 +28,10 @@ When two sources disagree, use this order:
 
 ### 1.2 Working files, as of 2026-10-22
 
-- **GitHub source for this pass:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers), with `main` pinned at `63ae90bb6aad31753fcabfd057a1771359594dca` before edits. It contains numbered Markdown files for **chapters 1–196** and **two bonus interludes**, plus an index, manifest, and assembly script.
-- **GitHub filename convention:** `chapters/001-the-weight-of-salt-and-sky.md` through `chapters/196-what-a-map-leaves-out.md`. Use the actual filenames in `CHAPTER_INDEX.md`; do not assume the older `chapters/ch02.md` convention still applies in this repository.
+- **GitHub source for this pass:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers), with `main` pinned at `63ae90bb6aad31753fcabfd057a1771359594dca` before edits. It contains numbered Markdown files for **chapters 1–197** and **two bonus interludes**, plus an index, manifest, and assembly script.
+- **GitHub filename convention:** `chapters/001-the-weight-of-salt-and-sky.md` through `chapters/197-the-room-we-keep.md`. Use the actual filenames in `CHAPTER_INDEX.md`; do not assume the older `chapters/ch02.md` convention still applies in this repository.
 - **Authority update:** The user's 2026-10-13 direction to work from the latest GitHub repository supersedes the earlier local-copy precedence for this pass. Historical/deprecated local manuscript copies were not used or reconciled; do not treat them as competing authorities unless the user explicitly re-designates one.
-- **Arc continuity:** The originally planned fourth-arc range was chapters **140–164**, but the story continued through Chapter **193** as one continuous developing stretch. On 2026-10-21 the user set a new boundary after Chapter 193 and authorized a family-first arc planned for Chapters **194–218**; Chapters 194–196 are drafted and the arc remains in implementation. Keep that as a distinct new arc.
+- **Arc continuity:** The originally planned fourth-arc range was chapters **140–164**, but the story continued through Chapter **193** as one continuous developing stretch. On 2026-10-21 the user set a new boundary after Chapter 193 and authorized a family-first arc planned for Chapters **194–218**; Chapters 194–197 are drafted at 41,825 body words; the arc remains in implementation. Keep that as a distinct new arc.
 - **Exports:** Existing PDF/DOCX volumes are historical until rebuilt from selected, corrected sources. Preserve old versions.
 
 ### 1.3 Length status: targets are not completion claims
@@ -92,7 +92,7 @@ Use **continuity/CHARACTER_MEMORY_LEDGER.md** as a source-anchored index and **c
 ## 3. Locked families and households
 
 
-**Live continuation state (Chapter 196):** Wednesday after Chapter 195’s Tuesday; exact date/year unknown. Annabeth has corrected the camp map as a working draft, distinguishing checked paths from unverified shoreline. Leandros’s current-reading remains useful and limited; he has asked Clarisse directly to walk the route, and her answer for tomorrow remains open. Percy and Annabeth directly repair his attempt to smooth over Clarisse’s offense; their relationship remains secure. Annabeth re-glues her stool, which holds once but needs more curing. The fence, awning, Cabin One rail, and first-hard-frost recheck remain open. Thalia’s heel was not revisited. Ianthe has not appeared. Continue from the Chapter 196 handoff; the future outline remains plans, not facts.
+**Live continuation state (Chapter 197):** Thursday after Chapter 196’s Wednesday supper; exact date/year unknown. Silena resumes the unfinished Chapter 091 color-copy project, controls who sees it, and declines automatic emotional labor. Leandros misreads it as a gift for Amphitrite, speaks for Silena at lunch, and later apologizes for that specific act; no trust milestone follows. He says Poseidon had not told Amphitrite about him; she learned of his arrival from Chiron. Amphitrite visits at Chiron’s invitation and asks about Silena’s watercolor technique; she does not request a title and remains unaware of Percy’s private memory predicament. Percy and Annabeth remain secure. The fence is braced but unrepaired, the awning bracket remains bent, the Cabin One rail and frost recheck remain open, and the stool needs more curing. Thalia’s heel was not revisited. Ianthe has not appeared. Continue from the Chapter 197 handoff; the future outline remains plans, not facts.
 
 ### 3.1 Poseidon's family and the Camp Three siblings
 

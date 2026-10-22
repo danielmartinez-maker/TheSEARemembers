@@ -405,6 +405,12 @@ CHECKS = {
                     "I don’t want you to stop worrying."),
         "absent": ("Because of the time thing?", "I remember the future"),
     },
+    "chapters/197-the-room-we-keep.md": {
+        "present": ("I promised you one",
+                    "not a gift I promised you on my behalf",
+                    "I thought if she saw us in the picture, that would make the table less strange."),
+        "absent": ("Because of the time thing?", "I remember the future"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

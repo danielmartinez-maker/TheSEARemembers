@@ -200,6 +200,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **194.** [A Place at the Table](chapters/194-a-place-at-the-table.md)
 - **195.** [The Rules of Cabin Three](chapters/195-the-rules-of-cabin-three.md)
 - **196.** [What a Map Leaves Out](chapters/196-what-a-map-leaves-out.md)
+- **197.** [The Room We Keep](chapters/197-the-room-we-keep.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

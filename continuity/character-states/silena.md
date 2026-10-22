@@ -260,7 +260,7 @@
 - **State and events:** Silena lets Leandros help with dinner after he asks her directly. She corrects his flatcake technique without taking the work away and tells him that shared paternity did not give the Camp Three siblings one childhood. She does not mediate his conflict with Clarisse.
 - **Carry-forward:** No “Mom” milestone or new interaction with Amphitrite occurs. Silena’s individual interests and relationship with Maria remain separate from Leandros’s arrival.
 
-**Current carry-forward at Ch195.** Silena remains sixteen, in Cabin Three, and close to Clarisse and Percy. She has not taken responsibility for managing Leandros or repairing his relationship with either sibling. The awning remains torn; the fence is braced but unrepaired; the stool, loose rail, and first-hard-frost recheck remain open. Her relationship with Amphitrite has no new milestone, and her relationship with Maria remains unresolved.
+**Historical carry-forward at Ch195.** Silena remains sixteen, in Cabin Three, and close to Clarisse and Percy. She has not taken responsibility for managing Leandros or repairing his relationship with either sibling. The awning remains torn; the fence is braced but unrepaired; the stool, loose rail, and first-hard-frost recheck remain open. Her relationship with Amphitrite has no new milestone, and her relationship with Maria remains unresolved.
 
 
 ### Chapter 196 · What a Map Leaves Out
@@ -268,3 +268,10 @@
 - **Source:** [Chapter 196](../../chapters/196-what-a-map-leaves-out.md).
 - **State and events:** Silena says that Leandros leaving would matter, while also saying that this does not mean she can make him stay. She does not become the family mediator or Clarisse’s interpreter.
 - **Carry-forward:** Her care remains bounded. No new chosen-mother title or interaction with Amphitrite occurs.
+### Chapter 197 · The Room We Keep
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–198 ledger](../chapter-ledgers/194-198.md#L40).
+- **State and events:** Silena resumes the unfinished color copy of the three-wave sketch she made with Percy and Clarisse on their Chapter 091 tide-pool day. The copy was promised for Percy to consider including in a future letter; no letter is sent. She explicitly controls whether the work is shown or shared. She corrects Leandros when he calls it a gift for Amphitrite, leaves lunch, and later hears his apology for speaking on her behalf. She does not promise a new four-person picture or forgiveness.
+- **Carry-forward:** Her work remains unfinished and hers. She has not become the automatic peacemaker. Her relationship with Amphitrite has a small, voluntary exchange about watercolor technique; no maternal title is chosen, and her relationship with Maria stays unresolved.
+
+**Current carry-forward at Ch197.** Silena remains sixteen and in Cabin Three, close to Percy and Clarisse. She has protected her project time and chosen a limited discussion with Amphitrite about her process. Leandros has apologized for misrepresenting the work but has not earned broad trust. The canvas-cover task is complete; the bent awning bracket, braced fence, rail, frost check, and curing stool remain open. No future letter or mailing is confirmed.

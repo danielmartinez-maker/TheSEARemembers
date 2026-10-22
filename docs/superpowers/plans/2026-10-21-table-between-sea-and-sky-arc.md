@@ -65,8 +65,11 @@ Files: five numbered chapter sources and a five-chapter continuity ledger/handof
 - [x] Show Percy overexplaining and smoothing over Leandros’s offense, then a direct, affectionate repair with mutual accountability.
 - [x] Give Leandros’s current-reading a real but bounded use; he asks Clarisse directly for a route walk and accepts “not tonight” without a trust milestone.
 - [x] Re-glue Annabeth’s stool and test once; keep the other unresolved repairs and heel state accurate.
-- [x] Verify 10,144 body words with the repository’s whitespace-token method; Annabeth-limited, six scenes, continuity record and handoff added.
-- [ ] Ch197: Silena declines automatic emotional labor; Amphitrite cares about Silena’s own interest.
+- [x] Verify 10,151 body words with the repository’s whitespace-token method; Annabeth-limited, six scenes, continuity record and handoff added.
+- [x] Ch197: Silena protects her chosen work time and does not mediate for Leandros.
+- [x] Amphitrite takes interest in Silena’s watercolor process without claiming the painting or asking for a title.
+- [x] Leandros misreads the unfinished copy as a gift, speaks for Silena, and later gives a specific apology; no trust milestone follows.
+- [x] Verify 10,214 body words by the repository’s whitespace-token method; Silena-limited, five scenes, continuity ledger/YAML and character handoffs updated.
 - [ ] Ch198: Ianthe arrives through a separate plausible route; no Zeus appearance is required for recognition.
 - [ ] Ch199: Cabin One negotiates space, authority, and privacy without erasing Grace sisterhood.
 
@@ -125,8 +128,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **3/25**.
-- Arc body words: **31,604 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapter 194, index, YAML, 194–198 ledger, and initial sibling profiles are on PR #103.
-- Current next action: draft Chapter 197, then continue the first five-chapter handoff.
+- Chapters complete: **4/25**.
+- Arc body words: **41,825 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–197, index, chapter YAML, 194–198 ledger, and updated sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 198, introducing Ianthe through her own arrival and carrying the Chapter 197 handoff.
 

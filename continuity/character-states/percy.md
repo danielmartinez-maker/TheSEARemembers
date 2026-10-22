@@ -314,7 +314,7 @@
 - **State and events:** Percy tells Leandros only that he had people who cared for him in Atlantis; he does not share the altered-childhood memory gap or erased-future memories. He and Annabeth remain affectionate. He offers her the last cake and accepts her choice to inspect and repair her stool while he holds the pieces.
 - **Carry-forward:** Percy does not become Leandros’s universal interpreter. The stool remains unrepaired; Annabeth’s decision about the repair is hers.
 
-**Current carry-forward at Ch195.** Percy remains fourteen in the autumn sequence and Annabeth’s chosen partner. He has not disclosed the erased-future memories or his altered-childhood memory gap to Leandros. Leandros uses the Cabin Three cot again, but longer-term placement and sibling trust remain unsettled. The fence, awning, stool, loose rail, and first-hard-frost recheck remain open; greenhouse banking is complete for now. Thalia’s heel state and Percy’s apology remain as last shown in Chapter 194. Amphitrite remains unaware of Percy’s predicament.
+**Historical carry-forward at Ch195.** Percy remains fourteen in the autumn sequence and Annabeth’s chosen partner. He has not disclosed the erased-future memories or his altered-childhood memory gap to Leandros. Leandros uses the Cabin Three cot again, but longer-term placement and sibling trust remain unsettled. The fence, awning, stool, loose rail, and first-hard-frost recheck remain open; greenhouse banking is complete for now. Thalia’s heel state and Percy’s apology remain as last shown in Chapter 194. Amphitrite remains unaware of Percy’s predicament.
 
 
 ### Chapter 196 · What a Map Leaves Out
@@ -322,3 +322,11 @@
 - **Source:** [Chapter 196](../../chapters/196-what-a-map-leaves-out.md).
 - **State and events:** Percy overexplains Clarisse’s motives to Leandros, and Annabeth stops him because he is smoothing over Clarisse’s offense and choosing her explanation for her. He acknowledges the specific mistake; Annabeth also owns that she can make corrections sharply. They remain affectionate and repair the disagreement directly.
 - **Carry-forward:** Percy is not the automatic interpreter of Clarisse, Annabeth, or Leandros. Their relationship remains secure; no breakup or memory disclosure occurs.
+### Chapter 197 · The Room We Keep
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–198 ledger](../chapter-ledgers/194-198.md#L40).
+- Percy witnesses Leandros misrepresent Silena's unfinished watercolor as a gift for Amphitrite. He asks whether Silena wants him to come with her when she leaves lunch and accepts her answer without following.
+- He asks before viewing the work and accepts “not tonight.” The copy remains unfinished; no letter or mailing is confirmed. He does not disclose his erased-future memories or altered-childhood autobiographical gap to Amphitrite or Leandros.
+
+
+**Current carry-forward at Ch197.** Percy remains fourteen in the autumn sequence and Annabeth’s chosen partner. He asks before viewing Silena’s unfinished copy and accepts her “not tonight”; no letter or mailing is confirmed. Leandros has not earned broad trust, and Percy does not become his universal interpreter. Percy has not disclosed his erased-future memories or altered-childhood autobiographical gap to Leandros or Amphitrite.

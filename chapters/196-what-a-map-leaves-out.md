@@ -206,7 +206,7 @@ She searched his face for the familiar urge to explain the apology, to make sure
 
 He shifted his hands, careful not to let the stool tilt. “I’m still worried.”
 
-“You can be worried.”
+“I don’t want you to stop worrying. You can be worried.”
 
 “I can tell you I’m worried.”
 
