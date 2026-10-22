@@ -1,6 +1,6 @@
 # Percy: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 195; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 196; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found percy in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -315,3 +315,10 @@
 - **Carry-forward:** Percy does not become Leandros’s universal interpreter. The stool remains unrepaired; Annabeth’s decision about the repair is hers.
 
 **Current carry-forward at Ch195.** Percy remains fourteen in the autumn sequence and Annabeth’s chosen partner. He has not disclosed the erased-future memories or his altered-childhood memory gap to Leandros. Leandros uses the Cabin Three cot again, but longer-term placement and sibling trust remain unsettled. The fence, awning, stool, loose rail, and first-hard-frost recheck remain open; greenhouse banking is complete for now. Thalia’s heel state and Percy’s apology remain as last shown in Chapter 194. Amphitrite remains unaware of Percy’s predicament.
+
+
+### Chapter 196 · What a Map Leaves Out
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 196](../../chapters/196-what-a-map-leaves-out.md).
+- **State and events:** Percy overexplains Clarisse’s motives to Leandros, and Annabeth stops him because he is smoothing over Clarisse’s offense and choosing her explanation for her. He acknowledges the specific mistake; Annabeth also owns that she can make corrections sharply. They remain affectionate and repair the disagreement directly.
+- **Carry-forward:** Percy is not the automatic interpreter of Clarisse, Annabeth, or Leandros. Their relationship remains secure; no breakup or memory disclosure occurs.

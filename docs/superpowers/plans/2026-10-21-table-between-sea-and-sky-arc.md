@@ -59,7 +59,13 @@ Files: five numbered chapter sources and a five-chapter continuity ledger/handof
 - [x] Let a shared meal expose that siblinghood did not give Percy, Clarisse, and Silena one childhood; preserve Leandros's caring bond with his mother.
 - [x] Show a specific but partial apology and changed behavior; no instant trust or cabin authority.
 - [x] Verify 10,573 body words by the repository's whitespace-token method; Clarisse-limited, five scenes separated by four scene breaks, continuity record and handoff added.
-- [ ] Ch196: Annabeth’s autonomy and Percy/Annabeth’s specific disagreement develop without romance reset.
+- [x] Ch196: Annabeth’s autonomy and Percy/Annabeth’s specific disagreement develop without romance reset.
+- [x] Continue from Tuesday night to Wednesday without an exact date; the camp map is a draft with uncertain shore notes clearly distinguished.
+- [x] Let Annabeth orient Leandros on camp routes without interpreting Clarisse’s feelings or private history.
+- [x] Show Percy overexplaining and smoothing over Leandros’s offense, then a direct, affectionate repair with mutual accountability.
+- [x] Give Leandros’s current-reading a real but bounded use; he asks Clarisse directly for a route walk and accepts “not tonight” without a trust milestone.
+- [x] Re-glue Annabeth’s stool and test once; keep the other unresolved repairs and heel state accurate.
+- [x] Verify 10,144 body words with the repository’s whitespace-token method; Annabeth-limited, six scenes, continuity record and handoff added.
 - [ ] Ch197: Silena declines automatic emotional labor; Amphitrite cares about Silena’s own interest.
 - [ ] Ch198: Ianthe arrives through a separate plausible route; no Zeus appearance is required for recognition.
 - [ ] Ch199: Cabin One negotiates space, authority, and privacy without erasing Grace sisterhood.
@@ -119,8 +125,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **2/25**.
-- Arc body words: **21,460 / 250,000**.
+- Chapters complete: **3/25**.
+- Arc body words: **31,604 / 250,000**.
 - Canon and arc files: spec, plan, bible additions, Chapter 194, index, YAML, 194–198 ledger, and initial sibling profiles are on PR #103.
-- Current next action: draft Chapter 196, then continue the first five-chapter handoff.
+- Current next action: draft Chapter 197, then continue the first five-chapter handoff.
 

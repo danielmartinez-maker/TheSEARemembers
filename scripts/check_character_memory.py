@@ -400,6 +400,11 @@ CHECKS = {
                     "I had people who took care of me."),
         "absent": ("Because of the time thing?", "I remember the future"),
     },
+    "chapters/196-what-a-map-leaves-out.md": {
+        "present": ("I’m not going to explain your sister for you.",
+                    "I don’t want you to stop worrying."),
+        "absent": ("Because of the time thing?", "I remember the future"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

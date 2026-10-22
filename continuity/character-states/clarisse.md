@@ -1,6 +1,6 @@
 # Clarisse: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 195; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 196; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found clarisse in 191 of 193 chapter files (001–053, 055–118, 120–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -243,7 +243,7 @@
 
 **Current carry-forward at Ch194.** Clarisse remains fifteen, in Cabin Three, Poseidon’s daughter, and Percy’s and Silena’s sister; Leandros is a new paternal half-brother but not an authority over her. Her hurt about Poseidon’s unequal involvement remains valid and unresolved; no new Poseidon visit or apology has occurred. Tyson’s return and the promised canoe repair are not confirmed. The fence remains bent and only temporarily braced; the north-step frost check, torn awning, Annabeth’s stool, and loose porch rail remain open. Thalia’s heel still hurts under Chiron’s plan; her Tuesday hall choice remains hers. Amphitrite’s separate maternal relationship with Clarisse is still future development.
 
-**Planned future maternal arc (not an event through Ch195).** Amphitrite gradually grows into a maternal figure to Clarisse through repeated care that respects Clarisse’s limits and anger about Poseidon’s unequal involvement. Clarisse’s separate, voluntary choice to call her “Mom” comes later than Silena’s, in an earned private scene. No such scene or title has occurred through Chapter 194, and Amphitrite never requests it. Her care does not replace Clarisse’s relationship with her own mother or resolve Poseidon’s grievance on his behalf.
+**Planned future maternal arc (not an event through Ch196).** Amphitrite gradually grows into a maternal figure to Clarisse through repeated care that respects Clarisse’s limits and anger about Poseidon’s unequal involvement. Clarisse’s separate, voluntary choice to call her “Mom” comes later than Silena’s, in an earned private scene. No such scene or title has occurred through Chapter 194, and Amphitrite never requests it. Her care does not replace Clarisse’s relationship with her own mother or resolve Poseidon’s grievance on his behalf.
 
 ### Chapter 195 · The Rules of Cabin Three
 - **Knowledge provenance:** FIRSTHAND.
@@ -252,3 +252,12 @@
 - **Carry-forward:** Leandros still has to show he can hear a boundary without turning it into a contest. Clarisse’s Poseidon grievance and her relationship with Amphitrite remain on their separate tracks.
 
 **Current carry-forward at Ch195.** Clarisse remains fifteen, in Cabin Three, Poseidon’s daughter, and Percy’s and Silena’s sister. Leandros is her new paternal half-brother, but his age and parentage do not give him authority. His specific apology is not a trust repair. The awning was inspected but remains torn; the fence is still braced, the stool, loose rail, and first-hard-frost recheck remain open. Thalia’s injury and Tuesday choice were not revisited in Chapter 195. No new Poseidon visit or apology, Amphitrite title, or forgiveness is shown.
+
+
+### Chapter 196 · What a Map Leaves Out
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 196](../../chapters/196-what-a-map-leaves-out.md).
+- **State and events:** Clarisse tells Leandros she remains angry, answers his direct question about walking the boathouse route with “not tonight,” and does not commit to tomorrow. She tells him to ask her again when she is not carrying the repair list. Annabeth does not interpret Clarisse’s feelings for him.
+- **Carry-forward:** This is not trust or forgiveness. Clarisse’s Poseidon grievance and separate relationship with Amphitrite remain unresolved.
+
+**Current carry-forward at Ch196.** Leandros has heard Clarisse’s anger directly; she has not decided whether to walk him tomorrow or promised closeness. The awning remains torn, the fence braced, the Cabin One rail and first-hard-frost check remain open. Annabeth re-glued her stool, which holds once but still needs curing. No new Poseidon visit, apology, or Amphitrite title is shown.

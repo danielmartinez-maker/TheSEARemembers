@@ -1,6 +1,6 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 195; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 196; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found annabeth in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -310,3 +310,10 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - **Carry-forward:** The stool still needs repair. Annabeth’s autonomy remains distinct from Percy’s wish to help.
 
 **Current carry-forward at Ch195.** Annabeth remains fourteen in the late-summer/early-autumn chronology and Percy’s chosen partner. She has met Leandros but has not agreed to guide him or assume responsibility for his belonging. The Cabin One stool is still broken; she plans to work on it with Percy holding the pieces. The loose rail, first-hard-frost recheck, torn awning, and bent fence remain unresolved. Her erased-future memory stays private; no new disclosure occurs.
+
+
+### Chapter 196 · What a Map Leaves Out
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 196](../../chapters/196-what-a-map-leaves-out.md).
+- **State and events:** Annabeth draws and posts a working map with checked paths distinguished from an unverified shore route. She helps Leandros orient himself but refuses to explain Clarisse’s private feelings for him. She and Percy argue over his attempt to smooth over Leandros’s offense; both name their parts and repair it directly. The stool is re-glued and holds once, with more curing needed.
+- **Carry-forward:** The map’s shore notes remain provisional. Annabeth remains Percy’s established partner and does not take responsibility for Leandros’s family bonds.

@@ -1,6 +1,6 @@
 # Leandros: source-limited continuity notes
 
-**Coverage:** Chapters 194–195 only; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
+**Coverage:** Chapters 194–196 only; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
 
 ## Author-approved identity
 
@@ -31,9 +31,18 @@
 - He uses the Cabin Three cot again, leaves his duffel zipped under it, and has no settled long-term placement.
 - His mother’s name and private history remain unspecified. The marina monster remains unidentified. He has not met Ianthe, Rhode, Benthesikyme, Triton, or Tyson through Chapter 195.
 
+### Chapter 196 · What a Map Leaves Out
+
+- **Source:** [Chapter 196](../../chapters/196-what-a-map-leaves-out.md).
+- Leandros shows Annabeth a usable path to the boathouse and points out a current moving against the wind; the skill is narrow and can change with conditions.
+- He presses to label low ground as closed before Chiron inspects it. He later agrees to distinguish what he observed from what still needs checking and offers a clearer note for the map.
+- He tries to get Annabeth to explain Clarisse’s anger; Annabeth declines. He later asks Clarisse directly to walk him to the boathouse. She says not tonight and does not commit to tomorrow.
+- He accepts the direct answer, but continues to ask what he gets from family belonging and resists the idea that others must decide camp safety with him.
+- The map does not establish him as an authority. His mother, marina danger, and longer-term cabin placement remain as last recorded.
+
 ## Current handoff
 
-At the close of Chapter 195, Leandros is still learning Cabin Three’s routines. Clarisse and Silena have set boundaries; neither owes him instant closeness. His pride, sexism when challenged, and status assumptions remain present despite a specific acknowledgment. Do not treat the flatcakes, shield stance, or apology as proof of broad competence or complete change. Preserve the difference between his mortal household and the Camp Three siblings’ unequal childhoods.
+At the close of Chapter 196, Leandros has made one direct request to Clarisse and accepted a limited “not tonight”; no trust or forgiveness is established. His current-reading is real but narrow, and the posted camp map remains a working draft with uncertain shoreline. His status assumptions, impatience, and need for control persist. His mortal mother’s identity remains unspecified; the marina monster remains unknown. He has not met Ianthe, Rhode, Benthesikyme, Triton, or Tyson through Chapter 196.
 
 ## Sources
 
