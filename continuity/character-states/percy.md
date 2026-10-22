@@ -324,9 +324,17 @@
 - **Carry-forward:** Percy is not the automatic interpreter of Clarisse, Annabeth, or Leandros. Their relationship remains secure; no breakup or memory disclosure occurs.
 ### Chapter 197 · The Room We Keep
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–198 ledger](../chapter-ledgers/194-198.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–199 ledger](../chapter-ledgers/194-199.md#L40).
 - Percy witnesses Leandros misrepresent Silena's unfinished watercolor as a gift for Amphitrite. He asks whether Silena wants him to come with her when she leaves lunch and accepts her answer without following.
 - He asks before viewing the work and accepts “not tonight.” The copy remains unfinished; no letter or mailing is confirmed. He does not disclose his erased-future memories or altered-childhood autobiographical gap to Amphitrite or Leandros.
 
 
 **Current carry-forward at Ch197.** Percy remains fourteen in the autumn sequence and Annabeth’s chosen partner. He asks before viewing Silena’s unfinished copy and accepts her “not tonight”; no letter or mailing is confirmed. Leandros has not earned broad trust, and Percy does not become his universal interpreter. Percy has not disclosed his erased-future memories or altered-childhood autobiographical gap to Leandros or Amphitrite.
+### Chapter 199 · A Bed Beside the Window
+
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 199](../../chapters/199-a-bed-beside-the-window.md); [194–199 chapter ledger](../chapter-ledgers/194-199.md).
+- Percy carries blankets at the Big House and lets Annabeth decide whether she wants him involved in the room discussion. He does not mediate Ianthe's welcome or decide the Cabin One arrangement.
+- Percy and Annabeth share a brief kiss and stay affectionate and secure. No relationship reset or erased-future disclosure occurs.
+
+**Current carry-forward at Ch199.** Percy remains fourteen in the autumn sequence and Annabeth's established partner. Ianthe's bed and long-term placement remain unsettled; Percy does not decide her welcome. Leandros has not earned broad trust, and Percy does not become his universal interpreter. Percy has not disclosed his erased-future memories or altered-childhood autobiographical gap to Leandros or Amphitrite.

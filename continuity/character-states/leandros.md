@@ -1,6 +1,6 @@
 # Leandros: source-limited continuity notes
 
-**Coverage:** Chapters 194–198 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
+**Coverage:** Chapters 194–199 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
 
 ## Author-approved identity
 
@@ -42,7 +42,7 @@
 
 ### Chapter 197 · The Room We Keep
 
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–198 ledger](../chapter-ledgers/194-198.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–199 ledger](../chapter-ledgers/194-199.md#L40).
 - Leandros sees Silena's unfinished copy of the three-wave sketch and misreads it as a present for Amphitrite. Though Silena explains that she decides whether it is shown, he publicly describes it as a gift at lunch, putting her on the spot.
 - He asks whether Poseidon knew Amphitrite was visiting or had told her about Leandros. She says Chiron invited her and told her of Leandros's arrival; Poseidon had not told her about him.
 - He later apologizes for speaking for her and says he wanted Amphitrite to see him with the Camp Three siblings. He accepts that Silena may not want a four-person picture. His understanding is partial; no trust or forgiveness is established.
@@ -50,7 +50,7 @@
 
 ## Current handoff
 
-At the close of Chapter 198, Leandros's Chapter 197 state continues: he has apologized for one specific overstep but still wants a family picture and has not earned broad trust. Silena's project remains hers and unfinished. He has repaired a canvas cover for the paddle rack. His status assumptions, impatience, and need for control persist. His mortal mother's identity remains unspecified; the marina monster remains unknown. Chapter 198 does not include him, and he has not met Ianthe.
+At the close of Chapter 199, Leandros's Chapter 197 state continues: he has apologized for one specific overstep but still wants a family picture and has not earned broad trust. Silena's project remains hers and unfinished. He has repaired a canvas cover for the paddle rack. His status assumptions, impatience, and need for control persist. His mortal mother's identity remains unspecified; the marina monster remains unknown. Chapter 199 does not include him, and he has not met Ianthe.
 
 ## Sources
 

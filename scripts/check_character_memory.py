@@ -416,6 +416,11 @@ CHECKS = {
                     "I don’t know you yet", "I’ll be in the guest room tonight"),
         "absent": ("Beryl", "Because of the time thing?", "I remember the future"),
     },
+    "chapters/199-a-bed-beside-the-window.md": {
+        "present": ("I want the bed beside the window", "The path from the door is clear",
+                    "One has a broken leg", "I want the window"),
+        "absent": ("Because of the time thing?", "I remember the future"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

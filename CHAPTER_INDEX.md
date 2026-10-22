@@ -202,6 +202,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **196.** [What a Map Leaves Out](chapters/196-what-a-map-leaves-out.md)
 - **197.** [The Room We Keep](chapters/197-the-room-we-keep.md)
 - **198.** [The Face of Thunder](chapters/198-the-face-of-thunder.md)
+- **199.** [A Bed Beside the Window](chapters/199-a-bed-beside-the-window.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

@@ -1,6 +1,6 @@
 # Ianthe: source-limited continuity notes
 
-**Coverage:** Chapter 198 introduction only; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
+**Coverage:** Chapters 198–199 introduction and early interactions only; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
 
 ## Author-approved identity
 
@@ -18,7 +18,7 @@
 
 ## Confirmed in Chapter 198
 
-- **Source:** [Chapter 198](../../chapters/198-the-face-of-thunder.md); [194–198 chapter ledger](../chapter-ledgers/194-198.md).
+- **Source:** [Chapter 198](../../chapters/198-the-face-of-thunder.md); [194–199 chapter ledger](../chapter-ledgers/194-199.md).
 - A satyr escorts her to camp after a squall at home. Ianthe says that Zeus is her father. The satyr reports that garden chairs were thrown into the street and struck an empty parked car; no one was hurt. Ianthe says she kept the worst away from the house. She does not apologize for the incident.
 - Her living mother sent a note and asked Ianthe to call. Ianthe says she will call later; no call is shown. The mother's name, private history, address, and contact pattern remain unknown.
 - She says Zeus told her she notices what others miss. She treats that attention as a reason to make decisions for people she has just met. At the Big House she notices a gust correctly but fails to explain the reason for her order to a young camper. At Cabin One she forecasts the local wind incompletely and adds a second arrow after Thalia and Annabeth correct her.
@@ -26,9 +26,19 @@
 - Thalia says she does not know Ianthe yet. She does not promise a relationship or exclude her. Annabeth wants to know Ianthe but is not ready to decide shared-room arrangements.
 - She has met Thalia and Annabeth. She has not met Leandros; no meeting with Jason is shown. Zeus does not appear. No erased-future memory or secret is disclosed to her.
 
+
+## Confirmed in Chapter 199
+
+- **Source:** [Chapter 199](../../chapters/199-a-bed-beside-the-window.md); [194–199 chapter ledger](../chapter-ledgers/194-199.md).
+- Ianthe wants a bed beside Cabin One's window and draws two plans. Annabeth will not agree to move either sister's bed before a suitable cot is available and the residents agree. Ianthe stays in the Big House guest room another night.
+- She notices a useful two-way route for moving damp blankets through the Big House west room. Chiron authorizes the table move and the workers use her route. She gives Eli an order before learning what he is already doing; he and the older camper object to her directing them. Her plan helps, but she does not apologize or earn trust.
+- She acknowledges that she did not account for the cupboard door. She intends to call her unnamed living mother and leaves for the Big House study; the call and its contents are not shown.
+- Annabeth decides she can ask Ianthe to join breakfast the following day, but no invitation is delivered. Thalia does not speak for Annabeth.
+- Chiron finds one cot with a broken leg and another too wide for the measured space. The inspection and repair remain open. Ianthe and Leandros have not met.
+
 ## Current handoff
 
-At the close of Chapter 198, Ianthe wants to return to Cabin One and discuss the bed. Her weather-reading skill is real but limited by local conditions; her authority assumptions and impatience persist. She has not earned trust, forgiveness, or a permanent cabin arrangement. Her mother-call remains pending, and her mother remains unnamed and separate from Beryl. Ianthe and Leandros have not met.
+At the close of Chapter 199, Ianthe wants a bed beside Cabin One's window but stays in the Big House guest room because the available cot is unsuitable. Her planning skill helps the blanket crew, while her orders alienate workers. Her authority assumptions persist, and she has not earned trust, forgiveness, or a permanent cabin arrangement. She intends to call her unnamed mother, but no call is shown; the mother remains separate from Beryl. Ianthe and Leandros have not met.
 
 ## Source
 

@@ -76,7 +76,8 @@ Files: five numbered chapter sources and a five-chapter continuity ledger/handof
 - [x] Preserve Annabeth’s autonomy, Thalia and Annabeth’s sister bond, and the established Percy/Annabeth relationship.
 - [x] Carry Thalia’s heel without reassessment or recovery; leave Cabin One bed and placement unresolved overnight.
 - [x] Verify 10,051 body words by the repository method; Thalia-limited, six scenes, continuity YAML and ledger/profile updates added.
-- [ ] Ch199: Cabin One negotiates space, authority, and privacy without erasing Grace sisterhood.
+- [x] Ch199: Cabin One negotiates space, authority, and privacy without erasing Grace sisterhood.
+- [x] Verify 10,214 body words by the repository method; Annabeth-limited except the final Thalia scene, seven scenes, continuity YAML/ledger/profile updates added. The window-side bed and placement remain unresolved.
 
 Check: 10,000 words minimum each; introduce characters through actions and dialogue, not biography dumps; review all household logistics.
 
@@ -133,8 +134,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **5/25**.
-- Arc body words: **51,876 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–198, index, chapter YAML, the 194–198 ledger, and updated sibling/relationship profiles are on PR #103.
+- Chapters complete: **6/25**.
+- Arc body words: **62,090 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–199, index, chapter YAML, the 194–199 ledger, and updated sibling/relationship profiles are on PR #103.
 - Current next action: draft Chapter 199, negotiating Cabin One space, authority, and privacy while preserving the unresolved overnight placement.
 
