@@ -74,7 +74,7 @@ The four-phase request explicitly authorized substantive expansion of the chapte
 
 ### 2.2 Persistent, character-specific memory (author directive, 2026-10-13)
 
-**Everyone retains a cumulative memory of what they personally experienced in this manuscript.** Chapters cannot quietly reset a friendship, first meeting, chosen family title, romantic milestone, conversation, skill, promise, injury, gift, disagreement, or earned trust just to replay the same emotional beat. A person who met another character in Chapter 30 must not introduce themselves to that person in Chapter 123. Percy's spoken **Mom** for Amphitrite in Chapters 99, 127, and 132 is an earned part of their relationship: he may still use her name or **Mother** in formal writing and other contextually formal uses, but must not subsequently treat her as a stranger. Affection can wax and wane; factual acquaintance does not.
+**Everyone retains a cumulative memory of what they personally experienced in this manuscript.** Chapters cannot quietly reset a friendship, first meeting, chosen family title, romantic milestone, conversation, skill, promise, injury, gift, disagreement, or earned trust just to replay the same emotional beat. A person who met another character in Chapter 30 must not introduce themselves to that person in Chapter 123. Percy’s spoken **Mom** for Amphitrite is established in Chapter 14 and continues in Chapters 99, 127, and 132; he may still use her name or **Mother** in formal writing and other contextually formal uses, but must not subsequently treat her as a stranger. Affection can wax and wane; factual acquaintance does not.
 
 Distinguish four separate categories for each character:
 
