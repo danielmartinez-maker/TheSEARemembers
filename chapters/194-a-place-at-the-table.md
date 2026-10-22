@@ -662,6 +662,10 @@ She gave him a look and left toward the hill. Callum returned with Chiron a few 
 
 “I know who you are.”
 
+“How old are you?”
+
+“Sixteen.”
+
 “Your mother has written to me.”
 
 Leandros’s expression shifted, a small crack in his certainty. “She did?”
@@ -670,9 +674,13 @@ Leandros’s expression shifted, a small crack in his certainty. “She did?”
 
 “She wrote all that?”
 
-“She was thorough. She told me a monster followed you to the school marina and that this was the second time it had found you. Callum brought you to camp after your mother got you away from the water.”
+“She was thorough.”
 
-Leandros looked down at his bandaged knuckle. “She came with me to the bus station. She waited until Callum was sure the trail was clear.”
+Leandros looked down at his bandaged knuckle. “The monster followed me to the school marina twice. You can tell them that. Not what it looked like.”
+
+“I will respect that.”
+
+“My mother drove me to the bus station. She waited until Callum was sure the trail was clear.”
 
 “That was a sensible choice.”
 
