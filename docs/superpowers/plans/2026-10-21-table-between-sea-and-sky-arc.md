@@ -88,7 +88,8 @@ Files: Chapters 200–205 and continuation handoffs.
 - [x] Ch200: seasonal repair list exposes Leandros’s and Percy’s assumptions.
 - [x] Record the first Leandros/Ianthe meeting, repaired Cabin One rail, fence drainage note, and unresolved work/injury states.
 - [x] Verify 10,365 body words; Percy-limited, four scene breaks, continuity YAML and 194–200 ledger/profile updates added.
-- [ ] Ch201: Ianthe’s planning strength and command flaw collide with actual workers.
+- [x] Ch201: Annabeth-limited POV shows Ianthe’s planning strength and command flaw colliding with actual workers; her weather read is useful, but she writes names before asking. Clarisse refuses an unasked assignment, Beckendorf declines unsafe ladder work, and Eli confirms one small task.
+- [x] Verify 10,153 body words, Annabeth-limited POV, continuity YAML, updated 194–201 ledger, index, arc progress, and selected character-state notes.
 - [ ] Ch202: sustained, non-transactional Amphitrite/Silena connection deepens.
 - [ ] Ch203: unequal fatherhood is discussed without equating Percy’s altered-memory gap with Leandros’s life.
 - [ ] Ch204: Chiron’s scheduled reassessment follows Ch193’s plan and shows the actual result.
@@ -136,8 +137,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **7/25**.
-- Arc body words: **72,455 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–200, index, chapter YAML, the 194–200 ledger, and updated sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 201, showing Ianthe's planning strength and command flaw colliding with the people doing the work.
+- Chapters complete: **8/25**.
+- Arc body words: **82,608 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–201, index, chapter YAMLs, the 194–201 ledger, and updated sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 202, deepening Silena and Amphitrite's sustained, non-transactional connection.
 

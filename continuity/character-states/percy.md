@@ -1,6 +1,6 @@
 # Percy: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 200; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 201; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found percy in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -324,7 +324,7 @@
 - **Carry-forward:** Percy is not the automatic interpreter of Clarisse, Annabeth, or Leandros. Their relationship remains secure; no breakup or memory disclosure occurs.
 ### Chapter 197 · The Room We Keep
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–200 ledger](../chapter-ledgers/194-200.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–201 ledger](../chapter-ledgers/194-201.md#L40).
 - Percy witnesses Leandros misrepresent Silena's unfinished watercolor as a gift for Amphitrite. He asks whether Silena wants him to come with her when she leaves lunch and accepts her answer without following.
 - He asks before viewing the work and accepts “not tonight.” The copy remains unfinished; no letter or mailing is confirmed. He does not disclose his erased-future memories or altered-childhood autobiographical gap to Amphitrite or Leandros.
 
@@ -333,7 +333,7 @@
 ### Chapter 199 · A Bed Beside the Window
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 199](../../chapters/199-a-bed-beside-the-window.md); [194–200 chapter ledger](../chapter-ledgers/194-200.md).
+- **Source:** [Chapter 199](../../chapters/199-a-bed-beside-the-window.md); [194–201 chapter ledger](../chapter-ledgers/194-201.md).
 - Percy carries blankets at the Big House and lets Annabeth decide whether she wants him involved in the room discussion. He does not mediate Ianthe's welcome or decide the Cabin One arrangement.
 - Percy and Annabeth share a brief kiss and stay affectionate and secure. No relationship reset or erased-future disclosure occurs.
 
@@ -342,9 +342,19 @@
 ### Chapter 200 · The Winter List
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–200 ledger](../chapter-ledgers/194-200.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
 - Percy joins a status-based winter work list, carries boards, and watches Beckendorf lead a no-load fence inspection. He sees Leandros correctly identify runoff below the brace, but the fence remains braced pending a drainage review.
 - Leandros claims age and Poseidon's parentage should give him work authority. Percy initially wants to smooth the conflict and explain camp decisions; he stops himself from speaking for Clarisse. Leandros asks whether Percy wants a brother. Percy says he wants to know him but cannot decide their relationship after six days.
 - Percy and Annabeth discuss his impulse to supervise and to treat her participation as agreement. They remain affectionate and secure; Percy discloses neither erased-future memories nor the altered-childhood autobiographical gap.
 
-**Current carry-forward at Ch200.** Percy remains fourteen in the autumn sequence and Annabeth's established partner. He does not become Leandros's interpreter or decide his belonging. Leandros has no cabin authority or broad trust. The rail is repaired with a heavy-rain recheck; other winter tasks remain as listed. No memory disclosure occurs.
+**Historical carry-forward after Ch200.** Percy remains fourteen in the autumn sequence and Annabeth's established partner. He does not become Leandros's interpreter or decide his belonging. Leandros has no cabin authority or broad trust. The rail is repaired with a heavy-rain recheck; other winter tasks remain as listed. No memory disclosure occurs.
+
+### Chapter 201 · The Weather in the Room
+
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–201 chapter ledger](../chapter-ledgers/194-201.md).
+- Percy steadies Annabeth's map when she asks and leaves her conversation with Ianthe to her. They share a quiet moment over tea and the map and a small dinner exchange; they remain secure and affectionate.
+- He does not take over Ianthe's work-list conflict, speak for Annabeth or Thalia, disclose erased-future autobiographical memories, or disclose his altered-childhood memory gap.
+
+**Current carry-forward at Ch201.** Percy remains fourteen in the autumn sequence and Annabeth's established partner. He stays out of Ianthe's sibling conflict and does not become her interpreter. No memory disclosure occurs.
+

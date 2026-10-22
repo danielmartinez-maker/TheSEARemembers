@@ -1,6 +1,6 @@
 # Silena: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 200; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 201; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found silena in 188 of 193 chapter files (001–025, 027–053, 055–072, 074, 076–153, 155–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -270,7 +270,7 @@
 - **Carry-forward:** Her care remains bounded. No new chosen-mother title or interaction with Amphitrite occurs.
 ### Chapter 197 · The Room We Keep
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–200 ledger](../chapter-ledgers/194-200.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–201 ledger](../chapter-ledgers/194-201.md#L40).
 - **State and events:** Silena resumes the unfinished color copy of the three-wave sketch she made with Percy and Clarisse on their Chapter 091 tide-pool day. The copy was promised for Percy to consider including in a future letter; no letter is sent. She explicitly controls whether the work is shown or shared. She corrects Leandros when he calls it a gift for Amphitrite, leaves lunch, and later hears his apology for speaking on her behalf. She does not promise a new four-person picture or forgiveness.
 - **Carry-forward:** Her work remains unfinished and hers. She has not become the automatic peacemaker. Her relationship with Amphitrite has a small, voluntary exchange about watercolor technique; no maternal title is chosen, and her relationship with Maria stays unresolved.
 
@@ -279,8 +279,8 @@
 ### Chapter 200 · The Winter List
 
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–200 ledger](../chapter-ledgers/194-200.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
 - Silena serves lunch to the work group and corrects Clarisse when Clarisse answers Leandros's question about belonging with the response she wanted to give. She does not take over the conversation or promise Leandros anything.
 - The warm meal is shared camp care, not a maternal milestone. Her unfinished three-wave copy remains under her control; no new scene with Amphitrite or title choice occurs.
 
-**Current carry-forward at Ch200.** Silena remains close to Percy and Clarisse but is not the automatic peacemaker. Leandros's one useful fence observation does not earn broad trust. Her separate relationship with Amphitrite and her history with Maria remain unchanged; no title or forgiveness is shown.
+**Historical carry-forward after Ch200.** Silena remains close to Percy and Clarisse but is not the automatic peacemaker. Leandros's one useful fence observation does not earn broad trust. Her separate relationship with Amphitrite and her history with Maria remain unchanged; no title or forgiveness is shown.

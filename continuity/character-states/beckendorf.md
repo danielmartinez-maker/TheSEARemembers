@@ -57,7 +57,13 @@ The available chapter files 001–193 were searched for Beckendorf and possible 
 
 ### Scoped Chapter 200 event
 
-- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–200 ledger](../chapter-ledgers/194-200.md).
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–201 ledger](../chapter-ledgers/194-201.md).
 - Beckendorf leads a no-load fence inspection. He confirms Leandros's observation that rainwater pools below the brace, records the drainage question, and leaves the fence braced until the ground is firmer.
 - He checks Cabin One's rail, replaces the lower bracket's short screw with a longer screw, checks the post, and records a recheck after heavy rain. He leaves the awning untouched while the wind rises.
 - This is a scoped new-arc event, not a fresh sweep of his other candidate appearances. The pre-arc candidate search covered Chapters 001–193; no full character-state matrix is claimed for Chapters 194–200.
+
+### Chapter 201 · The Weather in the Room
+
+- **Source:** [Chapter 201](../../chapters/201-the-weather-in-the-room.md); [194–201 chapter ledger](../chapter-ledgers/194-201.md).
+- Beckendorf declines ladder work while the wind shifts and because the correct replacement strap is unavailable. He does not inspect or repair the awning. No worker is assigned without agreement.
+

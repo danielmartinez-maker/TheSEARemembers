@@ -428,6 +428,14 @@ CHECKS = {
         "absent": ("Because of the time thing?", "I remember the future",
                    "I had lived this life before"),
     },
+    "chapters/201-the-weather-in-the-room.md": {
+        "present": ("I’m not scheduling them. I’m showing when the work could happen.",
+                    "Trying to help doesn’t make you in charge",
+                    "That’s my decision.", "after inventory check",
+                    "The wind had not settled into the direction she had predicted."),
+        "absent": ("I remember the future", "I had lived this life before",
+                   "Thalia’s heel was healed"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(
