@@ -1,6 +1,6 @@
 # Thalia: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 204, with scoped source updates for the new family-first arc; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 205, with scoped source updates for the new family-first arc; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found thalia in 190 files (001–101, 103–105, 107–112, 114–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -340,3 +340,13 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - Thalia has not decided whether to attend Tuesday's hall and would stay out of the water if she goes. The later Chapter 214 follow-up remains open.
 
 **Carry-forward after Ch204.** The heel remains improved but tender and uncleared for strenuous training. Tuesday hall attendance is undecided; continue Chiron's care plan and do not jump to full recovery.
+
+### Chapter 205 · The answer belongs to Annabeth
+
+- **Knowledge provenance:** FIRSTHAND for the stool incident, apology, Tuesday hall choice, and private room/family conversation.
+- **Source:** [Chapter 205](../../chapters/205-the-shape-of-no.md); [194–205 chapter ledger](../chapter-ledgers/194-205.md).
+- When Ianthe lifts Annabeth's stool after Annabeth says not to move it, Thalia tells her to put it down before Annabeth can finish answering. Annabeth asks both to stop and says she can speak for herself. Thalia later acknowledges she moved too quickly and apologizes.
+- Annabeth tells Thalia she is angry but glad she is present. Thalia asks whether Annabeth wants her to leave; Annabeth says no. Their relationship stays close without requiring the feeling to disappear.
+- In a private conversation, Thalia says Ianthe is her sister and that she wants to know her, while rejecting responsibility for deciding if Ianthe counts as family. Annabeth says she wants Ianthe in Cabin One but cannot promise a bed or immediate shared-room arrangement. Ianthe does not hear this conversation.
+- Thalia chooses not to attend Tuesday's evening hall. No new heel examination occurs; carry forward the Chapter 204 care plan and lack of strenuous-training clearance.
+**Carry-forward after Ch205.** Thalia's heel remains under the existing plan; no new recovery outcome is inferred. She has not committed to a timetable for closeness with Ianthe and has made no room-placement decision.

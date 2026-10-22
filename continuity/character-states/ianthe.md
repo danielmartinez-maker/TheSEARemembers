@@ -1,6 +1,6 @@
 # Ianthe: source-limited continuity notes
 
-**Coverage:** Chapters 198–201 introduction and early interactions only; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
+**Coverage:** Selected source-anchored events in Chapters 198–205; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
 
 ## Author-approved identity
 
@@ -54,3 +54,11 @@ At the close of Chapter 199, Ianthe wants a bed beside Cabin One's window but st
 ## Historical handoff after Chapter 200
 
 Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She remains expected in the Big House guest room; the window-side bed, cot repair, and long-term placement remain unresolved. Her copy and wind observation are useful, while her wish to direct priorities persists. She intends to call her unnamed living mother, but the call is not shown. No Zeus appearance, maternal title, forgiveness, or broad trust milestone occurs.
+
+## Confirmed in Chapter 205
+
+- **Source:** [Chapter 205](../../chapters/205-the-shape-of-no.md); [194–205 chapter ledger](../chapter-ledgers/194-205.md).
+- Ianthe still wants the window-side bed and says the Big House guest room feels like a verdict on whether she is family. Annabeth says she wants Ianthe in Cabin One but cannot promise a room arrangement; the cot, latch, and placement remain unresolved.
+- Ianthe moves Annabeth's stool after being told not to, and the joint shifts. She later admits she heard the no and kept treating it as if a better explanation could change the answer. Annabeth accepts her specific apology without saying the harm is fixed.
+- She joins a paper-only room plan, asks before leaving the drawing on the table, and says she is going to the hall. Her arrival or activities there are not shown. Annabeth and Thalia's private conversation about family belonging occurs after Ianthe leaves; she does not hear it.
+- Ianthe remains in the Big House guest room for now. No bed, trust, or authority milestone is established.

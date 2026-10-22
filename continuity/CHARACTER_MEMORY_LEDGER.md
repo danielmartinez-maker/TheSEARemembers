@@ -415,3 +415,11 @@ These scoped updates link the chapter-specific records completed or corrected in
 - Annabeth joins the morning recheck at Thalia's invitation and witnesses the exam; she later hears about the arrow trial, but does not witness the apology. Percy and Annabeth remain secure.
 - Thalia reports that she attended the previous Tuesday's hall to watch from the edge and did not swim. Attendance at the upcoming Tuesday hall remains undecided; she says she will stay dry if she goes. The next follow-up remains Chapter 214; no full recovery is inferred.
 
+
+## October 22, 2026 source-anchored continuation · Chapter 205
+
+- **Source:** [Chapter 205](../chapters/205-the-shape-of-no.md) and [current 194–205 ledger](chapter-ledgers/194-205.md).
+- Annabeth directly tells Ianthe not to move the stool; Ianthe moves it and its joint shifts. Annabeth chooses and completes the reset/clamp herself, leaving another full day for the glue to cure. Ianthe later names that she heard the boundary and treated it as negotiable; Annabeth accepts the apology without a room decision.
+- Thalia initially speaks before Annabeth can answer. Annabeth asks both sisters to stop; Thalia later owns the overstep and apologizes. Annabeth and Thalia remain close without requiring immediate anger to disappear.
+- Ianthe still wants a window-side bed in Cabin One, but Annabeth makes no placement promise. They work with a paper plan only. Ianthe leaves her drawing on the table by Annabeth's permission and says she is going to the evening hall; her arrival there is not shown.
+- Annabeth and Thalia privately discuss Ianthe's place as family and the difference between belonging, closeness, and a bed assignment. Ianthe does not hear this exchange. Thalia decides not to attend the hall; her heel has no new exam or clearance. No erased-future memory is disclosed.

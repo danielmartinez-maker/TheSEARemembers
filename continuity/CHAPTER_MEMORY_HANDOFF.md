@@ -161,3 +161,13 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Percy / Thalia:** Percy privately apologizes for making his prior concern public. He does not use worry as an excuse or ask for forgiveness. Thalia appreciates the apology and requests private concern that leaves the decision with her.
 - **Knowledge boundary:** Annabeth joins the heel recheck at Thalia's invitation and later hears about the arrow trial; she does not witness the apology. Percy and Annabeth remain secure; their erased-future autobiographical memories are not disclosed. Leandros and Ianthe are absent.
 - **Ch204→Ch205:** Continue into Tuesday without inventing a calendar date/year. Preserve the unresolved hall choice, the existing heel plan, Percy and Leandros's unresolved conflict, and all open camp repairs.
+
+## Chapter 205 continuation
+
+- **Ch204→Ch205:** Chapter 204 ends Monday; Chapter 205 follows Tuesday with no exact date/year. Annabeth's POV carries the Cabin One room discussion.
+- **Annabeth→Ianthe:** Ianthe moves the stool after Annabeth tells her not to. Annabeth directly stops her and chooses the repair. Ianthe hears and later names the boundary violation specifically: she treated Annabeth's no as something she could overrule by explaining her plan. Annabeth accepts the apology without ending the conflict or granting a bed.
+- **Annabeth→Thalia:** Thalia initially intervenes before Annabeth can answer. Annabeth asks both sisters to let her speak. Thalia later apologizes for speaking too quickly; Annabeth stays angry and glad Thalia is there. They remain close.
+- **Room / family:** Annabeth wants Ianthe in Cabin One but is not ready to promise shared-room placement. Ianthe continues to want the window bed. The group uses a paper plan only; no furniture moves, the cot and window latch remain unresolved, and Ianthe's drawing stays on the table by permission. Annabeth and Thalia privately discuss wanting Ianthe as family without making room assignment or instant intimacy a test; Ianthe does not hear that conversation.
+- **Thalia's choice:** She declines Tuesday's evening hall. No heel reassessment or clearance occurs; keep the existing care plan.
+- **Witness boundary:** Annabeth observes all on-page events in her POV; Thalia and Ianthe know what they personally hear or say. Ianthe does not know the sisters' private conversation. Percy, Leandros, Jason, Zeus, and the other absent characters receive no new information.
+- **Ch205→Ch206:** Carry the stool's additional curing day, unresolved window-side bed/cot/latch, open repair list, Thalia's heel plan, and the unresolved Percy–Leandros conflict. Ianthe's apology is a partial repair and grants no authority.

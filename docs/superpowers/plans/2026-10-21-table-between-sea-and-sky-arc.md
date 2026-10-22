@@ -95,7 +95,8 @@ Files: Chapters 200–205 and continuation handoffs.
 - [x] Ch203: Percy acknowledges Atlantis privilege and his autobiographical childhood gap without equating that gap with Leandros’s childhood; Leandros’s resentment turns into an unfair accusation, and the relationship remains unresolved.
 - [x] Verify 10,098 body words by the repository method; Percy-limited POV, five scenes, continuity YAML, 194–203 ledger/handoff, index, progress notes, and selected character-state updates added.
 - [x] Ch204: Chiron’s scheduled reassessment follows Ch193’s plan. Thalia improves but is not cleared; she stops after the modified stance brings a tug back and chooses whether to attend the next hall for herself.
-- [ ] Ch205: Annabeth speaks for herself; Thalia learns when not to intervene.
+- [x] Ch205: Annabeth speaks for herself; Thalia learns when not to intervene.
+- [x] Verify 10,317 body words by the repository whitespace-token method; Annabeth-limited POV, eight scenes, continuity YAML, 194–205 ledger, index, progress notes, and selected character-state updates added. The room plan remains on paper; Ianthe’s placement and Thalia’s heel follow-up remain unresolved.
 
 Check: document only witnessed repairs, injury outcomes, disclosures, and title choices; no later milestone appears early.
 
@@ -139,8 +140,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **11/25**.
-- Arc body words: **113,312 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–204, index, chapter YAMLs, the current 194–204 ledger, and selected sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 205, letting Annabeth speak for herself while Thalia learns when not to intervene.
+- Chapters complete: **12/25**.
+- Arc body words: **123,629 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–205, index, chapter YAMLs, the current 194–205 ledger, and selected sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 206’s early-winter storm consequence, with repairable costs that expose the newcomers’ assumptions without granting instant authority or forgiveness.
 

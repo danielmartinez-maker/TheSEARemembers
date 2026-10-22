@@ -1,0 +1,60 @@
+chapter: 205
+title: "The Shape of No"
+source: "chapters/205-the-shape-of-no.md"
+status: "10,317 body words; scoped arc implementation and continuity review recorded"
+relative_chronology:
+  - "Begins Tuesday after the Monday close of Chapter 204; exact calendar date and year remain unknown"
+  - "The chapter follows the morning boundary conflict, afternoon paper-only room planning, and evening hall departure"
+pov: "Annabeth Chase, third-person limited"
+locations:
+  - "Cabin One"
+  - "Big House workshop"
+  - "Big House guest room"
+  - "Cabin One porch"
+people_knowledge_relationships:
+  annabeth:
+    - "Tells Ianthe not to move the stool; Ianthe moves it anyway, shifting the leg joint. Annabeth stops both Ianthe and Thalia and answers for herself."
+    - "Chooses to reset and clamp the stool herself; the joint needs another full day to cure."
+    - "Tells Ianthe she wants her in Cabin One but cannot promise a bed or placement. She keeps room planning on paper and does not move furniture."
+    - "Receives Ianthe's specific apology for treating Annabeth's no as negotiable; Annabeth thanks her but remains angry and does not decide the room."
+    - "Discusses Ianthe's family place privately with Thalia; she says she wants Ianthe there while remaining unsure about sharing a room. Ianthe is absent and does not hear."
+    - "Accepts Ianthe's request to leave the drawing on the table."
+  thalia:
+    - "Initially tells Ianthe to put the stool down before Annabeth can answer. Annabeth asks her to let Annabeth speak; Thalia later apologizes for speaking too quickly."
+    - "Says she wants to know Ianthe but does not want responsibility for deciding whether she counts as family."
+    - "Declines the Tuesday evening hall. No new heel assessment or strenuous-training clearance occurs."
+  ianthe:
+    - "Still wants the window-side bed in Cabin One and feels the Big House guest room signals exclusion; the placement remains unresolved."
+    - "Moves Annabeth's stool after being told not to; the joint shifts and Annabeth resets it. Ianthe acknowledges she treated the no as revisable and gives a specific apology."
+    - "Uses the room plan on paper, asks before leaving her drawing, and leaves for the hall. Her arrival or activity there is not shown."
+    - "Does not hear Annabeth and Thalia's private conversation about family belonging and the room."
+  chiron:
+    - "Gives Annabeth a spring clamp and confirms the shifted joint can be reset; he says the glue needs another full day."
+work_and_health_states:
+  - item_or_event: "Annabeth's stool"
+    last_seen: "The joint shifted when Ianthe lifted the stool after Annabeth's no. Annabeth resets and clamps it; it needs another full day to cure and should not be used before then."
+  - item_or_event: "Cabin One room placement"
+    last_seen: "Ianthe wants the window-side bed. The sisters review a paper-only scale plan; no furniture moves or placement decision occurs. Cot measurement/inspection and window-latch check remain pending."
+  - item_or_event: "Thalia's heel"
+    last_seen: "No new exam occurs. Carry forward Chapter 204's reduced swelling, persistent tenderness, existing rest/ice/wrap/splint plan, and lack of strenuous-training clearance."
+  - item_or_event: "Tuesday evening hall"
+    last_seen: "Thalia decides not to attend. Ianthe says she is going and leaves Cabin One; her attendance is not shown."
+  - item_or_event: "Existing camp repairs"
+    last_seen: "Cabin One rail, awning bracket, fence drainage review, north-step frost check, and Cabin Three blanket pin remain open."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; neither discloses them."
+  - "Ianthe does not hear Annabeth and Thalia's private family conversation."
+  - "Thalia receives no new medical information or clearance; no unshown hall events are inferred."
+  - "Percy, Leandros, Jason, Zeus, and other absent characters receive no new knowledge from this chapter."
+next_chapter_dependencies:
+  - "Continue on the undated Tuesday-to-next-event chronology; do not invent an exact date or year."
+  - "Leave the window-side bed, cot inspection/measurement, and window latch unresolved until scenes establish a decision."
+  - "Allow the stool another full day to cure; do not use it or imply the joint is already stable."
+  - "Continue Thalia's existing care plan; the next planned heel follow-up remains Chapter 214."
+  - "Carry forward the remaining camp repair list and the unresolved Percy–Leandros conflict."
+  - "Ianthe's specific apology is partial repair and grants no room or camp authority."
+unresolved_canon_questions:
+  - "Whether Ianthe will join the Cabin One room and where her bed could fit remain unknown."
+  - "The cot's suitability and window latch have not been resolved."
+  - "Thalia's heel recovery and Chapter 214 follow-up remain open."
+  - "Ianthe's attendance at the evening hall is not shown."

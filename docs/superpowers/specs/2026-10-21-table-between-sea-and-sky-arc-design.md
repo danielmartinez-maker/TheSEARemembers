@@ -3,7 +3,7 @@
 **Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–204 are drafted on PR #103 at 113,312 body words across eleven installments. Chapter 204, “One Week, Then Ask,” is 10,448 body words. Chapter 205 is next. This is an in-progress checkpoint, not arc completion.
+**Implementation checkpoint (2026-10-22):** Chapters 194–205 are drafted on PR #103 at 123,629 body words across twelve installments. Chapter 205, “The Shape of No,” is 10,317 body words. Chapter 206 is next. This is an in-progress checkpoint, not arc completion.
 
 ## Author-approved direction
 
