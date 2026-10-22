@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 25 of 193 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 30 of 193 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -153,3 +153,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/025-night-watches.md)
 
 ![Percy and Silena make a careful night-watch report at the closed west path, with no creature visible.](025-night-watches.jpg)
+
+## 026. The Roof
+
+[Source chapter](../chapters/026-the-roof.md)
+
+![Annabeth, Percy and Thalia share cocoa beneath blankets on the Zeus cabin roof at night.](026-the-roof.jpg)
+
+## 027. The Library
+
+[Source chapter](../chapters/027-the-library.md)
+
+![Annabeth, Percy, Nico and Ella prepare a careful history display in the Big House archive.](027-the-library.jpg)
+
+## 028. Sparring
+
+[Source chapter](../chapters/028-sparring.md)
+
+![Percy teaches Clarisse water forms in Tempest Hall as Silena times the practice and Annabeth and Thalia watch.](028-sparring.jpg)
+
+## 029. Rainy Day
+
+[Source chapter](../chapters/029-rainy-day.md)
+
+![Percy and Annabeth play Mythomagic indoors while campers gather in the rain-filled Big House.](029-rainy-day.jpg)
+
+## 030. Amphitrite Visits
+
+[Source chapter](../chapters/030-amphitrite-visits.md)
+
+![Amphitrite welcomes Clarisse and Silena with thoughtful gifts during her first visit to camp.](030-amphitrite-visits.jpg)
