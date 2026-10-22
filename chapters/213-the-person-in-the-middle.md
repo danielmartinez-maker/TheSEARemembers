@@ -982,195 +982,75 @@ Ianthe moved the screen in a steady arc. The water rippled. Annabeth placed her 
 
 “Again,” Leandros said.
 
-“I thought one push,” Percy said.
+“Hold on,” Leandros said, as Ianthe lifted the paper screen away from the basin. “You can't call that a test if you only do it once. The first boat held a coin for three seconds, and now you're saying we're finished.”
 
-“It held.”
+Annabeth looked up from her wet paper. “I said we'd try one push and see what happened. That was the whole plan, as far as I knew.”
 
-“Then we learned that.”
+“*Your* plan,” he said, with enough emphasis that Percy could hear yesterday's argument threatening to return. “You made it before I got here.”
 
-“One push isn’t enough to know.”
+“You wanted to join in. You could have said you wanted more than one attempt.”
 
-“That’s a fair point,” Annabeth said. “But we agreed on one.”
+“I didn't know I needed to submit a request to play with a paper boat.”
 
-Leandros’s eyes moved from her to the boat. “You’re stopping because you decided to.”
+Percy almost laughed. It wasn't a terrible point, although Leandros had somehow made a children's game sound like a courtroom proceeding. Annabeth gave Percy a warning glance, having apparently anticipated the laugh, and he bit the inside of his cheek. The boat sat between them, damp along its bow and intact at the sides. There was still water in the basin, plenty of paper on the table, and no reason the afternoon had to end because they'd failed to agree on the proper number of pushes.
 
-“I’m stopping because the test has an agreed limit.”
+“Fine,” Annabeth said, letting out an irritated breath. “One more, then. I'm interested in whether the fold holds up anyway. Ianthe, can you move the screen the way you did before?”
 
-“I didn’t agree to that.”
+“I can try.” Ianthe picked it up again, then glanced at Leandros. “And before you complain, no, I can't promise it'll be exactly the same push. I'm not a machine.”
 
-“You were here when we said it.”
+“I hadn't said anything.”
 
-“I didn’t say yes.”
+“You were making the face.”
 
-“Did you say no?”
+“What face?”
 
-“No.”
+“The one where everybody else is already wrong.”
 
-“Then we should have asked.”
+Percy watched Leandros open his mouth, shut it, and look at the boat as though it might give him a useful answer. There was a joke there somewhere, but neither newcomer looked ready to hear it. Ianthe had been needling him since she joined the table. Leandros had been returning each jab with a little extra force, as though being corrected by a daughter of Zeus were a more serious insult than being corrected by anyone else. The weather outside had brought them all into one room; Percy was beginning to think the rain had an excellent sense of humor and terrible judgment.
 
-Annabeth picked up her boat. “We should have.”
+Ianthe moved the screen in a broad, careful arc. The boat caught the ripple, traveled farther than the first one, and turned sharply before reaching the far side. One pointed corner darkened with water. Annabeth leaned over the rim, fascinated despite herself, while Leandros squinted at the place where the hull had turned.
 
-Leandros looked at her. “You can admit it that easily?”
+“It rolled before it hit the side,” Annabeth said. “That fold's too wide. I thought the coin would make it sit lower, but it hasn't helped.”
 
-“It wasn’t a difficult mistake.”
+“Or she pushed harder this time,” Leandros said.
 
-“It was the rule.”
+“I might have,” Ianthe replied. “That's what I warned you about. It still turned before it got to the edge.”
 
-“Then we change the rule.”
+Leandros looked at her rather than the water. “You always have an answer ready, don't you?”
 
-Ianthe lifted her pencil. “Do you want a second push?”
+“Usually. Why, does it bother you that I noticed something?”
 
-“I do,” Leandros said.
+“I'm trying to find out what happened. You act like that means I'm calling you stupid.”
 
-“Same strength?”
+“Because you do it in exactly the tone people use when they think you're stupid.” She set the screen down harder than she intended. A little water sloshed against the rim. “I've spent a week having somebody explain to me how a list works. I don't need another person telling me what I've seen with my own eyes.”
 
-“I don’t know how you measure that.”
+Annabeth lifted her head. Percy expected her to defend the lists, or correct the way Ianthe had described their arguments, but she only moved the soaked boat onto the cloth. There was a tiredness in her expression he recognized. She was done turning every irritation into a lesson, and so was he. He reached across the table and gave her hand a brief squeeze.
 
-“I can repeat what I did.”
+Leandros seemed to realize how angry Ianthe was only after she'd stopped speaking. He picked up his narrow boat and squeezed the wet seam until a drop ran over his thumb. “You're the one whose father listens to her notebooks,” he muttered. “You'd think being noticed once in a while might make you a little less desperate to be right about everything.”
 
-“Then make the same movement.”
+Ianthe went completely still. Percy felt Annabeth's fingers tighten around his, but she didn't speak. The insult had landed precisely where Leandros wanted it to, and he looked almost startled by his own success.
 
-“I can try.”
+“Zeus notices things that interest him,” Ianthe said at last. Her voice was much quieter. “Sometimes that's my work. Sometimes it's how easily he can tell me I'm better than my sisters. I was stupid enough to like that for a while. If you want to laugh at me for it, go ahead.”
 
-“Will you write down that it was the same?”
+“I wasn't laughing.”
 
-“I’ll write that it was intended to be.”
+“No. You were trying to make me feel small, and you managed it.” She looked at the wet notebook page beside the basin, then back at Leandros. “He asked me about the wind once. I thought he might ask me how I was doing next. He didn't. There, now you know something useful.”
 
-Leandros studied her. “That’s more honest.”
+Leandros made a restless motion with his shoulders. “I didn't mean—”
 
-“I thought you wanted a test.”
+“Don't tell me what you meant. I heard what you said.”
 
-“I want the test to say what happened.”
+Percy wanted to intervene. He could feel the right-sounding words assembling themselves in his head: neither of them had been fair, both had reasons to be hurt, they were talking past one another. Every sentence made him sound more like Chiron, and the more he tried to perfect it, the less he trusted himself to say it. Across the table Ianthe wiped at the corner of her eye with the heel of her hand, fast enough that Leandros might have missed it. He didn't.
 
-“And I want that too.”
+“I thought it would be different if he knew who you were,” Leandros said, after a long silence. “When Poseidon claimed me, everyone acted like I'd been given something enormous. I kept waiting for him to turn up and explain what I was supposed to do with it.”
 
-Percy heard something in that sentence that wasn’t a challenge. It didn’t sound like agreement either. It was simply a place they both stood for a second.
+Ianthe's eyes were red now, and she made no effort to hide it. “Well, you can have the feeling of waiting for free. The rest isn't much better.”
 
-Ianthe moved the screen again. The next boat went farther, turned, and touched the opposite rim. One corner darkened. Annabeth inspected the fold.
+He let the wet boat rest on his palm. “I still wish he'd come.”
 
-“The side held,” she said. “The bow is too wide. It turned when it met the ripple.”
+“Of course you do. I wish mine had stayed longer.” She looked down. “I was glad to see him. That's the part I hate saying out loud.”
 
-“Or when it hit the edge,” Leandros said.
-
-“It didn’t hit the edge.”
-
-“Not yet.”
-
-Ianthe pointed at the water. “It turned before it reached the edge.”
-
-“Then the push wasn’t the same.”
-
-“It looked close.”
-
-“You didn’t measure it.”
-
-“I said it looked close.”
-
-“So it’s an observation, not a measurement.”
-
-“Yes.”
-
-“Good.”
-
-She watched him. “You don’t have to sound pleased every time you correct me.”
-
-“I’m not pleased.”
-
-“You sound pleased.”
-
-“I’m trying to be precise.”
-
-“You’re trying to win.”
-
-“Is that what you’re doing?”
-
-“Maybe.”
-
-“Then we’re both trying to win.”
-
-“I’m not trying to win a boat test.”
-
-“What are you trying to win?”
-
-Ianthe put the screen down. “I want you to stop treating every thing I notice like I’m claiming you’re wrong.”
-
-“Sometimes you are.”
-
-“Sometimes you are too.”
-
-“I didn’t say I wasn’t.”
-
-The rain hit harder for a moment. The basin trembled on the cloth, and the two paper hulls rocked against each other. Percy pressed his palm to the table. Annabeth steadied the bowl. Neither boat sank.
-
-Leandros glanced at the narrow first boat, now wrinkled along one side. “Your father would call that a successful test.”
-
-“Which one?” Ianthe asked.
-
-“Zeus.”
-
-“You don’t know what Zeus would call it.”
-
-“You get to tell him what you think. He listens to your notes.”
-
-“I told you he sometimes asked about them.”
-
-“You said he remembered the marks.”
-
-“Yes.”
-
-“So he listened.”
-
-“Sometimes.”
-
-“More than he listened to me.”
-
-“How would I know?”
-
-“Because he was there for you.”
-
-“He was there for my notes.”
-
-“Same difference.”
-
-“No.” Her voice sharpened. “It isn’t.”
-
----
-
-“You said he was there for me,” Ianthe said. “I said he sometimes asked about the weather notes. I liked that he remembered. That’s not the same as being there whenever I needed him.”
-
-Leandros shifted his weight. “You told him about your notes.”
-
-“Sometimes.”
-
-“And he asked.”
-
-“Sometimes.”
-
-“I thought that meant he saw you.”
-
-“He saw part of me.”
-
-“Isn’t that something?”
-
-“It is. It’s not everything.”
-
-He looked at the boat in his hand. Water had gathered in the hollow. He tipped it into the basin, and a thin stream ran over his thumb.
-
-“I got a sign,” he said. “That was the first thing I got from him.”
-
-“A trident?”
-
-“Yes.”
-
-“You knew then?”
-
-“I knew what it meant.”
-
-“That’s not the same.”
-
-“No.”
-
-Percy felt the familiar pull of that exchange, the temptation to tell them all the parts he knew about a father who had taken him in, a home he remembered only through other people’s stories, and a childhood he could neither claim nor reject. He had more to say than either of them had asked to hear. He kept it to himself.
+Nobody answered at first. Percy knew better than to tell her she shouldn't hate it. He remembered the fierce pleasure of being wanted in Atlantis, and the blank bewilderment of hearing the stories that proved it had happened when he couldn't remember living any of them. Leandros could see his father's attention from a distance and had decided, not entirely without reason, that Percy had been given the better share. Ianthe had loved a few moments of attention from Zeus before those same moments became a weapon. Percy couldn't arrange the three stories into something fair. He was beginning to understand that fairness might be the wrong question to ask.
 
 Leandros glanced at him anyway. “You know what it’s like when people tell you who your father is before you know him.”
 
@@ -2054,135 +1934,85 @@ She looked toward Annabeth. “I’m leaving.”
 
 Ianthe left by the hall, taking her weather notes with her. Her page with the draft arrow stayed on the table, beside the boats. She returned for it, then tucked it into the notebook. The water-current page remained in Leandros’s closed book.
 
-Percy sat again. The small paper fleet had taken over the center of the table. He could see why it had become easier to talk around them than to face one another directly.
+Percy stayed at the table after Ianthe left, though he couldn't have said exactly why. The paper boats were drying on the cloth, stiff in some places and collapsing in others, and Annabeth had gone to fetch her jacket. He and Leandros were alone for the first time all afternoon. Once Percy might have filled that silence with some cheerful, catastrophically ill-timed reassurance. Now he watched Leandros straighten a folded corner with his thumb and wondered whether it was possible to be company without making himself responsible for everybody's mood.
 
-“Do you want to talk?” he asked Leandros. “Or do you want to stop?”
+“You nearly said something back there,” Leandros said.
 
-Leandros glanced at the damp boat. “I want you to stop trying to ask the right thing.”
+“I nearly said about twelve things. You're welcome for the restraint.”
 
-“That’s fair.”
+“Don't get smug. You had the look.”
 
-“You can ask what I want.”
+“What look? Everybody keeps accusing me of having looks today.”
 
-“What do you want from me?”
+“The one where you're about to tell me what I should have said instead.” Leandros held up the wet boat, its bow warped and ugly. “You and Annabeth do it a lot. Ianthe too, except she enjoys it.”
 
-“I don’t know.” He picked up the boat and put it down again. “Not about Ianthe. Not about Clarisse. I’m not asking you to call Poseidon and explain me.”
+“Yeah, well, I don't enjoy it as much as you think.” Percy rubbed a hand across his face. “I was going to tell you to apologize. And then I remembered how much I hated it when people tried to tell me exactly which words would make a fight disappear.”
 
-“I wasn’t going to.”
+Leandros looked away. He was quieter without an audience, less certain about where to set his anger. Percy had seen him confident with rope and current and anything that could be measured against the weather. People frightened him in a different way; he wanted them to give him their rules before he made a mistake, and then hated being given rules. Percy knew that particular knot well enough to recognize it without pretending he could untie it.
 
-“You were thinking about it.”
+“I wasn't trying to make her cry,” Leandros said.
 
-Percy had been. He didn’t argue. “I was.”
+“I believe that. You were trying to hurt her, though.”
 
-“I don’t need you to do that.”
+“That's not the same thing.”
 
-“Okay.”
+“It's close enough that she probably won't care about the difference tonight.” Percy waited for the argument, and when it didn't come, he added, “You're allowed to be angry about Poseidon. I am too, sometimes. But Ianthe didn't choose what Zeus did any more than you chose what Poseidon did.”
 
-“If he comes here, I want to talk to him myself.”
+Leandros picked at the split edge of his boat. “I know all that. The trouble is I remember it about five minutes after I've already said something rotten.”
 
-“Okay.”
+“Welcome to the club. We should have badges.”
 
-“I don’t know what I’m going to say.”
+“You'd make a joke out of anything.”
 
-“You don’t have to know now.”
+“Not anything.” Percy studied the worn crease. “Look, when Dad comes here again, if he comes here again, I won't drag you over or stand there translating you to him. You can talk to him yourself.”
 
-“I might ask him to come back.”
+“I didn't ask you to arrange anything.”
 
-“I can’t promise he will.”
+“I know. That's me trying not to. Believe it or don't.”
 
-“I didn’t ask you to.”
+Leandros didn't answer at once. From the kitchen came the scrape of a pan and the muffled sound of a cook telling somebody to put something back where they'd found it. The afternoon had continued without requiring any of them to solve the problem of being Poseidon's sons. Percy was embarrassed to feel relieved. He wanted Leandros to like him, and he was tired of pretending otherwise; he also had no idea how to say that without making the other boy feel cornered.
 
-“I know.”
+“My mother drove me all the way to the bus station,” Leandros said suddenly. “She acted like she'd only come to make sure I had my bag, but she kept checking whether I'd eaten. Three times. I got angry with her for it.” He turned the boat over. “Now I can't stop thinking about her standing there after I left.”
 
-Leandros looked at him. “You did the same thing again.”
+“You could write to her.”
 
-“What?”
+“I have.” Leandros gave him a flat look. “I'm capable of that much.”
 
-“You answered a question I didn’t ask.”
+“I wasn't suggesting you weren't.”
 
-Percy nodded. “I did.”
+“You were about to ask if she wrote back.”
 
-Leandros returned his attention to the boat. “I want to say I don’t want him to talk to me like I’m a route he has to check before supper.”
+Percy lifted both hands. “All right. Fine. I probably was. I'm trying to learn when to shut up.”
 
-“That makes sense.”
+“Start there, then.” Leandros almost smiled. It was gone too quickly to count as peace, but Percy caught it. “I'm still angry with you about Atlantis. That's not changing because we played with paper and talked about our mothers.”
 
-“Don’t say it like I’m right.”
+“Good. Because I've got feelings about it too, and I've run out of energy to be the reasonable one.” Percy meant it more than he expected. He let the admission sit there without explaining it.
 
-“I can say it makes sense without saying you’re right about everything.”
+Annabeth appeared in the doorway wearing her jacket, her hair tucked awkwardly beneath the collar. She took one look at Percy's face and then at Leandros, clearly considered asking what had happened, and wisely decided against it. “I was going to steal you for a walk,” she said. “But if you've decided to set up a permanent residence in Chiron's kitchen, I'll find somebody else.”
 
-“Can you?”
+“Cruel. I've been working very hard on my diplomatic career.”
 
-“I’m trying.”
+“And how is it going?”
 
-“That isn’t the same.”
+“Terribly. I'll tell you outside.”
 
-“No,” Percy said. “It isn’t.”
+Leandros nudged the damp boat to the end of the table where the air would reach it without blowing it over. It was misshapen and probably wouldn't float again, but he seemed unwilling to throw it away. Percy resisted the urge to comment. The choice belonged to Leandros, and for once Percy managed to understand that without turning it into a speech.
 
-Leandros pressed the split corner down with one finger, then let it rise again. “I’m still mad at you about Atlantis.”
+They left him there with the little fleet and the smell of warm cider. Under the eaves, Annabeth slipped her hand into Percy's before he thought to ask, and he was struck again by how different loving her felt from any of the problems he'd spent the afternoon trying to solve. They could be annoyed with each other, disagree about everything from a route through camp to whether paper boats counted as a worthwhile date, and still end up walking home with their fingers tangled together.
 
-“I know.”
+“I ruined our afternoon,” Percy said as they stepped around a puddle.
 
-“I might stay mad.”
+“You interrupted it. That's different.” She leaned against him just enough to make him move sideways. “And for the record, I was the one who invited half the room to test my boats.”
 
-“I know that too.”
+“Would you still call that a date?”
 
-“You don’t have to stand there and wait for me to like you.”
+“Only if you promise not to give a lecture about the terms and conditions.”
 
-“I’m not waiting for a report.”
+Percy laughed. “I can manage that. I might even buy you cider.”
 
-“Good.”
+“You already drank most of mine.”
 
-Percy could have said that he wanted them to be brothers. He did want it. He didn’t know whether saying so would make the wish another thing Leandros had to answer.
+“Then this is going to be an expensive date.”
 
-Annabeth appeared in the doorway with her jacket on. The last boat was drying on the table behind her. “Are you ready to go?”
-
-“In a minute,” Percy said.
-
-“Okay.”
-
-She went back to the table and began stacking the unused sheets. She didn’t touch Leandros’s notebook or the wet boat. Percy watched her match corners and make a tidy pile.
-
-“Do you want another test?” he asked him.
-
-“Not today.”
-
-“Okay.”
-
-Leandros picked up the boat and set it on the dry cloth. “It can dry.”
-
-“It might be too warped.”
-
-“Then it might not.”
-
-“Are you going to keep it?”
-
-“For now.”
-
-He slid the boat to the far end of the table, where the air from the hall wouldn’t reach it. Ianthe’s draft arrow was gone; the page had left with her. The notes they had shared remained separate, as did their stories.
-
-Percy stood. Annabeth met him at the door. She offered her hand, and he took it. They walked out together beneath the eaves, where rainwater struck the ground in a steady line.
-
-“Are we still doing our date?” he asked.
-
-“We’ve been on it the whole time.”
-
-“I thought the basin was the date.”
-
-“The basin was the activity.”
-
-“And the date?”
-
-“Us doing something together.”
-
-“That’s a good distinction.”
-
-“It’s a useful one.”
-
-He leaned closer to her shoulder as they stepped around a puddle. “Do you want the rest of the cider?”
-
-“No. I want to walk.”
-
-“Then we’ll walk.”
-
-Behind them, the Big House door closed on the damp paper fleet. One boat had leaked. One had held. The third had moved farther than either of them expected and still needed to dry.
+She laughed too, and together they took the upper path, past the wet grass and the window where the lamp still burned over their little experiment. Percy was still thinking about Leandros. He suspected he would be for a long time. But the hand in his was warm, the rain had eased, and Annabeth was telling him about a fold she wanted to try tomorrow. He listened because he wanted to know.
 
