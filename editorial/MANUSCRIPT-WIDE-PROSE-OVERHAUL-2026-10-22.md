@@ -19,7 +19,8 @@
 | Chapter(s) | Editorial state | Scope |
 | --- | --- | --- |
 | 001–193 | **Not yet passed under this new directive** | Preserve old continuity and earlier edits; each must still undergo a human prose/voice and scene-level pass. Historical mechanical QA does not certify prose. |
-| 194–208 | **Not yet revised under this directive** | Recent family-first chapters need substantial developmental rewriting: repetitive repair/task structure and clipped correction dialogue are known risks. |
+| 194 | **Partial rewrite committed; full-chapter pass pending** | Camp Three opening and repeated apology-coaching exchange rewritten with genuine sibling humor, affection and Percy's anxiety. Rest of chapter pending. |
+| 195–208 | **Not yet revised under this directive** | Recent family-first chapters need substantial developmental rewriting: repetitive repair/task structure and clipped correction dialogue are known risks. |
 | 209 | **Partial rewrite committed; full-chapter pass pending** | Zeus/Ianthe/Thalia/Annabeth confrontation rewritten to restore volatility, distinct voices, sustained narration and emotion. Surrounding scenes remain to review. |
 | 210 | **Pending** | Cabin window and sibling scenes; avoid repeated measurement and permission patterns. |
 | 211 | **Partial rewrite committed; full-chapter pass pending** | Silena's private “Mom” choice scene rewritten with grief, affection, guilt and emotional complexity. Remaining scenes still require line edit. |
@@ -31,24 +32,25 @@
 
 ## Working order
 
-- First complete the *rest* of 209, 211, 213; then work back through 194–208, including 210 and 212. The family-first arc should be internally coherent before new installments.
+- First complete the *rest* of 194, 209, 211, 213; then work back through 195–208, including 210 and 212. The family-first arc should be internally coherent before new installments.
 - Then 001–193 in contiguous five-chapter batches, using current source snapshots and adjacent chapter handoffs. Identify high-quality scenes worth preserving; correct artificial speech and narrative sameness, not merely increase length.
 - For every batch, log original/revised body words, specific edited files, narrative paragraph distributions (informational only), character/POV continuity, repeated-scene findings, duplicate-window test results and an editorial signoff. Preserve the user's wording where it already works.
 - Do not merge this editorial branch directly into main. Reconcile PR #103 changes first, obtain review, and land bounded changes on its head branch or through a child PR.
 
 
-## Scoped verification after first three scene passes
+## Scoped verification after first four partial chapter passes
 
-Measured on this editorial branch, excluding the chapter header and standalone dividers:
+Counts below exclude chapter headings and standalone dividers; whole chapters retain their unedited passages.
 
 | Chapter | Approximate body words | Narrative paragraphs >=70 words | Current dialogue-line share |
 | --- | ---: | ---: | ---: |
-| 209 | 10,277 | 5% | 62% |
-| 211 | 11,447 | 5% | 66% |
-| 213 | 12,666 | 8% | 76% |
+| 194 | 11,793 | 9% | 76% |
+| 209 | 10,277 | 5% | 61% |
+| 211 | 11,447 | 5% | 65% |
+| 213 | 12,666 | 8% | 75% |
 
-**These numbers expose work left to do.** Most narrative paragraphs remain short and much of each chapter still contains unedited dialogue. The first passes edited pivotal scenes; no complete chapter has been certified to the user's new literary standard. Across the three edited chapter files only, an every-offset 300-token cross-chapter scan examined **33,493 windows** and found **zero exact matches**. This does not establish absence of semantic repetition or certify the other 210 chapters. A full hosted QA pass has not been confirmed on the editorial branch.
+**These numbers expose substantial work left to do.** Most narrative paragraphs remain short, and much dialogue across all four chapters has yet to be edited. These were **scene-level partial** passes, not full-chapter certification. Across only the four touched chapter files, an every-offset 300-token cross-chapter scan examined **44,987 windows** and found **zero exact matches**. This is not a whole-manuscript test and cannot prove the absence of semantic repetition. Hosted workflow status remains to be independently confirmed.
 
 ## Evidence and limitations
 
-On this branch, the first scoped replacements were written and committed in Chapters 209, 211 and 213. No one has read and recast all 213 chapter files during this pass. End-to-end chapter editorial reviews, all-chapter prose metrics, full-manuscript duplication checks and hosted Actions for the new branch remain unverified until expressly run.
+On this branch, the first scoped replacements were written and committed in Chapters 194, 209, 211 and 213. No one has read and recast all 213 chapter files during this pass. End-to-end chapter editorial reviews, all-chapter prose metrics, full-manuscript duplication checks and hosted Actions for the new branch remain unverified until expressly run.
