@@ -473,3 +473,12 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - She accepts Thalia's request not to check every step and remains close without making care into surveillance. No private note to Zeus is revealed to her; Percy and Annabeth remain secure.
 
 **Carry-forward after Ch214.** Annabeth knows the limited plan because Thalia shared it. She does not know the contents of Ianthe's private note or any unreported medical detail.
+
+### Chapter 215 · A report without mediation
+
+- **Knowledge provenance:** FIRSTHAND, present for the table conversation in Ianthe-limited POV.
+- **Source:** [Chapter 215](../../chapters/215-her-own-instructions.md); [194–215 chapter ledger](../chapter-ledgers/194-215.md).
+- Annabeth is present when Ianthe tells Thalia about giving Clarisse and Leandros an unauthorized order and correcting the record. She does not take over the apology, ask for private details, or decide what Clarisse should do.
+- She serves Thalia and Ianthe tea during their ordinary conversation. No relationship or erased-future memory boundary changes; Ianthe does not reveal her private note to Zeus.
+
+**Carry-forward after Ch215.** Annabeth remains secure with Percy and lets Thalia and Ianthe define their own exchange.

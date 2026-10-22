@@ -124,3 +124,16 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 - Her route observations remain bounded by Beckendorf's inspection. No room placement, verified authority, Zeus visit, forgiveness, or broad trust decision occurs.
 
 **Carry-forward after Ch214.** Ianthe remains in the Big House guest room; the Cabin One bed plan and weather-note verification remain unresolved. Her need for Zeus's attention and tendency to reach for control persist alongside a small, practical correction.
+
+### Chapter 215 · Observation is not authority
+
+- **Knowledge provenance:** FIRSTHAND in Ianthe-limited POV.
+- **Source:** [Chapter 215](../../chapters/215-her-own-instructions.md); [194–215 chapter ledger](../chapter-ledgers/194-215.md).
+- Beckendorf gives Ianthe a bounded task to record flags and cover movement at the drying rack; she is not authorized to handle materials, set routes, or assign workers. Her local observations remain separate from her unverified broader weather notes.
+- After mistaking a shadow for a coil shift, Ianthe orders Leandros to move the coil and Clarisse to hold the tie. Both refuse; Beckendorf confirms the coil did not move. The interruption makes Clarisse and Leandros repeat their fence measurement.
+- Ianthe names her overstep, apologizes separately, and corrects the log while keeping her mistaken first line visible. She asks both siblings for factual corrections. Clarisse says she heard the apology without forgiving her; Leandros asks her to ask rather than direct him.
+- Beckendorf requests two more observations the next morning; Ianthe records them within the same limits and does not turn a useful reading into a handling decision.
+- Ianthe tells Thalia she was wrong. Thalia does not mediate or decide whether the apology counts. They later share an ordinary book conversation.
+- Ianthe still wants Zeus to notice her weather observations. Her private note to him remains unsent and known only to Ianthe and Thalia.
+
+**Carry-forward after Ch215.** Ianthe has shown she can correct a record and complete a bounded observation task. She has not earned authority, forgiveness, a room decision, or broad trust; her wish for Zeus's attention remains.

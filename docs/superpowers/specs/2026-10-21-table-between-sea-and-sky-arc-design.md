@@ -3,7 +3,7 @@
 **Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–214 are drafted on PR #103 at 215,263 body words across twenty-one installments. Chapter 214, “The Heel’s Measure,” is 10,186 body words. Chapter 215 is next. This is an in-progress checkpoint, not arc completion.
+**Implementation checkpoint (2026-10-22):** Chapters 194–215 are drafted on PR #103 at 225,287 body words across twenty-two installments. Chapter 215, “Her Own Instructions,” is 10,024 body words. Chapter 216 is next. This is an in-progress checkpoint, not arc completion.
 
 ## Author-approved direction
 

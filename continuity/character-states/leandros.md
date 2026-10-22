@@ -157,3 +157,13 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 - Clarisse gives no trust, forgiveness, or authority milestone. His impulse to hurry a conclusion remains.
 
 **Carry-forward after Ch214.** The splice still needs Beckendorf's load test; Leandros and Clarisse's conflict remains unresolved.
+
+### Chapter 215 · Refusing an unauthorized move
+
+- **Knowledge provenance:** FIRSTHAND in Ianthe-limited POV.
+- **Source:** [Chapter 215](../../chapters/215-her-own-instructions.md); [194–215 chapter ledger](../chapter-ledgers/194-215.md).
+- When Ianthe mistakes a shadow for a coil shift, she orders Leandros to move the damp coil. He refuses because Beckendorf had instructed the crew not to move it before inspection. The coil stays on its spacer; Ianthe's mistake interrupts Leandros and Clarisse's fence measurement.
+- Leandros later tells Ianthe he initially thought the coil shifted, then saw the mark. He asks her to request a check rather than direct him, and he corrects how his refusal should be recorded. Ianthe accepts his wording.
+- At supper he reports a flag change from the fence path; Ianthe keeps it separate from her rack reading. This creates no friendship, authority, or broad trust milestone.
+
+**Carry-forward after Ch215.** The two coils remain damp; the separate splice remains untested. Leandros and Ianthe can exchange bounded observations but do not have a sibling relationship or broad trust.

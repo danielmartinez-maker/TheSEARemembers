@@ -386,3 +386,13 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - Thalia does not disclose Ianthe's private note to Zeus. Her promise to keep it private remains in force.
 
 **Carry-forward after Ch214.** Thalia is improving but still tender and not cleared for strenuous activity. Her next review is in two weeks. Ianthe remains in the Big House guest room, and Thalia's closeness with her is open-ended; she has stated a boundary, not granted instant trust.
+
+### Chapter 215 · No need to decide the apology
+
+- **Knowledge provenance:** REPORTED directly by Ianthe in Ianthe-limited POV.
+- **Source:** [Chapter 215](../../chapters/215-her-own-instructions.md); [194–215 chapter ledger](../chapter-ledgers/194-215.md).
+- Ianthe tells Thalia she ordered Clarisse and Leandros to move a coil and hold the tie, that both refused, and that she was wrong to give the instruction. Thalia does not mediate, reassure, or decide whether Clarisse should accept the apology.
+- Thalia invites Ianthe to sit and shares the beginning of a book she is reading. Their contact remains ordinary and chosen.
+- Thalia receives no heel symptom, examination, activity decision, or clearance. Carry forward the Chapter 214 limited arrow plan and two-week review.
+
+**Carry-forward after Ch215.** Thalia's heel remains under the Chapter 214 care plan; her next review is in two weeks. She and Ianthe remain open-ended sisters with no room placement or instant trust decision.

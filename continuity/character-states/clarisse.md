@@ -366,3 +366,13 @@
 - Her response remains specific to the work; no one treats one accepted correction as repair of their sibling conflict.
 
 **Carry-forward after Ch214.** Clarisse and Leandros remain in conflict. The loop must be checked before use.
+
+### Chapter 215 · Assigned work remains hers
+
+- **Knowledge provenance:** FIRSTHAND in Ianthe-limited POV.
+- **Source:** [Chapter 215](../../chapters/215-her-own-instructions.md); [194–215 chapter ledger](../chapter-ledgers/194-215.md).
+- Ianthe orders Clarisse to hold a drying-rack tie while moving Leandros and the coil, though Clarisse is in the middle of Beckendorf's fence check. Clarisse refuses, says the assigned task is hers, and returns to it after Beckendorf confirms no material moved.
+- The interruption makes Clarisse and Leandros repeat their measurement. Ianthe apologizes specifically; Clarisse says she heard the apology, with no forgiveness or trust milestone.
+- Later Clarisse answers Ianthe's factual question about where she was in the measurement sequence. Her cooperation is limited to that request and does not make Ianthe her supervisor.
+
+**Carry-forward after Ch215.** Clarisse and Ianthe remain in a work-boundary conflict; Clarisse's forgiveness and trust remain open.

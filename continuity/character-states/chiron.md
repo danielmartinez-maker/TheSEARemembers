@@ -311,3 +311,12 @@
 - He keeps the examination and activity notes in the medical book, not the general camp board. Thalia answers for herself, and Annabeth stays quiet as asked.
 
 **Carry-forward after Ch214.** Thalia's improvement is real but incomplete. The next review is in two weeks; no strenuous clearance is active.
+
+### Chapter 215 · Bounded responsibility
+
+- **Knowledge provenance:** FIRSTHAND in Ianthe-limited POV.
+- **Source:** [Chapter 215](../../chapters/215-her-own-instructions.md); [194–215 chapter ledger](../chapter-ledgers/194-215.md).
+- Chiron supports Ianthe's limited observation task and asks her to repeat its boundaries; Beckendorf retains the authority to handle materials and direct the crew.
+- No new heel symptom, exam, activity instruction, or clearance occurs for Thalia; Chapter 214's two-week follow-up and limited archery plan remain active.
+
+**Carry-forward after Ch215.** Thalia's current care plan remains unchanged; Ianthe has no new camp authority.

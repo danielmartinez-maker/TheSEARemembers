@@ -127,10 +127,11 @@ Files: Chapters 211–218, continuity handoffs, canon/index updates.
 - [x] Ch213: Leandros and Ianthe compare different paternal attention without ranking their childhoods; Percy and Annabeth disagree about stepping in, make a bounded plan, and remain secure.
 - [x] Ch214: properly spaced heel follow-up shows the actual healing status and Chiron’s guidance.
 - [x] Verify 10,186 body words by the repository whitespace-token method; Thalia-limited POV, Chapter 214 continuity YAML, current 194–214 ledger/handoff, index, arc progress, and scoped character-state updates added.
-- [ ] Ch215–216: Ianthe repairs a command mistake; Zeus’s second visit/aftermath does not make her responsible for him.
+- [x] Ch215: Ianthe records a bounded task, makes one unauthorized command, and repairs the work log without earning instant trust.
+- [ ] Ch216: A separate Zeus interaction or aftermath deepens the Grace siblings' response without making Ianthe responsible for him.
 - [ ] Ch217: Poseidon attention reopens existing hurt; Amphitrite supports Clarisse without speaking for her; Clarisse’s separate title choice is earned.
 - [ ] Ch218: shared meal closes with negotiated belonging, unresolved asymmetry, and no instant-perfect-family claim.
-- [x] Update selected character states, the 194–214 arc ledger, chapter index, and spec/plan progress to reflect Chapters 212–214's witnessed events.
+- [x] Update selected character states, the 194–215 arc ledger, chapter index, and spec/plan progress to reflect Chapters 212–215's witnessed events.
 
 Check: private milestones are in separate scenes, no title is awarded for one favor, and all sibling/couple memory boundaries remain intact.
 
@@ -148,8 +149,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **21/25**.
-- Arc body words: **215,263 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–214, index, chapter YAMLs, the current 194–214 ledger, and selected sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 215, “Her Own Instructions,” giving Ianthe a bounded responsibility, one consequential command slip, and a practical repair without granting authority or instant trust.
+- Chapters complete: **22/25**.
+- Arc body words: **225,287 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–215, index, chapter YAMLs, the current 194–215 ledger, and selected sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 216, “The Faces We Remember,” staging a separate Zeus interaction or aftermath while preserving Annabeth's and Thalia's boundaries and leaving Ianthe free of responsibility for Zeus's choices.
 

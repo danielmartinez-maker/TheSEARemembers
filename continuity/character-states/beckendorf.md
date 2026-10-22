@@ -98,3 +98,12 @@ The available chapter files 001–193 were searched for Beckendorf and possible 
 
 **Carry-forward after Ch212.** The wide roll and rack-loop cover remain out of service pending their respective checks. Do not infer the path is suitable for another load size.
 
+### Chapter 215 · Record the observation, not the order
+
+- **Knowledge provenance:** FIRSTHAND in Ianthe-limited POV.
+- **Source:** [Chapter 215](../../chapters/215-her-own-instructions.md); [194–215 chapter ledger](../chapter-ledgers/194-215.md).
+- Beckendorf gives Ianthe a bounded task to record flags and cover movement, explicitly retaining decisions about handling, routes, and crew. He checks the coil when Ianthe mistakes a shadow for movement and confirms it stayed on its spacer.
+- Beckendorf reties/rechecks the drying-rack cover, leaves the two damp coils in place, and asks Ianthe for two additional readings the next morning. The limited task does not grant her authority to assign workers or clear the materials.
+- He accepts her corrected record with the mistaken conclusion visible and notes his own material checks separately.
+
+**Carry-forward after Ch215.** The coils remain damp, the separate loop still needs its load test, and Ianthe's flag observations do not make her broader weather notes verified or authoritative.
