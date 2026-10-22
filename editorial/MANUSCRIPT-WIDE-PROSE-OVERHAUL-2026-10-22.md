@@ -36,6 +36,19 @@
 - For every batch, log original/revised body words, specific edited files, narrative paragraph distributions (informational only), character/POV continuity, repeated-scene findings, duplicate-window test results and an editorial signoff. Preserve the user's wording where it already works.
 - Do not merge this editorial branch directly into main. Reconcile PR #103 changes first, obtain review, and land bounded changes on its head branch or through a child PR.
 
+
+## Scoped verification after first three scene passes
+
+Measured on this editorial branch, excluding the chapter header and standalone dividers:
+
+| Chapter | Approximate body words | Narrative paragraphs >=70 words | Current dialogue-line share |
+| --- | ---: | ---: | ---: |
+| 209 | 10,277 | 5% | 62% |
+| 211 | 11,447 | 5% | 66% |
+| 213 | 12,666 | 8% | 76% |
+
+**These numbers expose work left to do.** Most narrative paragraphs remain short and much of each chapter still contains unedited dialogue. The first passes edited pivotal scenes; no complete chapter has been certified to the user's new literary standard. Across the three edited chapter files only, an every-offset 300-token cross-chapter scan examined **33,493 windows** and found **zero exact matches**. This does not establish absence of semantic repetition or certify the other 210 chapters. A full hosted QA pass has not been confirmed on the editorial branch.
+
 ## Evidence and limitations
 
 On this branch, the first scoped replacements were written and committed in Chapters 209, 211 and 213. No one has read and recast all 213 chapter files during this pass. End-to-end chapter editorial reviews, all-chapter prose metrics, full-manuscript duplication checks and hosted Actions for the new branch remain unverified until expressly run.
