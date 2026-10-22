@@ -423,3 +423,11 @@ These scoped updates link the chapter-specific records completed or corrected in
 - Thalia initially speaks before Annabeth can answer. Annabeth asks both sisters to stop; Thalia later owns the overstep and apologizes. Annabeth and Thalia remain close without requiring immediate anger to disappear.
 - Ianthe still wants a window-side bed in Cabin One, but Annabeth makes no placement promise. They work with a paper plan only. Ianthe leaves her drawing on the table by Annabeth's permission and says she is going to the evening hall; her arrival there is not shown.
 - Annabeth and Thalia privately discuss Ianthe's place as family and the difference between belonging, closeness, and a bed assignment. Ianthe does not hear this exchange. Thalia decides not to attend the hall; her heel has no new exam or clearance. No erased-future memory is disclosed.
+
+## October 22, 2026 source-anchored continuation · Chapter 206
+
+- **Source:** [Chapter 206](../chapters/206-the-storms-mistake.md) and [current 194–206 ledger](chapter-ledgers/194-206.md).
+- An early-winter storm arrives earlier than Ianthe's schedule expected. Her useful wind observations help secure a temporary rack cover, but she left dry supplies in the lower shed until after an inspection and did not confirm the route with its users.
+- Leandros moves the drainage board against instruction. Runoff diverts toward the shed; two rope coils are damp, three tags need rewriting, and one canvas strip needs drying. No one is hurt; the material can be recovered. Clarisse and Beckendorf lead the safe response, and Eli shares his local drainage knowledge.
+- Leandros later says he should have checked the channel from the other side; he does not apologize or receive forgiveness. Ianthe asks Eli about the drainage and records his answer, a procedural step rather than a trust milestone.
+- Percy and Annabeth coordinate label recovery with secure familiarity. Thalia does not appear and has no new health assessment or clearance. No erased-future memory is disclosed.

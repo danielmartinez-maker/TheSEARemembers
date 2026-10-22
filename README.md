@@ -2,7 +2,7 @@
 
 *Percy Jackson and the Olympians fanfiction · Time travel · Canon divergence · Percabeth*
 
-**Work in progress.** This repository organizes 205 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
+**Work in progress.** This repository organizes 206 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
 
 - [Chapters](chapters/)
 - [Bonus interludes](bonus/)
@@ -13,7 +13,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 
 ## Active family-first arc (October 22, 2026)
 
-PR #103 is drafting Chapters 194–218. Chapters 194–205 contain 123,629 body words across twelve installments. Chapter 205, “The Shape of No,” measures 10,317 body words by the repository's whitespace-token method. The 25-chapter arc remains in implementation, with Chapter 206 next. Hosted validation is tracked on the PR.
+PR #103 is drafting Chapters 194–218. Chapters 194–206 contain 133,712 body words across thirteen installments. Chapter 206, “The Storm’s Mistake,” measures 10,083 body words by the repository's whitespace-token method. The 25-chapter arc remains in implementation, with Chapter 207 next. Hosted validation is tracked on the PR.
 
 ## Canon and editing
 

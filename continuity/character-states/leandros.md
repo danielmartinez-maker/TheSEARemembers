@@ -84,4 +84,13 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 - Leandros now knows Percy says he lacks autobiographical memories of being little in Atlantis while acknowledging that he had a home and family there. He does not learn about erased-future memory or the time rewrite.
 - He accepts Silena's invitation to try Spoons, plays several rounds, argues over a rule, and then chooses to leave. This creates no authority, trust, or reconciliation milestone.
 
-**Current handoff after Ch203.** Leandros remains in Cabin Three without authority or broad trust. His conflict with Percy over unequal fatherly attention and the meaning of Percy's Atlantis childhood remains unresolved. He has not apologized, and no one else learns about his private conversation with Percy.
+**Historical handoff after Ch203.** Leandros remains in Cabin Three without authority or broad trust. His conflict with Percy over unequal fatherly attention and the meaning of Percy's Atlantis childhood remains unresolved. He has not apologized, and no one else learns about his private conversation with Percy.
+
+### Confirmed in Chapter 206
+
+- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–206 chapter ledger](../chapter-ledgers/194-206.md).
+- Leandros sees water pooling at the lower fence cut and moves the temporary board despite Chiron's, Beckendorf's, and Clarisse's direction to leave it until inspection. The runoff turns toward the shed rack; two coils become damp, three tags need rewriting, and a canvas strip needs drying.
+- He shows competent rope handling while moving the coils, under Beckendorf's directions. His marina/tide experience did not establish the camp's drainage route. He later says he should have looked from the other side and keeps the rope steady while Beckendorf inspects; this is a limited admission, not an apology or trust milestone.
+- Clarisse does not make a relationship decision for him; no sibling reconciliation, leadership role, or forgiveness occurs. His conflict with Percy remains unresolved.
+
+**Current handoff after Ch206.** Leandros remains in Cabin Three without authority or broad trust. His unapproved board move caused a concrete, recoverable cost, and his brief admission does not resolve the impact. Clarisse's response remains her own; Percy is not his interpreter. The drainage repair is open until the ground firms.

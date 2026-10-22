@@ -209,6 +209,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **203.** [The Son Who Came Late](chapters/203-the-son-who-came-late.md)
 - **204.** [One Week, Then Ask](chapters/204-one-week-then-ask.md)
 - **205.** [The Shape of No](chapters/205-the-shape-of-no.md)
+- **206.** [The Storm’s Mistake](chapters/206-the-storms-mistake.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

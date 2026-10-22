@@ -1,6 +1,6 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 205; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 206; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found annabeth in 193 files (001–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -393,3 +393,11 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - Thalia apologizes for speaking before Annabeth could. Annabeth remains glad she is there and accepts her staying. In private, Annabeth and Thalia discuss family belonging and room-sharing; Thalia says she wants to know Ianthe without being made responsible for deciding whether she is family. Ianthe is absent and learns none of this from the scene.
 - Thalia decides not to attend Tuesday's evening hall. Annabeth does not make the decision for her. No heel recheck, new clearance, or erased-future disclosure occurs.
 **Carry-forward after Ch205.** Annabeth still wants Ianthe in Cabin One but cannot promise shared-room placement; the plan is provisional. Her friendship/sister bond with Thalia remains intact through a specific disagreement and partial repair. The stool requires another full curing day; no relationship or authority milestone is awarded.
+
+### Chapter 206 · Indoor recovery
+
+- **Knowledge provenance:** FIRSTHAND for the kitchen passage and table work observed in Clarisse-limited POV.
+- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–206 chapter ledger](../chapter-ledgers/194-206.md).
+- Annabeth works with Percy to move dry supplies and restore labels after the storm. Percy asks/coordinates rather than taking over; she directs the paper sorting and he follows. Their familiar affection remains secure and unforced.
+- Annabeth does not witness the lower-board decision or the private Clarisse–Leandros friction, and does not receive erased-future knowledge.
+**Carry-forward after Ch206.** Percy and Annabeth remain secure; no memory boundary changes.

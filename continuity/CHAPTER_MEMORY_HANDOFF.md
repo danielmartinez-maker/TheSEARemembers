@@ -171,3 +171,13 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Thalia's choice:** She declines Tuesday's evening hall. No heel reassessment or clearance occurs; keep the existing care plan.
 - **Witness boundary:** Annabeth observes all on-page events in her POV; Thalia and Ianthe know what they personally hear or say. Ianthe does not know the sisters' private conversation. Percy, Leandros, Jason, Zeus, and the other absent characters receive no new information.
 - **Ch205→Ch206:** Carry the stool's additional curing day, unresolved window-side bed/cot/latch, open repair list, Thalia's heel plan, and the unresolved Percy–Leandros conflict. Ianthe's apology is a partial repair and grants no authority.
+
+
+## Chapter 206 continuation
+
+- **Ch205→Ch206:** The chapter follows Tuesday into the next morning; no calendar date or year is set. An early-winter storm arrives earlier than the planned window.
+- **Clarisse / Ianthe:** Ianthe's schedule leaves the dry line and repair canvas in the lower shed until after the fence inspection. Her gust observations are useful, but she did not confirm the route with the people who used it. She later records Eli's drainage knowledge after asking him.
+- **Clarisse / Leandros:** Leandros moves the temporary drainage board after being told to leave it. The runoff redirects toward the shed. Clarisse names his choice; he later admits he should have checked the channel from the other side. This is not an apology, forgiveness, or trust milestone.
+- **Damage / witnesses:** Clarisse, Beckendorf, Chiron, and Eli lead response from safe ground. Two coils are damp, three tags need rewriting, and one canvas strip is dried; no one is hurt. The board remains temporary, and the fence inspection is deferred until the soil firms.
+- **Percabeth / knowledge:** Percy and Annabeth coordinate the indoor label recovery with familiar, secure affection. No memory boundary changes. Thalia is not on-page and receives no new health outcome.
+- **Ch206→Ch207:** Continue the recorded storm costs and unresolved drainage work. Leandros has not apologized; Clarisse's relationship with him remains her own. The other Chapter 205 room-placement and care states remain open.

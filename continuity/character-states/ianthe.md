@@ -1,6 +1,6 @@
 # Ianthe: source-limited continuity notes
 
-**Coverage:** Selected source-anchored events in Chapters 198–205; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
+**Coverage:** Selected source-anchored events in Chapters 198–206; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
 
 ## Author-approved identity
 
@@ -62,3 +62,10 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 - Ianthe moves Annabeth's stool after being told not to, and the joint shifts. She later admits she heard the no and kept treating it as if a better explanation could change the answer. Annabeth accepts her specific apology without saying the harm is fixed.
 - She joins a paper-only room plan, asks before leaving the drawing on the table, and says she is going to the hall. Her arrival or activities there are not shown. Annabeth and Thalia's private conversation about family belonging occurs after Ianthe leaves; she does not hear it.
 - Ianthe remains in the Big House guest room for now. No bed, trust, or authority milestone is established.
+
+## Confirmed in Chapter 206
+
+- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–206 chapter ledger](../chapter-ledgers/194-206.md).
+- Ianthe uses a schedule whose order leaves dry line and repair canvas in the lower shed until after the fence inspection, based on the expected weather window. She had not confirmed the shed route with its workers. The early storm and Leandros's separate board move together expose the flaw; she does not direct him to move the board.
+- Her wind observations are useful: she identifies a brief lull that lets Beckendorf secure the rack cover. She later asks Eli about the drainage route and records his answer. This is practical progress, not a cure for her bossiness or status assumptions.
+- Two coils are damp, three tags are recopied, and one canvas strip dries. The fence drainage remains open. Ianthe earns no broad trust or authority milestone; her Cabin One placement remains unsettled.
