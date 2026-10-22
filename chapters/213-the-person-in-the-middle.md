@@ -1,164 +1,98 @@
 ## Chapter 213: The Person in the Middle
 
-Percy made the first boat from the corner of a list Chiron had already copied into the supply ledger.
+Percy had only meant to tear a corner from the old inventory sheet. It was already copied into Chiron's ledger, and the back was blank, and Annabeth had been sitting at the end of the Big House table for nearly an hour looking at paper with the severe concentration she usually reserved for things made of stone. He folded the corner once, then again, and discovered that he could make something resembling a boat if he stopped worrying about whether both sides were the same size. By the time she noticed what he was doing, he had a lopsided little vessel balanced on his palm and an increasingly familiar feeling that he was about to be told why it wouldn't work.
 
-Annabeth watched him crease the paper.
+“You just tore through the word *inventory*,” Annabeth said, reaching for the sheet.
 
-“That’s a path inventory,” she said.
+“Only the last two letters. They're probably still there somewhere.” Percy checked the torn edge and laid his boat beside her four much neater attempts. “Besides, yours look like they came out of a shipyard. Mine looks like it survived one.”
 
-“It had an empty back.”
+“It hasn't survived anything. You haven't even put it in water.” She picked it up, examined the crumpled keel, and ran a thumbnail along the fold he had made backward. Her hair had been tied up before breakfast, but a pale strand had worked loose and was catching on the collar of her sweater. “Did you do this on purpose?”
 
-“It also had a title on the front.”
+“Which part?”
 
-“The title is still on the front.”
+“The part where it can't stand up.”
 
-“You tore through the last two letters.”
+“I prefer to think I've designed it to rest comfortably on its side.”
 
-“Then the title has a view of the water.”
+She gave him the sort of look that usually ended with him getting hit by a pillow. Instead, she laughed, a quick, unwilling sound, and held his boat beside the others. The five of them looked ridiculous together: four narrow, pointed hulls with penciled marks at their seams and one squat catastrophe made from the corner of Chiron's paperwork. Percy liked the contrast. Annabeth had been thinking hard all morning about a rain route and a broken window and people who kept mistaking her willingness to help for an invitation to take over. He had promised to come find her when his own work was finished, but what he'd really wanted was ten minutes in which neither of them had to solve anybody else's problem.
 
-The rain ticked along the Big House windows. Beyond them, the camp paths shone dark and flat, and the lower stretch toward the lake had become a long brown ribbon that no one was using until the ground firmed. Chiron had taken the route list inside before the ink blurred. Percy had come to return it and stayed because the kitchen was warm, Annabeth was already there, and she had a stack of scrap paper spread across the end of the table.
+Rain had emptied the paths outside. Through the kitchen window he could see water running down the middle of the yard where the gravel dipped, while the lower path toward the lake had disappeared under a slick of brown mud. Somebody had brought the route inventory inside before it got wet. There were boots drying by the door, a pot of cider keeping warm on the stove, and a faint smell of onion from whatever the kitchen was preparing for supper. It was the kind of ordinary afternoon Percy had once imagined wanting, back when even an afternoon without monsters had felt like something he couldn't trust. He pulled out the chair beside Annabeth and waited until she moved her elbow before sitting down.
 
-The paper came from a box of old lesson sheets, the kind with a single line of handwriting across the top and an empty back. Annabeth had been testing folds. Four boats sat in a row beside her elbow. None had touched water yet.
+“You're doing experiments with boats now?” he asked.
 
-Percy set his list-boat beside them. It looked like a hat that had been forced to become a ship.
+“I'm playing with paper. There's a difference.” Annabeth cleared space beside the basin and pushed one of her four boats toward him. “All right, fine. I'm experimenting a little. This fold goes crooked when the paper gets damp, and I want to know whether the next one does the same.”
 
-Annabeth picked it up by the center seam. “This is going to take on water before it reaches the first bend.”
+“That's a lot of intellectual energy to spend on something we're going to sink in a bowl.”
 
-“It isn’t going to a bend.”
+“You're welcome to do the sinking part. You seem qualified.”
 
-“It has a bow.”
+“Generations of sailors in my family, and this is where I end up.” He turned the boat upside down to inspect the bottom. Its corners were folded precisely enough that he could see the small pencil line she'd made to keep the crease straight. “What does this mark mean?”
 
-“It has a point.”
+“It tells me how far the water rises. Or it will, assuming you stop turning it over.”
 
-“A point that is facing the wrong direction.”
+He set it down and stole the coin sitting beside her paper scraps. Annabeth caught his wrist before he could slide it into his pocket, though she didn't try to take it from him. Her thumb rested against the inside of his arm, warm and familiar. In their other life they'd learned each other's moods under considerably worse circumstances than this: on ships, in cities that were falling apart, in the dark when neither was sure the other would make it to morning. The habit of watching for danger had survived even when the danger hadn't. Sometimes he could tell she'd slept badly from the way she squared the corners of a page. Today he could tell she'd been irritated long before he arrived, because the boats were all arranged in a painfully straight line.
 
-“Maybe it wants to see where it’s been.”
+“Is that our entire cargo?” Percy asked, opening his hand to show her the coin.
 
-She put the paper boat down again, but the corner of her mouth had lifted. Percy took that as permission to sit. He pulled his chair closer, leaving the other side of her work clear. The pile of sheets was hers; he could ask before taking another.
+“It's a coin, Percy. I don't think it needs a naval escort.”
 
-“Are you making an entire fleet?” he asked.
+“I can offer one. Very reasonable rates.”
 
-“I’m testing folds. The first one twists as soon as the seam gets wet. The second is too narrow. The third—”
+“And very questionable shipbuilding.” She took the coin, placed it in the second boat, and lowered the whole thing into the washbasin. It floated long enough for Percy to lean closer and grin. Then water crept into the fold, the coin tipped to one side, and the boat capsized with a small, disgraceful gulp.
 
-“Is there a fourth?”
+Percy stared at the basin. “That was magnificent. We should charge admission.”
 
-“The fourth is why there are four.”
+“Give me that cloth.” Annabeth was trying not to smile as she rescued the wreck and laid it upside down. “The fold opened. I thought it might, but I wanted to see where.”
 
-He picked up the closest boat and turned it over. “This one looks fine.”
+“I can tell you where. Underwater.”
 
-“You haven’t tested it.”
+“Thank you for your contribution.”
 
-“I’m evaluating it by sight.”
+“You're welcome. I'll put it on the invoice.”
 
-“Your sight is not a test.”
+She pushed his shoulder, not especially gently. He pushed back just enough to make her brace against his arm, and for a little while they stayed there, shoulder to shoulder, laughing at a paper boat that had lasted less than five seconds. It was a relief to hear her laugh without having earned it by getting hurt first. He reached over her to move the dry sheets farther from the basin and she caught his sleeve before he could drag it through the water. When he offered to fetch a towel, she said she'd already brought one. Of course she had. He stayed anyway, holding the paper flat while she made a new fold.
 
-“Maybe I’m good at boats.”
+“There's something I should probably tell you,” he said after a few minutes.
 
-“You are good at some boats.”
+Annabeth didn't look up. “If it's about the coin, I saw you put it back.”
 
-He looked up. “That sounded like a compliment with a locked gate on it.”
+“Not about the coin. Well, I mean, I could have kept the coin. But I didn't.”
 
-“It was a compliment with a boundary. The kind you say you like.”
+“Percy.”
 
-He did. He could remember being on a ship with Annabeth, both of them in bodies that had been older, taller, tired in ways that had taken years to learn. He also knew this was a different life and this table belonged to this afternoon. He turned the paper boat once more and handed it back.
+He studied the soft gray light at the window. He'd come in to see her, that much was true, and he'd been thinking about the sound of Leandros's voice after yesterday's route argument almost as long. The newest member of Cabin Three could look offended while standing perfectly still, which was a talent Percy had never managed to cultivate. He was more likely to say the first thing that came into his head and spend the rest of the day wishing he'd waited. Yesterday Leandros had looked from the map to Clarisse and then to Percy, as though Percy ought to be able to translate one sibling to another. Percy had nearly tried.
 
-“What are you going to test it in?” he asked.
+“I keep thinking about Leandros,” he admitted. “The way he left yesterday. He had those current readings, and he was so sure they'd help, and when Clarisse didn't agree with him he looked at me like I was supposed to do something.”
 
-“The washbasin. It’s clean, shallow, and we can see if the fold leaks. No lake, no current, no pretending the basin is a map.”
+“Did he actually ask you to?”
 
-“That last part was for me?”
+“That's the annoying part. No. I just stood there inventing jobs for myself.”
 
-“That last part was for both of us.”
+Annabeth set down the crease she'd been working on. “You do that when you're worried about people. It's one of the things I like about you, right up until you decide I need rescuing from an argument I was winning.”
 
-Percy leaned his forearms on the table. “We could set up a little fan.”
+“You weren't winning. You were going to take somebody's head off with a pencil.”
 
-“The room has no fan.”
+“It was a very sharp pencil.”
 
-“We could ask the kitchen for the bellows.”
+He laughed, but the thought he'd been holding didn't go away. Leandros had a mother somewhere beyond camp who'd watched him leave. Percy had a childhood in Atlantis that other people could describe to him in loving detail, and an empty stretch of years in his own memory where he couldn't even hear Sally's voice as it would have sounded in this life. He knew those losses weren't the same. He was beginning to resent how often he measured one against the other anyway, especially when Leandros looked at him as though there had been no cost to what he'd been given.
 
-“We could make a draft with a board. A steady push is easier to repeat.”
+“I want him to know I'm trying,” Percy said. “Then I hear myself thinking that and realize it sounds like I want credit for trying.”
 
-“You already have a test.”
+“Maybe you do want credit. That doesn't mean you're a bad person.” Annabeth nudged one of the dry boats toward him and watched him fuss with its bow. “But if you really want to know what he needs, ask him. Don't take a miserable look across a room and turn it into instructions. You've been doing that all week.”
 
-“I have the beginning of one.” She rotated a boat and used a pencil to mark a tiny line near the bottom. “We can see whether it floats with an empty cargo square and with one coin.”
+“That sounds like an accusation.”
 
-“Is this a date?”
+“It is one.” Her expression softened before he could come up with a joke. “I know you're worried. I know Clarisse is too, even when she'd rather swallow a nail than say it. I'm worried about Ianthe. But I don't want every quiet afternoon we get together to turn into a meeting about our siblings.”
 
-“Do you want it to be?”
+Percy turned the boat between his fingers. He hadn't thought about it that way, which was exactly the problem: he'd brought Leandros into the room with him before Annabeth had even finished her experiment. He looked at the damp paper lined up on the cloth, at the coin drying by her hand, and felt foolish in a way she had never made him feel deliberately. “I came here because I missed you,” he said. “I still do, which is ridiculous, because you're sitting right there.”
 
-“I thought it was.”
+“I know.” She reached under the table for his hand and threaded her fingers through his. “I missed you too. And you can tell me about Leandros. I'm not banning him from conversation.”
 
-“Then yes.” She tapped the second boat. “It’s a date with a basin.”
+“That's generous. I'll let him know he's still on the approved list.”
 
-“Good. I’ve had worse.”
+“Don't you dare.” She leaned against his shoulder, and he rested his cheek briefly on her hair. Outside, the rain gathered strength against the glass. There was no urgent message arriving, no god about to demand something, and no promise they'd made that required an answer before supper. Annabeth had a wet boat to repair. Percy had an ugly little one he'd made himself. He could have stayed like that until the cider went cold.
 
-She nudged the coin toward him. He slipped it into his palm instead of testing it, and she gave him a look.
-
-“Don’t steal the cargo,” she said.
-
-“I’m protecting it.”
-
-“From the boat?”
-
-“From the water.”
-
-She took the coin back. “I can protect my own test.”
-
-“I know.”
-
-“I mean it.”
-
-“So do I.”
-
-She slid the coin into the paper boat. It held the weight for three seconds before one side sagged. Percy laughed once, not loud enough to draw anyone from the hall.
-
-“First voyage,” he said. “It has a leak.”
-
-“First basin test,” Annabeth corrected. “It has a low side. I can fix the fold.”
-
-“Can I help?”
-
-“You can hold the paper flat while I mark the crease.”
-
-He held the opposite edge. Her fingers pressed the seam into place. The work was so small that neither of them had to talk over it. When she finished, her hand brushed his. Percy turned his palm up, and she rested two fingers there for a moment before pulling away to check the fold.
-
-They had been a couple before this life made them younger and moved their families around them. Some afternoons still made the history between them feel like an extra chair at the table: present, real, and not always useful to point at. Percy didn’t need to ask whether she wanted to sit beside him. She had chosen the chair herself.
-
-The boats waited in a row, their pointed bows all turned toward the basin.
-
-“You said we could take a short break,” Annabeth said.
-
-“I did.”
-
-“This is the break.”
-
-“I know.”
-
-“You’re still looking at the door.”
-
-“I’m looking at the room.”
-
-“The door is in the room.”
-
-“You’re very good at this.”
-
-“Architecture?”
-
-“Finding the exact sentence I’m trying not to say.”
-
-She set the coin beside the boats. “What sentence?”
-
-He glanced at the wet tracks on the window. “I was thinking about how Leandros left yesterday. He had those current notes and that map argument, and he looked like he wanted somebody to tell him what it meant.”
-
-“Did he ask you?”
-
-“Not exactly.”
-
-“Then don’t decide what he wants before he says it.”
-
-“I was going to ask.”
-
-“Good.”
+When footsteps approached from the passage, he recognized the heavy, uneven rhythm of someone who hadn't yet learned where the floorboards creaked. His hand was still linked with Annabeth's beneath the table. Neither of them let go.
 
 The sound of boots came along the hall. Percy looked up as Leandros stepped in from the porch, shaking water from his sleeves. A thin notebook was tucked under his arm, protected by the front of his jacket.
 
