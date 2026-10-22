@@ -372,3 +372,13 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - Annabeth leaves to take route notes to Chiron. She does not witness Percy's later conversation with Leandros or learn its details from this chapter.
 - Percy and Annabeth remain affectionate and secure; no erased-future memory is disclosed.
 **Carry-forward after Ch203.** Annabeth's agency and established relationship remain intact. She has not been appointed the interpreter for Percy and Leandros.
+
+### Chapter 204 · The choice stays Thalia's
+
+- **Knowledge provenance:** FIRSTHAND for the route-note work, morning heel reassessment, and later cabin conversation; not present for the archery trial's follow-up conversation with Chiron or the private Percy–Thalia conversation.
+- **Source:** [Chapter 204](../../chapters/204-one-week-then-ask.md); [194–204 chapter ledger](../chapter-ledgers/194-204.md).
+- Annabeth and Percy correct an overbroad route closure note together; the disagreement is ordinary and their established relationship remains secure.
+- At Thalia's invitation, Annabeth accompanies her to the morning reassessment and witnesses the exam. She does not take notes after Thalia says she can remember.
+- Thalia later tells Annabeth that the heel tugged after the second arrow and that she stopped. Annabeth supports her without deciding whether she should shoot or speaking for her at Tuesday's hall. Annabeth does not witness Percy's private apology and is not asked to mediate.
+- Annabeth's own boundary and relationship remain intact; no erased-future memory is disclosed.
+**Carry-forward after Ch204.** Annabeth can attend the hall if Thalia invites her, but whether either attends remains undecided. She is not appointed an interpreter for Percy, Thalia, or Leandros.

@@ -406,3 +406,12 @@ These scoped updates link the chapter-specific records completed or corrected in
 - Percy tells Leandros that he was raised in Atlantis and had a home and family there, while lacking autobiographical memories of being little. Leandros hears this firsthand and makes an unfair accusation about Percy's motives. This does not disclose erased-future memory or establish what Leandros knows about the time rewrite.
 - Annabeth's basin conversation precedes the private Percy–Leandros exchange; she does not witness that disclosure. Chiron leaves before it. Clarisse and Silena share the later game, not the shed conversation.
 - Leandros remains in Cabin Three without authority. Playing Spoons does not establish trust. Percy and Annabeth remain secure; the Chapter 204 heel reassessment and prior repair items remain open.
+
+## October 22, 2026 source-anchored continuation · Chapter 204
+
+- **Source:** [Chapter 204](../chapters/204-one-week-then-ask.md) and [current 194–204 ledger](chapter-ledgers/194-204.md).
+- Thalia's roughly one-week heel reassessment finds reduced swelling and persistent tenderness. She chooses a short modified stance at Rhys's junior lesson, stops when the heel tugs after the second arrow, reports it to Chiron, and remains uncleared for strenuous training.
+- Percy privately apologizes for confronting Thalia publicly in Chapter 193. He names the harm without using worry as an excuse or asking for forgiveness; Thalia appreciates the apology and asks him to raise future concerns privately while leaving her the choice.
+- Annabeth joins the morning recheck at Thalia's invitation and witnesses the exam; she later hears about the arrow trial, but does not witness the apology. Percy and Annabeth remain secure.
+- Thalia reports that she attended the previous Tuesday's hall to watch from the edge and did not swim. Attendance at the upcoming Tuesday hall remains undecided; she says she will stay dry if she goes. The next follow-up remains Chapter 214; no full recovery is inferred.
+

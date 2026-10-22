@@ -377,3 +377,12 @@
 - Leandros joins several rounds of Spoons, then leaves; no trust or authority milestone follows. Percy and Clarisse discuss that her response to Leandros need not match his.
 - Percy does not reveal erased-future autobiographical memories.
 **Current carry-forward after Ch203.** Leandros knows Percy lacks autobiographical memories of being little in Atlantis and that Percy acknowledges having had a home there; he does not know about the erased future. Percy remains angry and wants Leandros to like him, but their relationship is unresolved. No apology, trust milestone, or authority change occurs.
+
+### Chapter 204 · A private apology
+
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 204](../../chapters/204-one-week-then-ask.md); [194–204 chapter ledger](../chapter-ledgers/194-204.md).
+- Percy and Annabeth resolve an ordinary disagreement about how to word a temporary garden-path notice; they remain affectionate and secure.
+- Percy privately apologizes to Thalia for confronting her publicly about the heel. He names the harm, does not use worry as an excuse, and makes no request for forgiveness. Thalia asks him to raise future concerns privately and leave her decision hers.
+- Percy does not witness Chiron's heel examination or Thalia's later report to Chiron after the arrow trial. He hears that the heel is better but not cleared for strenuous activity and that she may try three arrows; Thalia does not disclose erased-future memories.
+**Current carry-forward after Ch204.** Percy remains secure with Annabeth. His apology to Thalia does not erase the earlier public confrontation or create a forgiveness demand. His conflict with Leandros remains unresolved.

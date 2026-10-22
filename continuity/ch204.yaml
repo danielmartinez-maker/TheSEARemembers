@@ -1,0 +1,69 @@
+chapter: 204
+title: "One Week, Then Ask"
+source: "chapters/204-one-week-then-ask.md"
+status: "10,441 body words; scoped arc implementation and continuity review recorded"
+relative_chronology:
+  - "Begins Monday after the Sunday close of Chapter 203, roughly one week after Chapter 193's heel examination; exact calendar date and year remain unknown"
+  - "Thalia's scheduled reassessment occurs in the morning; the chapter follows the same Monday through the evening"
+pov: "Thalia Grace, third-person limited"
+locations:
+  - "Cabin One"
+  - "Chiron's office and Big House porch"
+  - "Archery field"
+  - "Camp pavilion and low stone wall"
+people_knowledge_relationships:
+  thalia:
+    - "Has rested, iced, wrapped, and worn the splint during the intervening week; she reports reduced swelling and less frequent pain but continuing tenderness and downhill discomfort"
+    - "Chiron finds improvement but does not clear running, patrols, hauling, or unrestricted archery; Will is reserved for stalled or worsening progress"
+    - "Chooses to try a brief modified stance during Rhys's junior lesson; the first arrow is comfortable, a tug returns on the second, and she stops before a third"
+    - "Reports the tug to Chiron, reads his private note, and continues the care plan; no full recovery or strenuous-training clearance occurs"
+    - "Does not decide whether to attend Tuesday's hall; if she goes, she intends to remain dry"
+    - "Privately hears Percy's apology for confronting her publicly about the heel; she appreciates the apology and asks for future concern to be raised privately without taking the choice from her"
+  percy:
+    - "Corrects his temporary-path map note with Annabeth's help; their disagreement remains ordinary and their established relationship stays secure"
+    - "Does not inspect Thalia's heel or keep a record for her; he apologizes privately for making the earlier concern public and does not request forgiveness"
+    - "Does not receive an update on Thalia's private conversation with Chiron beyond what she chooses to tell him"
+  annabeth:
+    - "Supports Thalia's choices about the reassessment, shooting, and Tuesday hall without keeping a record or speaking for her"
+    - "Walks with Thalia to the morning reassessment at Thalia's invitation and witnesses the exam; later hears Thalia's account of the arrow trial, but does not witness the private Percy–Thalia apology"
+    - "Shares ordinary, secure affection with Percy; the map disagreement does not threaten their relationship"
+  chiron:
+    - "Rechecks swelling and tenderness on the scheduled follow-up; finds improvement with residual tenderness"
+    - "Maintains the rest, ice, wrap, and splint plan; says to stop when pain returns and return before strenuous training"
+    - "Keeps the note private from the general camp board; plans to bring Will in only if improvement stalls or reverses"
+  rhys:
+    - "Runs a junior archery lesson and lets Thalia choose whether to observe or try a short modified stance"
+    - "Walks with Thalia to Chiron only after she asks him to come"
+  silena:
+    - "Invites Thalia to Tuesday's hall without assuming she will attend or enter the water"
+  clarisse:
+    - "Reminds Thalia to avoid a wet room if it rains; stops when Thalia says she heard her"
+  leandros:
+    - "Does not appear in this chapter; his conflict with Percy remains unresolved"
+  ianthe:
+    - "Does not appear in this chapter; her boundary conflict with Annabeth remains for Chapter 205"
+work_and_health_states:
+  - item_or_event: "Thalia's heel"
+    last_seen: "Swelling is reduced and tenderness persists at the roughly one-week reassessment. A modified stance brings a mild tug after the second arrow; Thalia stops, reports it, and remains uncleared for strenuous activity."
+  - item_or_event: "Tuesday hall"
+    last_seen: "Still scheduled; Thalia has not decided whether to attend and would stay out of the water if she goes."
+  - item_or_event: "Lower garden path note"
+    last_seen: "Percy revises the sign with Annabeth's help to identify the muddy lower stretch and the usable alternate route; no path repair is shown."
+  - item_or_event: "Earlier camp repair list"
+    last_seen: "No awning, fence, Cabin One rail, north-step, or stool repair is completed."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; neither discloses them."
+  - "Annabeth does not witness the private Percy–Thalia apology; Thalia does not tell her its details in this chapter."
+  - "Leandros and Ianthe are absent and gain no knowledge from this chapter."
+  - "No one receives new information about the mechanism of the time rewrite or its architect."
+next_chapter_dependencies:
+  - "Continue into Tuesday without inventing an exact calendar date or year."
+  - "Thalia's heel remains improved but tender; she is not cleared for strenuous training, and the Tuesday hall decision remains hers."
+  - "Percy's private apology does not erase the earlier public confrontation or create a demand for forgiveness."
+  - "Percy and Annabeth remain secure; Annabeth does not become a mediator for Percy and Thalia."
+  - "Percy and Leandros remain unresolved after Chapter 203; do not carry Leandros's conflict into Ianthe's relationship with Annabeth."
+  - "Carry forward the Cabin Three window blanket pin, awning bracket, fence drainage review, Cabin One rail recheck, north-step frost check, and Annabeth's curing stool."
+unresolved_canon_questions:
+  - "Thalia's decision to attend the upcoming Tuesday's hall remains unknown; she has decided to stay out of the water if she goes."
+  - "The heel's longer-term recovery remains unknown and requires the later follow-up planned in Chapter 214."
+  - "The listed camp repairs remain open."

@@ -207,6 +207,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **201.** [The Weather in the Room](chapters/201-the-weather-in-the-room.md)
 - **202.** [The Measure of a Gift](chapters/202-the-measure-of-a-gift.md)
 - **203.** [The Son Who Came Late](chapters/203-the-son-who-came-late.md)
+- **204.** [One Week, Then Ask](chapters/204-one-week-then-ask.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

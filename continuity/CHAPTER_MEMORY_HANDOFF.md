@@ -152,3 +152,12 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Witness boundary:** Annabeth meets Percy at the basin before the shed conversation and declines to mediate; she does not hear Percy's disclosure to Leandros. Chiron supervises the rope test but leaves first. Clarisse and Silena share the Spoons game, not the shed conversation. No one tells Amphitrite.
 - **Family and relationship state:** Leandros joins several game rounds, then leaves; this is not a reconciliation. Clarisse does not promise to welcome him. Percy and Annabeth remain secure. Thalia's heel remains under the Chapter 193 plan; Chapter 204's reassessment is still due.
 - **Ch203→Ch204:** Keep the window blanket's proper pin and existing camp repair list open. Do not infer that Chapter 203 settled Percy and Leandros's relationship or gave Leandros authority.
+
+
+## Chapter 204 continuation
+
+- **Ch203→Ch204:** Chapter 203 closes Sunday; Chapter 204 follows on Monday, roughly one week after Chapter 193's heel examination. No exact calendar date or year is established.
+- **Thalia's health and choice:** The scheduled reassessment finds reduced swelling and persistent tenderness. A brief modified stance at Rhys's junior lesson produces a mild tug on the second arrow; Thalia stops, reports it to Chiron, and is not cleared for strenuous training. She reports that she attended the previous Tuesday's hall only to watch and did not swim. She has not decided whether to attend the upcoming Tuesday's hall and says she will stay dry if she goes.
+- **Percy / Thalia:** Percy privately apologizes for making his prior concern public. He does not use worry as an excuse or ask for forgiveness. Thalia appreciates the apology and requests private concern that leaves the decision with her.
+- **Knowledge boundary:** Annabeth joins the heel recheck at Thalia's invitation and later hears about the arrow trial; she does not witness the apology. Percy and Annabeth remain secure; their erased-future autobiographical memories are not disclosed. Leandros and Ianthe are absent.
+- **Ch204→Ch205:** Continue into Tuesday without inventing a calendar date/year. Preserve the unresolved hall choice, the existing heel plan, Percy and Leandros's unresolved conflict, and all open camp repairs.

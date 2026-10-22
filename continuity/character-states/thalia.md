@@ -1,6 +1,6 @@
 # Thalia: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 202, with scoped source updates for the new family-first arc; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 204, with scoped source updates for the new family-first arc; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found thalia in 190 files (001–101, 103–105, 107–112, 114–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -329,3 +329,14 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - Silena sees Thalia sitting on the porch at a distance with the existing splint and exchanges a greeting. The heel is not discussed, examined, reassessed, or cleared; the Chapter 193 care plan remains active.
 
 **Carry-forward after Ch202.** The scheduled follow-up remains Chapter 204; no healing outcome is inferred.
+
+### Chapter 204 · One Week, Then Ask
+
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 204](../../chapters/204-one-week-then-ask.md); [194–204 chapter ledger](../chapter-ledgers/194-204.md).
+- Chiron's roughly one-week follow-up finds reduced swelling and persistent tenderness. Thalia reports that pain is less frequent but still present downhill; she has rested, iced, wrapped, and worn the splint.
+- She chooses a short modified stance at Rhys's junior lesson. The first arrow is comfortable; a mild tug returns after the second, and she stops before a third and reports it to Chiron. He maintains the care plan and does not clear strenuous training.
+- Thalia appreciates Percy's private apology for the earlier public confrontation but does not receive a request for forgiveness; she asks him to raise future concerns privately and leave the choice with her. Annabeth supports her without taking notes or deciding for her.
+- Thalia has not decided whether to attend Tuesday's hall and would stay out of the water if she goes. The later Chapter 214 follow-up remains open.
+
+**Carry-forward after Ch204.** The heel remains improved but tender and uncleared for strenuous training. Tuesday hall attendance is undecided; continue Chiron's care plan and do not jump to full recovery.
