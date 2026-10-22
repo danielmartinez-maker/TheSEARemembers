@@ -45,13 +45,16 @@ No automated tests are planned for these editorial changes. Use source compariso
 - [x] Read each candidate in its scene context and record whether it is Percy’s dialogue, another speaker’s dialogue, or narration.
 - [x] Check the result against the already-confirmed Chapter 99 address and Chapter 132 family reference before editing.
 
-**Audit result at PR branch commit `abe0988`:** The indexed 193-chapter sweep confirmed Percy’s informal spoken references in Ch099 line 167, Ch127 line 7, and Ch132 line 233. Ch014’s letter and Ch132 line 1152 remain formal writing; Ch030’s “Mother” is narration about Sally. Other candidate uses belong to other speakers or descriptive references. No global replacement was proposed.\n\n**Check:** Every wording edit has a source locator and speaker confirmation; no global replacement is proposed.
+**Audit result at PR branch commit `abe0988`:** The indexed 193-chapter sweep confirmed Percy’s informal spoken references in Ch099 line 167, Ch127 line 7, and Ch132 line 233. Ch014’s letter and Ch132 line 1152 remain formal writing; Ch030’s “Mother” is narration about Sally. Other candidate uses belong to other speakers or descriptive references. No global replacement was proposed.
+
+**Check:** Every wording edit has a source locator and speaker confirmation; no global replacement is proposed.
 
 ### Task 2: Update Percy’s dialogue
 
 **Files:**
 - Modify: `chapters/099-mothers.md`
-- Modify: `chapters/127-guest-and-beloved.md`\n- Modify: `chapters/132-a-month-beneath-the-sea.md`
+- Modify: `chapters/127-guest-and-beloved.md`
+- Modify: `chapters/132-a-month-beneath-the-sea.md`
 - Modify: Any additional Chapter 001–193 file only if Task 1 confirms Percy’s own informal address
 
 **Interfaces:**
