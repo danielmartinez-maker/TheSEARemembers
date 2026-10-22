@@ -112,7 +112,7 @@ Clarisse's answer was unexpectedly quiet. "I wanted it ready."
 
 The three of them sat for another minute, surrounded by packed clothes and presents Percy wasn't supposed to know about. Silena leaned her head against the bedpost. Clarisse flexed one hand and pretended the stiff fingers didn't matter. Percy let the smell of blueberry muffins and sea salt settle around them.
 
-His birthday was not one family trying to replace another. He had a dead mother he remembered alive, an undersea household that loved a childhood he couldn't recall firsthand, and two older sisters who were still figuring out whether their father's palace had room for them. None of it could be solved before the escort arrived.
+His birthday was not one family trying to replace another. He had a dead mother he remembered alive, an undersea household that loved a childhood he couldn't recall firsthand, and two older Camp Three sisters who were still figuring out whether their father's palace had room for them. None of it could be solved before the escort arrived.
 
 Then Tyson called from the path, loud enough for the entire Poseidon cabin to hear. "WE MUST GO IF WE WANT THE CAKE!"
 

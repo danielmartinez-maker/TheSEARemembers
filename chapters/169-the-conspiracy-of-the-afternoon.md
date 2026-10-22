@@ -226,7 +226,7 @@ She pressed the fleece blanket into Annabeth's arms — heavy fleece, warm even 
 
 Silena waved with her whole hand. Annabeth saw it out of the corner of her eye and felt it land in her chest like a small warm stone, and then Clarisse coughed loudly on the dock and said that she had never in her life seen so much sentimentality before nine in the morning, and the moment passed the way these moments did in Cabin Three, quickly, like something handed over and already put away.
 
-Percy came down the path at half past with the satchel on his shoulder and the fleece under his arm, and the three sisters froze in their various stages of operation, and he stopped on the ramp and looked at all of it — the staged canoe, the loaded satchel, the clipboard behind Clarisse's back, the absolute sham of the whole morning — and grinned.
+Percy came down the path at half past with the satchel on his shoulder and the fleece under his arm, and Clarisse, Silena, and Annabeth froze in their various stages of operation, and he stopped on the ramp and looked at all of it — the staged canoe, the loaded satchel, the clipboard behind Clarisse's back, the absolute sham of the whole morning — and grinned.
 
 "Morning," he said.
 

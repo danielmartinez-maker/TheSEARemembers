@@ -74,7 +74,7 @@ Glancing between them, Percy wavered between pride at their manners and worry th
 
 Clarisse's shoulders eased a fraction less square, breath audibly leaving her. Percy wisely said nothing, though relief flickered through him warm as sun on water, and he focused wholly deliberately on the ripple marks lapping the dock.
 
-“I've been thinking of you, Percy. Of all of you,” Amphitrite continued, water chiming faintly behind her words. “I'd like to invite you to Atlantis for a short visit, soon, if willing. A few days, perhaps. No ceremony planned, no obligation beyond letting us feed you. Bring your camp family — those you want beside you. Clarisse and Silena are welcome, of course. And anyone else you choose.”
+“I've been thinking of you, Percy. Of all of you,” Amphitrite continued, water chiming faintly behind her words. “I'd like to invite you to Atlantis for a short visit, soon, if willing. A few days, perhaps. No ceremony planned, no obligation beyond letting us feed you. Bring your camp family — those you want beside you. Clarisse and Silena are welcome, of course. Your sisters Rhode and Benthesikyme are already in Atlantis, and I'll make sure you have time together. And anyone else you choose.”
 
 Water shimmered, light fracturing gold across their faces. The words landed clear as if spoken lakeside, each syllable distinct over the soft lapping. *A few days. Atlantis. Home.* Percy's breath caught; the dock's rough grain pressed into his soles through worn sandals.
 

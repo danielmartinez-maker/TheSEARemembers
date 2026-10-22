@@ -198,7 +198,7 @@ Percy drew breath. No need to face the lens. He could study ground, sisters, sun
 
 "No," he said. "Ready."
 
-Clarisse's arm settled against his. Silena's fingertips touched his sleeve. They stood because they'd chosen to: three Poseidon kids at camp, not legend or council arrangement. Clarisse challenged the camera; Silena looked amused. Percy tried not to think about his face.
+Clarisse's arm settled against his. Silena's fingertips touched his sleeve. They stood because they'd chosen to: the three Cabin Three siblings at camp, not legend or council arrangement. Clarisse challenged the camera; Silena looked amused. Percy tried not to think about his face.
 
 "All right," Kayla said. "Hold still."
 
@@ -565,7 +565,7 @@ Annabeth nodded. "A public caption can say which event it was and the date. The 
 
 "One photograph can have different information depending on where it goes."
 
-Silena examined the list. "I want a copy for Cabin Three. The Poseidon siblings and our guests. I also want you to ask the people in it before you hang the copy publicly."
+Silena examined the list. "I want a copy for Cabin Three. The Poseidon siblings here at camp and our guests. I also want you to ask the people in it before you hang the copy publicly."
 
 Clarisse raised an eyebrow. "Who wouldn't want a photograph?"
 
@@ -1146,7 +1146,7 @@ Annabeth kicked him lightly under the table. Chiron hid a smile.
 
 By noon, most of the permissions had been recorded. There were still some undecided cases. Austin refused to post those photographs without a clear answer, despite campers asking to see them.
 
-Silena gathered the approved private proofs. The Cabin Three portrait had signatures from all four siblings, including Tyson. She held it for a moment longer than necessary before putting it back in its sleeve.
+Silena gathered the approved private proofs. The Cabin Three portrait had signatures from all four Poseidon siblings at camp, including Tyson. She held it for a moment longer than necessary before putting it back in its sleeve.
 
 Percy could tell she wanted to frame it immediately. He did too. But Austin needed to prepare the actual copies, and they had promised not to hurry the process so much that someone damaged the originals.
 

@@ -46,7 +46,7 @@ A murmur went through the room. Percy felt Clarisse and Silena straighten on eit
 
 He remembered. Of course he remembered.
 
-At the reservoir, a dam spirit had turned a fight between a Nereid and a wind nymph into a hazard for the camp's water supply. The runoff carried more than silt; the spirit had called lightning down to defend itself, and each element kept feeding the other. Percy, Annabeth, Thalia, Clarisse and Silena had gone out to break that loop. They had stopped trying to hold the flood in place. The Poseidon siblings gave it a moving spiral and a clear outlet; Annabeth worked out the angles, and Thalia directed the strike into the current so it could carry the charge away. Percy could still remember the first instinct—to brace against the water as if strength alone could make it harmless—and how close that had come to making the problem worse.
+At the reservoir, a dam spirit had turned a fight between a Nereid and a wind nymph into a hazard for the camp's water supply. The runoff carried more than silt; the spirit had called lightning down to defend itself, and each element kept feeding the other. Percy, Annabeth, Thalia, Clarisse and Silena had gone out to break that loop. They had stopped trying to hold the flood in place. The three Camp Three siblings gave it a moving spiral and a clear outlet; Annabeth worked out the angles, and Thalia directed the strike into the current so it could carry the charge away. Percy could still remember the first instinct—to brace against the water as if strength alone could make it harmless—and how close that had come to making the problem worse.
 
 Water to carry. Sky to release. Mind to aim.
 
@@ -126,7 +126,7 @@ She squeezed back. "Reservoir rules. You hold. I aim. Nobody plays hero."
 
 "Promise?"
 
-"Promise," she said. She was gone into the crowd, calling for copper cable and the hill's grounding points, while Percy turned to find his two sisters waiting for him.
+"Promise," she said. She was gone into the crowd, calling for copper cable and the hill's grounding points, while Percy turned to find his two Camp Three sisters waiting for him.
 
 Clarisse cracked her knuckles. Silena tied her hair back with a piece of seaweed ribbon she kept in her pocket for luck.
 
@@ -280,7 +280,7 @@ Percy splashed in beside her and added his strength. He felt the water like an e
 
 The water hesitated, then turned.
 
-Clarisse joined them, breathing hard, and added her pull. Three Poseidon children, shoulder to shoulder in the rising flood, three wills braided together. Percy in the middle, Clarisse on the right with her brute-force control, Silena on the left with her gentle coaxing. It was how they trained in the cabin — Percy the anchor, Clarisse the hammer, Silena the hands.
+Clarisse joined them, breathing hard, and added her pull. The three Camp Three siblings, shoulder to shoulder in the rising flood, three wills braided together. Percy in the middle, Clarisse on the right with her brute-force control, Silena on the left with her gentle coaxing. It was how they trained in the cabin — Percy the anchor, Clarisse the hammer, Silena the hands.
 
 Together they bent the flood into a curve.
 
@@ -406,7 +406,7 @@ Annabeth watched the clouds the way only she could, tracking wind layers and cha
 
 Jason answered from the hill with a distant, rolling peal of his own, a smaller bolt drawn into his cables to keep the hill ward from overloading. Brother and sister, trading thunder across half a mile. Percy felt the hair on his neck rise every time Jason worked, a sympathetic resonance through the storm.
 
-Between strikes, there were moments — brief, gasping lulls where the three Poseidon siblings stood knee-deep in their own river, panting, checking each other. Clarisse would grab Silena's shoulder to steady her. Silena would wipe mud off Percy's cheek without thinking. Percy would adjust their spacing with a nudge, keeping them in triangle formation so their fields overlapped. No words needed. They had trained for this in the cove behind the cabin on calm summer mornings, making water slides and whirlpools for fun, never imagining the games would become this.
+Between strikes, there were moments — brief, gasping lulls where the three Camp Three siblings stood knee-deep in their own river, panting, checking each other. Clarisse would grab Silena's shoulder to steady her. Silena would wipe mud off Percy's cheek without thinking. Percy would adjust their spacing with a nudge, keeping them in triangle formation so their fields overlapped. No words needed. They had trained for this in the cove behind the cabin on calm summer mornings, making water slides and whirlpools for fun, never imagining the games would become this.
 
 "You good?" Percy asked during one lull, looking at each of them in turn.
 
@@ -426,7 +426,7 @@ The next lull lasted long enough for Percy to notice the prickling in his right 
 
 Annabeth sent a white flag from the hill. She had seen the signal and was waiting. It cost them almost a minute before Percy gave the ready sign again. When he stepped back into place, Clarisse shifted over without a remark, leaving him room to take the flow in stages. The current held while he was gone. The camp did not need every part of him at once.
 
-For the rest of the storm, the work changed but did not ease: a surge shoved the creek toward the cabins; the three Poseidon siblings bent the runoff toward the cannon; Thalia waited for Annabeth's confirmed signal; Jason drew the lesser strikes away from the hill. Each time the current narrowed, they had to decide whether it was still safe to hold or safer to let the water spread into a field already cleared of campers. Percy stopped treating every break as a failure. A wider channel in the empty field cost him power; a narrow one near the cabins cost the camp its margin.
+For the rest of the storm, the work changed but did not ease: a surge shoved the creek toward the cabins; the three Camp Three siblings bent the runoff toward the cannon; Thalia waited for Annabeth's confirmed signal; Jason drew the lesser strikes away from the hill. Each time the current narrowed, they had to decide whether it was still safe to hold or safer to let the water spread into a field already cleared of campers. Percy stopped treating every break as a failure. A wider channel in the empty field cost him power; a narrow one near the cabins cost the camp its margin.
 
 Once, a drakon shouldered up beyond the border, its head rising over the breakwater as the ward flexed. Percy felt the creature's weight through the outer water. Clarisse started to turn toward it, but he called her back to the channel. If she pulled away, the runoff would spill toward the infirmary path. Thalia and Jason handled the threat from their positions: Thalia drew a strike into the moving water at the cannon's mouth, and Jason caught the echo before it could climb the hill ward. The drakon recoiled from the electrified spray outside the boundary and dropped beneath the surf. Nobody crossed the border to chase it.
 

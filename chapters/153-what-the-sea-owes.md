@@ -440,7 +440,7 @@ Clarisse opened her mouth.
 
 "Get on with it."
 
-"I hated it there," Percy said. "The palace. The reef. The roof that hums. I hated it, Clarisse. I lay up there at night and I wanted—" He stopped, and started over. "I wanted somebody to fight with. I wanted somebody to race. I wanted a sister who'd yell at me for my shirt being inside out, and instead I had a whole ocean and nobody in it who was my age. And I asked for this. I asked to come. And you've been here the whole time, and I walked in last, and I took your father and half your cabin and the only thing anybody at camp wanted to look at, and I did it by accident, in a week."
+"I hated it there," Percy said. "The palace. The reef. The roof that hums. I hated it, Clarisse. I lay up there at night and I wanted—" He stopped, and started over. "I wanted somebody to fight with. I wanted somebody to race. I wanted a sister here at camp who'd yell at me for my shirt being inside out. I wanted you and Silena in my life, and instead the ocean kept us in separate homes until I came here. And I asked for this. I asked to come. And you've been here the whole time, and I walked in last, and I took your father and half your cabin and the only thing anybody at camp wanted to look at, and I did it by accident, in a week."
 
 Clarisse sat in her camp chair, on the warm rock, at the north beach, at the end of September, with a peach in her hand, and felt something in her chest give way with the particular crack of a thing that has been holding weight it was never built for.
 
@@ -528,7 +528,7 @@ Percy took the shirt. He looked at it, the jagged sleeves, the fray, the smell o
 
 "I'm two years older and you're built like a fishing pole."
 
-"Put a shirt on, you're shivering," Silena said, and Clarisse realized she was, slightly, and did not bother to deny it, and stood there in the sun with her arms out and her boots on and her socks in her hand, and let herself be three children of the same father at the same rock on the same lake, with a peach she had not eaten going soft in the paper beside her.
+"Put a shirt on, you're shivering," Silena said, and Clarisse realized she was, slightly, and did not bother to deny it, and stood there in the sun with her arms out and her boots on and her socks in her hand, and let herself be one of the three Camp Three siblings at the same rock on the same lake, with a peach she had not eaten going soft in the paper beside her.
 
 ---
 

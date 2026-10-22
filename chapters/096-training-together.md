@@ -72,13 +72,13 @@ Thalia muttered, "That's one way to put it. Dad and Uncle P have thrown hurrican
 
 Annabeth blushed to the tips of her ears. Percy nudged her knee with his under the table.
 
-"But together," Chiron continued, "you have never trained as a unit. If you combine your powers carelessly, someone could be hurt. We will not use a person or a body of water as a path for lightning. The Poseidon siblings will shape the water; the Zeus sisters will control a separate strike through open air. Your work meets in the count and the target, not by contact."
+"But together," Chiron continued, "you have never trained as a unit. If you combine your powers carelessly, someone could be hurt. We will not use a person or a body of water as a path for lightning. The Camp Three siblings will shape the water; the Zeus sisters will control a separate strike through open air. Your work meets in the count and the target, not by contact."
 
 He tapped the map. A line ran from the camp beach to the top of Half-Blood Hill, where the old bronze beacon stood, dark and unused since the last war.
 
 "The beacon," Annabeth breathed. Her eyes lit up. "I've read about it. It used to burn with Greek fire to call the camp to arms. It hasn't been lit in years because no one can get enough sustained power to the top without wiring."
 
-"The old beacon is our eventual goal," Chiron said. "Today is a controlled exercise. The Poseidon siblings will shape a water arch toward a marked target. It will stop short of the bronze receiver. The Zeus sisters will practice a separate, low-power spark through open air, aimed at that receiver. The water is not a wire, and no one will use a person or the ground as part of a path. We will not attempt the hill until each part works alone and everyone can stop on the same signal. Grover will time the holds. Ella will record only what you agree is useful to keep."
+"The old beacon is our eventual goal," Chiron said. "Today is a controlled exercise. The Camp Three siblings will shape a water arch toward a marked target. It will stop short of the bronze receiver. The Zeus sisters will practice a separate, low-power spark through open air, aimed at that receiver. The water is not a wire, and no one will use a person or the ground as part of a path. We will not attempt the hill until each part works alone and everyone can stop on the same signal. Grover will time the holds. Ella will record only what you agree is useful to keep."
 
 Silena leaned forward, fascinated. "A water arch beside a lightning strike? Like a river of light?"
 
@@ -148,7 +148,7 @@ He pointed down the beach, where he and Juniper had wrestled a straw training du
 
 "Ella does not want to be electrocuted," Ella said firmly. "Ella has been electrocuted before. Zero stars."
 
-Percy stayed behind the chalk boundary and reached for the water with the sense that told him where each moving drop lay. The sea answered at once, but he did not pull it up yet. The first job was to keep the three Poseidon siblings out of the channel they were shaping.
+Percy stayed behind the chalk boundary and reached for the water with the sense that told him where each moving drop lay. The sea answered at once, but he did not pull it up yet. The first job was to keep the three Camp Three siblings out of the channel they were shaping.
 
 "Ready?" he called.
 
@@ -176,7 +176,7 @@ Clarisse wrung water from her sleeve. "I'm fine. The shape was too wide. Do it a
 
 Silena brushed a wet strand from her cheek. "The tail held. The middle didn't. I can narrow my side."
 
-Thalia remained behind the chalk line, watching the three siblings check their footing. "I thought we were about to try the spark. I didn't hear the change. Are you all right?"
+Thalia remained behind the chalk line, watching the three Camp Three siblings check their footing. "I thought we were about to try the spark. I didn't hear the change. Are you all right?"
 
 Annabeth closed her notebook and looked from Percy to Clarisse and Silena. "Everyone all right?"
 
@@ -582,7 +582,7 @@ Grover took his position with the whistle and stopwatch. "One short attempt, the
 
 Rainbow whinnied from the surf as if she understood.
 
-The Poseidon siblings took their stations outside the channel, each far enough away that the water could pass without touching them. Thalia and Annabeth stood behind the dry chalk line. Thalia kept her wrapped right hand at her side; Annabeth held the stop card where Grover could see it. The beach below the arch was empty. Chiron had sent the curious campers to a viewing place beyond the marked lane.
+The Camp Three siblings took their stations outside the channel, each far enough away that the water could pass without touching them. Thalia and Annabeth stood behind the dry chalk line. Thalia kept her wrapped right hand at her side; Annabeth held the stop card where Grover could see it. The beach below the arch was empty. Chiron had sent the curious campers to a viewing place beyond the marked lane.
 
 Percy looked to Clarisse. She nodded once, fierce and ready. Silena checked the tail and then met his eyes. She had room to step away if the shape crossed its boundary.
 

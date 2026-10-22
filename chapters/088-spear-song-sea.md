@@ -52,7 +52,7 @@ Silena threw off her blanket. "I'm in. But if Clarisse makes me do push-ups in t
 
 Before the first lesson, Clarisse took the training plan to Chiron.
 
-He read it in the Big House with all three Poseidon children sitting across from him. Percy had expected the centaur to approve at once. Clarisse was a skilled fighter, Silena had helped in the infirmary for years, and Percy could call the sea. Surely those were enough credentials.
+He read it in the Big House with Percy and his two Camp Three sisters, Clarisse and Silena, sitting across from him. Percy had expected the centaur to approve at once. Clarisse was a skilled fighter, Silena had helped in the infirmary for years, and Percy could call the sea. Surely those were enough credentials.
 
 "What will you do if someone wants to stop?" Chiron asked.
 
@@ -364,7 +364,7 @@ Percy, mouth full of burnt marshmallow, raised his stick like a trident. "Togeth
 
 "Don't talk with your mouth full, little brother," both girls said at once, and then stared at each other and burst out laughing while Thalia groaned, "Oh gods, there's three of them now."
 
-Annabeth caught Percy's eye over the fire and mouthed, *You okay?* He nodded, throat tight in a good way. In the life he remembered, he'd spent so many years being the only Poseidon kid, the odd one out, the prophecy boy. Now there were three heartbeats where there'd been one, and a sister who counted cadence and a sister who set the tune.
+Annabeth caught Percy's eye over the fire and mouthed, *You okay?* He nodded, throat tight in a good way. In the life he remembered, he'd spent so many years as the only Poseidon kid at camp, the odd one out, the prophecy boy. Now, at camp, Clarisse and Silena were beside him: sisters, teammates, and the voices that kept the tune.
 
 "Okay," Silena said, setting down the lyre as stars pricked out overhead. "Part two. Poultices."
 
@@ -472,7 +472,7 @@ She looked up. "When did you become so wise?"
 
 Clarisse snorted. "Temporary condition."
 
-Silena laughed, but the lesson stayed with her. She wrote a small note for the infirmary kit: *Ask whether the camper wants another check. Follow Will's instructions. Don't turn worry into an extra treatment.* She asked Will to review the wording. He approved it, then reminded all three siblings that herbal supplies, nectar and ambrosia were medicines to be used under trained supervision, not snacks or gestures of affection.
+Silena laughed, but the lesson stayed with her. She wrote a small note for the infirmary kit: *Ask whether the camper wants another check. Follow Will's instructions. Don't turn worry into an extra treatment.* She asked Will to review the wording. He approved it, then reminded all three Cabin Three siblings that herbal supplies, nectar and ambrosia were medicines to be used under trained supervision, not snacks or gestures of affection.
 
 Percy felt chastened. He'd once believed handing someone a bottle of nectar was the same as taking care of them. After the storm, when Will had examined his own exhausted hands, he'd begun to understand that care could mean letting a professional decide what was needed.
 
@@ -504,7 +504,7 @@ Silena nodded. "Better."
 
 Clarisse looked pleased with herself in spite of her scowl. Percy pretended to limp all the way to the doorway, earning a towel thrown at his back.
 
-That evening the three siblings cleaned and restocked the kit, checked expiration labels and wrote down which supplies needed replacing. The inventory was less exciting than the singing had been, but the next injured camper would benefit from it.
+That evening the three Cabin Three siblings cleaned and restocked the kit, checked expiration labels and wrote down which supplies needed replacing. The inventory was less exciting than the singing had been, but the next injured camper would benefit from it.
 
 Percy watched Clarisse sign the list. She had started the week teaching everyone how to avoid getting stabbed. Silena had taught them how to avoid making injury into a performance. They were both forms of protection, and Percy wanted to remember both.
 
@@ -884,7 +884,7 @@ She grinned. "I'm learning."
 
 Percy nodded. They weren't suddenly masters of everything Clarisse, Silena and Percy had each taught during the week. They had practiced enough to know what they'd need to practice again.
 
-Later, after Silena had poulticed every scrape with humming efficiency, after Clarisse had drilled them all — including Annabeth and Thalia — in the cool-down forms until they groaned, after Percy had led them to the marked shallow shoreline for a supervised float before dark and they had returned to dry clothes as the stars came out, the three siblings sat on the Poseidon cabin steps with salt drying on their skin.
+Later, after Silena had poulticed every scrape with humming efficiency, after Clarisse had drilled them all — including Annabeth and Thalia — in the cool-down forms until they groaned, after Percy had led them to the marked shallow shoreline for a supervised float before dark and they had returned to dry clothes as the stars came out, the three Cabin Three siblings sat on the Poseidon cabin steps with salt drying on their skin.
 
 "Spear," Clarisse said, bumping her shoulder against Silena's.
 

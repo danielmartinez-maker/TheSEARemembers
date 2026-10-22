@@ -622,7 +622,7 @@ So Percy held the ankle. He stood in the going dark with his brother's hand on h
 
 They walked up in the blue dusk, canoe secured, shoes sandy, Thalia carrying the chair, Annabeth's hand in Percy's, Silena singing with Tyson humming the harmony, Clarisse ahead setting the pace, counting heads at every switchback.
 
-At the cabin door Tyson ducked the lintel without being reminded, and stopped at his bunk, and laid his big hand on the folded blanket, and looked at the three siblings gathered in the doorway — Percy, Silena with thread on her sleeve, Clarisse with salt drying white on her cuffs — and smiled the smile visible from a hundred yards.
+At the cabin door Tyson ducked the lintel without being reminded, and stopped at his bunk, and laid his big hand on the folded blanket, and looked at the three Cabin Three siblings gathered in the doorway — Percy, Silena with thread on her sleeve, Clarisse with salt drying white on her cuffs — and smiled the smile visible from a hundred yards.
 
 "Good night, Cabin Three," he said. "Thank you for inviting me. Today was hugs and work and lake. Tomorrow can be whatever the water decides."
 

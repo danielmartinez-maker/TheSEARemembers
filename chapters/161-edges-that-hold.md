@@ -96,7 +96,7 @@ Percy made a small sound over by the quilt, half laugh, half something else, and
 
 Silena came over with the pack and set it down and knelt to check the straps a third time, buying herself a minute with her face hidden. When she stood, her eyes were bright and she let them be bright. "Up," she said. "All of us. Porch inspection. If anybody's got a loose lace or a tragic collar, I'm fixing it now and never again."
 
-They lined up on the porch of Tempest Hall in the thin September sun — four siblings and one visitor who was also a sibling, which was the same thing after four nights of ping springs and laundry lines — and Silena went down the row straightening collars and tugging hems and wiping a smudge of charcoal off Tyson's jaw with her thumb. The lake flashed through the pines to the left, freshwater blue going rose at the edges where morning touched it, cicadas starting late, pine resin and cool stone on the air. Somewhere up the hill the conch sounded for breakfast, thin and far.
+They lined up on the porch of Tempest Hall in the thin September sun — four Poseidon siblings at camp and one visitor who was also a sibling, which was the same thing after four nights of ping springs and laundry lines — and Silena went down the row straightening collars and tugging hems and wiping a smudge of charcoal off Tyson's jaw with her thumb. The lake flashed through the pines to the left, freshwater blue going rose at the edges where morning touched it, cicadas starting late, pine resin and cool stone on the air. Somewhere up the hill the conch sounded for breakfast, thin and far.
 
 Clarisse slung the pack over one shoulder before Tyson could lift it — stealing the chore for exactly six steps, because she could — and then handed it back. "Carry it," she said. "Last-day chore. Don't drop it. It's got your sister's baking in it."
 
@@ -266,7 +266,7 @@ Percy held the rock — cool, smooth, warm from Tyson's pocket — and felt grie
 
 "I'm in it," Percy promised. "All the way in."
 
-Tyson picked up his pack — heavy with love, warm through the canvas — and swung it onto his shoulder, and turned to all five of them — four siblings and one cartographer who was Cabin Three adjacent — standing in a ragged line on the warm boards with their hands full of apples and tags and whistles and rocks. He looked at each face in turn, filing, keeping, making room inside.
+Tyson picked up his pack — heavy with love, warm through the canvas — and swung it onto his shoulder, and turned to all five of them — four Poseidon siblings at camp and one cartographer who was Cabin Three adjacent — standing in a ragged line on the warm boards with their hands full of apples and tags and whistles and rocks. He looked at each face in turn, filing, keeping, making room inside.
 
 "Goodbye," Tyson said. "Thank you for the visit with edges. The edges held the shape. The shirts got dry anyway." He smiled the small complete smile. "I love you. That is my line. Take it with you."
 

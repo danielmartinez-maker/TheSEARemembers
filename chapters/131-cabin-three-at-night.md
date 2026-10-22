@@ -4,7 +4,7 @@ Percy woke because the cabin had gone quiet.
 
 Not truly silent. Water threaded the fountain's stone channels with a soft, continuous murmur, old floorboards ticked as they cooled, contracting with faint clicks, and beyond windows the lake tapped the shore in slow, even strokes. Familiar sounds had simply receded, leaving a hollowed-out quiet. The absence of everything else brought him awake, skin prickling in the cool air where the blanket had slipped.
 
-Moonlight fell across the wall above his bed, silvering the plaster and pooling along the frame's edge. The Atlantis photograph hung in its crooked brass frame, glass glinting faintly. Faces blurred, but he knew where everyone stood: parents beneath the garden arch, Triton at the edge, Clarisse half-turned from the camera, Silena leaning into her, Annabeth's hand in his, Thalia behind her sister.
+Moonlight fell across the wall above his bed, silvering the plaster and pooling along the frame's edge. The Atlantis photograph hung in its crooked brass frame, glass glinting faintly. Faces blurred, but he knew where everyone stood: parents beneath the garden arch, Rhode and Benthesikyme beside Triton at the edge, Clarisse half-turned from the camera, Silena leaning into her, Annabeth's hand in his, Thalia behind her sister.
 
 Since the return, the picture greeted him each time he entered. At night it caught differently. The palace seemed near enough to touch and far enough its currents stayed unheard. He missed it, though the ache wasn't wanting to leave camp. Both places had found ways to stay with him — salt air clinging to his pillowcase, pine sap on his sandals, the fountain's low talk underneath his dreams.
 

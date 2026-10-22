@@ -91,23 +91,25 @@ Use **continuity/CHARACTER_MEMORY_LEDGER.md** as a source-anchored index and **c
 
 ## 3. Locked families and households
 
-### 3.1 Poseidon's household: PCS
+### 3.1 Poseidon's family and the Camp Three siblings
 
-**PCS = Percy, Clarisse, Silena**; Percy is the youngest of these three half-siblings. The altered-history cabin is **Cabin Three**.
+**PCS = Percy, Clarisse, Silena** is the Camp Three sibling group; Percy is the youngest of these three half-siblings. This shorthand does **not** name every child of Poseidon. Rhode and Benthesikyme are Percy’s Atlantis-resident sisters from Chapter 001. The altered-history camp cabin is **Cabin Three**.
 
 | Person | Canon relationship | Story consequences |
 |---|---|---|
-| **Percy Jackson** | Son of Poseidon and Sally Jackson; younger half-brother of Clarisse and Silena. | Raised in Atlantis in the changed past, but lacks that childhood's full memories. Has a particular relationship with royal status and privilege. |
+| **Percy Jackson** | Son of Poseidon and Sally Jackson; younger half-brother of Clarisse and Silena, and brother of Atlantis residents Rhode and Benthesikyme. | Raised in Atlantis in the changed past, but lacks that childhood's full memories. Has a particular relationship with royal status and privilege. |
 | **Clarisse La Rue** | Daughter of **Poseidon**, not Ares in the present altered timeline; Percy's and Silena's half-sister. | Competitive, blunt, formidable, loyal; do not turn her into a duplicate of Thalia or transfer Thalia's history to her. |
-| **Silena Beauregard** | Daughter of **Poseidon**, not Aphrodite in the present altered timeline; Percy's and Clarisse's half-sister. | Socially perceptive, creative, warm, and capable of dissent; she needs her own desires and limits beyond caretaking. |
-| **Amphitrite** | Poseidon's wife and Percy's mother in practice after Sally's death in the altered history. | Percy can love her without replacing Sally. She is **unaware of Percy's remembered prior life or missing altered-childhood memories**, as explicitly directed for Chapter 1, and his unusual behavior reads to her as ordinary anxiety about leaving home. Her relationship with Clarisse and Silena grows on separate paths; do not presume a maternal bond or demand a title before they choose it. Their future chosen-mother arc is recorded below. |
+| **Silena Beauregard** | Daughter of **Poseidon**, not Aphrodite in the present altered timeline; Percy's and Clarisse's Camp Three half-sister. | Socially perceptive, creative, warm, and capable of dissent; she needs her own desires and limits beyond caretaking. |
+| **Rhode** | Daughter of Poseidon; Percy’s sister and an Atlantis resident from Chapter 001. | Shared Poseidon paternity and sisterhood are established. Exact age, mother/other parentage, powers, and relationship with Amphitrite are unspecified. She is not a Camp Three camper. |
+| **Benthesikyme** | Daughter of Poseidon; Percy’s sister and an Atlantis resident from Chapter 001. | Shared Poseidon paternity and sisterhood are established. Exact age, mother/other parentage, powers, and relationship with Amphitrite are unspecified. She is not a Camp Three camper. |
+| **Amphitrite** | Poseidon's wife and Percy's mother in practice after Sally's death in the altered history. | Percy can love her without replacing Sally. She is **unaware of Percy's remembered prior life or missing altered-childhood memories**, as explicitly directed for Chapter 1, and his unusual behavior reads to her as ordinary anxiety about leaving home. Her relationship with Clarisse and Silena grows on separate paths; do not presume a maternal bond or demand a title before they choose it. No maternal relationship with Rhode or Benthesikyme is established. Their future chosen-mother arc is recorded below. |
 | **Triton** | Son of Poseidon and Amphitrite; Percy's older half-brother. | Older Atlantean family member, mentor, and teasing rival, not an ordinary camp teenager. |
 | **Tyson** | Poseidon's Cyclops son, where present. | His visits need established logistics. Do not relocate him permanently to camp by implication. |
 | **Poseidon** | Shared divine father of the above acknowledged children. | A more present father to Percy in the altered history, but unequal childhood experiences and privilege may strain sibling relationships. |
 
 **Planned chosen-mother arc (future work after Chapter 193):** Amphitrite's relationship with Silena and Clarisse develops gradually into a maternal bond through sustained care for each as an individual. Silena chooses to call her “Mom” first, in a private, earned moment; Clarisse makes that choice later, after Amphitrite has repeatedly respected her boundaries and her hurt about Poseidon's unequal involvement. Their milestones happen in separate scenes and have not occurred in Chapters 001–193. Amphitrite never asks for the title. This bond does not replace either sister's own mother, resolve Silena's relationship with Maria, or forgive Poseidon on Clarisse's behalf.
 
-No invented replacement Poseidon sisters, including Marina, Coral, Tess, or Delphine. Any new child of Poseidon needs explicit approval and a deliberate role. Do not say Triton or Tyson is biologically unrelated to other children sharing Poseidon as father; distinguish their mothers, ages, and households instead.
+Author-approved canon addition (2026-10-21): Rhode and Benthesikyme are Percy’s sisters and live in Atlantis from Chapter 001. Preserve that placement. Do not invent additional Poseidon children without explicit approval. Do not say Triton or Tyson is biologically unrelated to other children sharing Poseidon as father; distinguish known relationships, mothers, ages, and households, and leave unspecified details open.
 
 ### 3.2 Grace household
 
@@ -301,7 +303,7 @@ For consistency, count whitespace-separated words from **chapter body text**, ex
 | Thalia becomes the rewrite architect or an eclipse restores Athena parentage | Maintain unknown architect and Annabeth's Zeus parentage unless user changes canon | **Audit** historical material and current relevant chapters |
 | Thalia gains complete memories of the erased life | Only Percy and Annabeth retain firsthand erased-life memories; other characters retain only what they explicitly heard or witnessed | **Audit** and flag deliberate exceptions for approval |
 | Annabeth loses Percy, their romance, or Tartarus memories | She retains them from the opening | **Audit** early and mid-story scenes |
-| Clarisse/Silena revert to Ares/Aphrodite, or new Poseidon sisters appear | PCS parentage and membership remain fixed | **Audit** names and cabin affiliations |
+| Clarisse/Silena revert to Ares/Aphrodite, or unapproved Poseidon children are added | PCS remains Percy, Clarisse, and Silena; Rhode and Benthesikyme remain Atlantis residents | **Audit** names and cabin affiliations |
 | Annabeth is called Jackson or related to Percy as a sibling | Annabeth Grace, Zeus daughter, Percy's partner | **Audit** and correct only proven mistakes |
 | Sally's death appears in Percy's remembered original childhood | Sally died at age two **only in altered history** | **Audit** recalled memories and grief scenes |
 | Ages, seasons, returning visitors, gifts, injuries, and powers jump | Maintain a dated continuity ledger | **Audit** transitions and new drafts |

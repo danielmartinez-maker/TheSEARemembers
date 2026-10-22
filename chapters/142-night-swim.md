@@ -100,7 +100,7 @@ Clarisse watched him, arms crossed. "You're bringing snacks to a swim?"
 
 "They're gummy. They don't crumb." He zipped the bag. "Prepared."
 
-Silena pinned the note to the outside of the cabin door with a shell hair clip, where Chiron always looked. The paper fluttered in the night breeze. The clip clicked. For a second they all stared at it, three siblings in mismatched sleep clothes turned expedition team, breathing the warm night air that smelled of pine sap and cut grass and distant strawberries gone overripe.
+Silena pinned the note to the outside of the cabin door with a shell hair clip, where Chiron always looked. The paper fluttered in the night breeze. The clip clicked. For a second they all stared at it, three Cabin Three siblings in mismatched sleep clothes turned expedition team, breathing the warm night air that smelled of pine sap and cut grass and distant strawberries gone overripe.
 
 "Okay," Clarisse said quietly. "Okay. Let's go get the sky girls before I change my mind."
 
@@ -210,7 +210,7 @@ Clarisse stared. Behind them towels snapped. "You're such a barnacle," she mutte
 
 "Tell anyone what?" Percy said. "You never say anything. You're stone. You're Clarisse."
 
-She huffed, almost a laugh, and squeezed harder. Her hoodie sleeve brushed his bare arm, fleece soft. For a second they stood at the end of the dock holding hands like little kids, two Poseidon siblings in mismatched swim clothes under a spilled sky, and Percy felt the lake waiting below, patient, and his sister's pulse hammering in her palm.
+She huffed, almost a laugh, and squeezed harder. Her hoodie sleeve brushed his bare arm, fleece soft. For a second they stood at the end of the dock holding hands like little kids, two Cabin Three siblings in mismatched swim clothes under a spilled sky, and Percy felt the lake waiting below, patient, and his sister's pulse hammering in her palm.
 
 "Okay," she said. "Okay. Let's change before mosquitoes eat us alive."
 

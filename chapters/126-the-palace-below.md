@@ -6,7 +6,7 @@ Until he went through the door, the palace did not look like a place Percy had o
 
 “Your drawing was smaller,” Clarisse replied. “Show us the nursery.”
 
-That morning Thalia had finished her watch and come for a few hours through Chiron’s approved passage, wearing the breathing charm Triton had sent. Tyson had joined them from the undersea forges. Amphitrite, in a simple blue robe, welcomed them to wander without a schedule. Poseidon stood beside her, and Triton had cleared the family corridor. Tyson smiled at Percy. “Show us the places where you were small.”
+That morning Thalia had finished her watch and come for a few hours through Chiron’s approved passage, wearing the breathing charm Triton had sent. Tyson had joined them from the undersea forges. Rhode and Benthesikyme greeted Percy at the family corridor, then came along to the nursery. Amphitrite, in a simple blue robe, welcomed them to wander without a schedule. Poseidon stood beside her, and Triton had cleared the family corridor. Tyson smiled at Percy. “Show us the places where you were small.”
 
 “Some of them,” Percy said. “I wasn’t small everywhere.”
 
@@ -40,7 +40,7 @@ Clarisse looked at the wall. “Which parts?”
 
 Percy pointed out his crooked fish and the crab he had drawn carrying a pearl. Silena touched her finger to the turtle’s painted crown and declared it queen of the nursery. Tyson had painted a giant, one-eyed fish beside the whales, though Triton insisted he had originally been asked to draw a whale. “The whale needed a friend,” Tyson said. Poseidon laughed. “It seemed pleased.”
 
-Taking in the nursery, his sisters stood side by side. Easier to show them the mural than the parts of himself it held. Amphitrite told them how everyone had come and gone here: her voice while she read, Triton’s footsteps in the hall, Poseidon carrying Percy in from the garden when he fell asleep on a bench. She pointed to the whales he had asked to see after bad dreams. Percy studied them, wishing he could remember the comfort she described.
+Taking in the nursery, his Camp Three sisters stood side by side. Easier to show them the mural than the parts of himself it held. Amphitrite told them how everyone had come and gone here: her voice while she read, Triton’s footsteps in the hall, Poseidon carrying Percy in from the garden when he fell asleep on a bench. She pointed to the whales he had asked to see after bad dreams. Percy studied them, wishing he could remember the comfort she described.
 
 Clarisse stood near the bed. The mattress had been replaced many times, but the carved frame remained. A small line of marks ran up one side of the bedpost, each with a date and a name in careful Atlantean script.
 
@@ -336,7 +336,7 @@ Her story gave the entry warmth: a stubborn boy, a careful brother, and an after
 
 Before leaving, Annabeth asked to see the current route from the training pool to the medical rooms. The archivist supplied it, along with the name of the staff member responsible for keeping the diagram updated.
 
-Percy put the copied ledger entry in his bag. His sisters had gathered their own useful information: fabric patterns, safer routes, and a method for checking whether a drawing described a structure that still existed. The palace was becoming less like an exhibit arranged for their admiration and more like a place where people worked, sometimes made mistakes and had to correct them.
+Percy put the copied ledger entry in his bag. His Camp Three sisters had gathered their own useful information: fabric patterns, safer routes, and a method for checking whether a drawing described a structure that still existed. The palace was becoming less like an exhibit arranged for their admiration and more like a place where people worked, sometimes made mistakes and had to correct them.
 
 
 ---
@@ -415,7 +415,7 @@ Her name was Carina. She had watched Clarisse practice with a borrowed spear and
 
 "A controlled lesson," Annabeth replied.
 
-"To impress my sisters," Percy admitted.
+"To impress my Camp Three sisters," Percy admitted.
 
 Carina folded her arms. "That last expectation causes more injuries than the others."
 
@@ -747,14 +747,14 @@ Amphitrite looked at him. "Then you can ask him when he is available, rather tha
 
 He nodded. A little of the disappointment returned, but it was bearable. He could ask. The answer might still be no.
 
-They walked toward the family dining room. Percy had expected the palace tour to be about impressing his sisters. Instead, much of what they'd done involved learning who maintained the places they visited and what happened when something didn't work. It was not the shining, effortless Atlantis he'd pictured. He trusted it more for being real.
+They walked toward the family dining room. Percy had expected the palace tour to be about impressing his Camp Three sisters. Instead, much of what they'd done involved learning who maintained the places they visited and what happened when something didn't work. It was not the shining, effortless Atlantis he'd pictured. He trusted it more for being real.
 
 
 ---
 
 By late afternoon, the family gathered in the small dining room overlooking the garden. A bowl of water at the table’s center reflected the sea above. Roasted shellfish, kelp rolls, citrus, and warm bread passed from hand to hand.
 
-Clarisse chose a spot with a view of the doors. Silena sat beside her. Annabeth and Thalia settled across from them. Tyson sat next to Percy, who had to move his chair twice to leave enough space for Tyson’s shoulders.
+Clarisse chose a spot with a view of the doors. Silena sat beside her. Annabeth and Thalia settled across from them. Tyson sat next to Percy, who had to move his chair twice to leave enough space for Tyson’s shoulders. Rhode and Benthesikyme joined them at the far end of the table, near Triton.
 
 “The nursery was less formal than I pictured,” Silena said.
 
@@ -966,7 +966,7 @@ Percy nodded. The visit had given each of them a reason to return, though none h
 
 At Cabin Three, he unpacked the copy of his childhood training-stage record. The story written there belonged to a period he couldn't remember firsthand. What he did remember was the weekend just passed: the garden, the repaired rail, the training pool and the quiet decision to leave together when the visit was over.
 
-He put the paper on his shelf, changed out of his travel clothes and went to help his sisters return the hamper to the kitchen.
+He put the paper on his shelf, changed out of his travel clothes and went to help Clarisse and Silena return the hamper to the kitchen.
 
 At the kitchen, the cook checked every label before accepting the contents. Silena explained that the preserved fruit had been packed for land storage but that the sea greens should be examined again before serving.
 

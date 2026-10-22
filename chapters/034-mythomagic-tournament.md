@@ -6,7 +6,7 @@ Not Chiron. Chiron would never shout through a traffic cone. This was the Stoll 
 
 "HEAR YE, HEAR YE! BIG HOUSE! NINE O'CLOCK SHARP! SINGLE ELIMINATION! BRING YOUR OWN DECK OR CRY!"
 
-Percy sat straight up and smacked his forehead on the low beam above his bunk. Again. The Poseidon cabin had bunks for all three siblings and a visitor, and he still managed to injure himself on every low beam.
+Percy sat straight up and smacked his forehead on the low beam above his bunk. Again. The Poseidon cabin had bunks for all three Cabin Three siblings and a visitor, and he still managed to injure himself on every low beam.
 
 "Percy?" Tyson mumbled from the guest bunk below, one giant eye blinking open. "Is it a monster attack? Should I get a stick?"
 

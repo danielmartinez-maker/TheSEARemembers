@@ -72,7 +72,7 @@ Clarisse frowned. "Why would she do that? The ridge is the best defensive positi
 
 Silence.
 
-Silena stared at him. "Percy Jackson. Did you just say 'girls are sneaky' while sitting in a cabin with your two sisters?"
+Silena stared at him. "Percy Jackson. Did you just say 'girls are sneaky' while sitting in a cabin with your two Cabin Three sisters?"
 
 "I misspoke," Percy said quickly. "I meant — tactically unpredictable! Due to — brains. Big brains. Respectfully."
 

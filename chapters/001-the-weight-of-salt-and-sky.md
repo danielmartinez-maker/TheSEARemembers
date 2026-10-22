@@ -18,7 +18,7 @@ He remembered Sally at the kitchen table, cutting the burnt edges off blue cooki
 
 The door opened before he could decide what to do next.
 
-"Percy, you'll be late for..." Amphitrite halted on the threshold. She wore sea-green robes with a dark border worked in tiny shells, and one pearl had come loose from the comb holding back her hair. She noticed his bare feet, the rumpled bedding, and then his face. "What's wrong, *agapi mou*? Was it the nightmare again?"
+"Percy, you'll be late for breakfast. Rhode and Benthesikyme have been asking when you'll join them." Amphitrite halted on the threshold. She wore sea-green robes with a dark border worked in tiny shells, and one pearl had come loose from the comb holding back her hair. She noticed his bare feet, the rumpled bedding, and then his face. "What's wrong, *agapi mou*? Was it the nightmare again?"
 
 He didn't know which nightmare she meant. She spoke with the ease of someone who had come to this room on hundreds of ordinary mornings, perhaps on mornings when he had been ill, or frightened, or simply unwilling to get out of bed. She had memories of him that he couldn't supply.
 
@@ -82,7 +82,7 @@ He picked up the fishing sinker and rolled it once between his fingers. "You're 
 
 Percy hadn't expected the second half. "That's fair."
 
-"It isn't always." Poseidon put the sinker down. "Your sisters have had to discover that the hard way."
+"It isn't always." Poseidon put the sinker down. "Clarisse and Silena have had to discover that the hard way."
 
 The casual reference to sisters caught Percy unprepared, but his father was already drawing him toward the door. "Your mother and I will miss you. Call us every day if you can, and tell us if anything goes wrong. Don't make us rely on Chiron's reports."
 
@@ -520,13 +520,13 @@ On his last evening in Atlantis, Percy walked the palace corridors alone. The bi
 
 He could imagine missing this. That was the strange, painful truth of it: the palace's quiet had begun to settle around him, and people here treated him as someone who belonged. In his original life, camp had been home, and he'd fought and bled and nearly died for it. But this version of him, this version of Percy who had grown up here, who had never known the surface world or mortal life or the grinding, beautiful chaos of being a demigod, had a claim on this place too.
 
-A pair of smaller children, maybe six, maybe seven, swam past him, chasing each other through the corridors. They were the children of minor sea spirits, and they seemed to expect him to join a game whose rules he did not know. They looked at him with the particular shyness of kids who had heard he was leaving and didn't know how to feel about it.
+Rhode and Benthesikyme, his sisters, swam toward him through the corridors, chasing each other. He knew their names, but the closeness their shared childhood might have built belonged to a life he could not remember. They looked at him with the particular shyness of children who had heard he was leaving and didn't know how to feel about it.
 
-"Are you really going?" one of them asked.
+"Are you really going?" Rhode asked.
 
 "Yeah. Tomorrow."
 
-"Will you come back?"
+"Will you come back?" Benthesikyme asked.
 
 Percy smiled. "I promise."
 
@@ -674,7 +674,7 @@ Percy had seen the camp before. He'd seen it in its original configuration, the 
 
 "What's that?" he asked, pointing.
 
-Grover followed his gaze. "Oh! That's the Hall of the Gods. They built it a few years ago, it's for divine visitations. Lord Zeus comes sometimes. It's, well, it's mostly for the big three kids. There's not many of them, you know. You're the first new Poseidon camper in a while. Your sisters are already here."
+Grover followed his gaze. "Oh! That's the Hall of the Gods. They built it a few years ago, it's for divine visitations. Lord Zeus comes sometimes. It's, well, it's mostly for the big three kids. There's not many of them, you know. You're the first new Poseidon camper in a while. Clarisse and Silena are already here."
 
 The big three. Percy's stomach flipped. If the Hall of the Gods was for the big three, and this timeline had rearranged the cabins ...
 
@@ -936,7 +936,7 @@ Chiron raised an eyebrow at Grover. "I expected you earlier."
 
 "Some."
 
-"We can see where you stand tomorrow. For now, get settled. Your sisters are expecting you."
+"We can see where you stand tomorrow. For now, get settled. Clarisse and Silena are expecting you at Cabin Three."
 
 Grover coughed into his hand, concealing a laugh badly.
 
@@ -968,7 +968,7 @@ Percy eyed the wristguard. "Does everyone here give the new guy a test?"
 
 "Not everyone." Her grin sharpened. "Some of us wait until tomorrow."
 
-She named Silena as their other sister, already busy on the far side of the pavilion, and pointed Percy toward the cabin they shared. He had known Clarisse as the daughter of Ares in his remembered life, a rival with a talent for making every competition personal. Here she was his older half-sister, and the fact that she'd bothered to keep his sleeve dry was probably as meaningful as any welcome he was going to get.
+She named Silena as the other Cabin Three sister, already busy on the far side of the pavilion, and pointed Percy toward the cabin they shared. He had known Clarisse as the daughter of Ares in his remembered life, a rival with a talent for making every competition personal. Here she was his older half-sister, and the fact that she'd bothered to keep his sleeve dry was probably as meaningful as any welcome he was going to get.
 
 "Don't drown in the canoe lake, newbie," she added as she left to settle an argument at the next table.
 
@@ -1040,7 +1040,7 @@ She let go and walked toward Cabin One. Percy made sure she reached the door bef
 
 ---
 
-That night, Percy lay in the lower bunk of Cabin Three while water moved through the narrow channels beneath the floor. From outside came the clang of someone putting away weapons after curfew, followed by a sharp order to be quiet. The cabin had been his alone in the childhood he remembered. This one had four bunks and rules nobody had thought to teach him because the rules belonged to his sisters.
+That night, Percy lay in the lower bunk of Cabin Three while water moved through the narrow channels beneath the floor. From outside came the clang of someone putting away weapons after curfew, followed by a sharp order to be quiet. The cabin had been his alone in the childhood he remembered. This one had four bunks and rules nobody had thought to teach him because the rules belonged to Clarisse and Silena, his Camp Three sisters.
 
 Clarisse slept nearby. In the opposite corner a neatly folded quilt rested beside a notebook with a blue cover. Silena's things, he assumed from the name Clarisse had given him. He had not yet met her, and he was beginning to understand that being someone's brother on a family tree didn't tell him what she would expect of him at breakfast.
 

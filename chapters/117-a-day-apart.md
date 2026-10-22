@@ -910,7 +910,7 @@ Lifting her head, eyes narrowing playfully: “Threat?”
 
 “Have sisters. Accustomed to being outnumbered.”
 
-“Two sisters, plus Thalia defects to their side whenever bossing you appeals — which is frequently,” Annabeth teased, shoulder bumping his. “Poor Percy, gloriously doomed by committee.”
+“Two Cabin Three sisters, plus Thalia defects to their side whenever bossing you appeals — which is frequently,” Annabeth teased, shoulder bumping his. “Poor Percy, gloriously doomed by committee.”
 
 “Doomed, then.”
 

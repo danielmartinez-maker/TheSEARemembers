@@ -258,7 +258,7 @@ Clarisse raised an eyebrow. "I like him. Can we trade?"
 
 Silena leaned over the bunk and straightened the photograph so its reflection did not catch the afternoon light. "Family meeting complete. Everybody has a space."
 
-"I have two sisters who think they run the world," Percy told Tyson.
+"I have two sisters at camp who think they run the world," Percy told Tyson.
 
 "They run cabin," Tyson replied.
 

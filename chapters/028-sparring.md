@@ -46,7 +46,7 @@ Silena lit up. "Can I come? I can time rounds. I have a stopwatch and a whistle 
 
 "I always bring muffins," Silena said, like this was a well-established law of nature.
 
-Percy looked between his two sisters — half-sisters, technically, same dad different mortal parents, but after two months of sharing Cabin Three's leaky back window and stealing each other's socks, the half part had worn off — and sighed in that long-suffering way twelve-year-old boys sigh when they know they have lost.
+Percy looked between his two Cabin Three sisters — half-sisters, technically, same dad different mortal parents, but after two months of sharing Cabin Three's leaky back window and stealing each other's socks, the half part had worn off — and sighed in that long-suffering way twelve-year-old boys sigh when they know they have lost.
 
 "Fine," he said. "Dawn. Tempest Hall. But if I fall asleep in the pool and drown, I'm haunting you both."
 

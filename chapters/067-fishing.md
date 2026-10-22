@@ -964,7 +964,7 @@ They sat with their feet in the water, shoulders touching, hands linked on the d
 
 "This morning," Annabeth said after a while, swinging her feet slowly, making little ripples that caught the light, "when that first little bass came into my hands— I wasn't thinking about charts. I was just— still. I've never been still like that. Not even when I draw. My brain is always going. But with my hands in the water, listening— it went quiet. In a good way."
 
-Percy nodded. He knew that quiet. It was the sea's gift. "That's what Atlantis feels like when it's right. When Triton isn't lecturing and Dad isn't—" Poseidon was complicated too, deep and distant and suddenly present in the form of two sisters and a palace full of expectations. "When it's just water. It holds you still."
+Percy nodded. He knew that quiet. It was the sea's gift. "That's what Atlantis feels like when it's right. When Triton isn't lecturing and Dad isn't—" Poseidon was complicated too, deep and distant and suddenly present in the form of his two Camp Three sisters and a palace full of expectations. "When it's just water. It holds you still."
 
 Annabeth leaned her head on his shoulder. Percy tucked a damp strand of hair back, his fingers lingering.
 

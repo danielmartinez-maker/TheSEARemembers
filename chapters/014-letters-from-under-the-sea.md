@@ -308,7 +308,7 @@ The smell hit first — salt and lavender and hot copper and home. Clarisse didn
 
 Inside, packed in layers of soft glow-kelp that pulsed faintly blue, was:
 
-- A jar of deep purple sea-plum jam, labeled in Amphitrite's hand: *For Perseus and his sisters — plenty to share!*
+- A jar of deep purple sea-plum jam, labeled in Amphitrite's hand: *For Perseus, Clarisse, and Silena — plenty to share!*
 - A folded blue blanket, soft as water, smelling of lavender. Tucked into it was a note: *Surface nights are cold. Love, Mom.*
 - A battered leather training manual with TRITON'S — DO NOT TOUCH — MINNOW, IF YOU STEAL THIS I WILL FEED YOU TO A KRAKEN scribbled on the cover, and underneath in smaller writing: *(okay you can borrow it, love you, don't die)*
 - Three braided cord bracelets, blue and green and gold, with little shark teeth and pearls.
@@ -468,7 +468,7 @@ Percy turned his head to look at her. "Yeah," he said. "Yeah, we do."
 
 Clarisse flopped down on the tiles beside them, dripping all over both of them on purpose. "Are you two having feelings without me? Absolutely not. Scoot over. Group float."
 
-They floated in a row, three children of Poseidon, shoulder to shoulder, staring at the painted stars while the pool rocked them gently. And for a little while, the ache eased.
+They floated in a row, the three Cabin Three siblings, shoulder to shoulder, staring at the painted stars while the pool rocked them gently. And for a little while, the ache eased.
 
 ---
 

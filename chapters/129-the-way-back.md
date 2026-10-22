@@ -155,7 +155,7 @@ They walked toward breakfast together. No one had recovered an erased memory or 
 
 ---
 
-Bread and salt scented the main hall, warm loaves exhaling into the cool water, butter pooling gold in their cracks. Poseidon and Triton stood near the terrace doors while Amphitrite sat with Clarisse and Silena over the route map, parchment softened at the folds, ink smelling faintly of iron. The blue mark for a shifting current looked small enough to be a stain, its edges feathered where water had once touched it.
+Bread and salt scented the main hall, warm loaves exhaling into the cool water, butter pooling gold in their cracks. Poseidon and Triton stood near the terrace doors while Amphitrite sat with Clarisse and Silena over the route map, parchment softened at the folds, ink smelling faintly of iron. Rhode and Benthesikyme were at breakfast too, talking quietly with Triton. The blue mark for a shifting current looked small enough to be a stain, its edges feathered where water had once touched it.
 
 "It should be bigger," Clarisse said.
 
@@ -167,7 +167,7 @@ Annabeth redrew the mark with a darker stroke. "There. Now you can explain the t
 
 Triton studied it. "Acceptable."
 
-Percy took the seat between his sisters. Breakfast talk gathered around them: Clarisse said he ate too quickly, Silena denied feeding apricots to reef fish, and Triton reminded them hippocampi waited at the lower platform.
+Percy took the seat between Clarisse and Silena. Breakfast talk gathered around them: Clarisse said he ate too quickly, Silena denied feeding apricots to reef fish, and Triton reminded them hippocampi waited at the lower platform.
 
 Poseidon repeated the plan, voice even and unhurried, hands resting lightly on the terrace rail. Chiron would meet them at the cove; the current would carry them there, steady and marked. "I repeat it because I've been told repeating a plan isn't the same as worrying."
 
@@ -183,7 +183,7 @@ Poseidon nodded, then looked at Percy. "You can come back when you wish. No form
 
 "Then you needn't know yet," Amphitrite told him. The garden would keep growing while he was away. Ordinary reassurance — easier to believe for it.
 
-Their meal stretched longer than necessary, cutlery chiming softly, chairs scraping now and then. Nobody rushed them or made a departure speech, the light shifting slow across the table. At last Triton produced the instant camera Silena had packed, its plastic casing cool and scuffed. The previous evening he'd used its short delay to join them at the edge of the garden group: Poseidon, Amphitrite, Triton, Percy, Clarisse, Silena, Annabeth, and Thalia. Clarisse looked ready to argue with the camera; Silena leaned toward her; Annabeth's hand rested in Percy's, and Thalia had an arm around her sister. Amphitrite looked at them instead of the lens.
+Their meal stretched longer than necessary, cutlery chiming softly, chairs scraping now and then. Nobody rushed them or made a departure speech, the light shifting slow across the table. At last Triton produced the instant camera Silena had packed, its plastic casing cool and scuffed. The previous evening he'd used its short delay to join the garden group: Poseidon, Amphitrite, Triton, Rhode and Benthesikyme, Percy, Clarisse, Silena, Annabeth, and Thalia. Clarisse looked ready to argue with the camera; Silena leaned toward her; Rhode and Benthesikyme stood beside Triton, Annabeth's hand rested in Percy's, and Thalia had an arm around her sister. Amphitrite looked at them instead of the lens.
 
 "I have a copy for the palace," Triton said, offering Percy the other print.
 
@@ -213,7 +213,7 @@ Triton clapped Percy's shoulder. "Eastern channel's open next time."
 
 "Of course."
 
-Amphitrite kissed Annabeth's temple. Thalia embraced her, then stayed close at her side. Warm goodbyes, without requests to stay. Percy climbed into the chariot with Clarisse and Silena, looked back once at three figures beneath the arch, and lifted his hand. The hippocampi stepped into the current.
+Amphitrite kissed Annabeth's temple. Thalia embraced her, then stayed close at her side. Warm goodbyes, without requests to stay. Percy climbed into the chariot with Clarisse and Silena, looked back once at his family beneath the arch, and lifted his hand. The hippocampi stepped into the current.
 
 ---
 
@@ -678,7 +678,7 @@ They walked together to Cabin Three, gravel crunching, pine resin sharp in the h
 
 Not the palace. Never what made it matter.
 
-He set his bag down and took out the photograph. The white border still held a little warmth from the ride. He studied faces again: parents, brother, sisters, girls who were sisters to each other, caught in a moment they'd not needed to perform.
+He set his bag down and took out the photograph. The white border still held a little warmth from the ride. He studied the faces again: parents, brother, the Camp Three sisters, the Atlantis sisters, and the Grace sisters, caught in a moment they'd not needed to perform.
 
 "Where are you putting it?" Annabeth asked.
 

@@ -935,7 +935,7 @@ Grover set down the cake: blue icing, uneven gold stars, a tiny sugar owl beside
 
 "Thank you. It needed a friend."
 
-The gathering included Percy and his sisters, Thalia, Chiron, Grover, Nico, Ella, and campers from the Athena, Zeus, and Poseidon cabins. No announcement summoned them. People came because they wished to, carrying chairs and making room.
+The gathering included Percy, his Camp Three sisters, Thalia, Chiron, Grover, Nico, Ella, and campers from the Athena, Zeus, and Poseidon cabins. No announcement summoned them. People came because they wished to, carrying chairs and making room.
 
 Easy noise filled the pavilion, plates clattering and laughter overlapping under the strung lights. Silena arranged plates; Clarisse barred the entrance against anyone bearing a spear; Thalia righted wandering chairs, wood scraping with each rescue. Percy brought Annabeth the first plate.
 

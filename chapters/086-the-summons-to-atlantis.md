@@ -18,7 +18,7 @@ Annabeth Grace, thirteen, blond ponytail tucked through the back of a camp cap, 
 
 Clarisse parried, shoved him back with her shoulder, and was about to riposte when a conch sounded from the beach. Not the camp conch for assembly. Deeper. Older. The sound rolled up the hill and settled in Percy's teeth like cold water.
 
-All three Poseidon kids stopped at once.
+The three Cabin Three siblings stopped at once.
 
 Silena sat up straight. Clarisse lowered her sword. Percy felt the tug behind his navel, familiar as a tide.
 
@@ -34,7 +34,7 @@ Percy opened it. Inside was a sheet of mother-of-pearl, thin as paper, etched wi
 
 He read it aloud, because Clarisse and Silena were leaning over his shoulders.
 
-"My children — Clarisse, Silena, Perseus. The currents are kind this weekend and the palace is quiet. Come home to Atlantis. Friday to Sunday. Bring your guest, Annabeth Grace, daughter of Zeus, with my compliments and thanks to my brother. Triton will meet you at the strait. Mind your sister. Mind your brother. — Father."
+"My children — Clarisse, Silena, Perseus. The currents are kind this weekend and the palace is quiet. Come home to Atlantis. Friday to Sunday. Bring your guest, Annabeth Grace, daughter of Zeus, with my compliments and thanks to my brother. Triton will meet you at the strait. Rhode and Benthesikyme are already home and look forward to seeing you. Mind your sister. Mind your brother. — Father."
 
 Silence.
 
@@ -44,7 +44,7 @@ Foam snorted and nudged Silena's notebook, as if to say, well?
 
 "And Annabeth," Silena whispered. She grabbed Percy's wrist. "Percy. He signed Father."
 
-Percy stared at the pearl. He had been to Atlantis before, many times, but almost always alone. He had stories for his sisters, pieces, but he had never walked those halls with them beside him.
+Percy stared at the pearl. He had been to Atlantis from camp before, but almost always without his camp sisters. He had stories for Clarisse and Silena, pieces, but he had never walked those halls with them beside him.
 
 Annabeth was very still. "With my compliments and thanks to my brother," she repeated. "Is that — is that normal? For Poseidon to invite a Zeus kid?"
 
@@ -158,7 +158,7 @@ Percy snorted. Annabeth was watching with wide eyes, her hands still gripping Pe
 
 Triton turned to him last. "Perseus." His expression flickered, just for a heartbeat, into something warmer. "You brought the whole school, I see."
 
-"I brought my sisters," Percy said firmly, sliding off Foam and helping Annabeth down. He stood between his sisters without thinking, shoulders square. "And my best friend. Dad invited her."
+"I brought Clarisse and Silena," Percy said firmly, sliding off Foam and helping Annabeth down. He stood between his sisters without thinking, shoulders square. "And my best friend. Dad invited her."
 
 "So I heard," Triton said. He circled them slowly, sharks circling with him. "Three half-grown demigods and a storm princess. Father's weekend of peace is ruined."
 
@@ -180,7 +180,7 @@ Annabeth's hand found his again, quick and warm, then released. Triton saw it an
 
 The first disagreement happened before they entered the palace.
 
-A young attendant met the visitors near the lower dock carrying an itinerary on a silver board. The schedule divided the family into categories: *Prince Percy*, *the sea-born daughters*, and *the honored sky guest*. Each category had its own reception room and different arrival instructions.
+A young attendant met the visitors near the lower dock carrying an itinerary on a silver board. The schedule divided the visiting group into categories: *Prince Percy*, *the two Cabin Three sisters*, and *the honored sky guest*. Each category had its own reception room and different arrival instructions.
 
 Clarisse read the board once.
 
@@ -200,7 +200,7 @@ Percy took the board before the argument grew louder. The young attendant looked
 
 "The steward's office, my prince."
 
-"Did anybody ask my sisters?"
+"Did anybody ask Clarisse and Silena?"
 
 The attendant looked blank. "They are guests."
 
@@ -276,7 +276,7 @@ Whispers followed them down the pearl corridor.
 
 "The son — and — are those — ?"
 
-"Three? Poseidon has three now above?"
+"Three visitors from Camp Half-Blood?"
 
 "And a sky daughter—"
 
@@ -300,7 +300,7 @@ Then the corridor opened into the Sun Court, and Amphitrite was there, and Posei
 
 He had seen his father recently, but never like this, at home, tall and calm, his dark hair streaked with gray-green. He wore a simple chiton of deep blue, no crown, his trident left leaning against a pillar.
 
-Amphitrite stood beside him, regal and kind, her black hair coiled with pearls, her gown shifting from green to silver with the light. Her eyes found Percy first, then moved past him, hungry and tender at once, to the girls.
+Amphitrite stood beside him, regal and kind, her black hair coiled with pearls, her gown shifting from green to silver with the light. Her eyes found Percy first, then moved past him, hungry and tender at once, to Clarisse and Silena. Rhode and Benthesikyme waited beside Triton, smiling as Percy turned toward them.
 
 For a moment no one moved.
 
@@ -314,7 +314,7 @@ Percy went. He was thirteen and tried to act steady, but his father's hand on th
 
 "Father," he mumbled into his father's shoulder. "We came. All of us."
 
-"You did," Poseidon said. He held all three for a long moment, while the court pretended to be very busy elsewhere. "My three. Together under my roof at last."
+"You did," Poseidon said. He held Percy, Clarisse, and Silena for a long moment, while the court pretended to be very busy elsewhere. "My three campers, together under my roof at last." Rhode and Benthesikyme waited until he let them go, then each came to greet their brother.
 
 Amphitrite waited, hands clasped, tears bright in her eyes but unshed because queens did not cry in court. When Poseidon released them, she stepped forward.
 
@@ -342,7 +342,7 @@ Annabeth's face went white, then red. She bowed low, her voice steady despite ev
 
 "Thank you, Lord Poseidon. Thank you for inviting me. I — I will honor your house."
 
-Poseidon smiled, and the water in the fountains leapt slightly, joyful. "Good. Then come. Triton, stop looming. Percy, show your sisters the nursery wing first. I believe they have waited long enough."
+Poseidon smiled, and the water in the fountains leapt slightly, joyful. "Good. Then come. Triton, stop looming. Percy, take Clarisse and Silena to the nursery wing first. I believe they have waited long enough."
 
 ---
 
@@ -374,7 +374,7 @@ Clarisse stared at it for a long time.
 
 "You knew about us," she said quietly. "Even then."
 
-Percy nodded, throat tight. "That's what they told me. Dad said I had two sisters on land, brave and bright, and that the sea was keeping me ready for them. Apparently I talked to that picture when storms kept me awake. I told you about my day. I wish I could remember it."
+Percy nodded, throat tight. "That's what they told me. Dad said I had two sisters at camp, brave and bright, and that the sea was keeping me ready for them. Apparently I talked to that picture when storms kept me awake. I told you about my day. I wish I could remember it."
 
 Clarisse studied the picture beneath the glass.
 
@@ -464,7 +464,7 @@ She joined them by the window and looked at the shells without touching them.
 
 He heard the ease with which the word came out. It had not been easy at first, after he arrived in this history and learned that Sally had died when he was two. Amphitrite had not required him to produce a matching childhood memory before she offered him care. Over time Percy had learned to meet that care with a present choice of his own.
 
-Clarisse glanced at him, then at the picture of the three children.
+Clarisse glanced at him, then at the childhood picture of Percy, Clarisse, and Silena.
 
 "She's your mother," she said simply. "I can see she tried to help you remember we existed."
 
@@ -516,7 +516,7 @@ There were grilled fish, kelp salads, bread baked in clam shells, and a platter 
 
 Poseidon sat at the head, Amphitrite at his side, the three kids on one side, Annabeth placed in honor on Poseidon's right, which made her sit very straight and eat very carefully.
 
-Triton, across from them, made it his mission to torment all three siblings equally.
+Triton, across from them, made it his mission to torment all three Camp Three siblings equally.
 
 "So, Clarisse," he said, spearing a piece of fish. "Little brother says you once tried to fight a tidal wave."
 
@@ -586,7 +586,7 @@ Silena lit up. Clarisse looked like she had been sentenced.
 
 The women's chambers smelled of pearl oil and flowers.
 
-Annabeth had chosen to come, curious, and sat on a cushioned bench with her notebook, watching as Amphitrite's attendants — three nereids with swift hands — fussed over the Poseidon sisters.
+Annabeth had chosen to come, curious, and sat on a cushioned bench with her notebook, watching as Amphitrite's attendants — three nereids with swift hands — fussed over Clarisse and Silena, the visiting Camp Three sisters.
 
 Silena was in heaven. She stood on a dais in a gown of sea-green silk, her dark hair loose down her back, while Amphitrite herself stood behind her with a comb of coral.
 
@@ -694,7 +694,7 @@ Poseidon stopped and turned to face his son fully.
 
 Percy's throat closed. "Tell them that. Not me. I know."
 
-"I will," Poseidon said. He placed a large hand on Percy's head, briefly, the way he had when Percy was small. "You have grown, my boy. Thirteen, and already a bridge between worlds. Between your sisters. Between sea and sky."
+"I will," Poseidon said. He placed a large hand on Percy's head, briefly, the way he had when Percy was small. "You have grown, my boy. Thirteen, and already a bridge between worlds. Between your Camp Three sisters. Between sea and sky."
 
 At the mention of sky, Percy blushed.
 
@@ -716,7 +716,7 @@ Poseidon studied him for a long moment, then nodded slowly, a smile spreading.
 
 "Yeah?"
 
-"Bring your sisters back for dinner alive. Your stepmother will have my trident if Clarisse duels a duke."
+"Bring Clarisse and Silena back for dinner alive. Your stepmother will have my trident if Clarisse duels a duke."
 
 Percy laughed, and the ache in his chest eased into warmth. "Yes, sir."
 
@@ -882,7 +882,7 @@ They sat together on the pink sand, shoulders touching, knees drawn up, watching
 
 Annabeth leaned her head against his shoulder, trusting, the way she had through their remembered quests and these new days. He leaned his head gently against hers, careful of her braid.
 
-"Thank you for bringing me to your other home," she said quietly. "I was scared. Everyone thinks Zeus kids are proud, but I was scared to be the sky girl in the sea. But this — your nursery, your sisters, your cove — you shared it all. I feel — I feel like I understand you better. The parts that are quiet."
+"Thank you for bringing me to your other home," she said quietly. "I was scared. Everyone thinks Zeus kids are proud, but I was scared to be the sky girl in the sea. But this — your nursery, your time with Clarisse and Silena, your cove — you shared it all. I feel — I feel like I understand you better. The parts that are quiet."
 
 Percy swallowed. "You are my best friend," he said. "My partner. Wherever I am home — camp, the apartment I remember, here — you make it more home."
 
@@ -992,7 +992,7 @@ Silena braided Annabeth's loose strands back into place while Annabeth told them
 
 Triton found them there an hour later, supposed to enforce bedtime, and stopped in the doorway.
 
-The three Poseidon kids were asleep in a pile on the rug — Silena in the middle, Clarisse sprawled with one arm over her brother, Percy with his head on Silena's knee — and Annabeth dozed against the clam bed, Percy's blanket tucked around her, sunrise shell glinting at her throat.
+The three Cabin Three siblings were asleep in a pile on the rug — Silena in the middle, Clarisse sprawled with one arm over her brother, Percy with his head on Silena's knee — and Annabeth dozed against the clam bed, Percy's blanket tucked around her, sunrise shell glinting at her throat.
 
 Triton stood for a long moment, golden eyes unreadable. Then he fetched blankets from the chest and covered each of them carefully, even Annabeth, with surprising gentleness. He dimmed the pearls to night-blue.
 
@@ -1008,7 +1008,7 @@ He bent and kissed each child's forehead — Clarisse, Silena, Percy — and bow
 
 In the morning they would return to camp, to drills and prophecies and mortal school worries. Thalia would demand her messages. Chiron would ask about protocol. Campers would crowd for stories.
 
-But for now, under the whale mural, with the sea humming through the walls, the three children of Poseidon slept side by side in the nursery for the first time, Percy's girlfriend and his sisters' friend safe beside them, home together at last.
+But for now, under the whale mural, with the sea humming through the walls, the three Cabin Three siblings slept side by side in the nursery for the first time, Percy's girlfriend and his sisters' friend safe beside them, home together at last.
 
 Percy had left the guest itinerary folded beside the bed, where he could find it in the morning. He knew who would escort them to the shore, which workshop Tyson needed to return to, and when Chiron expected confirmation of their arrival back at camp. These weren't grand revelations about his past. They were ordinary pieces of a life he could account for, and they mattered just as much as the mural above the bed.
 
