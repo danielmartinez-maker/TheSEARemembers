@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 115 of 215 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 120 of 215 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -696,3 +696,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/115-the-old-photograph.md)
 
 ![Annabeth, Thalia and Percy fit a simple cedar frame around an old photograph of the Grace siblings as children.](115-the-old-photograph.jpg)
+
+## 116. Cabin Three Rules
+
+[Source chapter](../chapters/116-cabin-three-rules.md)
+
+![Silena writes the Cabin Three rules as Clarisse points to the clear walkway and Tyson arrives with repair materials.](116-cabin-three-rules.jpg)
+
+## 117. A Day Apart
+
+[Source chapter](../chapters/117-a-day-apart.md)
+
+![Percy, Clarisse and Silena carefully test a current rig at Tempest Hall, watching the water around its bronze baffles.](117-a-day-apart.jpg)
+
+## 118. A Message from Amphitrite
+
+[Source chapter](../chapters/118-a-message-from-amphitrite.md)
+
+![Percy greets Amphitrite through an Iris-message at the lake while Clarisse and Silena listen to her invitation to Atlantis.](118-a-message-from-amphitrite.jpg)
+
+## 119. Sisters' Errand
+
+[Source chapter](../chapters/119-sisters-errand.md)
+
+![Annabeth and Thalia help secure the storm-damaged pavilion awning while sorting Cabin One's bent decorations.](119-sisters-errand.jpg)
+
+## 120. A Letter from the Sea
+
+[Source chapter](../chapters/120-a-letter-from-the-sea.md)
+
+![Clarisse and Silena carry orchard apples as Percy retrieves Amphitrite's sealed bottle from the tide.](120-a-letter-from-the-sea.jpg)
