@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 100 of 212 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 105 of 212 illustrations complete.** The series is in progress and follows chapter order. The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -606,3 +606,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/100-the-thousandth-campfire.md)
 
 ![Clarisse and Silena share a quiet handclasp at the thousandth campfire as Amphitrite listens with the campers.](100-the-thousandth-campfire.jpg)
+
+## 101. A Name for It
+
+[Source chapter](../chapters/101-a-name-for-it.md)
+
+![Percy and Annabeth sit beside their shrine sketches, carefully naming what their relationship means in this life.](101-a-name-for-it.jpg)
+
+## 102. Not a Competition
+
+[Source chapter](../chapters/102-not-a-competition.md)
+
+![Annabeth hands Percy an index card at the lakeside dock, and he writes his reply beneath the firefly-lit sky.](102-not-a-competition.jpg)
+
+## 103. The Things We Remember
+
+[Source chapter](../chapters/103-the-things-we-remember.md)
+
+![Percy holds Annabeth's folded letter beside the lake while Silena sits with him in quiet support.](103-the-things-we-remember.jpg)
+
+## 104. A Day That Was Theirs
+
+[Source chapter](../chapters/104-a-day-that-was-theirs.md)
+
+![Percy offers Annabeth his hand as they study a sea star and tiny crabs in the tide pools.](104-a-day-that-was-theirs.jpg)
+
+## 105. The Place at the Table
+
+[Source chapter](../chapters/105-the-place-at-the-table.md)
+
+![Clarisse reveals hand-carved family figures to Percy, Silena and Annabeth by lantern light at the beach.](105-the-place-at-the-table.jpg)
