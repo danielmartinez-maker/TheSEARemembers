@@ -395,11 +395,16 @@ CHECKS = {
                     "I don't take orders from girls."),
         "absent": ("Because of the time thing?", "I remember the future"),
     },
+    "chapters/195-the-rules-of-cabin-three.md": {
+        "present": ("But this is the first time we’ve met.",
+                    "I had people who took care of me."),
+        "absent": ("Because of the time thing?", "I remember the future"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(
     r"nice to meet you|pleasure to meet you|you've never met (?:him|her|them)"
-    r"|you’ve never met (?:him|her|them)|this is (?:leandros|ianthe)"
+    r"|you’ve never met (?:him|her|them)|first time (?:we|i)['’]ve met|this is (?:leandros|ianthe)"
     r"|you must be (?:annabeth|clarisse|silena|percy|thalia|triton|amphitrite|leandros|ianthe)",
     re.IGNORECASE,
 )

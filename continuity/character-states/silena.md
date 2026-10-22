@@ -1,6 +1,6 @@
 # Silena: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 195; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found silena in 188 of 193 chapter files (001–025, 027–053, 055–072, 074, 076–153, 155–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -252,4 +252,12 @@
 
 **Current carry-forward at Ch194.** Silena remains sixteen and in Cabin Three; she has no new injury. Beckendorf’s interest is mutual and spoken, their latest confirmed plan is still a tentative Sunday-at-eight meeting, and no formal label or outcome is shown. Her mother’s letter remains private and its delivery/response unknown; her uncertainty about Maria remains unresolved. Percy and Clarisse now have a newly arrived paternal half-brother, Leandros; this does not change Silena’s bond with Percy and Clarisse or make her responsible for managing the new family. Greenhouse soil banking is completed for now. Keep the awning, fence repair, stool, loose rail, and first-hard-frost recheck open.
 
-**Planned future maternal arc (not an event through Ch194).** Amphitrite gradually grows into a maternal figure to Silena through sustained attention to Silena’s own interests, choices, and limits. After that relationship develops, Silena chooses “Mom” first, privately and without pressure; the milestone remains future work. Her history and relationship with Maria remain distinct, and Silena is never responsible for Amphitrite’s feelings.
+**Planned future maternal arc (not an event through Ch195).** Amphitrite gradually grows into a maternal figure to Silena through sustained attention to Silena’s own interests, choices, and limits. After that relationship develops, Silena chooses “Mom” first, privately and without pressure; the milestone remains future work. Her history and relationship with Maria remain distinct, and Silena is never responsible for Amphitrite’s feelings.
+
+### Chapter 195 · The Rules of Cabin Three
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 195](../../chapters/195-the-rules-of-cabin-three.md).
+- **State and events:** Silena lets Leandros help with dinner after he asks her directly. She corrects his flatcake technique without taking the work away and tells him that shared paternity did not give the Camp Three siblings one childhood. She does not mediate his conflict with Clarisse.
+- **Carry-forward:** No “Mom” milestone or new interaction with Amphitrite occurs. Silena’s individual interests and relationship with Maria remain separate from Leandros’s arrival.
+
+**Current carry-forward at Ch195.** Silena remains sixteen, in Cabin Three, and close to Clarisse and Percy. She has not taken responsibility for managing Leandros or repairing his relationship with either sibling. The awning remains torn; the fence is braced but unrepaired; the stool, loose rail, and first-hard-frost recheck remain open. Her relationship with Amphitrite has no new milestone, and her relationship with Maria remains unresolved.

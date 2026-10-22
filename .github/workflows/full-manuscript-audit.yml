@@ -56,5 +56,5 @@ jobs:
             editorial/audits/generated-full-qa.md
             editorial/audits/generated-chapter-structure.json
             editorial/audits/generated-all-text-300-word-qa.json
-            continuity/evidence/generated-ch001-193.json
-            continuity/evidence/generated-ch001-193.md
+            continuity/evidence/generated-ch001-current.json
+            continuity/evidence/generated-ch001-current.md

@@ -1,6 +1,6 @@
 # Percy: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 195; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found percy in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -307,3 +307,11 @@
 - Repair update: the fence is braced but not repaired; the north step holds only in a dry check; Silena banks the greenhouse soil; the torn awning, stool, loose rail, and first-hard-frost step check remain open.
 
 **Current carry-forward at Ch194.** Percy is fourteen in autumn; no calendar year is established. He remains Annabeth’s chosen partner and Clarisse’s and Silena’s brother. His apology to Thalia has been delivered and appreciated, but forgiveness has not been given. Thalia’s heel still hurts under Chiron’s rest/splint/modified-shooting plan; Tuesday hall attendance and swimming remain her choice. Leandros has chosen the Cabin Three cot for tonight, but longer-term placement and sibling trust remain unsettled. Keep Tyson’s reply and Percy’s canoe measurements/report pending; keep the bent fence, awning, stool, loose rail, and first-hard-frost check open. The greenhouse soil banking is completed for now. Amphitrite remains unaware of Percy’s predicament; the erased-future secret remains exclusive to Percy and Annabeth.
+
+### Chapter 195 · The Rules of Cabin Three
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 195](../../chapters/195-the-rules-of-cabin-three.md).
+- **State and events:** Percy tells Leandros only that he had people who cared for him in Atlantis; he does not share the altered-childhood memory gap or erased-future memories. He and Annabeth remain affectionate. He offers her the last cake and accepts her choice to inspect and repair her stool while he holds the pieces.
+- **Carry-forward:** Percy does not become Leandros’s universal interpreter. The stool remains unrepaired; Annabeth’s decision about the repair is hers.
+
+**Current carry-forward at Ch195.** Percy remains fourteen in the autumn sequence and Annabeth’s chosen partner. He has not disclosed the erased-future memories or his altered-childhood memory gap to Leandros. Leandros uses the Cabin Three cot again, but longer-term placement and sibling trust remain unsettled. The fence, awning, stool, loose rail, and first-hard-frost recheck remain open; greenhouse banking is complete for now. Thalia’s heel state and Percy’s apology remain as last shown in Chapter 194. Amphitrite remains unaware of Percy’s predicament.

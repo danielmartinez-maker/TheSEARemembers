@@ -198,6 +198,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **192.** [Against the Windows](chapters/192-against-the-windows.md)
 - **193.** [The Heel](chapters/193-the-heel.md)
 - **194.** [A Place at the Table](chapters/194-a-place-at-the-table.md)
+- **195.** [The Rules of Cabin Three](chapters/195-the-rules-of-cabin-three.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

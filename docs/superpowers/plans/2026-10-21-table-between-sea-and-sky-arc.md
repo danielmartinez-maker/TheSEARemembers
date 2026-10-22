@@ -45,7 +45,7 @@ Files: create `chapters/194-a-place-at-the-table.md`, its structured continuity 
 - [x] Introduce Leandros with a satyr escort, age 16, a caring mortal mother, Poseidon claim, bounded current-reading skill, and visible status/sexism flaws.
 - [x] Let established characters set boundaries in their own voices; Percy does not mediate every conflict.
 - [x] Include a warm meal and active sibling beat; preserve Percabeth’s established bond.
-- [x] Verify 10,889 body words via the live GitHub file; the chapter is Percy-limited and has a chapter YAML, ledger, and character handoffs.
+- [x] Verify 10,887 body words via the live GitHub file; the chapter is Percy-limited and has a chapter YAML, ledger, and character handoffs.
 
 Check: Chapter 193’s actual close was checked against Chapter 194’s opening; the new arrival and unresolved cabin authority hand off to Chapter 195.
 
@@ -53,7 +53,12 @@ Check: Chapter 193’s actual close was checked against Chapter 194’s opening;
 
 Files: five numbered chapter sources and a five-chapter continuity ledger/handoff.
 
-- [ ] Ch195: Clarisse defines Cabin Three routines; Leandros overreaches and meets a real boundary.
+- [x] Ch195: Clarisse defines Cabin Three routines; Leandros overreaches and meets a real boundary.
+- [x] Continue from Tuesday after Ch194 with no invented calendar date; keep the awning, fence, stool, rail, and frost recheck unresolved.
+- [x] Show Leandros's first meeting with Annabeth; Percy and Annabeth negotiate a small practical disagreement without relationship reset.
+- [x] Let a shared meal expose that siblinghood did not give Percy, Clarisse, and Silena one childhood; preserve Leandros's caring bond with his mother.
+- [x] Show a specific but partial apology and changed behavior; no instant trust or cabin authority.
+- [x] Verify 10,573 body words by the repository's whitespace-token method; Clarisse-limited, five scenes separated by four scene breaks, continuity record and handoff added.
 - [ ] Ch196: Annabeth’s autonomy and Percy/Annabeth’s specific disagreement develop without romance reset.
 - [ ] Ch197: Silena declines automatic emotional labor; Amphitrite cares about Silena’s own interest.
 - [ ] Ch198: Ianthe arrives through a separate plausible route; no Zeus appearance is required for recognition.
@@ -114,8 +119,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **1/25**.
-- Arc body words: **10,889 / 250,000**.
+- Chapters complete: **2/25**.
+- Arc body words: **21,460 / 250,000**.
 - Canon and arc files: spec, plan, bible additions, Chapter 194, index, YAML, 194–198 ledger, and initial sibling profiles are on PR #103.
-- Current next action: draft Chapter 195, then update the first five-chapter handoff.
+- Current next action: draft Chapter 196, then continue the first five-chapter handoff.
 

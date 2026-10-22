@@ -1,6 +1,6 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 195; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found annabeth in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -302,3 +302,11 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - Annabeth and Percy remain affectionate and secure. She has not met Leandros in this chapter and has not learned anything about his mother beyond what Percy says.
 
 **Current carry-forward at Ch194.** Percy remains her chosen partner; their private notes stay private. Annabeth is fourteen in the late-summer/early-autumn chronology; no year is established. Do not backdate this age to Ch122, whose current text does not establish it; Ch133 explicitly shows her fourteenth birthday. [Ch.133 birthday](../../chapters/133-annabeth-s-birthday.md#L3). Thalia’s left heel remains tender under Chiron’s rest/ice/splint/modified-shooting plan; no recovery is shown. Thalia chooses whether to attend Tuesday’s hall and whether to swim. The north step needs a first-hard-frost check; the Cabin One stool awaits glue, and the loose rail remains unfixed. The bent fence is braced but not repaired; the greenhouse soil bank is completed for now; the torn awning remains open. Annabeth’s Beryl letter’s receipt is unknown. Preserve the exclusive erased-future memory rule and no false altered-childhood recollections.
+
+### Chapter 195 · The Rules of Cabin Three
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 195](../../chapters/195-the-rules-of-cabin-three.md).
+- **State and events:** Annabeth meets Leandros for the first time at Cabin Three. She and Percy disagree briefly over the broken stool; she says she wants to handle the repair, and Percy agrees to hold the pieces. Their affection and partnership remain secure.
+- **Carry-forward:** The stool still needs repair. Annabeth’s autonomy remains distinct from Percy’s wish to help.
+
+**Current carry-forward at Ch195.** Annabeth remains fourteen in the late-summer/early-autumn chronology and Percy’s chosen partner. She has met Leandros but has not agreed to guide him or assume responsibility for his belonging. The Cabin One stool is still broken; she plans to work on it with Percy holding the pieces. The loose rail, first-hard-frost recheck, torn awning, and bent fence remain unresolved. Her erased-future memory stays private; no new disclosure occurs.
