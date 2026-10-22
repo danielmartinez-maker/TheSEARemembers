@@ -1,6 +1,6 @@
 # Leandros: source-limited continuity notes
 
-**Coverage:** Chapters 194–207 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
+**Coverage:** Selected source notes through Chapter 212; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
 
 ## Author-approved identity
 
@@ -124,4 +124,16 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 - Beckendorf's controlled pull check of the rack-loop splice passes, but the on-cover test remains pending. Leandros does not return it to service or receive authority.
 
 **Carry-forward after Ch211.** Leandros does not know Silena's private title choice. His loop repair remains pending the on-cover test, and his need for attention and status remains unresolved.
+
+### Chapter 212 · The route is more than the water
+
+- **Knowledge provenance:** FIRSTHAND in Leandros-limited POV.
+- **Source:** [Chapter 212](../../chapters/212-a-better-route.md); [194–212 chapter ledger](../chapter-ledgers/194-212.md).
+- Leandros asks to contribute location- and time-specific current observations to a winter equipment move. The wind/current directions shift; he marks the north-notch water approach as conditional and does not launch or infer that the bank is safe.
+- He asks before checking the bathhouse route and before adding to Annabeth's working map. He separates a water note from ground access and from the tested carry route.
+- He helps carry a narrow canvas bundle along the tested main path. The wide roll remains untested; the alternative bathhouse path requires permission and a ground check.
+- He reacts defensively to Clarisse and Annabeth's corrections, then accepts the distinction between the water he can read and the ground/users he has not checked. He shows partial cooperation, not a new authority or broad trust milestone.
+- Beckendorf identifies a puddle as coming from a cracked jug rather than the hill runoff and says he will mark it for Chiron. The jug remains in place.
+
+**Carry-forward after Ch212.** Leandros's water skill remains real but narrow. He can contribute observations and revise them as conditions change; the dry route, access, and load still require other checks and permission. Clarisse has not granted him authority or forgiveness.
 

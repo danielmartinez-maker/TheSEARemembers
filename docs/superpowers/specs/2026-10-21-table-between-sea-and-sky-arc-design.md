@@ -3,7 +3,7 @@
 **Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–211 are drafted on PR #103 at 184,438 body words across eighteen installments. Chapter 211, “A Word for the Quiet,” is 10,094 body words. Chapter 212 is next. This is an in-progress checkpoint, not arc completion.
+**Implementation checkpoint (2026-10-22):** Chapters 194–212 are drafted on PR #103 at 194,448 body words across nineteen installments. Chapter 212, “A Better Route,” is 10,010 body words. Chapter 213 is next. This is an in-progress checkpoint, not arc completion.
 
 ## Author-approved direction
 

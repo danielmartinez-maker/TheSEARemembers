@@ -89,3 +89,12 @@ The available chapter files 001–193 were searched for Beckendorf and possible 
 
 **Carry-forward after Ch211.** The loop remains out of service pending the on-cover test; the coils, canvas, and drainage work keep their prior statuses.
 
+### Chapter 212 · Carry route tested by bundle size
+
+- **Source:** [Chapter 212](../../chapters/212-a-better-route.md); [194–212 chapter ledger](../chapter-ledgers/194-212.md).
+- Beckendorf conducts a route check and carries a narrow canvas bundle through the marked main path. The narrow bundle passes; the wider roll remains under cover pending a separate turn and access test.
+- A shallow puddle near the basin comes from a cracked jug, not the hillside. Beckendorf says he will mark it for Chiron; the jug remains in place.
+- Beckendorf does not perform the on-cover check of the drying-rack loop in this chapter; its status is unchanged.
+
+**Carry-forward after Ch212.** The wide roll and rack-loop cover remain out of service pending their respective checks. Do not infer the path is suitable for another load size.
+

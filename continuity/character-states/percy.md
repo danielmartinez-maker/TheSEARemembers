@@ -1,6 +1,6 @@
 # Percy: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 207; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 212; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found percy in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -424,4 +424,13 @@
 - Percy and Annabeth share ordinary, affectionate exchanges and remain secure. No erased-future memory is disclosed.
 
 **Carry-forward after Ch211.** Percy remains outside Silena's private choice and offers no pressure or interpretation. His relationship and memory boundaries remain unchanged.
+
+### Chapter 212 · No mediation required
+
+- **Knowledge provenance:** FIRSTHAND for his exchanges with Leandros, observed by Leandros.
+- **Source:** [Chapter 212](../../chapters/212-a-better-route.md); [194–212 chapter ledger](../chapter-ledgers/194-212.md).
+- Percy discusses correction with Leandros, admitting that he sometimes argues too long when he dislikes being wrong. He does not translate Clarisse or direct Leandros's response to her.
+- Percy and Annabeth remain affectionately secure through an ordinary disagreement about the equipment map and sharing food. No memory boundary changes.
+
+**Carry-forward after Ch212.** Percy stays a brother in the scene without becoming the universal mediator. His relationship and memory boundaries remain unchanged.
 

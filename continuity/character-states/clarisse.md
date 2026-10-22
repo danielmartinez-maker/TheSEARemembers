@@ -1,6 +1,6 @@
 # Clarisse: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 207; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 212; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found clarisse in 191 of 193 chapter files (001–053, 055–118, 120–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -346,4 +346,15 @@
 - She accepts Silena's preference for solitude, does not ask for a report, and continues to keep her own response separate from Silena's.
 
 **Carry-forward after Ch211.** Clarisse has not chosen a title for Amphitrite. Silena's private “Mom” choice is unknown to her and does not alter the relationship between the sisters.
+
+### Chapter 212 · Useful evidence is not authority
+
+- **Knowledge provenance:** FIRSTHAND, in Leandros-limited POV.
+- **Source:** [Chapter 212](../../chapters/212-a-better-route.md); [194–212 chapter ledger](../chapter-ledgers/194-212.md).
+- Clarisse sets limits before Leandros checks the water and keeps the low cut closed while the bank is soft. She allows a marked-path carry test and insists that ground access and other users be checked separately from current readings.
+- Clarisse recognizes that Leandros's current notes are useful while correcting his claim that he has found the entire better route. They work together; she offers no broad trust, forgiveness, or authority.
+- The puddle near the basin is traced to a cracked jug rather than hill runoff. Beckendorf says he will mark it for Chiron; no repair is shown.
+- Clarisse does not learn Silena's private title choice, and her separate relationship with Amphitrite remains unchanged.
+
+**Carry-forward after Ch212.** Clarisse and Leandros can complete a bounded task together while their sibling conflict remains unresolved. Keep the low cut closed and the wide roll untested on the bathhouse route.
 

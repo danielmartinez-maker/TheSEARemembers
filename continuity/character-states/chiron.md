@@ -1,6 +1,6 @@
 # Chiron: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 203; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 212; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found chiron in 188 of 193 chapter files (001–017, 019–027, 029–107, 109–140, 142–184, 186–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -291,4 +291,13 @@
 - No new heel examination, activity instruction, or clearance occurs for Thalia.
 
 **Carry-forward after Ch211.** Chiron has no knowledge of Silena's private title choice. Amphitrite's future visits remain unplanned.
+
+### Chapter 212 · Route checks stay bounded
+
+- **Source:** [Chapter 212](../../chapters/212-a-better-route.md); [194–212 chapter ledger](../chapter-ledgers/194-212.md).
+- Chiron requires Leandros to separate current observations from ground and access checks before any route is used. No launch or use of the low cut is authorized.
+- Beckendorf identifies the basin puddle as a leak from a cracked jug rather than hill runoff and says he will mark it for Chiron; the jug remains in place.
+- No heel examination, activity instruction, or clearance occurs for Thalia.
+
+**Carry-forward after Ch212.** The low cut remains closed while its bank is soft. No new injury or activity guidance is recorded.
 

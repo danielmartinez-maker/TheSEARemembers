@@ -1,6 +1,6 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 207; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 212; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found annabeth in 193 files (001–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -442,4 +442,14 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - Annabeth and Percy share a warm, ordinary exchange and remain securely together. No erased-future memory is disclosed.
 
 **Carry-forward after Ch211.** Annabeth does not know Silena's private title choice. Her relationship and memory boundaries remain unchanged.
+
+### Chapter 212 · The map distinguishes what is known
+
+- **Knowledge provenance:** FIRSTHAND, in Leandros-limited POV.
+- **Source:** [Chapter 212](../../chapters/212-a-better-route.md); [194–212 chapter ledger](../chapter-ledgers/194-212.md).
+- Annabeth permits Leandros to add time- and location-specific water observations to a working tracing sheet, not to overwrite the main map. She distinguishes current readings from tested foot routes and untested alternatives.
+- Leandros reacts defensively when she clarifies map scope. She explains what the working copy is for; he apologizes for implying she wanted to erase his contribution. No authority over the map or camp routes transfers.
+- Annabeth and Percy remain secure. No erased-future memory is disclosed.
+
+**Carry-forward after Ch212.** The working map keeps water observations, tested carry paths, and unverified routes separate. Annabeth retains ownership and approval of the map.
 

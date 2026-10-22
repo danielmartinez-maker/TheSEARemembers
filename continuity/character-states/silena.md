@@ -1,6 +1,6 @@
 # Silena: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 207; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 211; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found silena in 188 of 193 chapter files (001–025, 027–053, 055–072, 074, 076–153, 155–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -336,4 +336,13 @@
 - She bakes and shares rosemary bread without making the recipe communal property. Beckendorf's controlled pull test on the rack-loop splice passes; the on-cover test remains pending.
 
 **Carry-forward after Ch211.** Silena's private title choice remains between her and Amphitrite. Clarisse has not made a corresponding choice, and her relationship stays separate. The Maria letter remains private and unsent.
+
+### Chapter 212 · The recipe stays hers
+
+- **Knowledge provenance:** FIRSTHAND, observed in Leandros-limited POV.
+- **Source:** [Chapter 212](../../chapters/212-a-better-route.md); [194–212 chapter ledger](../chapter-ledgers/194-212.md).
+- Silena shares rosemary bread at dinner and keeps the recipe hers. Leandros asks before taking a piece; no recipe transfer or family forgiveness is implied.
+- Leandros does not learn her private title choice from Chapter 211.
+
+**Carry-forward after Ch212.** Silena's private title choice remains between her and Amphitrite; the Maria letter remains folded and unsent. Clarisse's separate relationship is unchanged.
 

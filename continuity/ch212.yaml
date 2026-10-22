@@ -1,0 +1,73 @@
+chapter: 212
+title: "A Better Route"
+source: "chapters/212-a-better-route.md"
+status: "10,010 body words; scoped continuity review recorded"
+relative_chronology:
+  - "Follows Chapter 211 and spans several work periods; relative mornings and evenings are stated, but no exact date or year is established"
+pov: "Leandros, third-person limited"
+locations:
+  - "Big House map table"
+  - "North lake landing and shoreline path"
+  - "Forge-side camp path"
+  - "Covered equipment shed"
+  - "Cabin Three dining area"
+people_knowledge_relationships:
+  leandros:
+    - "Asks to contribute his practical water-current observations to a winter equipment move. His skill remains narrow: he can distinguish surface wind from a lower current at a specific landing and time."
+    - "Stays on the dry landing and records conditions, locations, and times. He does not launch a canoe or infer that the bank or footpath is safe from the water reading."
+    - "Asks before adding notes to Annabeth's working map. He helps separate water observations from ground-route checks and accepts that the main map and work sheet are collaborative."
+    - "Initially reacts defensively to Clarisse's corrections and claims that his route is better before checking all users and ground conditions. He later distinguishes what he knows from what needs checking, though status resentment persists."
+    - "Helps carry a narrow canvas bundle along the marked route. The wide roll remains untested at the bathhouse alternative and needs a separate plan."
+    - "Does not learn Silena's private title choice from Chapter 211. No forgiveness, broad trust, or permanent authority is granted."
+  clarisse:
+    - "Sets clear limits for Leandros's check: dry landing only, no launching, no moving the drainage board, and no use of the low cut."
+    - "Corrects Leandros when he treats water observations as proof of ground access. She recognizes that his observations are useful without approving the entire route or granting authority."
+    - "Works with Leandros on the carry test. Their sibling relationship remains strained; no forgiveness milestone occurs."
+  annabeth:
+    - "Allows Leandros to add time- and location-specific current notes to a working tracing sheet, while keeping water observations separate from foot-route checks."
+    - "Clarifies that the camp map needs to work for people who have not seen the route. She preserves the distinction between observed, tested, and untested information."
+    - "Shares familiar, secure affection with Percy; no memory boundary changes."
+  percy:
+    - "Discusses correction and uncertainty directly with Leandros without mediating his relationship with Clarisse."
+    - "Remains securely with Annabeth. No erased-future memory or private family information is disclosed."
+  beckendorf:
+    - "Sets the carry task and joins checks of the ground and equipment route. He asks for source and condition labels, and keeps the wide roll out of service until its route and turn are tested."
+    - "Identifies the shallow puddle near the basin as water from a cracked jug, not hillside runoff. He says he will mark it for Chiron; the jug remains in place."
+    - "Does not inspect the drying-rack loop on the cover in this chapter; its on-cover test remains pending."
+  chiron:
+    - "Requires Leandros to separate water observations from ground checks before any route is used."
+    - "No new repair authorization, injury guidance, or relationship decision occurs."
+  silena:
+    - "Shares the rosemary loaf at dinner. The recipe remains hers; no new relationship or title information is disclosed."
+  bathhouse_crew:
+    - "Allows a walk-through of the alternative path while supplies dry, but does not give standing permission to carry through or move their belongings."
+work_and_health_states:
+  - item_or_event: "North landing current"
+    last_seen: "Two time-specific observations show different current/wind directions. The north-notch water approach is not used for a launch; check again before any launch."
+  - item_or_event: "Winter equipment route"
+    last_seen: "The narrow canvas bundle passes along the marked main path. The wide roll remains under cover pending a separate route/turn test. The bathhouse alternative is untested and requires permission after the drying line is clear."
+  - item_or_event: "Low drainage cut"
+    last_seen: "No one enters the soft bank or moves the temporary board. Keep the prior ground check open."
+  - item_or_event: "Cracked water jug and puddle"
+    last_seen: "The puddle near the basin comes from a cracked jug, not the hill runoff. Beckendorf says he will mark it for Chiron; it remains in place, with no repair or cleanup shown."
+  - item_or_event: "Drying-rack cover loop"
+    last_seen: "The splice passed a controlled pull check in Chapter 211. The on-cover test remains pending."
+  - item_or_event: "Ianthe's Cabin One placement and wind notes"
+    last_seen: "Carry forward the Big House guest room, unresolved bed plan, and unverified wind notes."
+  - item_or_event: "Cabin One lower window"
+    last_seen: "The first rain check stayed dry and the keeper caught; a longer storm remains necessary."
+  - item_or_event: "Two wet coils"
+    last_seen: "No new check; carry forward the damp-center status and spacers."
+  - item_or_event: "Storm-damaged canvas"
+    last_seen: "No new check; the repaired seam remains stored dry pending future use."
+  - item_or_event: "Fence drainage and temporary board"
+    last_seen: "No new check or repair occurs; keep open until the ground firms."
+  - item_or_event: "Thalia's heel"
+    last_seen: "No new symptom, examination, activity decision, or clearance occurs."
+knowledge_boundaries:
+  - "Leandros's water-current reading is a practical, narrow skill, not broad water mastery or proof that ground is safe."
+  - "The work sheet distinguishes a location-specific observation, a tested narrow-roll route, and untested alternatives."
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; no disclosure occurs."
+  - "Leandros does not learn Silena's private 'Mom' title choice; it remains between Silena and Amphitrite."
+  - "No new room assignment, wind-note approval, or authority is granted to Ianthe."
+  - "No new heel examination, symptom, activity decision, or clearance occurs for Thalia."
