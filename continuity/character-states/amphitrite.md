@@ -171,3 +171,15 @@
 - Silena does not tell Amphitrite the contents of her private letter to Maria. Amphitrite remains unaware of Percy's erased-future memories and altered-childhood memory gap.
 
 **Carry-forward after Ch208.** The relationship has advanced through a bounded watercolor exchange and a freely declined hug. Clarisse's pace remains separate; no title or finished family bond is assumed.
+
+### Chapter 211 · A private title, freely chosen
+
+- **Knowledge provenance:** Amphitrite directly hears the choice in a private exchange during Silena-limited POV.
+- **Source:** [Chapter 211](../../chapters/211-a-word-for-the-quiet.md); [194–211 chapter ledger](../chapter-ledgers/194-211.md).
+- Amphitrite returns to camp on separate occasions and follows Silena's choices about time, place, art, help, and when to end each visit.
+- Silena says she wants to call Amphitrite “Mom” sometimes, while making clear that Maria remains her mother. Silena asks that this remain private; Amphitrite agrees and does not tell Percy, Clarisse, Annabeth, or Leandros.
+- Amphitrite learns Silena is unsure whether Maria will write back, but not the specific contents or status details of the private, unsent letter.
+- No title is requested as payment for a favor, turned into a public milestone, or treated as a finished family bond. Clarisse's separate relationship has no new title or commitment.
+
+**Carry-forward after Ch211.** Amphitrite keeps Silena's title choice private and makes no future visit schedule or demand. She remains unaware of Percy's erased-future memories and altered-childhood memory gap.
+

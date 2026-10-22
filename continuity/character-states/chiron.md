@@ -284,3 +284,11 @@
 
 **Carry-forward after Ch210.** Ianthe remains in the Big House guest room, and the bed plan remains open. Continue the weather check and the existing repair list.
 
+### Chapter 211 · Invitations without pressure
+
+- **Source:** [Chapter 211](../../chapters/211-a-word-for-the-quiet.md); [194–211 chapter ledger](../chapter-ledgers/194-211.md).
+- Chiron passes Amphitrite's optional invitations and Silena's requests for time together without pressure. He does not establish a future visit schedule and does not witness the private title choice.
+- No new heel examination, activity instruction, or clearance occurs for Thalia.
+
+**Carry-forward after Ch211.** Chiron has no knowledge of Silena's private title choice. Amphitrite's future visits remain unplanned.
+

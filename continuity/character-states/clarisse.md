@@ -336,3 +336,14 @@
 - No apology, forgiveness, trust, or authority change occurs. Her relationship with Amphitrite remains on its own path and no title is chosen.
 
 **Carry-forward after Ch208.** Clarisse has no new response milestone with Leandros and no new information about the loop splice. The fence and board remain pending.
+
+### Chapter 211 · Silena's choice stays hers
+
+- **Knowledge provenance:** FIRSTHAND, in Silena-limited POV for the shared conversation; Clarisse is not present for Silena's private title choice.
+- **Source:** [Chapter 211](../../chapters/211-a-word-for-the-quiet.md); [194–211 chapter ledger](../chapter-ledgers/194-211.md).
+- Clarisse hears that Silena enjoys Amphitrite's company and asks no further detail after Silena says she is not ready to define it.
+- Clarisse says Silena does not have to make her choice match Clarisse's. Clarisse makes no maternal-title choice and her relationship with Amphitrite does not advance.
+- She accepts Silena's preference for solitude, does not ask for a report, and continues to keep her own response separate from Silena's.
+
+**Carry-forward after Ch211.** Clarisse has not chosen a title for Amphitrite. Silena's private “Mom” choice is unknown to her and does not alter the relationship between the sisters.
+

@@ -121,7 +121,8 @@ Check: consequence is caused by character choices and remains proportionate; no 
 
 Files: Chapters 211–218, continuity handoffs, canon/index updates.
 
-- [ ] Ch211: Silena’s private “Mom” choice follows sustained individual care.
+- [x] Ch211: Silena’s private “Mom” choice follows sustained individual care.
+- [x] Verify 10,094 body words by the repository whitespace-token method; Silena-limited POV, Chapter 211 continuity YAML, current 194–211 ledger/handoff, index, arc progress, and scoped character-state updates added. Silena's title choice remains private and does not change Clarisse's separate relationship.
 - [ ] Ch212–213: Leandros practices cooperation; Percy and Annabeth stay secure while discussing intervention.
 - [ ] Ch214: properly spaced heel follow-up shows the actual healing status and Chiron’s guidance.
 - [ ] Ch215–216: Ianthe repairs a command mistake; Zeus’s second visit/aftermath does not make her responsible for him.
@@ -145,8 +146,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **17/25**.
-- Arc body words: **174,344 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–210, index, chapter YAMLs, the current 194–210 ledger, and selected sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 211, “A Word for the Quiet,” while preserving the separate, later earned Clarisse title choice.
+- Chapters complete: **18/25**.
+- Arc body words: **184,438 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–211, index, chapter YAMLs, the current 194–211 ledger, and selected sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 212, “A Better Route,” while keeping Leandros's navigation skill useful and bounded.
 

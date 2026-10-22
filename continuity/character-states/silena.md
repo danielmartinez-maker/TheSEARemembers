@@ -325,3 +325,15 @@
 - Silena continues her own inventory task and artwork; she is not made the automatic messenger or caretaker. She does not learn the details of Percy's private Chapter 207 conversation with Leandros.
 
 **Carry-forward after Ch208.** Silena's anger remains separate from Clarisse's; the rosemary recipe and Maria letter remain hers. Her relationship with Amphitrite is growing by voluntary, bounded contact, without a chosen title.
+
+### Chapter 211 · A word Silena chooses
+
+- **Knowledge provenance:** FIRSTHAND, in Silena-limited POV.
+- **Source:** [Chapter 211](../../chapters/211-a-word-for-the-quiet.md); [194–211 chapter ledger](../chapter-ledgers/194-211.md).
+- Silena accepts repeated short visits with Amphitrite at her own pace, shares a watercolor study, and privately chooses “Mom” as a title she may use sometimes. She asks that the choice stay between them; Amphitrite agrees.
+- The title does not replace Maria. Silena's letter remains folded and unsent, with delivery and response unknown. She does not share her private title choice with Clarisse, Percy, Annabeth, or Leandros.
+- Silena refuses to translate Leandros or Clarisse to each other. Leandros accepts that he does not need to know what she calls Amphitrite.
+- She bakes and shares rosemary bread without making the recipe communal property. Beckendorf's controlled pull test on the rack-loop splice passes; the on-cover test remains pending.
+
+**Carry-forward after Ch211.** Silena's private title choice remains between her and Amphitrite. Clarisse has not made a corresponding choice, and her relationship stays separate. The Maria letter remains private and unsent.
+

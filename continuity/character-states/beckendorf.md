@@ -80,3 +80,12 @@ The available chapter files 001–193 were searched for Beckendorf and possible 
 - **Source:** [Chapter 209](../../chapters/209-a-fathers-new-face.md); [194–209 chapter ledger](../chapter-ledgers/194-209.md).
 - Ianthe asks to compare her wind observations with the flag line. Beckendorf defers while he checks the still-damp coils and keeps the rack cover out of service; no source comparison or approval occurs.
 - Ianthe records that comparison is pending and leaves the shared work list unchanged. The repaired storm canvas remains dry, the rack-loop splice is uninspected, and the drainage board stays in place while the ground yields.
+
+### Chapter 211 · The rack splice passes one check
+
+- **Source:** [Chapter 211](../../chapters/211-a-word-for-the-quiet.md); [194–211 chapter ledger](../chapter-ledgers/194-211.md).
+- Beckendorf checks Leandros's drying-rack loop splice under a controlled pull. It passes that check but still needs an on-cover test before the cover returns to service.
+- No other repair item receives a new check or approval in this chapter.
+
+**Carry-forward after Ch211.** The loop remains out of service pending the on-cover test; the coils, canvas, and drainage work keep their prior statuses.
+

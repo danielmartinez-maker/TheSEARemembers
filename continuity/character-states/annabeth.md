@@ -434,3 +434,12 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 
 **Carry-forward after Ch210.** The lower window passed its first rain check; wait for a longer storm before closing the weatherproofing item. Annabeth wants Ianthe at camp but has made no room promise. Percy and Annabeth remain secure and their memory boundary is unchanged.
 
+### Chapter 211 · Silena chooses for herself
+
+- **Knowledge provenance:** FIRSTHAND in Silena-limited POV for the shared table scene; Annabeth does not witness the private title choice.
+- **Source:** [Chapter 211](../../chapters/211-a-word-for-the-quiet.md); [194–211 chapter ledger](../chapter-ledgers/194-211.md).
+- Annabeth tells Silena she can decide what a word means for herself and that Silena need not match Percy. She does not hear Silena's private choice to call Amphitrite “Mom.”
+- Annabeth and Percy share a warm, ordinary exchange and remain securely together. No erased-future memory is disclosed.
+
+**Carry-forward after Ch211.** Annabeth does not know Silena's private title choice. Her relationship and memory boundaries remain unchanged.
+

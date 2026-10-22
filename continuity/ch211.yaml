@@ -1,0 +1,78 @@
+chapter: 211
+title: "A Word for the Quiet"
+source: "chapters/211-a-word-for-the-quiet.md"
+status: "10,094 body words; scoped continuity review recorded"
+relative_chronology:
+  - "Follows Chapter 210 and spans several visits and intervening camp days; no exact calendar date or year is established"
+pov: "Silena, third-person limited"
+locations:
+  - "Cabin Three"
+  - "Big House garden and studio"
+  - "Cabin Three dining area"
+  - "Camp path and linen-room porch"
+people_knowledge_relationships:
+  silena:
+    - "Accepts several short visits with Amphitrite at her own pace. She chooses the meeting place, what to show, whether to accept help, and when to end each visit."
+    - "After the accumulated contact, privately tells Amphitrite she wants to call her 'Mom' sometimes. She specifies that Maria remains her mother and asks that the title remain between them; Amphitrite agrees."
+    - "Keeps the private title choice from Clarisse, Percy, Annabeth, and Leandros. She does not make a public milestone or ask anyone else to follow her choice."
+    - "Keeps her letter to Maria folded and unsent; it remains separate from her relationship with Amphitrite."
+    - "Shares one watercolor study with Amphitrite and keeps a second page private. Her rosemary recipe remains hers even when she shares a loaf."
+    - "Refuses to carry relationship messages or explain either Leandros or Clarisse to the other."
+  amphitrite:
+    - "Returns to camp for separate short visits and follows Silena's stated limits. She asks before looking at Silena's page, waiting, or helping carry a basket; she accepts refusals without pressure."
+    - "Hears Silena choose 'Mom' for her in private and agrees not to tell others. She does not ask for the word as a gift, reward, public announcement, or replacement for Maria."
+    - "Hears that Maria remains Silena's mother and that Silena is unsure whether Maria will write back. The specifics of Silena's unsent letter remain private."
+    - "Does not learn about Percy and Annabeth's erased-future memories or Percy's altered-childhood memory gap."
+  clarisse:
+    - "Hears Silena likes Amphitrite's company but does not learn Silena's private title choice."
+    - "Says Silena need not make her own answer match Clarisse's. Clarisse chooses no maternal title and makes no new relationship commitment."
+    - "Remains Silena's close sister; no forgiveness or response milestone regarding Leandros occurs."
+  percy:
+    - "Hears that Silena enjoys Amphitrite's company but is unsure what to call her, and that Silena's unsent letter to Maria remains important to her."
+    - "Tells Silena she does not owe him the same word. He does not witness the private title choice and does not learn its contents."
+    - "Shares ordinary affection and a warm family meal with Annabeth; their relationship remains secure. No erased-future memory is disclosed."
+  annabeth:
+    - "Tells Silena she can decide what a word means for herself. She does not witness Silena's private title choice."
+    - "Shares a familiar, secure exchange with Percy; no relationship or memory boundary changes."
+  leandros:
+    - "Asks Silena whether she is visiting Amphitrite because of her status and whether Silena minds that Percy calls her Mom. Silena tells him her choice is hers; he accepts that he does not need to know yet."
+    - "Does not learn Silena's private title choice."
+    - "Eats Silena's rosemary bread after asking. He dries dishes and accepts that the recipe belongs to Silena; no forgiveness or broad trust milestone occurs."
+    - "Beckendorf's controlled pull check of his rack-loop splice passes; the on-cover test remains pending. Leandros does not receive approval to return it to service."
+  chiron:
+    - "Passes Amphitrite's optional invitations and Silena's requests without pressure. He does not witness the private title choice."
+    - "Does not set a future visit date or promise a schedule for Amphitrite."
+  beckendorf:
+    - "Checks the rack-loop splice under a controlled pull; it passes that check but remains pending an on-cover test before use."
+work_and_health_states:
+  - item_or_event: "Silena's relationship with Amphitrite"
+    last_seen: "Silena chooses a private 'Mom' title for Amphitrite sometimes after repeated voluntary contact. Maria remains her mother; no one else is told, and no public milestone occurs."
+  - item_or_event: "Silena's letter to Maria"
+    last_seen: "Remains folded and unsent; delivery and response remain unknown."
+  - item_or_event: "Silena's watercolor"
+    last_seen: "She shares one study with Amphitrite and keeps a second page private and unfinished."
+  - item_or_event: "Silena's rosemary recipe"
+    last_seen: "She bakes and shares a rosemary loaf; the recipe remains hers and may be shared only at her choice."
+  - item_or_event: "Drying-rack cover loop"
+    last_seen: "The splice passes a controlled pull check; Beckendorf still needs to test it on the cover before it returns to service."
+  - item_or_event: "Cabin One lower window"
+    last_seen: "Carry forward the first rain check: sill dry and keeper caught. A longer storm remains necessary."
+  - item_or_event: "Ianthe's Cabin One placement"
+    last_seen: "Carry forward the Big House guest room, temporary stool allowance, and unresolved bed plan."
+  - item_or_event: "Ianthe's wind notes"
+    last_seen: "Still unverified; no comparison or approval occurs in this chapter."
+  - item_or_event: "Thalia's heel"
+    last_seen: "No new symptom, examination, activity decision, or clearance occurs."
+  - item_or_event: "Two wet coils"
+    last_seen: "No new check; carry forward the damp-center status and existing spacers."
+  - item_or_event: "Storm-damaged canvas"
+    last_seen: "No new check; the repaired seam remains stored dry pending future use."
+  - item_or_event: "Fence drainage and temporary board"
+    last_seen: "No new check or repair occurs; keep open until the ground firms."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; no new disclosure occurs."
+  - "Only Amphitrite hears Silena choose the private title 'Mom'. Silena does not tell Percy, Clarisse, Annabeth, or Leandros."
+  - "Amphitrite knows Maria remains Silena's mother, but not the specific contents of Silena's private, unsent letter."
+  - "Clarisse's relationship with Amphitrite does not advance because of Silena's choice; no title or promise is made by Clarisse."
+  - "Amphitrite remains unaware of Percy's erased-future memories and altered-childhood memory gap."
+  - "No new heel examination, symptom, activity decision, or clearance occurs for Thalia."

@@ -114,3 +114,14 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 - After the drying-rack cover is supported on a bench, Leandros starts a splice on a separate stretched loop. He says Beckendorf approved the repair. Silena sees him working without being asked to witness it; the splice remains uninspected and untested. Clarisse does not learn about it in this chapter.
 
 **Carry-forward after Ch208.** Leandros has begun a practical repair without praise or an audience, but it is not yet approved for use. His status impatience and wish to be seen persist. He has no authority, broad trust, or forgiveness milestone.
+
+### Chapter 211 · Asked, not interpreted
+
+- **Knowledge provenance:** FIRSTHAND in Silena-limited POV.
+- **Source:** [Chapter 211](../../chapters/211-a-word-for-the-quiet.md); [194–211 chapter ledger](../chapter-ledgers/194-211.md).
+- Leandros asks Silena whether she visits Amphitrite because of her status and whether she minds Percy calling her “Mom.” Silena says the choice is hers and he does not need to decide what it means. He accepts that he does not need to know yet, though he remains curious.
+- He asks for a slice of Silena's rosemary bread and accepts that it is her recipe. He dries dishes; no apology, forgiveness, or broad trust milestone follows.
+- Beckendorf's controlled pull check of the rack-loop splice passes, but the on-cover test remains pending. Leandros does not return it to service or receive authority.
+
+**Carry-forward after Ch211.** Leandros does not know Silena's private title choice. His loop repair remains pending the on-cover test, and his need for attention and status remains unresolved.
+

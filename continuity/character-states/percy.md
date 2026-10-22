@@ -415,3 +415,13 @@
 
 **Carry-forward after Ch210.** Percy continues to offer support without directing Annabeth's work or her relationship with Ianthe. Their relationship and memory boundaries remain unchanged.
 
+### Chapter 211 · Room for Silena's own word
+
+- **Knowledge provenance:** FIRSTHAND for his exchanges with Silena; he does not witness her private exchange with Amphitrite.
+- **Source:** [Chapter 211](../../chapters/211-a-word-for-the-quiet.md); [194–211 chapter ledger](../chapter-ledgers/194-211.md).
+- Percy hears Silena say she enjoys Amphitrite's company but is unsure what to call her. He tells her she does not owe him the same word and does not ask what she ultimately chooses.
+- Silena tells him her letter to Maria remains important. He knows no new details about delivery or response, and does not learn Silena's private title choice.
+- Percy and Annabeth share ordinary, affectionate exchanges and remain secure. No erased-future memory is disclosed.
+
+**Carry-forward after Ch211.** Percy remains outside Silena's private choice and offers no pressure or interpretation. His relationship and memory boundaries remain unchanged.
+
