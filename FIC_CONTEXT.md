@@ -2,7 +2,7 @@
 ## Canon bible and editorial operating rules
 
 **Status:** Work in progress  
-**Updated:** 2026-10-17
+**Updated:** 2026-10-21
 **Scope:** Drafting, editing, continuity review, chapter handoffs, and reader-edition assembly  
 **Fandom:** *Percy Jackson and the Olympians*  
 **Primary pairing:** Percy Jackson / Annabeth Grace (established Percabeth)
