@@ -1,6 +1,6 @@
 # Leandros: source-limited continuity notes
 
-**Coverage:** Chapters 194–199 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
+**Coverage:** Chapters 194–200 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
 
 ## Author-approved identity
 
@@ -42,13 +42,13 @@
 
 ### Chapter 197 · The Room We Keep
 
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–199 ledger](../chapter-ledgers/194-199.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–200 ledger](../chapter-ledgers/194-200.md#L40).
 - Leandros sees Silena's unfinished copy of the three-wave sketch and misreads it as a present for Amphitrite. Though Silena explains that she decides whether it is shown, he publicly describes it as a gift at lunch, putting her on the spot.
 - He asks whether Poseidon knew Amphitrite was visiting or had told her about Leandros. She says Chiron invited her and told her of Leandros's arrival; Poseidon had not told her about him.
 - He later apologizes for speaking for her and says he wanted Amphitrite to see him with the Camp Three siblings. He accepts that Silena may not want a four-person picture. His understanding is partial; no trust or forgiveness is established.
 - He repairs a camp canvas cover for the paddle rack. The practical work does not grant him cabin authority.
 
-## Current handoff
+## Historical handoff after Chapter 199
 
 At the close of Chapter 199, Leandros's Chapter 197 state continues: he has apologized for one specific overstep but still wants a family picture and has not earned broad trust. Silena's project remains hers and unfinished. He has repaired a canvas cover for the paddle rack. His status assumptions, impatience, and need for control persist. His mortal mother's identity remains unspecified; the marina monster remains unknown. Chapter 199 does not include him, and he has not met Ianthe.
 
@@ -56,3 +56,14 @@ At the close of Chapter 199, Leandros's Chapter 197 state continues: he has apol
 
 - [Chapter 194](../../chapters/194-a-place-at-the-table.md)
 - [Chapter 195](../../chapters/195-the-rules-of-cabin-three.md)
+
+### Chapter 200 · The Winter List
+
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–200 ledger](../chapter-ledgers/194-200.md).
+- Leandros meets Ianthe for the first time. He claims that his age and status as Poseidon's oldest son at camp should give him a role in deciding work. Clarisse refuses the claim without excluding him from the task.
+- He correctly notices runoff pooling below the braced fence; Beckendorf confirms it and records the observation. The fence remains braced pending a drainage review once the soil is firmer. Leandros carries boards and the tool box but continues to treat task assignment as a question of status.
+- He asks Percy whether Percy wants a brother. Percy says he wants to know him but cannot decide their relationship after six days. Leandros receives no promise about staying, no authority, and no broad trust milestone. He does not apologize in this chapter.
+
+## Current handoff at Chapter 200
+
+Leandros has made one useful observation and carried out unglamorous work, but his belief that age and parentage should give him authority persists. He and Ianthe have met once without forming an immediate bond. Percy has not decided their relationship or disclosed his erased-future memories or altered-childhood memory gap. Leandros's Cabin Three placement remains as previously established; no lasting authority, trust, or belonging decision occurs.

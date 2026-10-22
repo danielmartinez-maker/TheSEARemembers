@@ -54,3 +54,10 @@
 ## Audit map and remaining scene coverage
 
 The available chapter files 001–193 were searched for Beckendorf and possible Charles name candidates; common-name hits need identity confirmation. Candidate mentions in Chapters 012-013, 015, 018-021, 024-026, 029, 031, 033-035, 040-041, 044, 047, 050, 060, 068, 070-071, 074-082, 085, 087, 089, 092, 094, 097, 100, 111, 114-115, 131-133, 143, 146, 157-161, 173-178, 180-186, 188-193. The source files explicitly linked in this profile are Chapters 012, 013, 018, 019, 020, 021, 024, 025, 026, 033, 035, 089, 094, 097, 186, 188, 192, 193; those links describe the profile's current source-backed coverage, not a new full-scene reread in this pass. Candidate-hit chapters not yet individually reconciled to an event entry are 015, 029, 031, 034, 040-041, 044, 047, 050, 060, 068, 070-071, 074-082, 085, 087, 092, 100, 111, 114-115, 131-133, 143, 146, 157-161, 173-178, 180-185, 189-191. Hits may be indirect, metaphorical, or refer to another person; they do not prove an appearance or shared knowledge. This profile is not a complete 193-chapter character-state matrix. Consult the chapter scene before adding a memory, relationship change, age, promise, object, injury, or obligation.
+
+### Scoped Chapter 200 event
+
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–200 ledger](../chapter-ledgers/194-200.md).
+- Beckendorf leads a no-load fence inspection. He confirms Leandros's observation that rainwater pools below the brace, records the drainage question, and leaves the fence braced until the ground is firmer.
+- He checks Cabin One's rail, replaces the lower bracket's short screw with a longer screw, checks the post, and records a recheck after heavy rain. He leaves the awning untouched while the wind rises.
+- This is a scoped new-arc event, not a fresh sweep of his other candidate appearances. The pre-arc candidate search covered Chapters 001–193; no full character-state matrix is claimed for Chapters 194–200.

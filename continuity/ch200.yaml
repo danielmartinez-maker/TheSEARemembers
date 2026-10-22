@@ -1,0 +1,113 @@
+chapter: 200
+title: "The Winter List"
+source: "chapters/200-the-winter-list.md"
+status: "10,365 body words; scoped arc implementation, continuity review recorded"
+relative_chronology:
+  - "The morning after Chapter 199's Saturday evening; exact date and year unknown"
+  - "Begins at Big House breakfast and continues through the camp's seasonal work"
+  - "Ends at the Big House winter-work list in the afternoon"
+pov: "Percy Jackson, third-person limited"
+locations:
+  - "Big House kitchen and work board"
+  - "Camp fence and field path"
+  - "Cabin One porch"
+  - "Greenhouse"
+  - "Shed and Big House"
+people_knowledge_relationships:
+  percy:
+    - "Remains fourteen in the autumn sequence and Annabeth's established, affectionate partner"
+    - "Recognizes that he wants to smooth Leandros's arrival and begins to explain camp decisions for other people; he stops himself and discusses the assumption with Annabeth"
+    - "Says he wants to know Leandros, but cannot decide their relationship after six days"
+    - "Does not disclose erased-future autobiographical memory or his altered-childhood memory gap"
+  annabeth:
+    - "Invites Ianthe to breakfast as she chose at the end of Chapter 199"
+    - "Measures the Cabin One rail with Clarisse and Beckendorf; the lower bracket is repaired and remains due for a heavy-rain recheck"
+    - "Disagrees with Percy's impulse to over-explain and supervise; they discuss it directly and remain secure"
+    - "Does not agree to Ianthe's bed or room placement"
+  clarisse:
+    - "Refuses Leandros's claim to work authority based on age and parentage"
+    - "Does not decide whether Leandros belongs or promise closeness"
+    - "Corrects her own response after Silena says she answered the question she wanted rather than Leandros's question"
+  leandros:
+    - "Meets Ianthe for the first time"
+    - "Claims being older than Percy and Poseidon's oldest son at camp should make him part of work decisions"
+    - "Notices runoff pooling below the fence brace; Beckendorf confirms and records it"
+    - "Carries boards and a tool box, and asks Percy whether Percy wants a brother; no authority or trust milestone follows"
+  ianthe:
+    - "Accepts Annabeth's breakfast invitation and meets Leandros for the first time"
+    - "Makes a clear copy of the work list but seeks a priority/decision column; Chiron limits her role to recording confirmed information"
+    - "Records a useful wind observation; the awning remains untouched until calmer weather and inspection"
+    - "Her Cabin One placement and intended call to her unnamed mother remain unresolved"
+  thalia:
+    - "Appears on the Cabin One porch with her existing splint; no reassessment, recovery, activity decision, or clearance is shown"
+  chiron:
+    - "Keeps task assignments with the people responsible for the work and does not grant Leandros or Ianthe authority"
+    - "Leaves the north-step frost check pending until the first hard frost"
+  beckendorf:
+    - "Leads a no-load fence inspection and records Leandros's runoff observation"
+    - "Repairs the Cabin One rail's lower bracket with a longer screw and schedules a heavy-rain recheck"
+  silena:
+    - "Shares lunch and corrects Clarisse when Clarisse answers the question she wishes Leandros had asked"
+source_anchored_events:
+  - id: C200_A
+    witnesses: ["Percy", "Annabeth", "Clarisse", "Ianthe", "Leandros", "Chiron", "Beckendorf"]
+    certainty: confirmed
+    event: "Annabeth invites Ianthe to breakfast; Leandros and Ianthe meet. Both have an interest in shaping the winter list, while Chiron keeps task assignment separate from status."
+    consequence: "They share one meeting without an immediate sibling bond or authority decision. Ianthe remains expected in the Big House guest room."
+  - id: C200_B
+    witnesses: ["Percy", "Leandros", "Beckendorf"]
+    certainty: confirmed
+    event: "A no-load fence inspection confirms water pools below the braced section after rain; Leandros notices it and Beckendorf records it."
+    consequence: "The fence stays braced and unrepaired until the lower-ground drainage route can be checked when the soil is firmer."
+  - id: C200_C
+    witnesses: ["Percy", "Annabeth", "Clarisse", "Beckendorf", "Ianthe", "Thalia"]
+    certainty: confirmed
+    event: "Beckendorf repairs the Cabin One rail's lower bracket with a longer screw after Annabeth measures it; a recheck after heavy rain remains scheduled."
+    consequence: "The rail is secure for ordinary use. This does not resolve Ianthe's bed, the cot, or room placement."
+  - id: C200_D
+    witnesses: ["Percy", "Annabeth"]
+    certainty: confirmed
+    event: "Percy identifies that he tried to smooth Leandros's arrival and treated Annabeth's participation as agreement with his plan. He and Annabeth discuss it, hold hands, and remain an established, secure couple."
+    consequence: "A specific disagreement is addressed without a relationship reset."
+repair_and_health_states:
+  - item_or_event: "Bent fence and brace"
+    owner_or_people: ["Camp", "Beckendorf", "Leandros"]
+    last_seen: "No-load inspection records runoff pooling below the brace; fence remains braced and unrepaired pending a safe drainage review after the soil firms."
+  - item_or_event: "Cabin One rail"
+    owner_or_people: ["Annabeth", "Clarisse", "Beckendorf"]
+    last_seen: "Lower bracket repaired with a longer screw; recheck after heavy rain."
+  - item_or_event: "Awning bracket"
+    owner_or_people: ["Camp", "Beckendorf", "Ianthe"]
+    last_seen: "No work performed; the wind rises and the awning waits for calmer weather and inspection."
+  - item_or_event: "North step frost check"
+    owner_or_people: ["Camp", "Chiron"]
+    last_seen: "Still pending until the first hard frost."
+  - item_or_event: "Greenhouse soil bank"
+    owner_or_people: ["Camp"]
+    last_seen: "Complete for now; no new work is shown."
+  - item_or_event: "Cabin One stool"
+    owner_or_people: ["Annabeth"]
+    last_seen: "Glue remains curing; no test is performed."
+  - item_or_event: "Thalia's heel"
+    owner_or_people: ["Thalia", "Chiron"]
+    last_seen: "Existing splint and Chapter 193 plan remain; no examination or recovery in Chapter 200."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; neither memory is disclosed."
+  - "Percy's altered-childhood memory gap is not disclosed to Leandros or Amphitrite."
+  - "Ianthe and Leandros meet for the first time in this chapter."
+  - "Ianthe's mother-call remains unconfirmed; her mother is unnamed, living, and separate from Beryl."
+  - "Zeus and Poseidon do not appear."
+  - "No maternal title, forgiveness, broad trust, or permanent sleeping arrangement is established."
+next_chapter_dependencies:
+  - "Continue after Chapter 200 without inventing a calendar date or year."
+  - "Ianthe remains in the Big House guest room; bed, cot, and long-term placement are unresolved."
+  - "Ianthe intends to call her mother, but no call or content is confirmed."
+  - "The fence remains braced pending drainage review; the rail requires a heavy-rain recheck."
+  - "The awning awaits calmer weather and inspection; frost check, soil bank, and curing stool remain as recorded."
+  - "Thalia's heel stays under the existing Chapter 193 care plan without reassessment."
+  - "Leandros and Ianthe have met once, but no sibling bond, authority, or trust milestone is established."
+unresolved_canon_questions:
+  - "Ianthe's mother-call, mother identity, and private history remain unknown."
+  - "The broken cot inspection, bed beside the window, and permanent Cabin One arrangement remain unresolved."
+  - "Leandros's long-term Cabin Three placement and relationship with the siblings remain open."
+  - "The safe fence drainage route and next awning inspection remain pending."

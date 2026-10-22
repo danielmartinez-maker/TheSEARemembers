@@ -1,6 +1,6 @@
 # Clarisse: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 196; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 200; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found clarisse in 191 of 193 chapter files (001–053, 055–118, 120–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -263,8 +263,18 @@
 **Historical carry-forward at Ch196.** Leandros has heard Clarisse’s anger directly; she has not decided whether to walk him tomorrow or promised closeness. The awning remains torn, the fence braced, the Cabin One rail and first-hard-frost check remain open. Annabeth re-glued her stool, which holds once but still needs curing. No new Poseidon visit, apology, or Amphitrite title is shown.
 ### Chapter 197 · The Room We Keep
 - **Knowledge provenance:** FIRSTHAND.
-- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–198 ledger](../chapter-ledgers/194-198.md#L40).
+- **Source:** [Chapter 197](../../chapters/197-the-room-we-keep.md); [194–200 ledger](../chapter-ledgers/194-200.md#L40).
 - Clarisse offers to speak to Leandros after he puts Silena on the spot, then respects Silena's decision to handle it herself. She does not mediate, take over Silena's boundary, or make the apology her own task.
 - She shares lunch with Amphitrite and does not make a maternal-title choice. Her anger toward Poseidon and relationship with Amphitrite remain unresolved.
 
-**Current carry-forward at Ch197.** Clarisse is still fifteen and in Cabin Three. Silena has handled her own boundary with Leandros; no new trust or apology is established between Clarisse and Leandros. Her relationship with Amphitrite remains on its separate, slower path, with no title chosen.
+**Historical carry-forward at Ch197.** Clarisse is still fifteen and in Cabin Three. Silena has handled her own boundary with Leandros; no new trust or apology is established between Clarisse and Leandros. Her relationship with Amphitrite remains on its separate, slower path, with no title chosen.
+
+### Chapter 200 · The Winter List
+
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 200](../../chapters/200-the-winter-list.md); [194–200 ledger](../chapter-ledgers/194-200.md).
+- Clarisse refuses Leandros's claim that being the oldest Camp Three son of Poseidon gives him authority over the work list. She leaves him room to contribute observations and carry materials, but does not grant command or promise closeness.
+- She works with Annabeth and Beckendorf to inspect the Cabin One rail; the lower bracket is repaired, with a heavy-rain recheck still needed. Clarisse does not decide whether Leandros belongs. Silena points out that Clarisse answered the question she wanted rather than his question about staying; Clarisse stops and lets the answer remain uncertain.
+- Thalia's heel stays outside this chapter's decisions; no examination or reassessment occurs. No maternal title, forgiveness, or new Poseidon event is shown.
+
+**Current carry-forward at Ch200.** Clarisse's anger and history with Poseidon remain unresolved. Leandros has contributed one useful observation but has not earned authority or broad trust; Clarisse has not promised that he will stay. Her relationship with Amphitrite remains on its own path, with no title chosen.

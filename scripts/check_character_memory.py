@@ -421,6 +421,13 @@ CHECKS = {
                     "One has a broken leg", "I want the window"),
         "absent": ("Because of the time thing?", "I remember the future"),
     },
+    "chapters/200-the-winter-list.md": {
+        "present": ("I’m older than Percy", "oldest son of Poseidon here",
+                    "I want to know you", "water pooled below brace after rain; marked on stone",
+                    "It’s secure for ordinary use"),
+        "absent": ("Because of the time thing?", "I remember the future",
+                   "I had lived this life before"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(

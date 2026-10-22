@@ -203,6 +203,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **197.** [The Room We Keep](chapters/197-the-room-we-keep.md)
 - **198.** [The Face of Thunder](chapters/198-the-face-of-thunder.md)
 - **199.** [A Bed Beside the Window](chapters/199-a-bed-beside-the-window.md)
+- **200.** [The Winter List](chapters/200-the-winter-list.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 
