@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 50 of 200 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 55 of 201 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -303,3 +303,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/050-half-blood-hill.md)
 
 ![Thalia leans against Peleus at the hilltop while Percy, Annabeth, Grover, and Chiron wait nearby.](050-half-blood-hill.jpg)
+
+## 051. Medusa's Place
+
+[Source chapter](../chapters/051-medusa-s-place.md)
+
+![Percy watches Medusa's reflection in a hubcap as Annabeth, Thalia, and Grover work together among the statues.](051-medusa-s-place.jpg)
+
+## 052. The Arch
+
+[Source chapter](../chapters/052-the-arch.md)
+
+![The Chimera bursts through the Gateway Arch as Percy, Annabeth, Thalia, and Grover retreat toward the stairs.](052-the-arch.jpg)
+
+## 053. River
+
+[Source chapter](../chapters/053-river.md)
+
+![Percy listens underwater as the Mississippi's luminous current carries an ancient story.](053-river.jpg)
+
+## 054. Lotus
+
+[Source chapter](../chapters/054-lotus.md)
+
+![Percy and Annabeth check the time and make notes inside the dazzling Lotus Hotel while their companions watch the guests.](054-lotus.jpg)
+
+## 055. Underworld Gates
+
+[Source chapter](../chapters/055-underworld-gates.md)
+
+![Charon receives coins at the Underworld desk as the questers face the elevator and Cerberus waits beyond.](055-underworld-gates.jpg)
