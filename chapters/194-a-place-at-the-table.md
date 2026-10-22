@@ -70,51 +70,31 @@ Clarisse pushed the fence list across the table. “After your apology, you're w
 
 Silena snorted, and Percy finally laughed. It didn't make the conversation with Thalia any less uncomfortable, but the knot that had been sitting behind his ribs since yesterday loosened a little. He rinsed the pot, put it on the drying board, and hung the towel where Clarisse would find it. Their boots stood in their usual mismatched row by the door, turned toward the path as though the cabin expected all three of them back at the end of the day. He still noticed that, sometimes: the small, ordinary evidence of being expected somewhere.
 
-“Where’s Annabeth?” Silena asked.
+“Where's Annabeth?” Silena asked as she finished tying her hair.
 
-“Cabin One. She said she was going to help Thalia write down what Chiron told her about the splint.”
+“Cabin One, helping Thalia with whatever Chiron said about the splint. She left her field book here yesterday.” Percy picked it up from beneath a folded cloth, turning it over to make sure it hadn't got wet. “I was going to bring it over. Thought it might give me a reason to knock.”
 
-Clarisse’s attention flicked toward him. “You’re going to apologize today.”
+“You don't need an excuse to knock,” Clarisse said. She gave him a long look, then added, “But if you go over there with some complicated speech you've practiced in the mirror, she's going to throw it back at you.”
 
-It wasn’t a question. Percy wiped his hands on the towel. “Yeah.”
+“I've never practiced a speech in the mirror.”
 
-“Good.”
+“Probably why you're so bad at them,” Silena said.
 
-He looked at her. “That’s all?”
+Percy could hear the warning beneath the teasing. He had rehearsed half a dozen apologies during the night, each carefully arranged to explain exactly how scared he'd been and how much he respected Thalia. The more he thought about it, the more they sounded like arguments for why she should forgive him. He put the field book under his arm and wondered if the only sensible thing he could do was tell her that he'd embarrassed her and let her say whatever she wanted in return. If she decided she was still angry, he would have to live with it. He disliked the idea intensely, which probably meant it was the right one.
 
-“What else do you want?”
+Clarisse headed for the door, pausing long enough to collect her work gloves. “I'll look at the fence before you come down. Don't go trying to straighten anything until we've checked the ground. I don't need you on top of the splint problem with a broken hand.”
 
-“I don’t know. A speech? A demonstration?”
+“I wasn't planning to break anything.”
 
-“I’m not your moral instructor.” She folded the list once and put it back on the table. “You embarrassed her. You know it. Say that. Don’t explain what you thought you were doing until she asks.”
+“That's what you always say before we spend an hour looking for tools.”
 
-Silena had gone still at the mirror. She met his eyes in its reflection. “And don’t ask her to make you feel better afterward.”
+Silena caught Percy's sleeve as she passed and smoothed the damp edge of the cuff with her thumb. “Bring Annabeth down for lunch if she's free,” she said. “And eat something before then. You've had tea and an argument.”
 
-“I’m not going to.”
+“Two arguments, if we're counting this one.”
 
-“You say that now.”
+“I'm counting you as the argument.” She kissed his cheek, fast enough that he didn't have time to complain, and followed Clarisse outside.
 
-“I mean it.”
-
-“Then you’ll be fine.” Silena reached for the door. “We’re leaving in ten minutes. If the fence is worse than it looked yesterday, I want somebody to fetch Chiron before we touch it.”
-
-Clarisse nodded. “I’ll look first.”
-
-“I can do that,” Percy said.
-
-“No.”
-
-“Why not?”
-
-“Because I’ll look first.”
-
-“Sure.”
-
-“Do you need a chart?”
-
-“I could use one.”
-
-Clarisse left the cabin. Silena followed after giving Percy a look that meant she had heard the joke and would not be rewarding it. He hung the towel on its nail, pulled his cuffs down and found the blue shirt with the hole under the arm. He did not put it on. The green wool itched at his throat, but he kept it.
+Percy stood alone for a moment, looking at the field book and the damp cuff she'd fixed. Then he pulled his sleeves into place and went to find Annabeth, hoping that by the time he reached Cabin One he'd managed to stop rehearsing the words Thalia hadn't asked him to say.
 
 Across the path, Cabin One had a loose porch rail and a small square of empty space where the blanket had not quite covered the window. Percy carried the field book Annabeth had left in Cabin Three the day before. It was tucked beneath a folded cloth and had a graphite smudge across the cover. He had not meant to bring it; he had meant to put it on the table and then had picked it up when he saw her name.
 
