@@ -1,6 +1,6 @@
 # Silena: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 203; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 207; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found silena in 188 of 193 chapter files (001–025, 027–053, 055–072, 074, 076–153, 155–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -305,3 +305,14 @@
 - Silena does not witness the private Percy–Leandros conversation about Atlantis and does not learn Percy's altered-childhood memory gap from this chapter.
 - No new title, letter delivery, response from Maria, or change to Silena's watercolor work is shown.
 **Carry-forward after Ch203.** Silena's relationship with Amphitrite and Clarisse's separate pace remain distinct. Her letter to Maria stays sealed and her three-wave copy remains unfinished and unsent.
+
+### Chapter 207 · The recipe stays hers
+
+- **Knowledge provenance:** FIRSTHAND, observed in Percy-limited POV.
+- **Source:** [Chapter 207](../../chapters/207-what-water-cannot-carry.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
+- Silena refuses Leandros's request to carry a message to Clarisse. She explains that the blurred tags left her with extra inventory work and accepts his apology as heard, without offering forgiveness.
+- She tests herb bread for herself, gives others room to offer specific feedback, and chooses the rosemary version for her recipe. Whether she makes a full batch remains undecided.
+- Her relationship with Amphitrite and her history with Maria do not change. No maternal title, letter delivery, or response from Maria occurs.
+
+**Carry-forward after Ch207.** Silena's anger and Clarisse's response remain separate. She is not the automatic interpreter or peacemaker; the recipe remains hers.
+

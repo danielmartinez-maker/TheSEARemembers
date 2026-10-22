@@ -1,6 +1,6 @@
 # Leandros: source-limited continuity notes
 
-**Coverage:** Chapters 194–203 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
+**Coverage:** Chapters 194–207 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
 
 ## Author-approved identity
 
@@ -88,9 +88,20 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 
 ### Confirmed in Chapter 206
 
-- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–206 chapter ledger](../chapter-ledgers/194-206.md).
+- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
 - Leandros sees water pooling at the lower fence cut and moves the temporary board despite Chiron's, Beckendorf's, and Clarisse's direction to leave it until inspection. The runoff turns toward the shed rack; two coils become damp, three tags need rewriting, and a canvas strip needs drying.
 - He shows competent rope handling while moving the coils, under Beckendorf's directions. His marina/tide experience did not establish the camp's drainage route. He later says he should have looked from the other side and keeps the rope steady while Beckendorf inspects; this is a limited admission, not an apology or trust milestone.
 - Clarisse does not make a relationship decision for him; no sibling reconciliation, leadership role, or forgiveness occurs. His conflict with Percy remains unresolved.
 
 **Current handoff after Ch206.** Leandros remains in Cabin Three without authority or broad trust. His unapproved board move caused a concrete, recoverable cost, and his brief admission does not resolve the impact. Clarisse's response remains her own; Percy is not his interpreter. The drainage repair is open until the ground firms.
+
+### Confirmed in Chapter 207
+
+- **Source:** [Chapter 207](../../chapters/207-what-water-cannot-carry.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
+- Leandros names that he moved the board against instruction and that the runoff damaged two coils, three tags, and one canvas strip. He apologizes to Clarisse and Silena but asks Clarisse immediately whether they are done and asks Silena to carry his message.
+- Clarisse says no and does not set a forgiveness timeline. Silena refuses to be the messenger and states her own frustration with having to redo the inventory. Neither promises trust or authority.
+- Percy tells him to ask Clarisse directly. In their private conversation Percy says he does not yet know how to act as Leandros's brother; Annabeth does not witness it. Leandros acknowledges the difference in their childhoods without learning about the erased future.
+- He handles rope carefully under Beckendorf's direction and waits for Chiron's inspection decision, while still complaining about being asked to wait. His status assumptions and impatience persist.
+
+**Current handoff after Ch207.** Leandros remains in Cabin Three without authority or broad trust. His apology has not resolved the harm. The fence and board are still pending; two coils remain damp and the canvas needs a fiber check.
+

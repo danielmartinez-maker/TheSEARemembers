@@ -181,3 +181,15 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Damage / witnesses:** Clarisse, Beckendorf, Chiron, and Eli lead response from safe ground. Two coils are damp, three tags need rewriting, and one canvas strip is dried; no one is hurt. The board remains temporary, and the fence inspection is deferred until the soil firms.
 - **Percabeth / knowledge:** Percy and Annabeth coordinate the indoor label recovery with familiar, secure affection. No memory boundary changes. Thalia is not on-page and receives no new health outcome.
 - **Ch206→Ch207:** Continue the recorded storm costs and unresolved drainage work. Leandros has not apologized; Clarisse's relationship with him remains her own. The other Chapter 205 room-placement and care states remain open.
+
+## Chapter 207 continuation
+
+- **Ch206→Ch207:** Begin after Chapter 206's next-morning inspection; no date or year is established. Percy is the sole focal character.
+- **Leandros / Clarisse:** Leandros specifically owns moving the board against instruction and apologizes. He asks whether they are done; Clarisse says no. She wants him to stay most of the time, but does not equate a place in Cabin Three with trust or authority.
+- **Leandros / Silena:** Silena refuses to carry a message and states her separate frustration with redoing the inventory. She hears his apology without granting forgiveness. Her rosemary bread test and recipe remain hers.
+- **Percy / Leandros:** Percy refuses to interpret Clarisse and Silena and says honestly he does not know how their brotherhood should work yet. Annabeth is absent from that conversation and does not hear its details.
+- **Percy / Annabeth:** They remain secure and affectionate. She wraps his rope scrape; no erased-future memory is disclosed.
+- **Ianthe / work:** Ianthe offers wind readings and asks Beckendorf before adding them; their source must be verified. Three tags are restored, the canvas still needs a fiber check, and the two coils remain damp.
+- **Thalia / health:** Thalia does not appear. Her existing care plan remains; there is no new heel exam or clearance.
+- **Ch207→Ch208:** Preserve the open drainage work and delayed board inspection. Leandros has apologized but has not earned trust, authority, or forgiveness. Percy does not become a mediator; Clarisse and Silena's answers remain separate.
+

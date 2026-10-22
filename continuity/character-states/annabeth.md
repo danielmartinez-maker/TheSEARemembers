@@ -1,6 +1,6 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 206; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 207; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found annabeth in 193 files (001–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -397,7 +397,17 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 ### Chapter 206 · Indoor recovery
 
 - **Knowledge provenance:** FIRSTHAND for the kitchen passage and table work observed in Clarisse-limited POV.
-- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–206 chapter ledger](../chapter-ledgers/194-206.md).
+- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
 - Annabeth works with Percy to move dry supplies and restore labels after the storm. Percy asks/coordinates rather than taking over; she directs the paper sorting and he follows. Their familiar affection remains secure and unforced.
 - Annabeth does not witness the lower-board decision or the private Clarisse–Leandros friction, and does not receive erased-future knowledge.
 **Carry-forward after Ch206.** Percy and Annabeth remain secure; no memory boundary changes.
+
+### Chapter 207 · Familiar affection, separate answers
+
+- **Knowledge provenance:** FIRSTHAND, present for the inventory and bread-test scenes; absent from Percy's private conversation with Leandros.
+- **Source:** [Chapter 207](../../chapters/207-what-water-cannot-carry.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
+- Annabeth verifies the replacement tags, helps Percy avoid speaking for his siblings, and shares a brief kiss and ordinary affection with him. She wraps his scraped hand.
+- She does not witness Percy's private conversation with Leandros and does not learn its details. Percy and Annabeth remain secure; no erased-future memory is disclosed.
+
+**Current carry-forward after Ch207.** Her relationship with Percy remains established and secure. She is not assigned to translate Percy and Leandros or to decide the Cabin One room plan. The Chapter 205 stool, cot, and latch states remain as recorded.
+

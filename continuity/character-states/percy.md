@@ -1,6 +1,6 @@
 # Percy: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 203; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 207; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found percy in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -386,3 +386,14 @@
 - Percy privately apologizes to Thalia for confronting her publicly about the heel. He names the harm, does not use worry as an excuse, and makes no request for forgiveness. Thalia asks him to raise future concerns privately and leave her decision hers.
 - Percy does not witness Chiron's heel examination or Thalia's later report to Chiron after the arrow trial. He hears that the heel is better but not cleared for strenuous activity and that she may try three arrows; Thalia does not disclose erased-future memories.
 **Current carry-forward after Ch204.** Percy remains secure with Annabeth. His apology to Thalia does not erase the earlier public confrontation or create a forgiveness demand. His conflict with Leandros remains unresolved.
+
+### Chapter 207 · No family interpreter
+
+- **Knowledge provenance:** FIRSTHAND; Percy-limited POV.
+- **Source:** [Chapter 207](../../chapters/207-what-water-cannot-carry.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
+- Percy helps check the tags and redirects Leandros to ask Clarisse directly rather than treating Percy as the family interpreter. He answers that he does not yet know how he and Leandros should act like brothers; Annabeth does not witness the private exchange.
+- Percy and Leandros acknowledge their shared parentage without pretending to share a childhood. Percy discloses no erased-future memories or new information about the time rewrite.
+- Percy and Annabeth share a brief kiss and familiar affection, remain secure, and have no relationship reset. Annabeth wraps a rope scrape on Percy's hand.
+
+**Current carry-forward after Ch207.** Percy remains honest about the limits of his relationship with Leandros and does not speak for Clarisse or Silena. No memory boundary changes. The rope, canvas, and drainage work remain open.
+

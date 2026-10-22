@@ -426,8 +426,17 @@ These scoped updates link the chapter-specific records completed or corrected in
 
 ## October 22, 2026 source-anchored continuation · Chapter 206
 
-- **Source:** [Chapter 206](../chapters/206-the-storms-mistake.md) and [current 194–206 ledger](chapter-ledgers/194-206.md).
+- **Source:** [Chapter 206](../chapters/206-the-storms-mistake.md) and [current 194–207 ledger](chapter-ledgers/194-207.md).
 - An early-winter storm arrives earlier than Ianthe's schedule expected. Her useful wind observations help secure a temporary rack cover, but she left dry supplies in the lower shed until after an inspection and did not confirm the route with its users.
 - Leandros moves the drainage board against instruction. Runoff diverts toward the shed; two rope coils are damp, three tags need rewriting, and one canvas strip needs drying. No one is hurt; the material can be recovered. Clarisse and Beckendorf lead the safe response, and Eli shares his local drainage knowledge.
 - Leandros later says he should have checked the channel from the other side; he does not apologize or receive forgiveness. Ianthe asks Eli about the drainage and records his answer, a procedural step rather than a trust milestone.
 - Percy and Annabeth coordinate label recovery with secure familiarity. Thalia does not appear and has no new health assessment or clearance. No erased-future memory is disclosed.
+
+## October 22, 2026 source-anchored continuation · Chapter 207
+
+- **Source:** [Chapter 207](../chapters/207-what-water-cannot-carry.md) and [current 194–207 ledger](chapter-ledgers/194-207.md).
+- Leandros specifically describes moving the board against instruction and names the resulting costs before apologizing to Clarisse. He immediately asks whether they are done; Clarisse says no and gives no timeline or trust milestone.
+- Silena refuses to carry a message to Clarisse and explains her own extra inventory work. Leandros apologizes; Silena hears him without offering forgiveness. She tests rosemary bread as a personal project and chooses the version she likes.
+- Percy refuses to interpret his sisters and says he does not yet know how he and Leandros should act like brothers. Annabeth does not witness this conversation. Percy and Annabeth remain secure and affectionate; his rope scrape is wrapped. No erased-future memory is disclosed.
+- Ianthe offers her own wind readings to Beckendorf, who requires source attribution and comparison before the data is used. She does not change the work list. The tags return in order; the canvas still awaits a fiber check, the two coils remain damp, and the fence/board remain open.
+

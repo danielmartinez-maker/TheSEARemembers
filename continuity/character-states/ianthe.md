@@ -1,6 +1,6 @@
 # Ianthe: source-limited continuity notes
 
-**Coverage:** Selected source-anchored events in Chapters 198–206; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
+**Coverage:** Selected source-anchored events in Chapters 198–207; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
 
 ## Author-approved identity
 
@@ -65,7 +65,17 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 
 ## Confirmed in Chapter 206
 
-- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–206 chapter ledger](../chapter-ledgers/194-206.md).
+- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
 - Ianthe uses a schedule whose order leaves dry line and repair canvas in the lower shed until after the fence inspection, based on the expected weather window. She had not confirmed the shed route with its workers. The early storm and Leandros's separate board move together expose the flaw; she does not direct him to move the board.
 - Her wind observations are useful: she identifies a brief lull that lets Beckendorf secure the rack cover. She later asks Eli about the drainage route and records his answer. This is practical progress, not a cure for her bossiness or status assumptions.
 - Two coils are damp, three tags are recopied, and one canvas strip dries. The fence drainage remains open. Ianthe earns no broad trust or authority milestone; her Cabin One placement remains unsettled.
+
+## Confirmed in Chapter 207
+
+- **Source:** [Chapter 207](../../chapters/207-what-water-cannot-carry.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
+- Ianthe brings her own wind readings and asks whether they can be added to the drying notes. Beckendorf asks her to identify their source and compare them with the flag line before using them; she records her name and leaves the work list unchanged.
+- Percy and Annabeth do not approve her data or grant her authority. She does not direct or assign work in this chapter. Her adjustment is procedural, not a cure for her desire to manage others.
+- Her window-side bed, cot inspection, mother-call, and Big House guest-room placement remain unresolved.
+
+**Current handoff after Ch207.** Ianthe's readings remain unverified until compared with the flag line. Her Cabin One placement and relationship with the Grace sisters remain unresolved; no trust or authority milestone is established.
+

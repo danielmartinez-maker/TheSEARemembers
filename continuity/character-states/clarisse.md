@@ -1,6 +1,6 @@
 # Clarisse: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 206; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 207; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found clarisse in 191 of 193 chapter files (001–053, 055–118, 120–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -310,9 +310,20 @@
 
 ### Chapter 206 · A board in the rain
 - **Knowledge provenance:** FIRSTHAND, Clarisse-limited POV.
-- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–206 chapter ledger](../chapter-ledgers/194-206.md).
+- **Source:** [Chapter 206](../../chapters/206-the-storms-mistake.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
 - Clarisse leads the response to an early-winter storm with Chiron, Beckendorf, and Eli, keeping the crew on safe ground. The local drainage route is not fully inspected; she does not allow the board or fence to be treated as repaired.
 - Ianthe's schedule leaves the dry line and repair canvas in the lower shed until after the fence inspection. Her wind observations accurately identify a lull that helps secure the rack cover. Clarisse distinguishes that useful skill from an incomplete plan.
 - Leandros shifts the drainage board despite being told to wait. Runoff diverts toward the shed, leaving two coils damp, three tags to recopy, and one canvas strip to dry. Clarisse names his choice and does not grant authority or trust. She sees his later admission that he should have checked from the other side; it is not an apology.
 - Clarisse hears Eli explain the water's turn around the pine roots. She does not turn his knowledge into an automatic job assignment. Percy and Annabeth coordinate indoors with secure familiarity. Clarisse's distinct response to Leandros remains unresolved; she does not mediate for Percy or decide his relationship with his brother.
 **Carry-forward after Ch206.** The drainage board and fence remain pending until the ground firms. Leandros has not apologized, and no family bond is repaired by the storm response. Clarisse's relationship with Amphitrite remains on its own timeline; no title is chosen.
+
+### Chapter 207 · No deadline for repair
+
+- **Knowledge provenance:** FIRSTHAND, observed in Percy-limited POV.
+- **Source:** [Chapter 207](../../chapters/207-what-water-cannot-carry.md); [194–207 chapter ledger](../chapter-ledgers/194-207.md).
+- Clarisse hears Leandros name the board move and its cost, then accept responsibility. She receives his apology but says they are not done; she gives no forgiveness timeline, trust milestone, or authority.
+- She tells Percy that she wants Leandros to stay most of the time, while keeping belonging separate from trust and their unequal childhoods. She replaces Percy's loosened bandage without turning the gesture into a family-resolution scene.
+- Her response remains distinct from Silena's. Her relationship with Amphitrite stays on its separate track; no title is chosen.
+
+**Carry-forward after Ch207.** Leandros has apologized and is still impatient for an answer. Clarisse does not promise forgiveness or broad trust. The fence inspection and board reset remain delayed until the ground firms.
+

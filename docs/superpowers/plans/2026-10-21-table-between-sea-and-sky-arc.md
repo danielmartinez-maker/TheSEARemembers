@@ -106,7 +106,8 @@ Files: Chapters 206–210 and continuity updates.
 
 - [x] Ch206: early-winter weather causes limited, repairable disruption; poor planning and assumptions have a cost.
 - [x] Verify 10,083 body words by the repository whitespace-token method; Clarisse-limited POV, ten scenes, continuity YAML, 194–206 ledger/handoff, index, arc progress, and selected character-state updates added. The fence drainage remains open, and neither newcomer receives instant trust or authority.
-- [ ] Ch207: Leandros takes responsibility without rushing forgiveness.
+- [x] Ch207: Leandros takes responsibility without rushing forgiveness.
+- [x] Verify 10,096 body words by the repository whitespace-token method; Percy-limited POV, continuity YAML, current 194–207 ledger/handoff, index, arc progress, and selected character-state notes added. Clarisse and Silena keep separate unresolved responses; the drainage work remains open.
 - [ ] Ch208: Silena refuses to translate everyone; Leandros begins unpraised practical repair.
 - [ ] Ch209: Zeus’s new face, volatile attention, and comparison pattern are handled within existing canon.
 - [ ] Ch210: Thalia and Annabeth make a shared choice without turning independence into estrangement.
@@ -142,7 +143,7 @@ Check: completion report separates implemented files, actual counts, local QA, h
 ## Progress ledger
 
 - Chapters complete: **13/25**.
-- Arc body words: **133,712 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–206, index, chapter YAMLs, the current 194–206 ledger, and selected sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 207 with Leandros taking responsibility for a specific storm cost without rushing Clarisse, Percy, or the others into forgiveness.
+- Arc body words: **143,808 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–207, index, chapter YAMLs, the current 194–207 ledger, and selected sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 208, where Silena refuses to translate everyone and Leandros begins unpraised practical repair.
 
