@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 10 of 193 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 15 of 193 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -63,3 +63,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/010-the-daughter-of-hecate.md)
 
 ![Zoe compares ordinary copper samples under Mara and Chiron's supervision in the forge annex.](010-the-daughter-of-hecate.jpg)
+
+## 011. The Eclipse
+
+[Source chapter](../chapters/011-the-eclipse.md)
+
+![Clarisse guides the evacuation while Silena counts campers and Percy helps Chiron during the eclipse.](011-the-eclipse.jpg)
+
+## 012. What Remains
+
+[Source chapter](../chapters/012-what-remains.md)
+
+![Percy offers Thalia a sandwich by the repair scaffold as they share a quiet conversation.](012-what-remains.jpg)
+
+## 013. The Father Who Changes Faces
+
+[Source chapter](../chapters/013-the-father-who-changes-faces.md)
+
+![Thalia and Annabeth stand together across the Big House table from Zeus, whose unfamiliar face is veiled in shadow.](013-the-father-who-changes-faces.jpg)
+
+## 014. Letters From Under the Sea
+
+[Source chapter](../chapters/014-letters-from-under-the-sea.md)
+
+![Percy offers Clarisse a gold bracelet from Amphitrite's care package as Silena wears her green one beside Barnacle.](014-letters-from-under-the-sea.jpg)
+
+## 015. Beryl’s Letters
+
+[Source chapter](../chapters/015-beryl-s-letters.md)
+
+![Thalia and Annabeth sort old family photographs together beside an unopened letter.](015-beryls-letters.jpg)
