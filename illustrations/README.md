@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 35 of 193 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 40 of 198 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -213,3 +213,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/035-the-letter.md)
 
 ![Thalia and Annabeth draft separate letters beside a box of unanswered mail.](035-the-letter.jpg)
+
+## 036. Five Months
+
+[Source chapter](../chapters/036-five-months.md)
+
+![Percy and Annabeth float beneath the dock on an ordinary Tuesday as dragonflies circle and an Apollo canoe passes.](036-five-months.jpg)
+
+## 037. Sisters
+
+[Source chapter](../chapters/037-sisters.md)
+
+![Thalia carefully trims Annabeth's curls during their Sisters Day haircut in Cabin One.](037-sisters.jpg)
+
+## 038. Brothers and Sisters
+
+[Source chapter](../chapters/038-brothers-and-sisters.md)
+
+![The Surface and Sea teams prepare their home recipes at the siblings-day cook-off, with Percy, Triton, Thalia, Annabeth, Clarisse, Silena, and Connor.](038-brothers-and-sisters.jpg)
+
+## 039. Annabeth's Project
+
+[Source chapter](../chapters/039-annabeth-s-project.md)
+
+![Thalia offers a blue-white spark at the finished shrine as Percy, Clarisse, and Silena bring a shell, carved panther, and poem for Annabeth.](039-annabeth-s-project.jpg)
+
+## 040. Winter
+
+[Source chapter](../chapters/040-winter.md)
+
+![Silena reads beside the fire while Clarisse listens and knits a lumpy red scarf as snow falls outside.](040-winter.jpg)
