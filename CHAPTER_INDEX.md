@@ -2,6 +2,8 @@
 
 The manuscript is a work in progress. Chapters are listed in reading order; click a title to edit or review its separate Markdown file.
 
+Illustrations: [view the chapter artwork gallery](illustrations/README.md).
+
 - **001.** [The Weight of Salt and Sky](chapters/001-the-weight-of-salt-and-sky.md)
 - **002.** [The Girl With Lightning in Her Veins](chapters/002-the-girl-with-lightning-in-her-veins.md)
 - **003.** [What the Storm Remembers](chapters/003-what-the-storm-remembers.md)
