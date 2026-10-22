@@ -1,4 +1,4 @@
-# Chapter 195: The Rules of Cabin Three
+## Chapter 195: The Rules of Cabin Three
 
 Clarisse woke before the cabin stove did.
 
