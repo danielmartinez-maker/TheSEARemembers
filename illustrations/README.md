@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 70 of 204 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 75 of 204 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -423,3 +423,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/070-clarisse-s-poems.md)
 
 ![Annabeth hugs Clarisse after she shares a poem with a small chosen circle.](070-clarisse-s-poems.jpg)
+
+## 071. Anniversary
+
+[Source chapter](../chapters/071-anniversary.md)
+
+![Percy is welcomed by his camp family at his surprise arrival-anniversary party with a wave-shaped cake.](071-anniversary.jpg)
+
+## 072. New Kids
+
+[Source chapter](../chapters/072-new-kids.md)
+
+![Percy and Annabeth greet three new campers on the misty hill, with Thalia and Chiron nearby.](072-new-kids.jpg)
+
+## 073. The Play
+
+[Source chapter](../chapters/073-the-play.md)
+
+![Poseidon, Athena, and Zeus improvise through the camp play as a wave splashes the stage.](073-the-play.jpg)
+
+## 074. Tyson's Visit
+
+[Source chapter](../chapters/074-tyson-s-visit.md)
+
+![Tyson scoops Percy up in a joyful greeting while Annabeth and Thalia wait nearby.](074-tyson-s-visit.jpg)
+
+## 075. Zoe's Story
+
+[Source chapter](../chapters/075-zoe-s-story.md)
+
+![Zoe speaks by the campfire while campers listen and a young child can quietly leave with a counselor.](075-zoe-s-story.jpg)
