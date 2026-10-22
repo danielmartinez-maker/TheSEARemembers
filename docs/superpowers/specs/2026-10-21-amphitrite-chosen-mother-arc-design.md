@@ -1,6 +1,6 @@
 # Amphitrite's Chosen-Mother Arc
 
-**Status:** Awaiting author review of this written spec  
+**Status:** Author-approved design; implementation underway on PR #103.  
 **Design approval:** The author approved the in-chat direction on 2026-10-21.  
 **Source baseline:** `danielmartinez-maker/TheSEARemembers`, PR #103, head `3906567d3595d27fc318e8ad4d6cb99e8e581c6b`.
 
@@ -24,7 +24,7 @@ These scenes remain the foundation. The sisters’ titles are future milestones,
 
 ### Percy
 
-Use “Mom” as Percy’s direct form of address for Amphitrite, including the existing spoken address in Chapter 99 and the family reference in Chapter 132. Keep “mother” as an ordinary descriptive word where grammatically appropriate; do not run a global replacement. Sally remains Percy’s mother and his grief for her remains present. Amphitrite is still unaware of Percy’s erased-future memories and altered-childhood memory gap.
+Use “Mom” as Percy’s familiar spoken address for Amphitrite in informal speech, including the existing direct address in Chapter 99 and informal references in Chapters 127 and 132. Keep “mother” as an ordinary descriptive word where grammatically appropriate; do not run a global replacement. Sally remains Percy’s mother and his grief for her remains present. Amphitrite is still unaware of Percy’s erased-future memories and altered-childhood memory gap.
 
 ### Silena
 
@@ -40,7 +40,7 @@ The sisters reach the milestone in separate scenes and at different paces. Their
 
 - Amend `FIC_CONTEXT.md` with the approved relationship direction and title boundaries.
 - Update Percy, Silena, and Clarisse’s continuity profiles so they distinguish current source facts from planned future milestones.
-- Change Percy’s direct spoken address to “Mom” in the source passages where “Mother” is currently his chosen address, including Chapters 99 and 132; inspect other Percy/Amphitrite address candidates before editing.
+- Change Percy’s informal spoken address to “Mom” in the source passages where “Mother” is currently his chosen address, including Chapters 99, 127, and 132; inspect other Percy/Amphitrite address candidates before editing.
 - Keep Chapters 125–132’s existing sister choices and hurt intact; only revise their prose if a source-specific continuity need is identified.
 - Record the sisters’ “Mom” milestones as future story work after Chapter 193. This spec does not draft a new full chapter or claim either milestone has occurred.
 
@@ -59,4 +59,4 @@ Do not change biological parentage, overwrite Silena’s or Clarisse’s relatio
 
 ## Review boundary
 
-This is a design specification, not an implementation plan or a claim of completed manuscript changes. Implementation planning begins only after author review of this document.
+This document records the author-approved design; implementation status is tracked in the linked plan. It does not claim the sisters’ future scenes or title milestones are complete.
