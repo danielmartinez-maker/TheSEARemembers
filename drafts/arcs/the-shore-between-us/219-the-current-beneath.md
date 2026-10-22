@@ -148,3 +148,153 @@ Percy made an appreciative noise. Annabeth tried not to smile, failed, and looke
 
 ---
 
+Leandros had never understood why people called the lake quiet. It made noise all the time: a soft sucking against the stones under the landing, the slap of a wave that had nowhere impressive to go, the faint ticking sound of loose pieces of ice grinding against each other near the reeds. Sea water talked in bigger gestures. At the marina where he'd grown up, a changing current could rattle chains along half a row of boats, and his mother would stick her head out of the office and tell him to get off the dock before she came out and dragged him in herself. Here the lake whispered, and almost everybody mistook whispering for silence.
+
+He stood on the safe side of the rope while Beckendorf carried the new stakes up from the boathouse. Annabeth had gone to the Big House for an older map that showed the drainage work, and Percy had offered to help make the temporary boundary visible from the main path. That left Leandros with Clarisse, which was how most mornings ended when he thought they'd started well. She had been inspecting one of the ropes with the irritated concentration of someone who expected it to disappoint her.
+
+"Your knot's slipping," she said.
+
+"It's not my knot."
+
+"It's your knot from yesterday. I watched you tie it."
+
+"Then you're calling it a knot, which means it's done its job."
+
+Clarisse pulled the loose end and the line sagged between her hands. "It means it's a bad knot."
+
+He wanted to tell her the cord was cheap and the post slick with frost and nobody had mentioned it was supposed to hold a warning boundary in a crosswind. All of those things were true. They were also the excuses he'd been making ever since he came to camp, and he was weary of hearing himself say them. He took the rope from her, untied the slip, and set a different hitch that would tighten against the post instead of sliding along it.
+
+"There," he said. "Happy?"
+
+"Ecstatic. I might write a song about it." She tested the line and nodded reluctantly. "You were right about the water turning by the landing. Beckendorf said the reeds were circling against the wind."
+
+Leandros looked at her suspiciously. Praise from Clarisse usually arrived disguised as a threat. "He said that?"
+
+"I just told you he did. Try listening to a sentence without looking for the knife hidden in it."
+
+He almost answered that she was the last person who ought to complain about hidden knives, but thought better of it. Clarisse's bluntness infuriated him because it was so difficult to argue with. When she was wrong, she tended to be wrong loudly, and when she was right she didn't wait for anyone to applaud. He had seen her work through a cold evening with wet gloves, moving rope coils off the lower shelf so no younger camper would have to do it in the dark. She didn't seem to think this made her a leader. She simply noticed a job and did it. He couldn't decide whether he admired that or resented it.
+
+"I didn't want the bank to be unstable," he said. "I wanted to be right about the current."
+
+"Then you can be right about the current and sorry about the bank. I manage two thoughts all the time."
+
+"Only two?"
+
+"Careful. I'm in a good mood."
+
+He laughed despite himself, and she gave him a sharp look as if the sound had taken her by surprise. It struck him suddenly that she was trying, too. Not to like him, not to make the cabin feel like a family because somebody had told them it ought to, but to get through a day without assuming every interaction was a challenge. He had made that unnecessarily difficult for her from the moment he arrived.
+
+By the time Annabeth returned, carrying a stiff roll of paper almost as long as her arm, the sky had brightened enough for the lake's surface to lose its flat gray color. She had Percy with her, and both were talking at once. Percy was insisting he had discovered a faster way to get the old map from the attic. Annabeth claimed that climbing into the attic through the wrong hatch didn't count as faster if he then had to climb back out to find the right one. The argument was affectionate and so well rehearsed that Leandros could have predicted both lines before they reached him.
+
+He didn't know what to do with his reaction to that. He liked Percy in flashes, especially when his brother forgot about the difference between them and said something ridiculous. The rest of the time he watched him receive affection as easily as other people received the morning weather. It was unfair, and Leandros knew it was unfair, because he had no idea how often Percy had gone without affection in whatever life lay behind his strange memories. He only knew what he could see: Annabeth tugging the back of Percy's coat into place without being asked, Percy taking the heavier end of her rolled map as though he had been carrying it all his life, both of them smiling before they even finished speaking.
+
+"Morning, Lord Captain of the Missing Stake," Percy called.
+
+Leandros rolled his eyes. "You think of that all by yourself?"
+
+"Had help from the coast guard. Very clever people."
+
+Annabeth shook her head and spread the map across a dry board. "Ignore him. I did."
+
+"That would make you unique," Percy said. "I don't think anyone's ignored me successfully for more than forty-five minutes."
+
+"That's because you start singing."
+
+"Only when I need attention."
+
+Leandros was struck by a private, shameful flicker of envy. Percy could ask for attention like that, as a joke, because he trusted it would be given. He himself had spent years trying to become exceptional enough that somebody would offer it without being asked. At the marina he had been the boy who could read the tide and find a mooring in fog. Here he was one more demigod among people whose powers made his knowledge seem embarrassingly ordinary. Annabeth bent over the old map, a pencil held between her teeth, and he hated how keenly he wanted her to notice that he had found something none of them had seen.
+
+The old drawing was a mess of faded lines, water stains, and cramped handwriting. Somebody had mapped the drainage cut before the newer landing was built, then crossed out the original route and added a second. Annabeth weighted one corner with a stone and began comparing the old and new positions. She forgot about Leandros immediately, which irritated him until he recognized the look in her eyes. It was the same thing he felt standing at the end of a dock at night, listening for a change in the water. She was pursuing an answer, and for that moment it mattered more than anything anyone thought of her.
+
+"Here," she said. "The cut used to run under the western stones. That's why the seam is further inland than I expected. The old map has a note about moving the outflow during the landing repair, but nobody drew where it went afterward."
+
+Leandros leaned over the board. His shoulder almost touched hers, and both shifted automatically, the smallest concession to sharing the space. He wasn't accustomed to being able to look over a map with somebody whose first instinct was to ask a better question rather than tell him he was wrong. He'd spent so much time defending himself around Annabeth that it seemed absurd to notice now how focused she was when the argument turned to something real.
+
+"If the channel was filled with loose soil, it could be washing out again," he said. "Especially if the creek's higher than usual."
+
+"Not enough to explain the whole crack." Annabeth marked the place where the two lines diverged. "The weight of those stones would push the bank down once the soil moved, but I want to know how far the hollow goes."
+
+Beckendorf took a careful look and frowned. "I'm not having anyone put a rod into that seam while the ground is wet. We'll inspect from the upper path and get Chiron to see the older plans."
+
+"There's another way to tell whether the water is moving underneath," Leandros said.
+
+Three faces turned toward him. He had wanted their attention, and now he found himself wishing he'd waited until he was sure.
+
+"My mother used to test the old pilings at the marina when the mud was thick. She'd float a strip of bright cloth past the pier, watch where it went, and measure how long it took to reach the open channel. If it suddenly sped up or slowed down, there was something under the surface changing the flow. You don't need to go onto the bank at all. You can do it from the solid part of the landing."
+
+Percy grinned. "My brother's proposing science with laundry. I approve."
+
+Annabeth ignored the joke. Her pencil moved to the edge of the page as she calculated. "A floating strip would only tell us about surface movement. We'd have to repeat it in several positions and account for wind, but it might show where the return flow starts." She looked up at him. "Can you tell when a strip is actually caught in a current and when it's just being blown by the wind?"
+
+"Yeah," Leandros said, too quickly. Then he corrected himself. "Usually. You watch what the water's doing around it. The ripples are different. We could anchor another piece of cloth just above the surface so we know what the wind is pushing."
+
+Annabeth's expression changed. It wasn't praise, not quite, but her interest sharpened in a way that made him stand straighter. "That's worth trying."
+
+He had been called clever before. His mother used to say it when he solved a problem that had frustrated the men who worked for her, and he would glow for hours even while pretending it meant nothing. From Annabeth, three plain words felt irritatingly similar. He turned away to find the spare cloth before his face gave him away.
+
+"You're going to need a proper timer," she called after him.
+
+"I know where Chiron keeps the clock."
+
+"I didn't say you didn't."
+
+"Good. I'd hate for us to have our first peaceful morning."
+
+He heard her laugh behind him, quick and surprised. Percy laughed too, and the sound should have made Leandros feel included. Instead it made him feel as if something he didn't understand had opened beneath his feet.
+
+---
+
+The test should have taken half an hour. By the time the first strip floated into the shallows, they had spent almost forty minutes arguing about where to stand, which cloth would be bright enough to see, and how to keep the wind from making nonsense of the measurements. Annabeth wanted to use a repeated timed release from the old stone landing. Leandros objected that the launch point was too close to a snagged branch and would put the cloth into a little eddy that had nothing to do with the underbank channel. Percy observed that both of them seemed determined to make the experiment last until spring. Beckendorf told them all to stop talking at once so he could set the boundary line without somebody tripping over it.
+
+In the end Leandros was right about the snagged branch, and Annabeth was right about the timing method. Neither admitted it particularly gracefully. Beckendorf secured the clock and let Leandros release a narrow strip of red cloth from a safe corner of the landing. It drifted outward, paused, then curved toward the bank where Annabeth's stake had disappeared. The second strip took almost the same path. On the third attempt the wind freshened and carried it farther toward the open water, so Annabeth wrote the time down with a large question mark beside it.
+
+"That's the bit you can't trust," Leandros said, pointing to the third line.
+
+"I know. That's why there's a question mark."
+
+"Good. I was starting to worry you'd forgotten what one looked like."
+
+"I'd say you're welcome to draw your own, but yours would probably insist on being credited."
+
+He laughed. It escaped before he could decide whether he wanted to encourage her. Across the landing Percy was crouched beside Beckendorf, fastening a new warning marker far enough from the crack that no curious camper could reach the dangerous ground. Percy glanced up at the sound, smiling faintly. Leandros felt an odd flicker of embarrassment, as if he'd been caught doing something he didn't yet have a name for. It made no sense. He and Annabeth argued all the time. Their argument had merely become, for a moment, enjoyable.
+
+Annabeth crouched to inspect the cloth floating against the old stones. A gust lifted the loose end of her scarf, and Leandros saw that it was Percy's. Percy wore it often when the nights were particularly cold. He watched Annabeth tuck it more firmly into her collar and felt ashamed of the fact that he had noticed whose scarf it was before he noticed the direction of the wind.
+
+"You're making that face again," she said without looking at him.
+
+"What face?"
+
+"The one that means you're about to tell me my map is wrong."
+
+He almost told her he hadn't been thinking about the map. Instead he took the notebook from under his arm, held it open to the drawing his mother had made years ago of the marina's outer pilings, and showed Annabeth how the current had curved around the submerged timber there. It was the first time he had volunteered a page from his own book without waiting to be asked or trying to establish who would get credit for it. She studied it with such unguarded interest that he immediately wanted to take it back.
+
+"Your mother drew this?" she asked.
+
+"She did the measurements. I copied the sketch. Badly, apparently."
+
+"It isn't bad." Annabeth traced a line above the page without touching it. "It's clear. You can see where the current divides around the piling, even though the surface looks almost straight. How old were you when you learned to read water like this?"
+
+"Twelve, maybe. Younger for some of it. I'd been helping since I was tall enough to carry the lines without tripping on them."
+
+"You must have been insufferable."
+
+"Must have been?"
+
+She smiled down at the drawing, and he laughed in spite of himself. It was not a polished smile. There was ink on the side of her thumb and a faint white mark at the corner of her mouth where she'd bitten it while thinking. Leandros looked away before she could catch him noticing. He had spent much of his life convincing himself that he only admired girls who never challenged him. The thought seemed suddenly ridiculous, so ridiculous that he wondered how many other things he'd said about people had been equally foolish.
+
+Annabeth handed back the notebook. "You should keep a copy of that diagram with the shore records. Somebody might need it when we check the landing again."
+
+He heard an accusation in the offer before he could stop himself. "So everyone can use it and nobody has to remember who drew it?"
+
+She sighed. "Leandros. I just told you your work is good. Do you really need me to stand here and present you with a medal?"
+
+He flushed, irritated first at her tone and then at himself. She was right that he'd gone hunting for an insult in a compliment. But the old hunger had not gone away merely because he knew its shape. "No," he said after a moment. "I suppose a medal would get wet."
+
+She glanced up, surprised. "Almost certainly. And then you'd blame my map."
+
+"You probably drew the medal wrong."
+
+"Now you're pushing it."
+
+He grinned. She shook her head and bent back over the notes. The moment went by quickly, leaving no obvious mark on either of them, but he knew he would remember it. It bothered him to think she might not.
+
