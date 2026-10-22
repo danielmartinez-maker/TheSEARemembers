@@ -274,3 +274,13 @@
 - Chiron passes Zeus's invitation to Thalia, Annabeth, and Ianthe and leaves each person free to accept, choose the location, and stop the conversation. He does not dictate what Zeus meant beyond the note.
 - Chiron remains near the pavilion during the visit. He has not reviewed Annabeth's preliminary Cabin One window measurement; no repair or room assignment is decided.
 - No injury is examined and Thalia receives no new activity guidance or clearance.
+
+### Chapter 210 · A temporary place for the stool
+
+- **Source:** [Chapter 210](../../chapters/210-the-open-window.md); [194–210 chapter ledger](../chapter-ledgers/194-210.md).
+- Chiron reviews the storage inventory and permits the stool to remain temporarily. The wider room plan still needs input from the people using the spaces; no bed or cabin placement is decided.
+- Annabeth's first rain check leaves the lower Cabin One sill dry and the keeper catching. A longer storm remains necessary; Chiron does not declare the window permanently repaired or the room assignment settled.
+- No new health examination or activity guidance is given to Thalia.
+
+**Carry-forward after Ch210.** Ianthe remains in the Big House guest room, and the bed plan remains open. Continue the weather check and the existing repair list.
+

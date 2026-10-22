@@ -213,6 +213,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **207.** [What Water Cannot Carry](chapters/207-what-water-cannot-carry.md)
 - **208.** [The Work Nobody Sees](chapters/208-the-work-nobody-sees.md)
 - **209.** [A Father’s New Face](chapters/209-a-fathers-new-face.md)
+- **210.** [The Open Window](chapters/210-the-open-window.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

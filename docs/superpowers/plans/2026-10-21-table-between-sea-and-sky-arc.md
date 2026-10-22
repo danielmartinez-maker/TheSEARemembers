@@ -112,7 +112,8 @@ Files: Chapters 206–210 and continuity updates.
 - [x] Verify 10,025 body words by the repository whitespace-token method; Silena-limited POV, Chapter 208 continuity YAML, current 194–208 ledger/handoff, index, arc progress, and scoped character-state notes added. The canvas seam passes its fiber check; the new rack-loop splice remains pending inspection, the coils remain damp, and the drainage board remains in place.
 - [x] Ch209: Zeus’s new face, volatile attention, and comparison pattern are handled within existing canon.
 - [x] Verify 10,001 body words by the repository whitespace-token method; Thalia-limited POV, Chapter 209 continuity YAML, current 194–209 ledger/handoff, index, arc progress, and scoped character-state notes added. Ianthe's wind notes remain unverified, the Cabin One window/latch needs review, and no placement, apology, authority, or future-visit promise is decided.
-- [ ] Ch210: Thalia and Annabeth make a shared choice without turning independence into estrangement.
+- [x] Ch210: Thalia and Annabeth make a shared choice without turning independence into estrangement.
+- [x] Verify 10,510 body words by the repository whitespace-token method; Annabeth-limited POV, Chapter 210 continuity YAML, current 194–210 ledger/handoff, index, arc progress, and scoped character-state notes added. The lower window passes its first rain check; a longer storm remains pending. Ianthe's bed and room plan stay unresolved.
 
 Check: consequence is caused by character choices and remains proportionate; no monster quest displaces the family engine.
 
@@ -144,8 +145,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **16/25**.
-- Arc body words: **163,834 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–209, index, chapter YAMLs, the current 194–209 ledger, and selected sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 210, where Annabeth and Thalia face the Cabin One window/weatherproofing repair.
+- Chapters complete: **17/25**.
+- Arc body words: **174,344 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–210, index, chapter YAMLs, the current 194–210 ledger, and selected sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 211, “A Word for the Quiet,” while preserving the separate, later earned Clarisse title choice.
 

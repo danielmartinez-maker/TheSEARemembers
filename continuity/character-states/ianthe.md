@@ -91,3 +91,15 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 - Ianthe remains in the Big House guest room. The cot, room plan, window latch, authority, and broader trust remain unresolved.
 
 **Carry-forward after Ch209.** Ianthe still wants Zeus's attention and a place with her sisters; neither desire gives her authority. Her wind notes remain unverified and her private message stays unsent.
+
+### Chapter 210 · Help is not authority
+
+- **Knowledge provenance:** FIRSTHAND in Annabeth-limited POV for camp scenes; no inference about Ianthe's private thoughts.
+- **Source:** [Chapter 210](../../chapters/210-the-open-window.md); [194–210 chapter ledger](../chapter-ledgers/194-210.md).
+- Ianthe initially reaches to redirect a younger camper's bread choice, then withdraws after the camper says what they want. She does not apologize for the reach. Her later small choice to pass the basket toward the camper does not erase the earlier overstep.
+- Ianthe challenges Annabeth's inventory structure and accurately says that Annabeth's lists can feel like a way not to answer. She also notices Annabeth can concede so quickly that a continuing disagreement feels unwelcome.
+- Annabeth tells Ianthe she wants her at camp, with no room or bed promise. Ianthe helps review the storage list, places marked camp-stock linens on the shelf, and asks to help again. No placement, authority, or new responsibility beyond that request is granted.
+- Ianthe asks Thalia to walk with her on the condition that Thalia not direct every step. Thalia agrees to try. Ianthe's private note to Zeus stays unsent and is not shared with Annabeth.
+
+**Carry-forward after Ch210.** Ianthe remains in the Big House guest room; the Cabin One bed plan and longer weather test remain open. Her wind notes are still unverified. She has made small adjustments without resolving her bossiness or need for Zeus's attention.
+

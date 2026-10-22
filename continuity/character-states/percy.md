@@ -405,3 +405,13 @@
 - Percy and Annabeth share ordinary affectionate gestures and remain secure. No erased-future memory or private family information is disclosed to him in this chapter.
 
 **Carry-forward after Ch209.** Percy remains available without directing Annabeth's response to Zeus. Their relationship and memory boundaries remain unchanged.
+
+### Chapter 210 · Available on Annabeth's terms
+
+- **Knowledge provenance:** FIRSTHAND for his own exchanges with Annabeth; he does not witness the private Annabeth–Thalia conversation.
+- **Source:** [Chapter 210](../../chapters/210-the-open-window.md); [194–210 chapter ledger](../chapter-ledgers/194-210.md).
+- Percy offers to hold the lamp and later asks whether Annabeth wants company. She asks him to wait at the doorway; he honors that boundary without taking the repair over.
+- Percy and Annabeth share familiar affection and remain secure. No erased-future memory, private Zeus note, or new family history is disclosed to him.
+
+**Carry-forward after Ch210.** Percy continues to offer support without directing Annabeth's work or her relationship with Ianthe. Their relationship and memory boundaries remain unchanged.
+

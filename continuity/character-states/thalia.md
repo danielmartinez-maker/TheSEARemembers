@@ -362,3 +362,15 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - Her heel aches familiarly beneath the existing brace. No exam, activity decision, or clearance occurs. Rain exposes the Cabin One latch; she supports Annabeth's preliminary measurement without making a repair.
 
 **Carry-forward after Ch209.** Thalia has promised to avoid interpreting or monitoring Ianthe and will continue to ask before intervening for Annabeth. The room arrangement and heel plan remain unresolved.
+
+### Chapter 210 · Staying without taking the task
+
+- **Knowledge provenance:** FIRSTHAND, observed in Annabeth-limited POV.
+- **Source:** [Chapter 210](../../chapters/210-the-open-window.md); [194–210 chapter ledger](../chapter-ledgers/194-210.md).
+- Thalia holds the lamp, passes materials, and stays with Annabeth while she repairs the lower Cabin One window. She does not take the screwdriver or assume ownership of the task.
+- Thalia and Annabeth disagree about help and access, then name what each needs. Annabeth asks Thalia to stay nearby; Thalia does. Their closeness remains secure.
+- Thalia acknowledges that she sometimes watches Ianthe as if evaluating her and that she steps in for Annabeth too quickly. She intends to tell Ianthe she remains her sister even when annoyed, but has not yet said it.
+- Thalia walks with Ianthe after Ianthe asks, while allowing Ianthe to set the condition that Thalia not direct each step.
+
+**Carry-forward after Ch210.** No new heel symptom, examination, activity decision, or clearance occurs. Continue the existing care plan. Thalia has not yet told Ianthe the intended reassurance; her promise to keep Ianthe's private note from Annabeth remains in force.
+

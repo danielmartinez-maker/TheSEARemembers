@@ -421,3 +421,16 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - Annabeth does not hear Ianthe's private note to Zeus or Ianthe's request that Thalia attend a future visit.
 
 **Carry-forward after Ch209.** Annabeth still wants Ianthe in Cabin One but makes no bed or room promise. The window latch needs review; Ianthe's placement remains unresolved.
+
+### Chapter 210 · Choosing the task, leaving the room open
+
+- **Knowledge provenance:** FIRSTHAND in Annabeth-limited POV.
+- **Source:** [Chapter 210](../../chapters/210-the-open-window.md); [194–210 chapter ledger](../chapter-ledgers/194-210.md).
+- Annabeth chooses the Cabin One lower window repair, tightens the keeper in the existing hole, adds removable felt, and tests the sash. Thalia holds the lamp and materials without taking over. The next rain leaves the lower edge dry; Annabeth keeps a longer-storm check open.
+- Annabeth admits that saying “I’ll” can make her sound as if she has closed a decision. She asks Thalia for specific help and apologizes for her sharp tone. She and Thalia remain close.
+- Annabeth tells Ianthe she wants her at camp but makes no bed or room promise. She accepts Ianthe's observation that lists can sound like avoidance and asks her to help with the storage list.
+- Chiron permits the stool to stay temporarily; the bed and room plan remain open. Ianthe stays in the Big House guest room. Annabeth does not learn the content of Ianthe's private note to Zeus.
+- Percy offers support, waits at the threshold when asked, and remains in a secure relationship with Annabeth. No erased-future memory is disclosed.
+
+**Carry-forward after Ch210.** The lower window passed its first rain check; wait for a longer storm before closing the weatherproofing item. Annabeth wants Ianthe at camp but has made no room promise. Percy and Annabeth remain secure and their memory boundary is unchanged.
+
