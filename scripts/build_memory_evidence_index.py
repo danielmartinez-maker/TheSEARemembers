@@ -15,7 +15,7 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 CHARACTERS = ("Percy", "Annabeth", "Thalia", "Clarisse", "Silena", "Amphitrite",
               "Poseidon", "Triton", "Tyson", "Jason", "Rhys", "Sally", "Beryl",
-              "Chiron", "Grover", "Nico", "Luke", "Zeus", "Beckendorf", "Ella")
+              "Chiron", "Grover", "Nico", "Luke", "Zeus", "Beckendorf", "Ella", "Leandros", "Ianthe")
 EVENT = re.compile(
     r"\b(?:said|asked|told|remembered|promised|gave|handed|read|wrote|"
     r"kissed|hugged|held|met|recognized|admitted|confessed|learned|"
@@ -71,18 +71,20 @@ def main() -> None:
     ap.add_argument("--markdown", type=Path, required=True)
     args = ap.parse_args()
     data = build()
-    if [r["chapter"] for r in data] != list(range(1, 194)):
-        raise ValueError("Expected exactly consecutive chapters 001-193")
+    chapter_numbers = [row["chapter"] for row in data]
+    last_chapter = max([193, *chapter_numbers])
+    if chapter_numbers != list(range(1, last_chapter + 1)):
+        raise ValueError(f"Expected consecutive chapters 001-{last_chapter:03d}")
     args.json.parent.mkdir(parents=True, exist_ok=True)
     args.markdown.parent.mkdir(parents=True, exist_ok=True)
     args.json.write_text(json.dumps({
         "warning": "Cues only. No witnessed events, secrets, relationships or chronology are certified.",
         "chapters": data
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    out = ["# Chapters 001–193: candidate continuity evidence index",
+    out = [f"# Chapters 001–{last_chapter:03d}: candidate continuity evidence index",
            "",
            "**Machine-generated source locators, not a semantic continuity ledger.** "
-           "All 193 entries are UNVERIFIED pending scene reading. "
+           f"All {len(data)} entries are UNVERIFIED pending scene reading. "
            "A named character in a line may be absent or discussed by someone else.",
            "",
            "For actual, confirmed witnessed events, relationship stages and separate "
