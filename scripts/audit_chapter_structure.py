@@ -27,7 +27,9 @@ def audit(root: Path) -> dict:
             by_number[int(match.group(1))].append(path)
 
     indexed_numbers = [row["number"] for row in indexed]
-    expected = list(range(1, 194))
+    actual_numbers = [number for number, paths in by_number.items() for _ in paths]
+    highest_number = max([193, *indexed_numbers, *actual_numbers])
+    expected = list(range(1, highest_number + 1))
     indexed_paths = {row["path"] for row in indexed}
     actual_paths = {path.relative_to(root).as_posix() for path in actual if CHAPTER_FILE.match(path.name)}
     headings = []
@@ -68,7 +70,8 @@ def audit(root: Path) -> dict:
     return {
         "indexed_chapters": len(indexed),
         "actual_numbered_chapter_files": len(actual_paths),
-        "index_sequence_is_001_to_193": indexed_numbers == expected,
+        "expected_chapters": highest_number,
+        "index_sequence_is_contiguous": indexed_numbers == expected,
         "missing_index_numbers": sorted(set(expected) - set(indexed_numbers)),
         "duplicate_index_numbers": sorted(number for number in set(indexed_numbers) if indexed_numbers.count(number) > 1),
         "duplicate_file_numbers": {str(number): [path.name for path in paths] for number, paths in by_number.items() if len(paths) > 1},
@@ -92,7 +95,7 @@ def main() -> int:
         args.json.parent.mkdir(parents=True, exist_ok=True)
         args.json.write_text(rendered + "\n", encoding="utf-8")
     print(f"Index entries: {result['indexed_chapters']}; numbered files: {result['actual_numbered_chapter_files']}")
-    print(f"Ordered 001–193: {result['index_sequence_is_001_to_193']}")
+    print(f"Ordered 001–{result['expected_chapters']:03d}: {result['index_sequence_is_contiguous']}")
     for key in (
         "missing_index_numbers", "duplicate_index_numbers", "duplicate_file_numbers",
         "unindexed_chapter_files", "indexed_paths_missing_on_disk", "heading_mismatches",
@@ -102,9 +105,9 @@ def main() -> int:
         if value:
             print(f"{key}: {json.dumps(value, ensure_ascii=False)}")
     return 0 if (
-        result["indexed_chapters"] == 193
-        and result["actual_numbered_chapter_files"] == 193
-        and result["index_sequence_is_001_to_193"]
+        result["indexed_chapters"] == result["expected_chapters"]
+        and result["actual_numbered_chapter_files"] == result["expected_chapters"]
+        and result["index_sequence_is_contiguous"]
         and not any(result[key] for key in (
             "missing_index_numbers", "duplicate_index_numbers", "duplicate_file_numbers",
             "unindexed_chapter_files", "indexed_paths_missing_on_disk", "heading_mismatches",
