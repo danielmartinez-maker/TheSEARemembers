@@ -1,10 +1,20 @@
 # Prose and dialogue acceptance standard
 
-**Applies to:** Every revised narrative chapter in the 193-chapter 10k expansion project.
+**Applies to:** Every narrative chapter in the 213-chapter manuscript and subsequent chapters. The October 22, 2026 author directive supersedes older stylistic experiments; see [the full overhaul tracker](MANUSCRIPT-WIDE-PROSE-OVERHAUL-2026-10-22.md).
 
 ## Primary rule
 
 **Length is not acceptance.** A chapter passes only when its scenes develop consequentially, its prose reads naturally, and each speaker sounds like a specific person rather than participating in an exchange of interchangeable one-liners.
+
+## Current author-directed prose rule (October 22, 2026)
+
+**Aim for substantive narrative paragraphs of 70 words or more where natural**, with sustained third-person-limited thought, action and feeling, but preserve varied cadence. Do **not** force every narrative paragraph or dialogue utterance to 70 words, pad with redundant description, combine speakers into a paragraph, or falsely classify an automated reflow as a prose edit. The objective is richer writing, not a metric at the expense of readability.
+
+**Remove systematic staccato dialogue and corporate-therapy diction.** Characters may say "I know" or "Okay" when earned, but a page of permission requests, one-line rebuttals, precision disputes and perfect emotional self-analysis is a failure. Let them speak indirectly, speak at length when warranted, joke badly, be hurtful, evade a question, interrupt, refuse to forgive, and fail to understand one another. Nobody should function as an all-purpose counselor.
+
+**Emotion is necessary, not optional.** Every important scene needs something privately felt, desired or feared by its viewpoint character and a concrete reaction with consequences. Family love must coexist with grief, possessiveness, embarrassment, rivalry and anger when the history warrants it. Do not turn all family conflict into a lesson, or use a checklist of touch, food and weather as a substitute for relationships.
+
+**Approval requires two distinct literary passes** in addition to mechanical QA. A targeted rewritten scene remains "partial" until its whole chapter has passed both; applied rules alone never certify a manuscript.
 
 ## Dialogue
 
