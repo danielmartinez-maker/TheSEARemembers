@@ -35,7 +35,7 @@ No automated tests are planned for these editorial changes. Use source compariso
 ### Task 1: Audit Percy’s existing address to Amphitrite
 
 **Files:**
-- Read: Numbered chapter files 001 through 193 on the pinned PR #103 branch head
+- Read: Numbered chapter files 001 through 193 on the PR #103 branch head
 - Read: `FIC_CONTEXT.md`
 
 **Interfaces:**
@@ -43,9 +43,9 @@ No automated tests are planned for these editorial changes. Use source compariso
 
 - [x] Search the current GitHub chapter files for Percy’s spoken “Mother” uses and other direct-address variants; do not use the deprecated local copy.
 - [x] Read each candidate in its scene context and record whether it is Percy’s dialogue, another speaker’s dialogue, or narration.
-- [x] Check the result against the already-confirmed Chapter 99 address and Chapter 132 family reference before editing.
+- [x] Check the result against the already-confirmed Chapter 14 spoken “Mom” precedent, Chapter 99 address, and Chapter 132 family reference before editing.
 
-**Audit result at PR branch commit `abe0988`:** The indexed 193-chapter sweep confirmed Percy’s informal spoken references in Ch099 line 167, Ch127 line 7, and Ch132 line 233. Ch014’s letter and Ch132 line 1152 remain formal writing; Ch030’s “Mother” is narration about Sally. Other candidate uses belong to other speakers or descriptive references. No global replacement was proposed.
+**Audit result:** The indexed 193-chapter sweep found Percy already addressing Amphitrite as “Mom” in Ch014 (lines 75 and 101), establishing that bond before the later scenes. His Ch014 letter (line 31) and Ch132 shell message (line 1152) retain formal “Mother.” The only confirmed informal “Mother” references selected for change were Percy’s Ch099 line 167, Ch127 line 7, and Ch132 line 233; Ch030’s “Mother” is narration about Sally, and the remaining candidates belong to other speakers or descriptive references. No global replacement was proposed.
 
 **Check:** Every wording edit has a source locator and speaker confirmation; no global replacement is proposed.
 
@@ -61,7 +61,7 @@ No automated tests are planned for these editorial changes. Use source compariso
 - Consumes: Task 1’s confirmed address candidates.
 - Produces: Percy uses “Mom” in the confirmed dialogue, with surrounding scene facts and other speakers’ words preserved.
 
-- [x] Change Percy’s Chapter 99 spoken address from “Mother” to “Mom.”
+- [x] Change Percy’s Chapter 99 informal spoken address from “Mother” to “Mom,” continuing the address already established in Ch014.
 - [x] Change Chapter 132’s informal family reference from “Mother” to “Mom.”
 - [x] Apply the same targeted change only to any additional Percy dialogue confirmed by Task 1; Ch127’s informal reference now uses “Mom and Dad.” Formal writing and other speakers remain unchanged.
 
