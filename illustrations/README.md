@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 105 of 213 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 110 of 213 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -636,3 +636,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/105-the-place-at-the-table.md)
 
 ![Clarisse reveals hand-carved family figures to Percy, Silena and Annabeth by lantern light at the beach.](105-the-place-at-the-table.jpg)
+
+## 106. The Visit That Wasn't a Test
+
+[Source chapter](../chapters/106-the-visit-that-wasn-t-a-test.md)
+
+![Poseidon joins Percy, Clarisse and Silena for a lakeside lunch, listening as they play the shell-and-current game.](106-the-visit-that-wasnt-a-test.jpg)
+
+## 107. The Words We Choose
+
+[Source chapter](../chapters/107-the-words-we-choose.md)
+
+![Percy and Annabeth share a gentle kiss beside the unfinished shrine after telling each other what their love means now.](107-the-words-we-choose.jpg)
+
+## 108. Three Things We Keep
+
+[Source chapter](../chapters/108-three-things-we-keep.md)
+
+![Percy, Clarisse, Silena, Thalia and Annabeth practice safe water movement together at Tempest Hall.](108-three-things-we-keep.jpg)
+
+## 109. No Borrowed Promises
+
+[Source chapter](../chapters/109-no-borrowed-promises.md)
+
+![Percy and Annabeth sort memory cards beside the old photograph, making room for the future they choose now.](109-no-borrowed-promises.jpg)
+
+## 110. The Promise We Make Now
+
+[Source chapter](../chapters/110-the-promise-we-make-now.md)
+
+![Annabeth invites a loose circle to make or pass on promises while Ella keeps her notebook closed.](110-the-promise-we-make-now.jpg)
