@@ -1,6 +1,6 @@
 # Amphitrite's Chosen-Mother Arc
 
-**Status:** Author-approved design; implementation underway on PR #103.  
+**Status:** Author-approved design; scoped continuity and dialogue updates complete on PR #103. The sisters’ future title milestones remain unwritten.  
 **Design approval:** The author approved the in-chat direction on 2026-10-21.  
 **Source baseline:** `danielmartinez-maker/TheSEARemembers`, PR #103, head `3906567d3595d27fc318e8ad4d6cb99e8e581c6b`.
 
