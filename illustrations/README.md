@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 45 of 199 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 50 of 200 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -273,3 +273,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/045-grover-s-crush.md)
 
 ![Grover plays his pipes for Juniper among the strawberry bushes while their friends give them room.](045-grover-s-crush.jpg)
+
+## 046. Stargazing
+
+[Source chapter](../chapters/046-stargazing.md)
+
+![Percy points out an Atlantean star pattern to Annabeth on the hill above the Sound.](046-stargazing.jpg)
+
+## 047. Snow That Asks Permission
+
+[Source chapter](../chapters/047-snow-that-asks-permission.md)
+
+![Percy watches impossible snow hang over the strawberry fields from the warm Cabin Three porch.](047-snow-that-asks-permission.jpg)
+
+## 048. Accused
+
+[Source chapter](../chapters/048-accused.md)
+
+![Zeus confronts Percy at the Big House as Clarisse and Silena stand with their brother.](048-accused.jpg)
+
+## 049. The Quest
+
+[Source chapter](../chapters/049-the-quest.md)
+
+![Rachel speaks the prophecy in the attic as Percy, Annabeth, Grover, Thalia, Clarisse, and Silena listen.](049-the-quest.jpg)
+
+## 050. Half-Blood Hill
+
+[Source chapter](../chapters/050-half-blood-hill.md)
+
+![Thalia leans against Peleus at the hilltop while Percy, Annabeth, Grover, and Chiron wait nearby.](050-half-blood-hill.jpg)
