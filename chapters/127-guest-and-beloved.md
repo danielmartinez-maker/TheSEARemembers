@@ -4,7 +4,7 @@ Several days after their return from the palace weekend, the second invitation f
 
 "Is it a summons?" Annabeth had a camp map pinned under a bowl of apples. The map curled despite the weight; so far the map was winning. Morning sun slanted across the pavilion table, warming the wood beneath their elbows and gilding the edges of the paper. The air smelled of cut grass and bacon from the braziers, and somewhere behind them a Naiad laughed, bright as water striking stone.
 
-"It's from Triton." Percy turned the shell over, tracing the thin blue light circling its rim. "Mother and Father would like to see us again. No court, no formal dinner, no lecture on which spoon goes with pearlfruit."
+"It's from Triton." Percy turned the shell over, tracing the thin blue light circling its rim. "Mom and Dad would like to see us again. No court, no formal dinner, no lecture on which spoon goes with pearlfruit."
 
 "That last part sounds like a promise he's made before."
 
