@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 60 of 201 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 65 of 202 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -363,3 +363,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/060-summer-s-end.md)
 
 ![Percy, Annabeth, and his sisters share blankets at the camp's final summer campfire.](060-summer-s-end.jpg)
+
+## 061. Fall
+
+[Source chapter](../chapters/061-fall.md)
+
+![Percy and Annabeth watch the last camp bus leave beneath the pine on a quiet autumn evening.](061-fall.jpg)
+
+## 062. Snow Day
+
+[Source chapter](../chapters/062-snow-day.md)
+
+![Tyson brings Percy a scarf while Silena wraps Clarisse in another one as snow falls over Cabin Three.](062-snow-day.jpg)
+
+## 063. Spring Cleaning
+
+[Source chapter](../chapters/063-spring-cleaning.md)
+
+![Percy pauses over an old snow globe as Tyson arrives with donuts and tools amid the cabin cleanup.](063-spring-cleaning.jpg)
+
+## 064. The Dance (Spring)
+
+[Source chapter](../chapters/064-the-dance-spring.md)
+
+![Percy and Annabeth dance while Clarisse finds her own confidence on the spring dance floor.](064-the-dance-spring.jpg)
+
+## 065. Triton's Lesson
+
+[Source chapter](../chapters/065-triton-s-lesson.md)
+
+![Percy, Clarisse, and Silena coordinate a safe disarm of Triton as Annabeth and Thalia supervise.](065-triton-s-lesson.jpg)
