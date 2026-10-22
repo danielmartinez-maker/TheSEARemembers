@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 40 of 198 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 45 of 199 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -243,3 +243,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/040-winter.md)
 
 ![Silena reads beside the fire while Clarisse listens and knits a lumpy red scarf as snow falls outside.](040-winter.jpg)
+
+## 041. Ordinary
+
+[Source chapter](../chapters/041-ordinary.md)
+
+![Percy sits beside Clarisse in the grass after her dawn training as sunrise rises beyond the sea.](041-ordinary.jpg)
+
+## 042. Slow Dance
+
+[Source chapter](../chapters/042-slow-dance.md)
+
+![Percy and Annabeth share their first slow dance at the campfire as their friends cheer from the steps.](042-slow-dance.jpg)
+
+## 043. The Unsigned Note
+
+[Source chapter](../chapters/043-the-unsigned-note.md)
+
+![Percy smiles at Annabeth's unsigned pencil doodle behind the shield rack during practice.](043-the-unsigned-note.jpg)
+
+## 044. The Boy With Graph Paper
+
+[Source chapter](../chapters/044-the-boy-with-graph-paper.md)
+
+![Theo sets the roof on his temple model while Annabeth consults the plans and Percy steadies it.](044-the-boy-with-graph-paper.jpg)
+
+## 045. Grover's Crush
+
+[Source chapter](../chapters/045-grover-s-crush.md)
+
+![Grover plays his pipes for Juniper among the strawberry bushes while their friends give them room.](045-grover-s-crush.jpg)
