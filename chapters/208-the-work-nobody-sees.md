@@ -1550,11 +1550,7 @@ He set the needle down. “I’m trying to do the thing without asking for credi
 
 “I am.”
 
-“Good.”
-
-The word came out before Silena could decide whether it would sound like praise. Leandros looked up.
-
-She corrected herself. “I mean, that is the reason to finish it.”
+She looked at the new splice. Beckendorf still had to check it before it could safely carry the cover again. “The loop still has to hold the cover,” she said.
 
 His expression shifted, almost a smile, then stopped. “I know.”
 
