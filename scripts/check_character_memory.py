@@ -389,12 +389,18 @@ CHECKS = {
                     "the hall was not the palace, and an association was not a scene he remembered."),
         "absent": (),
     },
+    "chapters/194-a-place-at-the-table.md": {
+        "present": ("I'm sorry I put you on the spot at the shooting line.",
+                    "That's private.", "The sign of Poseidon.",
+                    "I don't take orders from girls."),
+        "absent": ("Because of the time thing?", "I remember the future"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(
     r"nice to meet you|pleasure to meet you|you've never met (?:him|her|them)"
-    r"|you’ve never met (?:him|her|them)"
-    r"|you must be (?:annabeth|clarisse|silena|percy|thalia|triton|amphitrite)",
+    r"|you’ve never met (?:him|her|them)|this is (?:leandros|ianthe)"
+    r"|you must be (?:annabeth|clarisse|silena|percy|thalia|triton|amphitrite|leandros|ianthe)",
     re.IGNORECASE,
 )
 
