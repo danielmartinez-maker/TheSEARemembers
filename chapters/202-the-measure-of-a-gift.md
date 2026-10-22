@@ -1860,7 +1860,7 @@ She wrote *dark center, pale edge* on the strip, then paused. The words were sim
 
 The unfinished picture stayed where it was. The new strip belonged to no one yet. Silena closed her palette, washed the brush, and put the water jar away before the pigment settled at the bottom.
 
-Clarisse came in with a folded blanket over her arm. “The window pin held.”
+Clarisse came in with a folded blanket over her arm. “The temporary cord held.”
 
 “Good.”
 
