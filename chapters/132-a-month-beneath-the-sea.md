@@ -230,7 +230,7 @@ Turning toward him, Silena said, "Our invitation doesn't obligate you to give At
 
 "Then say exactly that. Don't disguise it as training if what you hunger for is a month with us."
 
-"I do want the training," Percy said. "And ordinary time with you, Dad, and Mother. It arrives tangled together."
+"I do want the training," Percy said. "And ordinary time with you, Dad, and Mom. It arrives tangled together."
 
 "Then let it stay tangled," Silena said. "No need to sort it into tidy boxes before you can comprehend it."
 
