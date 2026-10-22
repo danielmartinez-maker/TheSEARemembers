@@ -28,8 +28,8 @@ Files: create the spec and this plan; update `FIC_CONTEXT.md` and the relevant c
 
 - [x] Verify live PR head, branch, source Chapter 193 ending, and handoff.
 - [x] Check the new sibling names against the repo’s indexed text search; no hits existed at the design baseline.
-- [ ] Add Leandros and Ianthe to the canon bible with their parentage, age, maternal households, arrival paths, and limits.
-- [ ] Revise the superseded “do not invent additional Poseidon children without approval” sentence to record this author-approved exception while retaining the prohibition on further unapproved additions.
+- [x] Add Leandros and Ianthe to the canon bible with their parentage, approved ages, separate maternal households, and limits; arrival events remain chapter-grounded.
+- [x] Revise the superseded Poseidon-child rule to record Leandros as the one author-approved exception while retaining the prohibition on further unapproved additions.
 - [x] Write the family-first design with 25-chapter map and acceptance gates.
 - [x] Write this execution plan.
 
@@ -39,15 +39,15 @@ Check: canon files distinguish witnessed facts from forward outline; no story ev
 
 Files: create `chapters/194-a-place-at-the-table.md`, its structured continuity record, and append the chapter to `CHAPTER_INDEX.md`.
 
-- [ ] Begin Monday after the Chapter 193 close, with no calendar date invented.
-- [ ] Show Percy’s private apology to Thalia; she may accept the apology without granting immediate forgiveness.
-- [ ] Carry Thalia’s heel instructions, Tuesday choice, and all repair items accurately.
-- [ ] Introduce Leandros with a plausible escort/claiming, age 16, the stated mortal household, one bounded sea skill, and visible status/sexism flaws.
-- [ ] Let established characters set boundaries in their own voices; do not turn Percy into a universal mediator.
-- [ ] Include a warm centerpiece and active sibling beat; preserve Percabeth’s established bond.
-- [ ] Measure body words (minimum 10,000), verify POV, and update who witnessed/learned each fact.
+- [x] Begin Monday after the Chapter 193 close, with no calendar date invented.
+- [x] Show Percy’s private apology to Thalia; she appreciates the apology without granting forgiveness.
+- [x] Carry Thalia’s heel instructions, Tuesday choice, and all repair items accurately.
+- [x] Introduce Leandros with a satyr escort, age 16, a caring mortal mother, Poseidon claim, bounded current-reading skill, and visible status/sexism flaws.
+- [x] Let established characters set boundaries in their own voices; Percy does not mediate every conflict.
+- [x] Include a warm meal and active sibling beat; preserve Percabeth’s established bond.
+- [x] Verify 10,889 body words via the live GitHub file; the chapter is Percy-limited and has a chapter YAML, ledger, and character handoffs.
 
-Check: read the full Ch193 ending next to Ch194’s opening; verify the new factual claims are scoped and the ending hands off a clear next pressure.
+Check: Chapter 193’s actual close was checked against Chapter 194’s opening; the new arrival and unresolved cabin authority hand off to Chapter 195.
 
 ### Task 3 — Draft the arrival and orientation sequence (Chapters 195–199)
 
@@ -114,8 +114,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete at plan creation: **0/25**.
-- Arc body words: **0 / 250,000**.
-- Canon and arc files: arc spec and this plan created; bible update pending.
-- Current next action: update `FIC_CONTEXT.md`, then draft Chapter 194.
+- Chapters complete: **1/25**.
+- Arc body words: **10,889 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapter 194, index, YAML, 194–198 ledger, and initial sibling profiles are on PR #103.
+- Current next action: draft Chapter 195, then update the first five-chapter handoff.
 
