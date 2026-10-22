@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 55 of 201 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 60 of 201 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -333,3 +333,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/055-underworld-gates.md)
 
 ![Charon receives coins at the Underworld desk as the questers face the elevator and Cerberus waits beyond.](055-underworld-gates.jpg)
+
+## 056. Hades
+
+[Source chapter](../chapters/056-hades.md)
+
+![Hades restores the Helm of Darkness on his throne while the questers stand before him.](056-hades.jpg)
+
+## 057. Ares
+
+[Source chapter](../chapters/057-ares.md)
+
+![Ares confronts Percy and his companions on Santa Monica beach beside the stolen bolt.](057-ares.jpg)
+
+## 058. Olympus
+
+[Source chapter](../chapters/058-olympus.md)
+
+![Zeus holds the returned bolt as Poseidon steadies Percy before the gathered gods.](058-olympus.jpg)
+
+## 059. Homecoming
+
+[Source chapter](../chapters/059-homecoming.md)
+
+![Clarisse and Silena carefully embrace their bandaged brother at the Camp Half-Blood boundary.](059-homecoming.jpg)
+
+## 060. Summer's End
+
+[Source chapter](../chapters/060-summer-s-end.md)
+
+![Percy, Annabeth, and his sisters share blankets at the camp's final summer campfire.](060-summer-s-end.jpg)
