@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 110 of 214 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 115 of 214 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -666,3 +666,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/110-the-promise-we-make-now.md)
 
 ![Annabeth invites a loose circle to make or pass on promises while Ella keeps her notebook closed.](110-the-promise-we-make-now.jpg)
+
+## 111. The Date Committee
+
+[Source chapter](../chapters/111-the-date-committee.md)
+
+![Percy and Annabeth share a quiet, low-key date in the empty amphitheater while she sketches its columns.](111-the-date-committee.jpg)
+
+## 112. Her Turn to Worry
+
+[Source chapter](../chapters/112-her-turn-to-worry.md)
+
+![Annabeth listens patiently as Percy untangles stray fishing line on the lakeside dock.](112-her-turn-to-worry.jpg)
+
+## 113. Little Brother
+
+[Source chapter](../chapters/113-little-brother.md)
+
+![Percy brings Clarisse soup in the infirmary, making her care feel ordinary and sibling-like.](113-little-brother.jpg)
+
+## 114. The Space Between
+
+[Source chapter](../chapters/114-the-space-between.md)
+
+![Annabeth and Thalia work together to redirect a dripping gutter on the Zeus cabin porch.](114-the-space-between.jpg)
+
+## 115. The Old Photograph
+
+[Source chapter](../chapters/115-the-old-photograph.md)
+
+![Annabeth, Thalia and Percy fit a simple cedar frame around an old photograph of the Grace siblings as children.](115-the-old-photograph.jpg)
