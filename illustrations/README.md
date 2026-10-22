@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 65 of 203 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 70 of 203 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -393,3 +393,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/065-triton-s-lesson.md)
 
 ![Percy, Clarisse, and Silena coordinate a safe disarm of Triton as Annabeth and Thalia supervise.](065-triton-s-lesson.jpg)
+
+## 066. Jason's Letter
+
+[Source chapter](../chapters/066-jason-s-letter.md)
+
+![Thalia holds Jason's letter close while Percy and Annabeth stay beside her on the Big House porch.](066-jason-s-letter.jpg)
+
+## 067. Fishing
+
+[Source chapter](../chapters/067-fishing.md)
+
+![Clarisse is splashed by a fish while Percy, Silena, and Annabeth share the moment by the dock.](067-fishing.jpg)
+
+## 068. The Storm (Small)
+
+[Source chapter](../chapters/068-the-storm-small.md)
+
+![Percy offers Annabeth his hand after lightning strikes the empty brazier as Thalia clears room.](068-the-storm-small.jpg)
+
+## 069. Silena's Song
+
+[Source chapter](../chapters/069-silena-s-song.md)
+
+![Silena sings a sea lullaby while Clarisse holds her hand beside the campfire.](069-silena-s-song.jpg)
+
+## 070. Clarisse's Poems
+
+[Source chapter](../chapters/070-clarisse-s-poems.md)
+
+![Annabeth hugs Clarisse after she shares a poem with a small chosen circle.](070-clarisse-s-poems.jpg)
