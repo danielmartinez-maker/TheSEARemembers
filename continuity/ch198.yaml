@@ -1,0 +1,94 @@
+chapter: 198
+title: "The Face of Thunder"
+source: "chapters/198-the-face-of-thunder.md"
+status: "10,051 body words; scoped arc implementation, continuity review recorded"
+relative_chronology:
+  - "Friday after Chapter 197's Thursday supper; exact date and year unknown"
+  - "Begins in Cabin One in the morning; Ianthe arrives from home by satyr escort"
+  - "Ends Friday evening after supper; Ianthe is staying in the Big House guest room tonight"
+pov: "Thalia Grace, third-person limited"
+locations:
+  - "Cabin One"
+  - "Big House"
+  - "Hill path between the Big House and Cabin One"
+people_knowledge_relationships:
+  thalia:
+    - "Meets Ianthe for the first time; recognizes her as a daughter of Zeus after Ianthe states their father is Zeus"
+    - "Keeps the Chapter 193 heel care plan in place; the heel remains painful under the existing splint, with no reassessment or recovery shown"
+    - "Sets limits when Ianthe tries to direct her sitting, sleeping space, and care"
+    - "Tells Ianthe she does not know her yet and cannot answer whether she wants her in Cabin One"
+    - "Nearly speaks for Annabeth during Ianthe's introduction, stops, and agrees to ask Annabeth whether help is wanted"
+  annabeth:
+    - "Is fourteen and corrects Ianthe's assumption that she is younger"
+    - "Chooses how to respond to Ianthe and declines an immediate bunk or bed change"
+    - "Wants to know Ianthe but is not ready to decide shared-room arrangements"
+    - "Remains Percy's established, affectionate partner"
+  ianthe:
+    - "Is fifteen, a daughter of Zeus and a separate mortal mother, and a paternal half-sister to Thalia, Annabeth, and Jason"
+    - "Arrives with an unnamed satyr after a squall at her home; reports no one was hurt, while the satyr says garden chairs struck an empty parked car"
+    - "Her living mother sent a note and asked her to call; her mother's name and private history remain unknown, and the call has not occurred"
+    - "Shows real but limited weather-reading; she notices a coming gust at the Big House, yet her first camp forecast is partly wrong because she does not know the hill's wind"
+    - "Assumes Cabin One routines require her management, judges a young camper's work before understanding the task, and gives instructions without explaining the reason"
+    - "Wants to stay in Cabin One; no bunk or long-term placement is settled, and she uses the Big House guest room for this night"
+    - "Has not met Leandros; no Zeus visit or memory disclosure occurs"
+  satyr:
+    - "Escorts Ianthe from home and reports the storm incident; his name is not established"
+  chiron:
+    - "Welcomes Ianthe, offers care for her scraped hands without forcing treatment, and arranges a Big House guest room for the first night"
+  percy:
+    - "Visits Cabin One in the morning with cinnamon rolls; remains warmly affectionate with Annabeth"
+source_anchored_events:
+  - id: C198_A
+    witnesses: ["Thalia", "Annabeth", "Percy", "Chiron", "Ianthe", "unnamed satyr"]
+    certainty: confirmed
+    event: "Ianthe arrives at Camp Half-Blood after a squall at her home. She states that Zeus is her father. The satyr reports that garden chairs were thrown into the street and hit an empty parked car; no one was hurt."
+    consequence: "Ianthe wants to be understood as having protected her home and remains defensive about the incident. Her mother is alive, separate from Beryl, and asks Ianthe to call."
+  - id: C198_B
+    witnesses: ["Thalia", "Annabeth", "Ianthe", "Chiron", "unnamed satyr", "young camper"]
+    certainty: confirmed
+    event: "Ianthe correctly notices an incoming gust and asks a camper to close a window without explaining why. Later, her first local forecast at Cabin One misses how wind moves around the hill; she marks both directions on a provisional chart."
+    consequence: "Her weather skill is useful but bounded, and her assumption that being right grants authority creates friction. No repair, cabin rule, or task assignment is authorized by the chart."
+  - id: C198_C
+    witnesses: ["Thalia", "Annabeth", "Ianthe", "Chiron"]
+    certainty: confirmed
+    event: "Ianthe visits Cabin One and assumes she can choose a bunk or direct the sisters' routines. Thalia and Annabeth set separate boundaries. Ianthe spends the night in the Big House guest room."
+    consequence: "Thalia does not decide whether Ianthe belongs; she says she does not know her yet. Annabeth chooses her own response, and the sisters agree that Thalia should ask before intervening. No trust, forgiveness, or permanent placement is established."
+  - id: C198_D
+    witnesses: ["Thalia", "Annabeth", "Percy"]
+    certainty: confirmed
+    event: "Percy and Annabeth share ordinary affectionate breakfast time and remain an established couple."
+    consequence: "No jealousy, relationship reset, or erased-future disclosure occurs."
+items_promises_injuries:
+  - item_or_event: "Thalia's left heel"
+    owner_or_people: ["Thalia"]
+    last_seen: "Still painful under the Chapter 193 splint and care instructions; no reassessment, clearance, or recovery occurs in Chapter 198."
+  - item_or_event: "Ianthe's mother's note and requested call"
+    owner_or_people: ["Ianthe", "Ianthe's unnamed mother"]
+    last_seen: "Ianthe keeps the note; she says she will call later, but no call is shown."
+  - item_or_event: "Cabin One bed and long-term placement"
+    owner_or_people: ["Ianthe", "Annabeth", "Thalia"]
+    last_seen: "Unresolved; Ianthe stays in the Big House guest room for Friday night."
+  - item_or_event: "Weather chart and camp map"
+    owner_or_people: ["Ianthe", "Annabeth", "Thalia"]
+    last_seen: "The weather chart is folded beside the provisional map; its local wind notes remain observations, not a camp rule."
+  - item_or_event: "Fence, awning bracket, Cabin One rail, frost recheck, Cabin One stool"
+    owner_or_people: ["Camp", "Annabeth"]
+    last_seen: "No status change is shown; carry forward the braced-but-unrepaired fence, bent bracket, open rail and frost recheck, and stool needing more cure."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; neither memory is disclosed."
+  - "Ianthe has not met Leandros through Chapter 198."
+  - "Ianthe's mortal mother is separate from Beryl and remains unnamed; no private history, address, or contact pattern is established."
+  - "Zeus does not appear in Chapter 198."
+  - "No maternal title or forgiveness milestone occurs."
+next_chapter_dependencies:
+  - "Continue on the day after Chapter 198's Friday evening; exact date and year remain unknown."
+  - "Ianthe wants to discuss the Cabin One bed; no bunk, room, or authority decision has been made."
+  - "Keep Thalia's heel under the Chapter 193 care plan and do not add reassessment or recovery before a scene shows it."
+  - "Thalia and Annabeth remain sisters; Annabeth makes her own choices, and Thalia agreed to ask before intervening."
+  - "Ianthe and Leandros have not met."
+  - "Carry forward the unresolved repair list, stool curing, and provisional shore map."
+  - "Ianthe's mother-call remains pending; preserve her identity and household as separate from Beryl."
+unresolved_canon_questions:
+  - "Ianthe's mother's name, history, location, and regular contact pattern remain unknown."
+  - "Ianthe's long-term Cabin One sleeping arrangement and household routines remain unsettled."
+  - "Leandros and Ianthe have not met."

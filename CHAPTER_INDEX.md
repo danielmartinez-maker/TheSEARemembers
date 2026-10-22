@@ -201,6 +201,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **195.** [The Rules of Cabin Three](chapters/195-the-rules-of-cabin-three.md)
 - **196.** [What a Map Leaves Out](chapters/196-what-a-map-leaves-out.md)
 - **197.** [The Room We Keep](chapters/197-the-room-we-keep.md)
+- **198.** [The Face of Thunder](chapters/198-the-face-of-thunder.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

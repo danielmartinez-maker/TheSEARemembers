@@ -1,8 +1,8 @@
 # Thalia: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 193; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 198, with scoped later updates for Chapters 194 and 198; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
-**Coverage audit (this continuation):** A literal-name locator sweep found thalia in 190 of 193 chapter files (001–101, 103–105, 107–112, 114–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+**Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found thalia in 190 files (001–101, 103–105, 107–112, 114–193); the sweep was not repeated for Chapters 194–198. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
 
 ### Chapter 001 · The Weight of Salt and Sky
@@ -290,3 +290,14 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - **Chapter 193:** Thalia’s left heel remains painful after three weeks and is newly examined/splinted. Chiron’s rest, ice/wrap/splint, modified left-footed shooting, and reassessment after one week are instructions, not a recovery. She chooses to visit Tuesday’s hall; swimming remains undecided.
 - **Chapter 194:** Percy privately apologizes for publicly pressing Thalia about her foot. Thalia appreciates his apology but is not ready to forgive him and gives no timeline. She asks him not to send Annabeth to relay concern or repeatedly ask whether she will swim. Her heel still hurts; no clearance is shown.
 - **Source:** [Chapter 193](../../chapters/193-the-heel.md); [Chapter 194](../../chapters/194-a-place-at-the-table.md).
+
+### Chapter 198 · The Face of Thunder
+
+- **Knowledge provenance:** FIRSTHAND, with the home-storm account separately identified as reported by the satyr and Ianthe.
+- **Source:** [Chapter 198](../../chapters/198-the-face-of-thunder.md); [194–198 chapter ledger](../chapter-ledgers/194-198.md).
+- Thalia meets Ianthe, fifteen, for the first time. Ianthe states that Zeus is her father. Thalia does not treat the new sibling as responsible for Zeus's history with her and Annabeth, but she does not promise instant closeness.
+- Ianthe tells her Thalia has had their father longer and then says Thalia has a different kind of less. Thalia refuses that comparison as knowledge of her life: Ianthe does not know what she has. Ianthe says Thalia is right, but Thalia cannot tell whether it is an apology or retreat; no repair milestone follows.
+- Ianthe assumes Thalia should sit and offers to choose her bed because of the heel. Thalia rejects being managed. Her heel remains painful under the existing splint and care plan; no examination, recovery, or clearance is shown in Chapter 198.
+- Thalia catches herself nearly answering for Annabeth. Annabeth states that Thalia should ask before intervening; Thalia agrees to ask whether help is wanted, including in front of Ianthe. Their sisterhood remains secure.
+- Ianthe wants to be in Cabin One but stays in the Big House guest room for the first night. Thalia says she does not know Ianthe yet and makes no promise about her future place. Ianthe has not met Leandros.
+

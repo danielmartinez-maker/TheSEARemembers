@@ -1,6 +1,6 @@
 # Leandros: source-limited continuity notes
 
-**Coverage:** Chapters 194–196 only; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
+**Coverage:** Chapters 194–198 by scoped source notes; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
 
 ## Author-approved identity
 
@@ -50,7 +50,7 @@
 
 ## Current handoff
 
-At the close of Chapter 197, Leandros has apologized for one specific overstep but still wants a family picture and has not earned broad trust. Silena's project remains hers and unfinished. He has repaired a canvas cover for the paddle rack. His status assumptions, impatience, and need for control persist. His mortal mother's identity remains unspecified; the marina monster remains unknown. He has not met Ianthe, Rhode, Benthesikyme, Triton, or Tyson through Chapter 197.
+At the close of Chapter 198, Leandros's Chapter 197 state continues: he has apologized for one specific overstep but still wants a family picture and has not earned broad trust. Silena's project remains hers and unfinished. He has repaired a canvas cover for the paddle rack. His status assumptions, impatience, and need for control persist. His mortal mother's identity remains unspecified; the marina monster remains unknown. Chapter 198 does not include him, and he has not met Ianthe.
 
 ## Sources
 

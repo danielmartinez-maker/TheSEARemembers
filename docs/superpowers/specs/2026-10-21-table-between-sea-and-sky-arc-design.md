@@ -3,6 +3,7 @@
 **Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
+**Implementation checkpoint (2026-10-22):** Chapters 194–198 are drafted on PR #103 at 51,876 body words across five installments. Chapter 198 is 10,051 body words; Chapter 199 is next. This is an in-progress checkpoint, not arc completion.
 
 ## Author-approved direction
 

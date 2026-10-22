@@ -70,7 +70,12 @@ Files: five numbered chapter sources and a five-chapter continuity ledger/handof
 - [x] Amphitrite takes interest in Silena’s watercolor process without claiming the painting or asking for a title.
 - [x] Leandros misreads the unfinished copy as a gift, speaks for Silena, and later gives a specific apology; no trust milestone follows.
 - [x] Verify 10,214 body words by the repository’s whitespace-token method; Silena-limited, five scenes, continuity ledger/YAML and character handoffs updated.
-- [ ] Ch198: Ianthe arrives through a separate plausible route; no Zeus appearance is required for recognition.
+- [x] Ch198: Ianthe arrives with a satyr after the home squall; Zeus does not appear and her parentage is established directly.
+- [x] Ianthe’s living, unnamed mortal mother remains distinct from Beryl; the mother’s note and requested call do not resolve her history.
+- [x] Show Ianthe’s real but limited wind-reading, controlling assumptions, and specific friction with Thalia and Annabeth.
+- [x] Preserve Annabeth’s autonomy, Thalia and Annabeth’s sister bond, and the established Percy/Annabeth relationship.
+- [x] Carry Thalia’s heel without reassessment or recovery; leave Cabin One bed and placement unresolved overnight.
+- [x] Verify 10,051 body words by the repository method; Thalia-limited, six scenes, continuity YAML and ledger/profile updates added.
 - [ ] Ch199: Cabin One negotiates space, authority, and privacy without erasing Grace sisterhood.
 
 Check: 10,000 words minimum each; introduce characters through actions and dialogue, not biography dumps; review all household logistics.
@@ -128,8 +133,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **4/25**.
-- Arc body words: **41,825 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–197, index, chapter YAML, 194–198 ledger, and updated sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 198, introducing Ianthe through her own arrival and carrying the Chapter 197 handoff.
+- Chapters complete: **5/25**.
+- Arc body words: **51,876 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–198, index, chapter YAML, the 194–198 ledger, and updated sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 199, negotiating Cabin One space, authority, and privacy while preserving the unresolved overnight placement.
 

@@ -1,8 +1,8 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 196; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 198; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
-**Coverage audit (this continuation):** A literal-name locator sweep found annabeth in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
+**Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found annabeth in 193 files (001–193); the sweep was not repeated for Chapters 194–198. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
 
 ### Chapter 001 · The Weight of Salt and Sky
@@ -324,4 +324,13 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - She is present when Silena returns from lunch but does not press her to explain. No memory secret is disclosed.
 
 
-**Current carry-forward at Ch197.** Annabeth remains fourteen in the late-summer/early-autumn chronology and Percy’s chosen partner. She and Percy remain secure while continuing the provisional shore map. Annabeth’s Cabin One stool still needs more curing; the map’s shoreline remains unverified. She does not assume responsibility for Silena’s boundary or Leandros’s family bonds, and her erased-future memory remains private.
+### Chapter 198 · The Face of Thunder
+
+- **Knowledge provenance:** FIRSTHAND.
+- **Source:** [Chapter 198](../../chapters/198-the-face-of-thunder.md); [194–198 chapter ledger](../chapter-ledgers/194-198.md).
+- Annabeth meets Ianthe for the first time. She corrects Ianthe's assumption that Annabeth is younger; she is fourteen. Annabeth refuses an immediate bed change and remains the person who decides how she responds to her new sister.
+- Thalia nearly speaks for Annabeth during Ianthe's arrival, stops, and later asks how Annabeth wants her to intervene. Annabeth asks Thalia to check with her first; she wants Thalia beside her, not ahead of her. Their established sister bond remains secure.
+- Annabeth wants to know Ianthe but is not ready to decide shared-room arrangements. She is open to meeting again and offers no trust or forgiveness milestone.
+- Percy and Annabeth share affectionate breakfast time and remain a secure, established couple. No jealousy or relationship reset occurs. Annabeth discloses no erased-future memory.
+
+**Current carry-forward at Ch198.** Annabeth remains fourteen and Percy's established partner. Her provisional shore map remains distinct from Ianthe's weather chart. The Cabin One bed and Ianthe's long-term placement remain unsettled; Ianthe stays in the Big House guest room tonight. The stool still needs more curing, and the map's shoreline remains unverified. Annabeth keeps her right to answer for herself and her erased-future memory remains private.

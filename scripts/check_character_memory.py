@@ -411,6 +411,11 @@ CHECKS = {
                     "I thought if she saw us in the picture, that would make the table less strange."),
         "absent": ("Because of the time thing?", "I remember the future"),
     },
+    "chapters/198-the-face-of-thunder.md": {
+        "present": ("Our father is Zeus.", "I’m fifteen.", "I’m fourteen.",
+                    "I don’t know you yet", "I’ll be in the guest room tonight"),
+        "absent": ("Beryl", "Because of the time thing?", "I remember the future"),
+    },
 }
 
 FIRST_MEETING_HINT = re.compile(
