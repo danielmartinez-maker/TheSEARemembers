@@ -1630,7 +1630,7 @@ She noticed. “You can say it.”
 
 “Not until you asked.”
 
-“Fine.” She turned a page in her book. “It still hurts. The splint helps. I’m going to see Chiron on Tuesday, and I’ll decide what I’m doing at the hall after that.”
+“Fine.” She turned a page in her book. “It still hurts. The splint helps. I’ll ask Chiron Tuesday what the hall visit can include. The one-week reassessment is still later.”
 
 “Okay.”
 
