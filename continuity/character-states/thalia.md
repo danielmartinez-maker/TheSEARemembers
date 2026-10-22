@@ -283,3 +283,10 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 **Carry-forward at Chapter 089:** Thalia is Annabeth's older biological sister and Jason's older biological sister; Percy, Clarisse, and Silena remain Poseidon's siblings, while Percy is Thalia's friend and Annabeth's partner. Thalia's altered-childhood memories stay firsthand for her; any account Percy or Annabeth gives her remains a report, and she has no erased-future autobiographical memories. Her Jason/Beryl weekend and first meeting away from the house are undecided; no promised correspondence frequency, patrol schedule, shrine follow-through, or future date is assumed. No age change, new lasting injury, or confirmed untreated injury resolution is established for Thalia in Chapters 084–089.
 
 **Specific unverified gaps:** Chapters 054's internal Lotus time for Thalia; the origin/audience of Thalia's “us” report about New Jersey in 076; exact May scout departure/return timing in 081–084; whether any Jason dispatch before 089 was received; Thalia's exact schedule/fulfillment for Zoe's proposed walk; final custody of her Chapter 038 wristband and Chapter 076 shrine bracelet; and whether the Beryl visit or a separate sibling meeting happens after 089. These remain unknown unless a later source explicitly resolves them.
+
+
+## Scoped later-source update: Chapters 193–194
+
+- **Chapter 193:** Thalia’s left heel remains painful after three weeks and is newly examined/splinted. Chiron’s rest, ice/wrap/splint, modified left-footed shooting, and reassessment after one week are instructions, not a recovery. She chooses to visit Tuesday’s hall; swimming remains undecided.
+- **Chapter 194:** Percy privately apologizes for publicly pressing Thalia about her foot. Thalia appreciates his apology but is not ready to forgive him and gives no timeline. She asks him not to send Annabeth to relay concern or repeatedly ask whether she will swim. Her heel still hurts; no clearance is shown.
+- **Source:** [Chapter 193](../../chapters/193-the-heel.md); [Chapter 194](../../chapters/194-a-place-at-the-table.md).
