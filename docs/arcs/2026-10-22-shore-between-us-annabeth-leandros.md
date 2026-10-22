@@ -4,7 +4,7 @@
 **Status:** New author-directed arc DESIGN, October 22, 2026. Not yet incorporated into numbered chapters.  
 **Source:** PR #103, starting from pinned commit `a502fe11c0c17a5929b19568f9fc7bdeb1667033`; this branch was created separately so it does not overwrite the family-first work or PR #104's prose revisions.  
 **Provisional placement:** Chapters 219–232, **after** the ongoing Chapters 194–218. Chapters through 216 existed when this brief was prepared; 217 and 218 must be read before any true continuation is drafted.  
-**Planned scope:** 14 full chapters, each at least 10,000 body words if commissioned and published. **Progress (October 22):** Chapter 219, “The Current Beneath,” has a complete provisional first draft at **11,643 body words** in [the draft folder](../../drafts/arcs/the-shore-between-us/219-the-current-beneath.md), with [continuity handoff](../../drafts/arcs/the-shore-between-us/ch219-handoff.md). It is not in the numbered canonical chapters directory because Chapters 217–218 have not yet been verified as complete. Chapters 220–232 are not drafted. The separate Chapter 223 first-kiss study is not canon.
+**Planned scope:** 14 full chapters, each at least 10,000 body words if commissioned and published. **Progress (October 22):** Chapter 219, “The Current Beneath,” has a complete provisional first draft at **11,643 body words** in [the draft folder](../../drafts/arcs/the-shore-between-us/219-the-current-beneath.md), with [continuity handoff](../../drafts/arcs/the-shore-between-us/ch219-handoff.md). It is not in the numbered canonical chapters directory because Chapters 217–218 have not yet been verified as complete. Chapters 220–232 are not drafted. The separate Chapter 223 first-kiss pavilion study is noncanonical and is **superseded on location** by the author's later lake-at-dusk first-kiss illustration.
 
 ## Author's explicit change to the existing story
 
@@ -38,7 +38,7 @@ Percy does not deserve deception and is not written as foolish for trusting Anna
 
 **First deliberate betrayal:** A small lie about where Annabeth spent an evening, initially to avoid a question she doesn't want to answer. She recognizes that the danger is already moral before any kiss occurs.
 
-**First kiss:** Voluntary and brief but emotionally uncontrollable, after an argument that strips away their usual defenses. Both understand that Percy exists. The scene ends in choice and shame, not in a claim that destiny made them do it.
+**First kiss:** **At Camp Half-Blood's freshwater lake at dusk**, matching the author's illustrated visual direction. Voluntary and emotionally overwhelming, after an argument that strips away their usual defenses. Both understand that Percy exists. The setting is private and natural: cold shore, trees, stones, fading light and lake sounds, not a stage or pavilion. Their choice brings both desire and shame; no destiny or divine compulsion excuses it.
 
 **Secret relationship:** Several chapters of recurring private encounters, misread signals, rivalry, tender gestures and reckless hope. Let the affair have real pleasures so it is not merely punishment, but also let it alter how Annabeth behaves with Percy and how Leandros behaves with his siblings.
 
@@ -60,7 +60,7 @@ Percy does not deserve deception and is not written as foolish for trusting Anna
 | 220 | A Way Back in the Dark | Cold rain strands their work longer than expected. An honest argument about being underestimated becomes a startling moment of recognition. |
 | 221 | Almost Nothing | Annabeth anticipates seeing Leandros, resents herself for it, and makes the first deliberate lie by omission to Percy. The lie matters more than she admits. |
 | 222 | The Last Word | Competence turns into flirtation; Leandros's pride resurfaces in a cutting remark. Annabeth confronts him fiercely; neither can forget the exchange. |
-| 223 | Salt on the Tongue | A private, emotionally charged clash ends in a spontaneous mutual kiss. They pull apart and choose secrecy knowingly. *The excerpt in this branch is a noncanonical scene probe for this beat.* |
+| 223 | Salt on the Tongue | At **dusk beside Camp Half-Blood's lake**, a private emotionally charged clash ends in a spontaneous mutual first kiss. They pull apart and choose secrecy knowingly. An earlier pavilion scene study is an alternate and is **superseded as the first-kiss location**. |
 | 224 | Lanterns Out | The relationship becomes reciprocal and clandestine. Warm, awkward hours together coexist with Annabeth's growing guilt at Percy’s kindness. |
 | 225 | When He Smiles | Leandros shows tenderness and pettiness in the same day. Annabeth recognizes a jealous impulse toward Percy that she finds ugly. |
 | 226 | What We Keep | A near-discovery by someone credible forces them to invent a shared explanation. Its details constrain future lies. |
