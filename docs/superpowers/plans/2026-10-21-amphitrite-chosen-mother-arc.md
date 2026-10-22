@@ -41,26 +41,26 @@ No automated tests are planned for these editorial changes. Use source compariso
 **Interfaces:**
 - Produces: Exact chapter and line candidates where Percy directly addresses Amphitrite or refers to her informally as “Mother,” with enough surrounding dialogue to confirm speaker and meaning.
 
-- [ ] Search the current GitHub chapter files for Percy’s spoken “Mother” uses and other direct-address variants; do not use the deprecated local copy.
-- [ ] Read each candidate in its scene context and record whether it is Percy’s dialogue, another speaker’s dialogue, or narration.
-- [ ] Check the result against the already-confirmed Chapter 99 address and Chapter 132 family reference before editing.
+- [x] Search the current GitHub chapter files for Percy’s spoken “Mother” uses and other direct-address variants; do not use the deprecated local copy.
+- [x] Read each candidate in its scene context and record whether it is Percy’s dialogue, another speaker’s dialogue, or narration.
+- [x] Check the result against the already-confirmed Chapter 99 address and Chapter 132 family reference before editing.
 
-**Check:** Every proposed wording edit has a source locator and speaker confirmation; no global replacement is proposed.
+**Audit result at PR branch commit `abe0988`:** The indexed 193-chapter sweep confirmed Percy’s informal spoken references in Ch099 line 167, Ch127 line 7, and Ch132 line 233. Ch014’s letter and Ch132 line 1152 remain formal writing; Ch030’s “Mother” is narration about Sally. Other candidate uses belong to other speakers or descriptive references. No global replacement was proposed.\n\n**Check:** Every wording edit has a source locator and speaker confirmation; no global replacement is proposed.
 
 ### Task 2: Update Percy’s dialogue
 
 **Files:**
 - Modify: `chapters/099-mothers.md`
-- Modify: `chapters/132-a-month-beneath-the-sea.md`
+- Modify: `chapters/127-guest-and-beloved.md`\n- Modify: `chapters/132-a-month-beneath-the-sea.md`
 - Modify: Any additional Chapter 001–193 file only if Task 1 confirms Percy’s own informal address
 
 **Interfaces:**
 - Consumes: Task 1’s confirmed address candidates.
 - Produces: Percy uses “Mom” in the confirmed dialogue, with surrounding scene facts and other speakers’ words preserved.
 
-- [ ] Change Percy’s Chapter 99 spoken address from “Mother” to “Mom.”
-- [ ] Change Chapter 132’s informal family reference from “Mother” to “Mom.”
-- [ ] Apply the same targeted change only to any additional Percy dialogue confirmed by Task 1; do not replace formal or descriptive uses by other characters.
+- [x] Change Percy’s Chapter 99 spoken address from “Mother” to “Mom.”
+- [x] Change Chapter 132’s informal family reference from “Mother” to “Mom.”
+- [x] Apply the same targeted change only to any additional Percy dialogue confirmed by Task 1; Ch127’s informal reference now uses “Mom and Dad.” Formal writing and other speakers remain unchanged.
 
 **Check:** Read each changed paragraph against its source version; confirm that only Percy’s chosen term changed and Sally’s grief remains intact.
 
@@ -76,11 +76,11 @@ No automated tests are planned for these editorial changes. Use source compariso
 - Consumes: The approved spec and Task 2’s confirmed prose changes.
 - Produces: Canon guidance plus profiles that separate source-confirmed relationships from planned future milestones.
 
-- [ ] Add the voluntary chosen-mother arc and title boundaries to the relevant family/memory guidance in `FIC_CONTEXT.md`.
-- [ ] Update Percy’s profile to record “Mom” as his chosen spoken address while retaining Sally as his mother and Amphitrite’s knowledge limit.
-- [ ] Add a clearly marked future-arc note to Silena’s profile: she may choose “Mom” first after sustained care that respects her individual interests and boundaries; do not mark it as an event.
-- [ ] Add a clearly marked future-arc note to Clarisse’s profile: she may choose “Mom” later after repeated care that respects her history and grief; do not mark it as an event.
-- [ ] Keep the sisters’ relationships with their own mothers and Clarisse’s grievance with Poseidon explicit.
+- [x] Add the voluntary chosen-mother arc and title boundaries to the relevant family/memory guidance in `FIC_CONTEXT.md`.
+- [x] Update Percy’s profile to record “Mom” as his chosen spoken address while retaining Sally as his mother and Amphitrite’s knowledge limit.
+- [x] Add a clearly marked future-arc note to Silena’s profile: she chooses “Mom” first after sustained care that respects her individual interests and boundaries; do not mark it as an event.
+- [x] Add a clearly marked future-arc note to Clarisse’s profile: she chooses “Mom” later after repeated care that respects her history and grief; do not mark it as an event.
+- [x] Keep the sisters’ relationships with their own mothers and Clarisse’s grievance with Poseidon explicit.
 
 **Check:** The new notes do not alter the witnessed timeline through Chapter 193 or imply that either sister has already used the title.
 
