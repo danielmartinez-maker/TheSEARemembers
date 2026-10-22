@@ -390,7 +390,7 @@ CHECKS = {
         "absent": (),
     },
     "chapters/194-a-place-at-the-table.md": {
-        "present": ("I'm sorry I put you on the spot at the shooting line.",
+        "present": ("I’m sorry I put you on the spot at the shooting line.",
                     "That's private.", "The sign of Poseidon.",
                     "I don't take orders from girls."),
         "absent": ("Because of the time thing?", "I remember the future"),
