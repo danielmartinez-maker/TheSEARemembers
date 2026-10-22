@@ -124,12 +124,12 @@ Files: Chapters 211–218, continuity handoffs, canon/index updates.
 - [x] Ch211: Silena’s private “Mom” choice follows sustained individual care.
 - [x] Verify 10,094 body words by the repository whitespace-token method; Silena-limited POV, Chapter 211 continuity YAML, current 194–211 ledger/handoff, index, arc progress, and scoped character-state updates added. Silena's title choice remains private and does not change Clarisse's separate relationship.
 - [x] Ch212: Leandros contributes a narrow, time-specific water reading, accepts bounded correction, and works with Clarisse without resolving their sibling conflict; Percy and Annabeth stay secure.
-- [ ] Ch213: Continue Leandros's cooperation and the Percy/Annabeth discussion of intervention.
+- [x] Ch213: Leandros and Ianthe compare different paternal attention without ranking their childhoods; Percy and Annabeth disagree about stepping in, make a bounded plan, and remain secure.
 - [ ] Ch214: properly spaced heel follow-up shows the actual healing status and Chiron’s guidance.
 - [ ] Ch215–216: Ianthe repairs a command mistake; Zeus’s second visit/aftermath does not make her responsible for him.
 - [ ] Ch217: Poseidon attention reopens existing hurt; Amphitrite supports Clarisse without speaking for her; Clarisse’s separate title choice is earned.
 - [ ] Ch218: shared meal closes with negotiated belonging, unresolved asymmetry, and no instant-perfect-family claim.
-- [x] Update character states, the 194–212 arc ledger, chapter index, and spec/plan progress to reflect Chapter 212's witnessed events.
+- [x] Update character states, the 194–213 arc ledger, chapter index, and spec/plan progress to reflect Chapters 212–213's witnessed events.
 
 Check: private milestones are in separate scenes, no title is awarded for one favor, and all sibling/couple memory boundaries remain intact.
 
@@ -147,8 +147,8 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **19/25**.
-- Arc body words: **194,448 / 250,000**.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–212, index, chapter YAMLs, the current 194–212 ledger, and selected sibling/relationship profiles are on PR #103.
-- Current next action: draft Chapter 213, “The Person in the Middle,” continuing Percy and Annabeth's grounded, secure relationship while keeping them out of the role of universal sibling mediators.
+- Chapters complete: **20/25**.
+- Arc body words: **205,077 / 250,000**.
+- Canon and arc files: spec, plan, bible additions, Chapters 194–213, index, chapter YAMLs, the current 194–213 ledger, and selected sibling/relationship profiles are on PR #103.
+- Current next action: draft Chapter 214, “The Heel’s Measure,” after a clearly established interval from Thalia's last on-page heel assessment; preserve her existing care plan and avoid a next-day reassessment.
 

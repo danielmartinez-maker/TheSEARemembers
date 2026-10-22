@@ -137,3 +137,15 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 
 **Carry-forward after Ch212.** Leandros's water skill remains real but narrow. He can contribute observations and revise them as conditions change; the dry route, access, and load still require other checks and permission. Clarisse has not granted him authority or forgiveness.
 
+
+### Chapter 213 · Attention is not a ranking
+
+- **Knowledge provenance:** REPORTED directly by Ianthe in a conversation witnessed in Percy-limited POV.
+- **Source:** [Chapter 213](../../chapters/213-the-person-in-the-middle.md); [194–213 chapter ledger](../chapter-ledgers/194-213.md).
+- Leandros first treats Ianthe's occasional attention from Zeus as evidence that she had been better cared for. She tells him that Zeus sometimes asked about her weather notes, an attention she valued, and that being praised by comparison with Thalia and Annabeth also hurt. He stops trying to rank their experiences but receives no automatic closeness or trust.
+- He repeats that Poseidon first marked him with a trident sign and says he wants to speak directly with Poseidon if he visits. He does not ask Percy to carry a message or promise.
+- He builds and basin-tests paper boats; one tested hull turns and wets at a seam, and a jointly folded hull floats once before becoming damp. The test does not validate his lake-reading skill.
+- His desire for Poseidon's attention and resentment about Percy's Atlantis home remain. His conflict with Clarisse remains unresolved; no authority, forgiveness, or broad trust follows.
+
+**Carry-forward after Ch213.** Leandros intends to speak for himself if Poseidon visits. His current notes remain separate from Ianthe's weather notes; the damp paper boats remain an indoor test only.
+

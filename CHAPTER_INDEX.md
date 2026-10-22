@@ -216,6 +216,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **210.** [The Open Window](chapters/210-the-open-window.md)
 - **211.** [A Word for the Quiet](chapters/211-a-word-for-the-quiet.md)
 - **212.** [A Better Route](chapters/212-a-better-route.md)
+- **213.** [The Person in the Middle](chapters/213-the-person-in-the-middle.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

@@ -103,3 +103,14 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 
 **Carry-forward after Ch210.** Ianthe remains in the Big House guest room; the Cabin One bed plan and longer weather test remain open. Her wind notes are still unverified. She has made small adjustments without resolving her bossiness or need for Zeus's attention.
 
+
+### Chapter 213 · Attention is not equivalence
+
+- **Knowledge provenance:** FIRSTHAND in conversation with Leandros, witnessed in Percy-limited POV.
+- **Source:** [Chapter 213](../../chapters/213-the-person-in-the-middle.md); [194–213 chapter ledger](../chapter-ledgers/194-213.md).
+- Ianthe tells Leandros that Zeus sometimes asked about her storm observations at home and that she valued being noticed. She also tells him that his later praise by comparing her with Thalia and Annabeth hurt. She does not present either fact as proof that her father was consistently present.
+- She refuses to rank her experience against Leandros's and keeps her private note to Zeus unsent and undisclosed. She does not reveal the note's contents to Percy or Leandros.
+- She remains bossy at points, and no room, authority, weather-note approval, forgiveness, or broad trust decision occurs.
+
+**Carry-forward after Ch213.** Ianthe's private note remains with her and known only to her and Thalia. Her Big House room and Cabin One bed plans stay unresolved; her wind notes remain unverified.
+

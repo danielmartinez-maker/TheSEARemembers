@@ -453,3 +453,14 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 
 **Carry-forward after Ch212.** The working map keeps water observations, tested carry paths, and unverified routes separate. Annabeth retains ownership and approval of the map.
 
+
+### Chapter 213 · A bounded offer
+
+- **Knowledge provenance:** FIRSTHAND in Percy-limited POV; Annabeth is present for the shared table conversation.
+- **Source:** [Chapter 213](../../chapters/213-the-person-in-the-middle.md); [194–213 chapter ledger](../chapter-ledgers/194-213.md).
+- Annabeth and Percy disagree about intervening in Leandros and Ianthe's argument. They agree to ask once before offering help and not carry messages or define the siblings' feelings for them. She remains a partner in the plan, not a family interpreter.
+- Annabeth hears Ianthe describe some of Zeus's attention and the later sibling comparison. Ianthe does not share her private note to Zeus; Annabeth does not learn its contents.
+- Percy and Annabeth share an ordinary, secure date around the basin test and remain established. No memory boundary changes.
+
+**Carry-forward after Ch213.** Annabeth and Percy can disagree without a relationship reset. She will offer Ianthe company on Ianthe's terms and will not ask for the private note.
+

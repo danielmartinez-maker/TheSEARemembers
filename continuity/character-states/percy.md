@@ -434,3 +434,15 @@
 
 **Carry-forward after Ch212.** Percy stays a brother in the scene without becoming the universal mediator. His relationship and memory boundaries remain unchanged.
 
+
+### Chapter 213 · Help is not a message
+
+- **Knowledge provenance:** FIRSTHAND, in Percy-limited POV.
+- **Source:** [Chapter 213](../../chapters/213-the-person-in-the-middle.md); [194–213 chapter ledger](../chapter-ledgers/194-213.md).
+- Percy hears Ianthe describe Zeus's intermittent attention to her weather observations, her appreciation of it, and the hurt caused when Zeus praised her by comparing her with Thalia and Annabeth. He does not learn the contents of Ianthe's private note.
+- Leandros tells Percy that Poseidon marked him with a trident sign and that he wants to speak directly with Poseidon if their father visits. Percy makes no promise and does not agree to carry a message.
+- Percy and Annabeth disagree about stepping into Leandros and Ianthe's sibling conflict. They agree to ask once what help is wanted, avoid carrying messages or assigning meaning, and intervene for a concrete safety need. Their established relationship remains secure.
+- Percy learns only what each sibling actually tells him. He does not disclose erased-future memories or his altered-childhood memory gap.
+
+**Carry-forward after Ch213.** Percy remains Leandros's brother without becoming the universal mediator. He and Annabeth remain secure; only they retain erased-future autobiographical memory.
+
