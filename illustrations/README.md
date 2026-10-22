@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 75 of 205 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 80 of 205 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -453,3 +453,34 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/075-zoe-s-story.md)
 
 ![Zoe speaks by the campfire while campers listen and a young child can quietly leave with a counselor.](075-zoe-s-story.jpg)
+
+
+## 076. The Promise (II)
+
+[Source chapter](../chapters/076-the-promise-ii.md)
+
+![Percy and Annabeth sit together beneath the old oak beside the shrine's bronze plaque and small offerings.](076-the-promise-ii.jpg)
+
+## 077. Beach Day (Atlantis Style)
+
+[Source chapter](../chapters/077-beach-day-atlantis-style.md)
+
+![Clarisse, Silena, and Annabeth wear bikinis as the family opens Amphitrite's conch baskets by Rainbow at the shore.](077-beach-day-atlantis-style.jpg)
+
+## 078. Nico's Birthday
+
+[Source chapter](../chapters/078-nico-s-birthday.md)
+
+![Bianca sits with Nico in his shadow-friendly fort beneath the starlit slatted roof.](078-nico-s-birthday.jpg)
+
+## 079. Elena's Tale
+
+[Source chapter](../chapters/079-elena-s-tale.md)
+
+![Elena tells her story in the campfire circle while Percy, Annabeth, and the campers listen.](079-elena-s-tale.jpg)
+
+## 080. The Second Dance
+
+[Source chapter](../chapters/080-the-second-dance.md)
+
+![Percy and Annabeth slow dance under jellyfish lanterns as Clarisse, Silena, and Tyson sway together nearby.](080-the-second-dance.jpg)
