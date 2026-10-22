@@ -411,3 +411,13 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 
 **Current carry-forward after Ch207.** Her relationship with Percy remains established and secure. She is not assigned to translate Percy and Leandros or to decide the Cabin One room plan. The Chapter 205 stool, cot, and latch states remain as recorded.
 
+### Chapter 209 · Direct answers, secure connection
+
+- **Knowledge provenance:** FIRSTHAND in Thalia-limited POV for the pavilion scene and observed Percabeth exchanges.
+- **Source:** [Chapter 209](../../chapters/209-a-fathers-new-face.md); [194–209 chapter ledger](../chapter-ledgers/194-209.md).
+- Annabeth chooses to meet Zeus, tells him not to use her as a contrast while praising Ianthe, and speaks for herself when he dismisses the cabin-room question. Thalia stays nearby without taking over; their bond remains secure through the disagreement.
+- She asks Percy to wait near the pavilion path rather than join the conversation. He follows that boundary; they share familiar affection and remain a secure couple. No erased-future memory is disclosed.
+- Rain exposes the Cabin One window latch and lower-frame leak. Annabeth makes a preliminary measurement for Chiron's review; no repair or room assignment occurs.
+- Annabeth does not hear Ianthe's private note to Zeus or Ianthe's request that Thalia attend a future visit.
+
+**Carry-forward after Ch209.** Annabeth still wants Ianthe in Cabin One but makes no bed or room promise. The window latch needs review; Ianthe's placement remains unresolved.

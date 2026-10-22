@@ -267,3 +267,10 @@
 - Chiron tells Silena that Amphitrite plans to remain through the following morning. No later visit date is set.
 - He permits Leandros to prepare brace stock only after Beckendorf confirms measurements. Chiron and Beckendorf check the fence ground; it still yields, so the board and fence remain in place.
 - Chiron does not witness Silena's private watercolor exchange with Amphitrite or Leandros's later splice work on the separate drying-rack loop. No injury or Thalia health status changes.
+
+### Chapter 209 · Invitation without pressure
+
+- **Source:** [Chapter 209](../../chapters/209-a-fathers-new-face.md); [194–209 chapter ledger](../chapter-ledgers/194-209.md).
+- Chiron passes Zeus's invitation to Thalia, Annabeth, and Ianthe and leaves each person free to accept, choose the location, and stop the conversation. He does not dictate what Zeus meant beyond the note.
+- Chiron remains near the pavilion during the visit. He has not reviewed Annabeth's preliminary Cabin One window measurement; no repair or room assignment is decided.
+- No injury is examined and Thalia receives no new activity guidance or clearance.

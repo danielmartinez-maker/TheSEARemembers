@@ -74,3 +74,9 @@ The available chapter files 001–193 were searched for Beckendorf and possible 
 - The centers of both coils remain damp, so they stay on their spacers.
 - He identifies a separate stretched loop on the drying-rack cover and keeps it from carrying weight. Leandros says Beckendorf approved a splice after the cover is supported on a bench. Beckendorf has not inspected or load-tested the new splice by the chapter close.
 - The ground still yields at the fence, so the temporary board is not reset. No worker receives authority by contributing useful work.
+
+### Chapter 209 · Wind notes remain pending
+
+- **Source:** [Chapter 209](../../chapters/209-a-fathers-new-face.md); [194–209 chapter ledger](../chapter-ledgers/194-209.md).
+- Ianthe asks to compare her wind observations with the flag line. Beckendorf defers while he checks the still-damp coils and keeps the rack cover out of service; no source comparison or approval occurs.
+- Ianthe records that comparison is pending and leaves the shared work list unchanged. The repaired storm canvas remains dry, the rack-loop splice is uninspected, and the drainage board stays in place while the ground yields.

@@ -397,3 +397,11 @@
 
 **Current carry-forward after Ch207.** Percy remains honest about the limits of his relationship with Leandros and does not speak for Clarisse or Silena. No memory boundary changes. The rope, canvas, and drainage work remain open.
 
+### Chapter 209 · Support on Annabeth's terms
+
+- **Knowledge provenance:** FIRSTHAND for the opening conversation and observed by Thalia; no access to the private Zeus conversation is established.
+- **Source:** [Chapter 209](../../chapters/209-a-fathers-new-face.md); [194–209 chapter ledger](../chapter-ledgers/194-209.md).
+- Percy asks whether Annabeth wants him near the Zeus visit. She chooses the boundary: wait by the path and stay out unless she asks. He follows it and does not press her for a report after the visit.
+- Percy and Annabeth share ordinary affectionate gestures and remain secure. No erased-future memory or private family information is disclosed to him in this chapter.
+
+**Carry-forward after Ch209.** Percy remains available without directing Annabeth's response to Zeus. Their relationship and memory boundaries remain unchanged.

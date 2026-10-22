@@ -202,3 +202,12 @@ When evidence is absent, write **UNKNOWN** and locate the scene; do not invent t
 - **Camp repairs:** Beckendorf's fiber check passes on the storm-damaged canvas seam, which stays stored dry pending use. The two coils remain damp at their centers on spacers. Leandros starts a splice on a separate drying-rack cover loop only after the cover is supported; its inspection and load test remain pending. The ground still yields, so the temporary board and fence stay in place.
 - **Percy / Annabeth / knowledge:** They remain secure. No erased-future memories are disclosed, and Silena does not hear Percy's private Chapter 207 conversation with Leandros. Amphitrite remains unaware of his memory predicament. Thalia is absent with no new health event.
 - **Ch208→Ch209:** Continue the open repair checks and the separate family responses. The next planned event is Zeus's visit; Ianthe is not responsible for his behavior.
+## Chapter 209 continuation
+
+- **Ch208→Ch209:** Continue after Amphitrite's departure, with the wet coils, uninspected rack-loop splice, dry canvas seam, and ground-dependent drainage work open. The Chapter One room/care states remain unresolved.
+- **Zeus / Thalia / Annabeth / Ianthe:** The sisters choose whether to accept Zeus's visit. He arrives in a new face, selectively praises Ianthe, and compares her favorably against Thalia and Annabeth. His volatility appears when challenged; no apology or return date follows. Ianthe tells him not to use her to assign the cabin arrangement.
+- **Ianthe / information:** Ianthe's wind notes are still unverified; Beckendorf defers comparison while the damp coils and rack work remain active. She does not change the work list. Her private note to Zeus stays with her after Thalia reads it by permission; Annabeth is not told.
+- **Thalia / Annabeth / Percy:** Thalia lets Annabeth answer Zeus directly and recognizes her own over-monitoring of Ianthe. Percy waits near the path as Annabeth requests; their relationship remains secure. No erased-future memory is disclosed.
+- **Cabin One / health:** Rain exposes the window latch and a small leak. Annabeth records a preliminary measurement for Chiron's review; no repair or bed assignment occurs. Thalia's heel stays under the existing care plan with no new exam or clearance.
+- **Ch209→Ch210:** Continue the Cabin One window/weatherproofing issue with Annabeth and Thalia choosing how to repair it. Ianthe remains in the Big House guest room and has not been assigned a task or granted cabin authority.
+

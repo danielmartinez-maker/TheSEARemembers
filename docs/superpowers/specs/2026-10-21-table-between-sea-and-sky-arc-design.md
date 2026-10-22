@@ -3,7 +3,7 @@
 **Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–208 are drafted on PR #103 at 153,833 body words across fifteen installments. Chapter 208, “The Work Nobody Sees,” is 10,025 body words. Chapter 209 is next. This is an in-progress checkpoint, not arc completion.
+**Implementation checkpoint (2026-10-22):** Chapters 194–209 are drafted on PR #103 at 163,834 body words across sixteen installments. Chapter 209, “A Father’s New Face,” is 10,001 body words. Chapter 210 is next. This is an in-progress checkpoint, not arc completion.
 
 ## Author-approved direction
 

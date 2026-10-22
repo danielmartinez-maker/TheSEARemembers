@@ -450,3 +450,15 @@ These scoped updates link the chapter-specific records completed or corrected in
 - Leandros repairs the storm-damaged canvas seam under Beckendorf's direction; the fiber check passes. He later begins an approved splice on a separate drying-rack cover loop while it is supported. Silena sees the work; it is not tested, publicly praised, or known to Clarisse by the chapter close.
 - The two coils remain damp, the three tags remain checked, and the soft ground keeps the drainage board and fence in place. No injury or Thalia health update occurs.
 - Percy and Annabeth remain secure. Silena does not learn the details of Percy's private conversation with Leandros; only Percy and Annabeth retain erased-future autobiographical memory.
+
+
+## October 22, 2026 source-anchored continuation · Chapter 209
+
+- **Source:** [Chapter 209](../chapters/209-a-fathers-new-face.md) and [current 194–209 ledger](chapter-ledgers/194-209.md).
+- Thalia witnesses Zeus's new physical guise and his selective praise of Ianthe; he compares her favorably with Thalia and Annabeth. The room and rafters tremble when challenged. Zeus gives no apology, gift, authority, or dated return promise.
+- Ianthe says Zeus sometimes asked about her storm observations at home and that she valued his attention. Thalia accepts her account without asking her to replace her own history. Thalia tells Ianthe she watched her too closely and promises to stop.
+- Ianthe asks Thalia to read a private note for Zeus, says not to tell Annabeth, and keeps the note without sending it. Annabeth does not learn its contents.
+- Ianthe asks Beckendorf to compare her wind notes to the flag line; he defers while active repair tasks remain. The notes stay unverified and off the work list.
+- Rain exposes the Cabin One latch and lower-frame leak. Annabeth records a preliminary measurement for Chiron's review; no repair or room assignment is made. Thalia's heel gets no new examination or clearance.
+- Percy waits near the pavilion path for Annabeth as she requested. They remain secure; only Percy and Annabeth retain erased-future autobiographical memory.
+

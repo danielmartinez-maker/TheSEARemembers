@@ -79,3 +79,15 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 
 **Current handoff after Ch207.** Ianthe's readings remain unverified until compared with the flag line. Her Cabin One placement and relationship with the Grace sisters remain unresolved; no trust or authority milestone is established.
 
+### Chapter 209 · Attention and authority stay separate
+
+- **Knowledge provenance:** FIRSTHAND in Thalia-limited POV for the camp visit; Ianthe's earlier home history is REPORTED BY IANTHE.
+- **Source:** [Chapter 209](../../chapters/209-a-fathers-new-face.md); [194–209 chapter ledger](../chapter-ledgers/194-209.md).
+- Ianthe accepts Zeus's invitation and says she values his praise. She reports that he sometimes asked about her storm observations at home and remembered the marks in her notebook. She tells him not to use her attention or notes to decide the Cabin One room arrangement.
+- Zeus praises her for listening and careful sourcing, then compares her favorably against Thalia and Annabeth. Ianthe objects to being used as a contrast but still wants him to return; he makes no apology or dated promise.
+- She writes a private note asking to speak about more than her weather notes and not be compared with her sisters. Thalia reads it by invitation; Ianthe keeps it in her notebook and does not send it. She asks Thalia not to tell Annabeth.
+- She asks Beckendorf when her wind readings can be compared with the flag line. The timing remains pending while the repair work is open. She does not alter the shared work list.
+- At dinner she reaches to move a younger camper's bowl after he tells her not to; she withdraws but does not apologize for that choice. She still treats a useful plan as permission to direct.
+- Ianthe remains in the Big House guest room. The cot, room plan, window latch, authority, and broader trust remain unresolved.
+
+**Carry-forward after Ch209.** Ianthe still wants Zeus's attention and a place with her sisters; neither desire gives her authority. Her wind notes remain unverified and her private message stays unsent.

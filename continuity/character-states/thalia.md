@@ -350,3 +350,15 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - In a private conversation, Thalia says Ianthe is her sister and that she wants to know her, while rejecting responsibility for deciding if Ianthe counts as family. Annabeth says she wants Ianthe in Cabin One but cannot promise a bed or immediate shared-room arrangement. Ianthe does not hear this conversation.
 - Thalia chooses not to attend Tuesday's evening hall. No new heel examination occurs; carry forward the Chapter 204 care plan and lack of strenuous-training clearance.
 **Carry-forward after Ch205.** Thalia's heel remains under the existing plan; no new recovery outcome is inferred. She has not committed to a timetable for closeness with Ianthe and has made no room-placement decision.
+
+### Chapter 209 · Listening without taking over
+
+- **Knowledge provenance:** FIRSTHAND, in Thalia-limited POV.
+- **Source:** [Chapter 209](../../chapters/209-a-fathers-new-face.md); [194–209 chapter ledger](../chapter-ledgers/194-209.md).
+- Thalia accepts Zeus's invitation and recognizes his new physical guise by voice and divine pressure. He praises Ianthe while comparing her favorably against Thalia and Annabeth; his volatility appears when they challenge the comparison. He offers no apology or future date.
+- Thalia lets Annabeth answer Zeus directly and does not step between them. Annabeth and Thalia remain close. Thalia acknowledges to Ianthe that she watched her too closely during the visit; she accepts Ianthe's report that it felt like monitoring and says she will stop.
+- Ianthe tells Thalia that Zeus sometimes paid attention to her storm observations at home. Thalia believes her account without treating it as a contradiction of her own history.
+- Thalia reads Ianthe's private note to Zeus by invitation and promises not to tell Annabeth. Ianthe's note and her request about a future visit remain private.
+- Her heel aches familiarly beneath the existing brace. No exam, activity decision, or clearance occurs. Rain exposes the Cabin One latch; she supports Annabeth's preliminary measurement without making a repair.
+
+**Carry-forward after Ch209.** Thalia has promised to avoid interpreting or monitoring Ianthe and will continue to ask before intervening for Annabeth. The room arrangement and heel plan remain unresolved.
