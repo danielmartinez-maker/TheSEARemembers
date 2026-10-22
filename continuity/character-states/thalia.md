@@ -374,3 +374,15 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 
 **Carry-forward after Ch210.** No new heel symptom, examination, activity decision, or clearance occurs. Continue the existing care plan. Thalia has not yet told Ianthe the intended reassurance; her promise to keep Ianthe's private note from Annabeth remains in force.
 
+### Chapter 214 · A measure, not a verdict
+
+- **Knowledge provenance:** FIRSTHAND, in Thalia-limited POV; later review reported directly to the family at supper.
+- **Source:** [Chapter 214](../../chapters/214-the-heels-measure.md); [194–214 chapter ledger](../chapter-ledgers/194-214.md).
+- More than a week after Chapter 204's formal check, Thalia chooses to ask Chiron for another examination. She reports shorter morning stiffness and less frequent downhill ache, with a lingering pull on fast turns; no pain at rest and no new fall or twist. Chiron sees swelling further reduced and persistent tenderness.
+- Thalia chooses Annabeth as a quiet companion at the first visit, answers for herself, and later goes alone to the scheduled weekly review.
+- She tests one arrow on dry, level ground; it lands low, and the heel stays quiet. The next morning a mild tug returns after the second arrow. She stops and returns to Chiron; there is no new swelling or sharp pain. She waits until tenderness settles, then tries one arrow and two arrows on later days without a tug.
+- At the week's review, the swelling has reduced further and focal tenderness is faint but present. Chiron permits up to three arrows on level ground every other day, with stopping if the tug returns. He does not clear full lessons, running, patrols, hauling, or steep routes; she keeps the splint for uneven paths and longer walks, with another review in two weeks and Will consultation only if progress stalls or worsens.
+- Ianthe initially wants Thalia's heel/route experience included on a ground-route map. Thalia refuses personal medical notes and says she wants to know Ianthe without being managed. Ianthe explains that she valued Zeus asking about her weather notes and worries that useful plans are how she earns a place; she removes Thalia's details and accepts no daily check-ins.
+- Thalia does not disclose Ianthe's private note to Zeus. Her promise to keep it private remains in force.
+
+**Carry-forward after Ch214.** Thalia is improving but still tender and not cleared for strenuous activity. Her next review is in two weeks. Ianthe remains in the Big House guest room, and Thalia's closeness with her is open-ended; she has stated a boundary, not granted instant trust.

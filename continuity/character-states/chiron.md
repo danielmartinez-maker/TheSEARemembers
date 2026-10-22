@@ -301,3 +301,13 @@
 
 **Carry-forward after Ch212.** The low cut remains closed while its bank is soft. No new injury or activity guidance is recorded.
 
+### Chapter 214 · A staged return
+
+- **Knowledge provenance:** FIRSTHAND, in Thalia-limited POV.
+- **Source:** [Chapter 214](../../chapters/214-the-heels-measure.md); [194–214 chapter ledger](../chapter-ledgers/194-214.md).
+- More than a week after the prior heel exam, Chiron receives Thalia's requested follow-up. He records reduced swelling, lingering tenderness, and the downhill pull without granting strenuous clearance.
+- He permits a single voluntary arrow on dry, level ground. When Thalia reports a tug after the second arrow the next morning, he checks for change, finds no swelling increase or sharp pain, and modifies the plan.
+- At the weekly review he permits up to three arrows on level ground every other day, stopping if the tug returns; no full lesson, running, patrols, hauling, or steep routes. The splint remains for uneven paths and longer walks; follow up in two weeks. Will Solace is a possible consultation only if improvement stalls or symptoms worsen.
+- He keeps the examination and activity notes in the medical book, not the general camp board. Thalia answers for herself, and Annabeth stays quiet as asked.
+
+**Carry-forward after Ch214.** Thalia's improvement is real but incomplete. The next review is in two weeks; no strenuous clearance is active.

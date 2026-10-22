@@ -446,3 +446,12 @@
 
 **Carry-forward after Ch213.** Percy remains Leandros's brother without becoming the universal mediator. He and Annabeth remain secure; only they retain erased-future autobiographical memory.
 
+### Chapter 214 · Ask once and listen
+
+- **Knowledge provenance:** REPORTED directly by Thalia in Thalia-limited POV.
+- **Source:** [Chapter 214](../../chapters/214-the-heels-measure.md); [194–214 chapter ledger](../chapter-ledgers/194-214.md).
+- Percy asks once whether Thalia wants to share the result of her first follow-up. She tells him one arrow stayed quiet and the downhill route still aches; he does not diagnose, monitor, or take over.
+- At supper, he hears Thalia report Chiron's later plan: up to three arrows on level ground every other day, no strenuous training, and a two-week review. He does not turn her recovery into evidence of his own concern or ask her to reassure him.
+- No new memory or parental information is disclosed. Percy and Annabeth remain secure.
+
+**Carry-forward after Ch214.** Percy knows only what Thalia chose to tell him; he is not assigned as medical or family intermediary.

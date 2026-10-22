@@ -464,3 +464,12 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 
 **Carry-forward after Ch213.** Annabeth and Percy can disagree without a relationship reset. She will offer Ianthe company on Ianthe's terms and will not ask for the private note.
 
+### Chapter 214 · Support by request
+
+- **Knowledge provenance:** FIRSTHAND for the first exam and first arrow in Thalia-limited POV; REPORTED by Thalia for the later weekly review.
+- **Source:** [Chapter 214](../../chapters/214-the-heels-measure.md); [194–214 chapter ledger](../chapter-ledgers/194-214.md).
+- Annabeth accompanies Thalia to Chiron's first follow-up at Thalia's request and stays quiet when asked. She witnesses the exam and one-arrow attempt; she is also present for the next-morning check after Thalia reports a tug, but does not translate symptoms or urge further testing.
+- Annabeth is not present at Thalia's later weekly review. She hears Thalia state the new limited archery plan at supper; she does not read the medical record.
+- She accepts Thalia's request not to check every step and remains close without making care into surveillance. No private note to Zeus is revealed to her; Percy and Annabeth remain secure.
+
+**Carry-forward after Ch214.** Annabeth knows the limited plan because Thalia shared it. She does not know the contents of Ianthe's private note or any unreported medical detail.

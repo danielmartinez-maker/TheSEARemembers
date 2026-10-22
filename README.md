@@ -2,7 +2,7 @@
 
 *Percy Jackson and the Olympians fanfiction · Time travel · Canon divergence · Percabeth*
 
-**Work in progress.** This repository organizes 213 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
+**Work in progress.** This repository organizes 214 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
 
 - [Chapters](chapters/)
 - [Bonus interludes](bonus/)
@@ -13,7 +13,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 
 ## Active family-first arc (October 22, 2026)
 
-PR #103 is drafting Chapters 194–218. Chapters 194–213 contain 205,077 body words across twenty installments. Chapter 213, “The Person in the Middle,” measures 10,629 body words by the repository's whitespace-token method. The 25-chapter arc remains in implementation, with Chapter 214 next. Hosted validation is tracked on the PR.
+PR #103 is drafting Chapters 194–218. Chapters 194–214 contain **215,263 body words across twenty-one installments**. Chapter 214, “The Heel’s Measure,” measures **10,186 body words** by the repository's whitespace-token method. The 25-chapter arc remains in implementation, with Chapter 215 next. Hosted validation is tracked on the PR.
 
 ## Canon and editing
 

@@ -149,3 +149,11 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 
 **Carry-forward after Ch213.** Leandros intends to speak for himself if Poseidon visits. His current notes remain separate from Ianthe's weather notes; the damp paper boats remain an indoor test only.
 
+### Chapter 214 · A correction without a verdict
+
+- **Knowledge provenance:** REPORTED here only through Thalia's observation at supper; Leandros is not a POV character.
+- **Source:** [Chapter 214](../../chapters/214-the-heels-measure.md); [194–214 chapter ledger](../chapter-ledgers/194-214.md).
+- Clarisse corrects Leandros for calling the separate splice finished before it has been load-tested. He appears annoyed but repeats the narrower status: the seam is repaired, while the loop remains untested.
+- Clarisse gives no trust, forgiveness, or authority milestone. His impulse to hurry a conclusion remains.
+
+**Carry-forward after Ch214.** The splice still needs Beckendorf's load test; Leandros and Clarisse's conflict remains unresolved.

@@ -4,7 +4,7 @@ This is the canonical **character-by-character memory index** for PR #103. It su
 
 **Memory labels:** FIRSTHAND (witnessed current timeline); REPORTED (a specific speaker/text told them, not witnessed); PRIOR LIFE (autobiographical only Percy and Annabeth); ALTERED CHILDHOOD (memories possessed by family and other residents, *not automatically* Percy/Annabeth); PRIVATE / UNKNOWN (information unavailable or not yet proved).
 
-**Current family-first arc state (October 22):** Scoped chapter-specific entries now extend through Chapter 213 in the current [194–213 ledger](../chapter-ledgers/194-213.md) and the relevant character profiles. This is an event-sourced update, not a claim of exhaustive whole-manuscript semantic review.
+**Current family-first arc state (October 22):** Scoped chapter-specific entries now extend through Chapter 214 in the current [194–214 ledger](../chapter-ledgers/194-214.md) and selected character profiles. This is an event-sourced update, not a claim of exhaustive whole-manuscript semantic review.
 
 **Editorial gate:** For every new or revised scene, consult (1) previous chapter final scene, (2) this character's last on-page event, (3) the pair's earliest and most recent shared scene, (4) any gift, promise or conflict, and (5) witnessed vs. reported vs. secret boundaries. When two records disagree, cite the original scenes and flag a repair, rather than erasing chronology.
 

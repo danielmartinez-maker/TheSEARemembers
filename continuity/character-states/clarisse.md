@@ -358,3 +358,11 @@
 
 **Carry-forward after Ch212.** Clarisse and Leandros can complete a bounded task together while their sibling conflict remains unresolved. Keep the low cut closed and the wide roll untested on the bathhouse route.
 
+### Chapter 214 · The untested loop
+
+- **Knowledge provenance:** FIRSTHAND in Thalia-limited POV.
+- **Source:** [Chapter 214](../../chapters/214-the-heels-measure.md); [194–214 chapter ledger](../chapter-ledgers/194-214.md).
+- At supper, Clarisse corrects Leandros when he calls a separate splice finished before Beckendorf has load-tested it. Leandros repeats the narrower claim. Clarisse does not forgive him or grant trust/authority.
+- Her response remains specific to the work; no one treats one accepted correction as repair of their sibling conflict.
+
+**Carry-forward after Ch214.** Clarisse and Leandros remain in conflict. The loop must be checked before use.

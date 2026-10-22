@@ -114,3 +114,13 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 
 **Carry-forward after Ch213.** Ianthe's private note remains with her and known only to her and Thalia. Her Big House room and Cabin One bed plans stay unresolved; her wind notes remain unverified.
 
+### Chapter 214 · Useful is not the same as belonging
+
+- **Knowledge provenance:** FIRSTHAND in Thalia-limited POV; Thalia reports the later Chiron plan at supper.
+- **Source:** [Chapter 214](../../chapters/214-the-heels-measure.md); [194–214 chapter ledger](../chapter-ledgers/194-214.md).
+- Ianthe brings Beckendorf a ground-route map and initially wants to include Thalia's heel/route experience. Thalia refuses to have personal medical details put on the map. Ianthe accepts the boundary and removes the information; the map remains about inspected ground and access.
+- Ianthe says she liked when Zeus asked about her weather notes and worries that useful plans are how she earns a place. Thalia acknowledges that the attention mattered to Ianthe without allowing her to manage Thalia's recovery or use Thalia as a measure of belonging.
+- Ianthe later asks for Thalia's update. Thalia shares the limited archery plan and asks her not to check every morning; Ianthe accepts.
+- Her route observations remain bounded by Beckendorf's inspection. No room placement, verified authority, Zeus visit, forgiveness, or broad trust decision occurs.
+
+**Carry-forward after Ch214.** Ianthe remains in the Big House guest room; the Cabin One bed plan and weather-note verification remain unresolved. Her need for Zeus's attention and tendency to reach for control persist alongside a small, practical correction.
