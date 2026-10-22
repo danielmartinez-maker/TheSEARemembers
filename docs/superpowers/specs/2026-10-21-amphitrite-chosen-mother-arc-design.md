@@ -51,7 +51,7 @@ Do not change biological parentage, overwrite Silena’s or Clarisse’s relatio
 ## Acceptance criteria
 
 1. The canon bible records the gradual, voluntary arc and distinguishes the three daughters’ relationships to Amphitrite.
-2. Percy’s spoken address is “Mom” where he is directly addressing her; descriptive uses of “mother” remain context-sensitive.
+2. In Percy’s dialogue, he addresses her as “Mom” and uses “Mom” when speaking informally about her; narration and other characters’ formal or descriptive references to Amphitrite remain context-sensitive.
 3. Existing Chapters 125–132 retain the sisters’ autonomy and Clarisse’s unresolved grievance.
 4. The continuity profiles mark Silena’s earlier milestone and Clarisse’s later milestone as planned, not as events already in the source.
 5. No prose claims that either sister has called Amphitrite “Mom” by Chapter 193.
