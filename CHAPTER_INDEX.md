@@ -195,6 +195,7 @@ The manuscript is a work in progress. Chapters are listed in reading order; clic
 - **191.** [Two Hands of Work](chapters/191-two-hands-of-work.md)
 - **192.** [Against the Windows](chapters/192-against-the-windows.md)
 - **193.** [The Heel](chapters/193-the-heel.md)
+- **194.** [A Place at the Table](chapters/194-a-place-at-the-table.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 
