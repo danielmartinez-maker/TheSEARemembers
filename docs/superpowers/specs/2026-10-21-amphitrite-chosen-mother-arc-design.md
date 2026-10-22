@@ -16,7 +16,7 @@ The current manuscript already establishes gradual, non-coercive groundwork:
 - In Chapter 128, Clarisse names the hurt of seeing Percy’s Atlantis childhood and Poseidon’s attention when she and Silena did not receive the same.
 - In Chapter 129, Amphitrite hugs Silena and offers Clarisse a hand, which Clarisse accepts; neither gesture demands gratitude or a title.
 - In Chapter 132, Silena says Amphitrite made the visit easier, while making clear that this did not rewrite Clarisse’s past.
-- Chapter 193 is the current manuscript endpoint. Neither sister has called Amphitrite “Mom” in the chapters reviewed for this design.
+- Percy already calls Amphitrite “Mom” in spoken dialogue in Chapter 14; his formal letter in that chapter says “Mother.” Chapter 193 is the current manuscript endpoint. Neither Silena nor Clarisse has called Amphitrite “Mom” in the chapters reviewed for this design.
 
 These scenes remain the foundation. The sisters’ titles are future milestones, not retroactive facts.
 
@@ -24,7 +24,7 @@ These scenes remain the foundation. The sisters’ titles are future milestones,
 
 ### Percy
 
-Use “Mom” as Percy’s familiar spoken address for Amphitrite in informal speech, including the existing direct address in Chapter 99 and informal references in Chapters 127 and 132. Keep “mother” as an ordinary descriptive word where grammatically appropriate; do not run a global replacement. Sally remains Percy’s mother and his grief for her remains present. Amphitrite is still unaware of Percy’s erased-future memories and altered-childhood memory gap.
+Use “Mom” as Percy’s familiar spoken address for Amphitrite in informal speech. This is established in Chapter 14 and continues in Chapter 99 and the informal references in Chapters 127 and 132. Keep “Mother” in formal writing, including his Chapter 14 letter and Chapter 132 shell message, and keep descriptive uses context-sensitive; do not run a global replacement. Sally remains Percy’s mother and his grief for her remains present. Amphitrite is still unaware of Percy’s erased-future memories and altered-childhood memory gap.
 
 ### Silena
 
@@ -40,7 +40,7 @@ The sisters reach the milestone in separate scenes and at different paces. Their
 
 - Amend `FIC_CONTEXT.md` with the approved relationship direction and title boundaries.
 - Update Percy, Silena, and Clarisse’s continuity profiles so they distinguish current source facts from planned future milestones.
-- Change Percy’s informal spoken address to “Mom” in the source passages where “Mother” is currently his chosen address, including Chapters 99, 127, and 132; inspect other Percy/Amphitrite address candidates before editing.
+- Preserve Percy’s established spoken “Mom” address in Chapter 14 and change the remaining confirmed informal “Mother” references in Chapters 99, 127, and 132 to “Mom”; preserve formal writing and inspect other Percy/Amphitrite address candidates before editing.
 - Keep Chapters 125–132’s existing sister choices and hurt intact; only revise their prose if a source-specific continuity need is identified.
 - Record the sisters’ “Mom” milestones as future story work after Chapter 193. This spec does not draft a new full chapter or claim either milestone has occurred.
 
@@ -51,7 +51,7 @@ Do not change biological parentage, overwrite Silena’s or Clarisse’s relatio
 ## Acceptance criteria
 
 1. The canon bible records the gradual, voluntary arc and distinguishes the three daughters’ relationships to Amphitrite.
-2. In Percy’s dialogue, he addresses her as “Mom” and uses “Mom” when speaking informally about her; narration and other characters’ formal or descriptive references to Amphitrite remain context-sensitive.
+2. Percy’s spoken “Mom” address is already established in Chapter 14 and continues in his dialogue in Chapters 99, 127, and 132; formal writing and narration remain context-sensitive.
 3. Existing Chapters 125–132 retain the sisters’ autonomy and Clarisse’s unresolved grievance.
 4. The continuity profiles mark Silena’s earlier milestone and Clarisse’s later milestone as planned, not as events already in the source.
 5. No prose claims that either sister has called Amphitrite “Mom” by Chapter 193.
