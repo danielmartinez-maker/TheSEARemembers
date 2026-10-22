@@ -39,7 +39,7 @@ source_anchored_events:
   - id: C132_B
     witnesses: ["Percy","Silena","Austin, for archive restrictions"]
     certainty: confirmed
-    event: "Percy signs a family-only photo sharing permission; Silena independently chooses to write to Amphitrite and arrange consent"
+    event: "Percy and Silena inspect the same garden photograph introduced in Ch.129. Triton uses the instant camera's short delay, then joins Poseidon, Amphitrite, Percy, Clarisse, Silena, Annabeth, and Thalia in the frame; Tyson stays at the forges. Percy signs a family-only photo sharing permission; Silena independently chooses to write to Amphitrite and arrange consent"
     consequence: "No public palace display has been approved, no content of Silena's future letter assumed or magically known"
   - id: C132_C
     witnesses: ["Percy","Beckendorf"]
@@ -68,7 +68,7 @@ source_anchored_events:
     consequence: "No receipt or response to Percy's latest message is shown in Ch.132, and no training month or reservation is confirmed. Ch.136 later depicts a one-day birthday trip to Atlantis, but does not establish whether it answers this request or that training began"
 objects:
   - "Poseidon's shell message offers an optional training-hall place and adjustable month; Percy's latest request for details and a short visit, plus his request not to reserve it, has no shown response or receipt confirmation. Ch.136 later depicts a one-day birthday trip, but its relation to this request is not stated and it does not confirm the training month"
-  - "Signed photo-release form family only"
+  - "Atlantis garden photo: Poseidon, Amphitrite, Triton, Percy, Clarisse, Silena, Annabeth, and Thalia are pictured. Triton uses the camera's short delay to join them; Tyson stays at the forges and is absent. Signed family-only release; no public palace display"
   - "Canoe instructions copy given to Chiron; Mara retains version for later approved instructor"
   - "Folded undelivered note to Triton stays in Chiron's travel folder"
 next_chapter:

@@ -722,11 +722,11 @@ Thalia shifted till her knee touched Clarisse's. Clarisse stayed.
 
 Silena looked around. "We've had cocoa, stories, a Cyclops bell, and a floor circle. Something's missing."
 
-She turned toward the photograph above Percy's bunk. In the lamplight, its surface reflected the flame and made the people in it look as if they stood behind a thin sheet of water. The print had been taken in Atlantis, before they came back to camp. Percy had thought of it as proof that he could belong in a picture with people who remembered a childhood he didn't. Silena had taken the photograph, then stepped into the frame at the last second. Now the image was here with them, neither a record of every year nor an answer to what any of them ought to feel about the palace.
+She turned toward the photograph above Percy's bunk. In the lamplight, its surface reflected the flame and made the people in it look as if they stood behind a thin sheet of water. The print had been taken in Atlantis, before they came back to camp. Percy had thought of it as proof that he could belong in a picture with people who remembered a childhood he didn't. Triton had used the camera's short delay to reach the edge of the frame; Silena, who had packed it, was last to step into place. Now the image was here with them, neither a record of every year nor an answer to what any of them ought to feel about the palace.
 
 "We haven't looked at it together," she said.
 
-Clarisse eyed the frame. "We were all in the garden when we took it."
+Clarisse eyed the frame. "The people in the frame were in the garden when we took it."
 
 "We were all looking at the camera. That's different."
 
@@ -778,7 +778,7 @@ Silena looked at Thalia. "What about you?"
 
 "She was right," Silena said.
 
-"I remember the shadow from the arch covered Tyson's face," Annabeth said. "We had to move everyone toward the light. It made the picture better, but I liked the first arrangement too. The shadows were interesting."
+"I remember the shadow from the arch cutting across half the frame," Annabeth said. "We had to move everyone toward the light. It made the picture better, but I liked the first arrangement too. The shadows were interesting."
 
 "You didn't say that at the time," Thalia replied.
 
@@ -790,7 +790,7 @@ Annabeth leaned back against him. "I know. I still wonder what the first one wou
 
 That made sense to him. The first arrangement belonged to the moment before they corrected it. A thing could be imperfect and still be worth keeping, even if the final photograph told a clearer story.
 
-Silena raised her hand, the way she did when she was asking a question in the pavilion. "I remember trying to get everyone in the frame and thinking I hadn't been in many pictures with all of you. Not because anyone kept me out. I was always the one behind the camera."
+Silena raised her hand, the way she did when she was asking a question in the pavilion. "I remember arranging everyone and then realizing I wanted to be in the picture too. I was usually the one behind the camera."
 
 "You got in this one," Percy said.
 
@@ -806,37 +806,39 @@ Silena looked down at her mug. "I know. It was nice when people moved over."
 
 Percy looked up at the print. In it, Silena stood between Clarisse and Thalia, not hidden behind a camera or half a step outside the group. The framing showed her choice. It did not show the moment she decided to make it.
 
-"I remember Triton telling me where to stand," Tyson said. "I was blocking part of the garden. Then he moved me a little. He said the picture should show everyone's face."
+Tyson looked over the frame. "I wasn't there for the garden. I was at the forges."
 
-"And it does," Silena said.
+"Right," Silena said. "This was the visit we took without you."
 
-"My face is large. It still takes a lot of picture."
+"I like it anyway. Everyone fits."
 
-"You didn't block anyone," Clarisse said.
+"We'll bring the camera next time," Clarisse said.
 
-"Not in the final picture."
+Tyson glanced at her. "That would be good."
 
-"That's what matters for the picture."
+"We had melon in the garden after the picture," Silena added. "Before dinner."
 
-Tyson smiled at that. "I remember after, we all went to eat."
+"Was it cold?" Tyson asked.
 
-Silena corrected him gently. "We had fruit in the garden first. Then dinner later."
+"Very," Clarisse said.
 
-"Both happened."
+Tyson nodded. "I like cold melon."
 
-"Yes."
+"I like hearing about it, even if I wasn't there," Tyson said.
 
-"Which one do you remember best?" Percy asked.
+Silena smiled. "I'm glad. I like remembering it out loud."
 
-"The fruit. The melon was cold. I ate two pieces. Then I talked to a builder about a hinge." Tyson paused, brow furrowed. "I think it was a hinge."
+"Then I'll listen," Tyson said. "Was the melon the best part?"
 
-"It was," Clarisse said. "You were explaining why the door in the west passage scraped."
+"One of them," Clarisse said.
 
-"I forgot."
+Percy listened as the small facts settled into the room: a shadow, a joke, cold melon. Tyson leaned to see the faces more clearly.
 
-"You were busy talking about melon."
+"He got into the picture and took it?" Tyson asked.
 
-Tyson gave an easy shrug. "Both were good."
+"That was the camera's delay," Silena said.
+
+"Smart." Tyson nodded, pleased by the trick.
 
 The stories didn't line up into one agreed account. They made small overlaps instead: the arch, the shadow, the fruit, Silena's place in the frame. Percy had not lived every part of the day with the same understanding. He didn't have to borrow someone else's memory and call it his to be glad he had been there in the picture. He could hear them tell it and choose what the photograph meant to him now.
 
@@ -876,7 +878,7 @@ Thalia reached for her mug. "I remember you threatening to break the camera if t
 
 "He should have."
 
-Silena leaned into her sister. "I'm glad I took the picture."
+Silena leaned into her sister. "I'm glad Triton took it."
 
 "Me too," Clarisse said, less loudly.
 

@@ -504,7 +504,7 @@ She'd removed it from its sleeve. The garden behind the family was pale and gree
 
 "No. I wanted to send a copy to the palace. I thought I should ask everyone in the photograph before assuming it was ours to send."
 
-Percy looked again. Poseidon and Amphitrite stood beneath the garden arch. Triton had let the photographer catch him with one eyebrow raised. Tyson was just visible at the edge, a solid shoulder and a hand lifted in greeting.
+Percy looked again. Poseidon and Amphitrite stood beneath the garden arch. Triton had used the instant camera's short delay to reach the edge of the group, one eyebrow raised as the shutter caught them.
 
 "Amphitrite was there," Percy said.
 

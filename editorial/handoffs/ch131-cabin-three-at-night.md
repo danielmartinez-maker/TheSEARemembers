@@ -2,7 +2,7 @@
 
 ## Confirmed for Chapter 132
 
-- The chapter's central photo conversation revisits the Atlantis family photograph displayed above Percy's bunk. The group recognizes that it captures one day without defining every relationship or memory. The chapter itself closes in Cabin Three just before dawn.
+- The chapter's central photo conversation revisits the Atlantis garden photograph above Percy's bunk. Chapter 129 establishes Triton as the photographer using the camera's short delay; the frame shows Poseidon, Amphitrite, Triton, Percy, Clarisse, Silena, Annabeth, and Thalia. Tyson remained at the forges and is absent. In Chapter 131 he says he was not there, then receives the garden-meal details as a report. The group recognizes that the print captures one day without defining every relationship or memory. The chapter closes in Cabin Three just before dawn.
 - Percy, Clarisse, and Silena shared an overnight conversation in Cabin Three. Clarisse described waiting for Poseidon as a child while her mother stayed with her. Percy spoke about missing Sally. Silena named her wish to be noticed beyond caretaking. The conversation did not resolve their grief or make anyone responsible for fixing it.
 - The pantry episode is secondhand: Triton told Percy about the young child hiding among the sacks, the wait outside the door, the lesson, and the pears. Percy has no direct memory of those details and explicitly distinguishes the story from his own memories.
 - Tyson joined the night, told a story from his uncle, and stayed as a visitor. The possible Cabin Three guest bunk remains a sketch for Chiron and the builders to review; Tyson's current guest bed is at the Big House.

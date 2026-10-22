@@ -183,7 +183,7 @@ Poseidon nodded, then looked at Percy. "You can come back when you wish. No form
 
 "Then you needn't know yet," Amphitrite told him. The garden would keep growing while he was away. Ordinary reassurance — easier to believe for it.
 
-Their meal stretched longer than necessary, cutlery chiming softly, chairs scraping now and then. Nobody rushed them or made a departure speech, the light shifting slow across the table. At last Triton produced the instant camera Silena had packed, its plastic casing cool and scuffed. The previous evening he'd photographed everyone in the garden courtyard: Poseidon, Amphitrite, Triton, Percy, Clarisse, Silena, Annabeth, and Thalia. Clarisse looked ready to argue with the camera; Silena leaned toward her; Annabeth's hand rested in Percy's, and Thalia had an arm around her sister. Amphitrite looked at them instead of the lens.
+Their meal stretched longer than necessary, cutlery chiming softly, chairs scraping now and then. Nobody rushed them or made a departure speech, the light shifting slow across the table. At last Triton produced the instant camera Silena had packed, its plastic casing cool and scuffed. The previous evening he'd used its short delay to join them at the edge of the garden group: Poseidon, Amphitrite, Triton, Percy, Clarisse, Silena, Annabeth, and Thalia. Clarisse looked ready to argue with the camera; Silena leaned toward her; Annabeth's hand rested in Percy's, and Thalia had an arm around her sister. Amphitrite looked at them instead of the lens.
 
 "I have a copy for the palace," Triton said, offering Percy the other print.
 
