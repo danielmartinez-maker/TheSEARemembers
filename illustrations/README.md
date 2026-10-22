@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 30 of 193 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 35 of 193 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -183,3 +183,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/030-amphitrite-visits.md)
 
 ![Amphitrite welcomes Clarisse and Silena with thoughtful gifts during her first visit to camp.](030-amphitrite-visits.jpg)
+
+## 031. The Promise
+
+[Source chapter](../chapters/031-the-promise.md)
+
+![Percy and Annabeth link pinkies over a tentative apartment plan after dinner.](031-the-promise.jpg)
+
+## 032. Triton Visits
+
+[Source chapter](../chapters/032-triton-visits.md)
+
+![Triton arrives at the dock in a collapsing column of water as Percy and his sisters look on.](032-triton-visits.jpg)
+
+## 033. Architecture
+
+[Source chapter](../chapters/033-architecture.md)
+
+![Annabeth and Thalia study a preliminary Big Three shrine plan near the proposed site, with Percy and Nico nearby.](033-architecture.jpg)
+
+## 034. Mythomagic Tournament
+
+[Source chapter](../chapters/034-mythomagic-tournament.md)
+
+![Percy and Annabeth face off in the Mythomagic tournament as Tyson and the camp crowd watch.](034-mythomagic-tournament.jpg)
+
+## 035. The Letter
+
+[Source chapter](../chapters/035-the-letter.md)
+
+![Thalia and Annabeth draft separate letters beside a box of unanswered mail.](035-the-letter.jpg)
