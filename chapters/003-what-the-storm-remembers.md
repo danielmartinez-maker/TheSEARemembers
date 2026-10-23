@@ -116,15 +116,15 @@ She laughed, unwillingly at first, and then because he was grinning at her with 
 
 Annabeth squeezed his fingers. She had feared that loving Thalia and missing Athena were contradictory, or at least evidence that she was failing to appreciate what this life had given her. Hearing Percy speak without trying to rank his mothers made the question less cruel. The people who loved them in this history were not mistakes because an earlier history had existed. Nor were their old losses imaginary because they had been offered something else in the present. They would have to live with both truths. She could already imagine Thalia objecting to the phrase, insisting that truths were supposed to fit neatly together, but Annabeth was learning how little of a human life ever did.
 
-“I'm going to speak to Thalia after the healers finish with her,” Annabeth said. “Not about the old life. About today, and about what I can and can't do when I'm frightened. She deserves an explanation for why I ignored her warning, even if she won't like the explanation.”
+“I'm going to speak to Thalia when she has had a chance to finish with the healers and Chiron,” Annabeth said. “Not about the old life. About today, and about what I can and can't do when I'm frightened. She deserves an explanation for why I ignored her warning, even if she won't like the explanation.”
 
-“I can walk you to the infirmary if you want,” Percy offered. “Or I can stay here and pretend I came to inspect the dock.”
+“I can come with you if you want,” Percy offered. “Or I can stay here and pretend I was only inspecting the dock.”
 
-“You're a terrible liar, Seaweed Brain. If we go, we should go because I asked you to come with me.”
+“You're a terrible liar, Seaweed Brain. And I think this is one conversation I need to have with my sister without an audience.”
 
-“Then ask.” He leaned closer, still careful of her sore hands. “I won't turn it into a rescue mission.”
+“Then I won't come. I can at least walk you back toward the cabins.” He leaned closer, still careful of her sore hands. “I won't turn it into a rescue mission.”
 
-Annabeth smiled at him and stood, drawing him up beside her. “Come as far as the path. I want to talk to her alone once I get inside.” Percy accepted the limit without arguing, and they walked back toward camp with their shoulders brushing whenever the track narrowed. From the infirmary they could already hear somebody protesting that an injured rib did not prevent a person from giving perfectly good orders. Annabeth knew the voice, though she could not remember all the years that had made it part of her earliest days. She went forward to meet the sister who possessed those years, determined at least to give her the truth about this one.
+Annabeth smiled at him and stood, drawing him up beside her. They took the familiar path around the lake while a late breeze stirred the reeds, walking close enough that their shoulders brushed whenever the track narrowed. At the fork Percy turned toward Cabin Three, and Annabeth continued uphill toward the Zeus cabin, where she could wash her hands and write down the morning before trying to explain it. Thalia would have her own account to give Chiron first; neither of them needed to arrive at the conversation carrying someone else's version of it. Annabeth knew she could not claim the years her sister remembered, but when they met again she could at least offer an honest account of this one.
 
 ---
 
