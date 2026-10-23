@@ -140,11 +140,7 @@ Triton's grin faded. "Have you?" he asked, and his voice had changed, lower, mor
 
 Percy spent extra time with Amphitrite. She found reasons to visit the training court or ask him to sit with her in the afternoons, and he didn't mind. They played *Tessera*, a strategy game she expected him to know. He concealed his ignorance behind jokes and lost six games before he began to understand the currents.
 
-He packed bags he wouldn't need, practiced being twelve years old, and tried not to think about Annabeth with a desperation that bordered on panic.
-
-Where was she? Was she at camp? Was she even on land? Had she woken up in this altered world the same way he had, disoriented and displaced and wondering where he was? Or was she somewhere else entirely, in some other corner of this rewritten history, equally alone?
-
-He couldn't know. He couldn't reach her. He could only go to camp and hope.
+He packed bags he wouldn't need, practiced being twelve years old, and tried not to think about Annabeth with a desperation that bordered on panic. Where was she? Was she at camp, or even on land? Had she woken in this altered world as disoriented and displaced as he was, wondering where he had gone—or was she somewhere else in the rewritten history, just as alone? He couldn't reach her. All he could do was go to camp and hope.
 
 ---
 
@@ -306,7 +302,7 @@ When she started writing again, Percy watched her hand. It was an ordinary hand,
 
 He had lied by omission through most of the conversation. He knew he would keep doing it. He didn't enjoy that, but he could not risk telling her that the twelve years she remembered raising him were missing from his mind.
 
-"Amphitrite?" he said.
+"Mom?" he said.
 
 "Hm?"
 
@@ -612,13 +608,7 @@ Poseidon hesitated. "I have to be at court. The Olympians are... restless. Somet
 
 Percy nodded. He didn't tell his father that he could feel it too, this thread of connection that ran from his chest to the ocean, humming with awareness. The air above carried moisture, and Percy wondered how much of his old control would return once he tried. He wasn't eager to test that in front of his parents.
 
-The chariot rose through the last stretch of clear water. A dark line divided the sea from the sky.
-
-"Close your eyes briefly," Amphitrite said. "Let your eyes adjust."
-
-Percy closed them. The light shifted from blinding to merely bright, and when he opened them again, he could see.
-
-The sky was blue and streaked with fast-moving cloud. Wind slapped wet hair across his forehead. He had missed it, though that was not something he could say aloud.
+The chariot rose through the last stretch of clear water, the dark line between sea and sky drawing nearer. “Close your eyes briefly,” Amphitrite said. “Let them adjust.” Percy did, waiting as the light shifted from blinding to merely bright. When he opened them, the sky was blue and streaked with fast-moving cloud; wind slapped wet hair across his forehead. He had missed it, though that was not something he could say aloud.
 
 "It's beautiful," he said, and meant it.
 
@@ -788,7 +778,7 @@ She sat heavily on the end of the bench. For a moment Percy thought he had said 
 
 "Good." She swallowed. "Because I woke up here, in Cabin One, and Thalia has been telling me stories about a childhood I don't remember. She knows how I take my tea, how I sleep when I'm sick, which subjects I used to hate. And I remember a different life. I tried writing both versions out, but the pages started contradicting each other before I finished."
 
-Percy crouched in front of her so they could talk without raising their voices. "I woke up in Atlantis. Amphitrite says she's raised me since I was two. She told me Sally died when I was little. I remember Sally taking me to school. I'm trying not to let anybody see how much I don't know."
+Percy crouched in front of her so they could talk without raising their voices. "I woke up in Atlantis. My mom says she's raised me since I was two. She told me Sally died when I was little. I remember Sally taking me to school. I'm trying not to let anybody see how much I don't know."
 
 Annabeth looked across the green, making sure Grover was out of earshot. "Does she know?"
 
@@ -870,15 +860,11 @@ But he was more terrified of not having this moment. Of not having her.
 
 "What about Thalia? Your sister?"
 
-"She's..." Annabeth's expression flickered. "She's wonderful. And she loves me. And I don't, I can't..."
+“She's wonderful, and she loves me. But I can't love her the way she needs me to.” Annabeth rushed the words, as if she'd been holding them back. “She's been my sister for twelve years; she raised me, taught me to fight, and shares a cabin with me. She knows when I'm having a nightmare before I wake up. And I don't remember any of it. I remember her as someone I met later, someone I befriended, but this Thalia is—”
 
-"She what?"
+“Your sister,” Percy finished quietly.
 
-"I can't love her the way she needs me to." The words came out in a rush, like she'd been holding them back for too long. "Percy, she's been my sister for twelve years. She raised me. She taught me to fight. She sleeps in the same cabin as me and knows when I'm having a nightmare before I wake up. And I don't remember any of it. I remember her as someone I met later, someone I befriended, but this Thalia, this version, she's..."
-
-"She's your sister," Percy finished quietly.
-
-"She's a stranger who knows me better than I know myself." Annabeth's voice cracked. "How am I supposed to, how does any of this work?"
+“She's a stranger who knows me better than I know myself,” Annabeth said, her voice cracking. “How am I supposed to make any of this work?”
 
 Percy reached out and took her hand. He did it without thinking, the way he'd done a thousand times in another life, and the contact sent a jolt through them both, not electricity, but something simpler and more profound. Recognition.
 
@@ -900,23 +886,15 @@ They walked together toward the dining pavilion, side by side, and for the first
 
 ---
 
-Grover found Percy by the path a little later, as Annabeth made her way to dinner ahead of them. He had a question written all over his face.
+Grover found Percy by the path a little later, as Annabeth made her way to dinner. He had a question written all over his face.
 
-"Can I ask you something?" Grover said suddenly.
+“Can I ask you something? When you saw Annabeth, you looked like you already knew her—like you'd been waiting for her, or had found something you'd lost. But you said you just got here. Am I missing something?”
 
-"Sure."
+Percy's heart kicked. Grover sounded puzzled, not suspicious. Not yet. “Sometimes you meet someone and there's just a kind of recognition, like something clicks. That's all.”
 
-"The way you looked at her, at Annabeth, it was like you already knew her. But you said you just got here." Grover's expression was puzzled, not suspicious. Not yet. "Is there something I'm missing?"
+“Maybe.” Grover let it go, though he didn't sound convinced. “You're kind of weird, Percy. Not in a bad way; just different from anyone I've met.”
 
-Percy's heart rate spiked. "What do you mean?"
-
-"Like, when you saw her, you didn't just react. You, I don't know how to describe it. You looked like you'd been waiting for her. Or like you'd found something you'd lost."
-
-Percy was careful. "Sometimes you meet someone and there's just a... recognition. Like, something clicks. That's all."
-
-"Yeah, maybe." Grover didn't sound convinced, but he let it go. "It's just weird. You're kind of weird, Percy. I'm not saying that's bad. You're just, different. From anyone I've met."
-
-Percy gave him the least suspicious shrug he could manage. Grover didn't press. For now, Percy was grateful.
+Percy gave him the least suspicious shrug he could manage. Grover didn't press, and for now, Percy was grateful.
 
 They headed toward the dining pavilion, but Grover remembered they were supposed to see Chiron before dinner. Percy followed him to the Big House, where the centaur was speaking to a camper with a bandaged wrist.
 
