@@ -88,23 +88,13 @@ Percy looked toward the Big House. "Or they might be connected."
 
 "Exactly. But if we're going to test the connection, we need a reason other than both things frightening us."
 
-He leaned over the notebook. She had drawn three boxes and connected them with dotted lines.
-
-*Hall maintenance.*
-
-*Prophecy transcripts.*
-
-*Oracle silence.*
-
-Under the first she'd written *physical evidence and witnesses*. Under the second, *dated copies, origin uncertain*. Under the third, *Chiron confirms no new prophecy for three weeks*.
+He leaned over the notebook. She had drawn three boxes and connected them with dotted lines: *Hall maintenance*, *prophecy transcripts*, and *Oracle silence*. Beneath them she'd written *physical evidence and witnesses*, *dated copies, origin uncertain*, and *Chiron confirms no new prophecy for three weeks*. Keeping the categories separate would let them test possible connections without treating fear as proof.
 
 "Where do our memories go?" Percy asked.
 
 "On the other page. We know those memories exist, Percy. We don't have to prove them to each other. But Nico can't inspect what we remember. If we ask him for help, we have to give him something he can actually examine."
 
-He looked at the margin. There she'd written a question about the cabin layout, then crossed it out and written *not independent proof*.
-
-She had been doing that more often. A detail from their old lives would occur to her, and she would reach for the easy explanation before remembering that the camp around them held a very different set of records. Percy knew why it frustrated her. She had spent years solving problems by comparing what she knew against what the world told her. Now even that comparison required an argument about which world had been real.
+He looked at the margin, where she'd written a question about the cabin layout, crossed it out, and replaced it with *not independent proof*. She'd been doing that more often: a detail from their old lives would surface, and she'd reach for an easy explanation before remembering that this camp had a different set of records. Percy understood why it frustrated her. She'd spent years comparing what she knew with what the world told her; now even that comparison meant arguing about which world had been real.
 
 "You're going to wear a hole through the paper," he said, pointing to the place where she'd been pressing her pencil.
 
@@ -258,9 +248,7 @@ Nico looked up. "We have old survey drawings from before the Hall was built. We 
 
 Annabeth nodded. "That's still useful. We can compare what the design intended with what the repair team found."
 
-Percy watched them work through the drawings. Annabeth asked about line thickness and orientation. Zoe answered with a careful explanation of how protective inscriptions could look similar without being magically identical. Nico kept interrupting to ask where every measurement had been recorded and whether they could cite the actual page.
-
-It was the sort of conversation Percy normally enjoyed only when he could be somewhere else. Today he listened. They were showing him how to build an answer from things another person could verify.
+Percy watched them work through the drawings: Annabeth asked about line thickness and orientation; Zoe carefully explained how protective inscriptions could look similar without being magically identical, while Nico kept asking where each measurement had been recorded and whether they could cite the page. It was the kind of conversation Percy usually tuned out, but today he listened. They were showing him how to build an answer from evidence another person could verify.
 
 At the end of an hour, Nico had drawn a smaller diagram of the records chain. Zoe had identified three common ward patterns that might be mistaken for one another, and Annabeth had produced a list of questions she wanted to put to the archivist.
 
@@ -383,15 +371,11 @@ She spread the notices on the counter. Each came from a different cabin. Someone
 
 "He's asked me to keep track of them. That doesn't mean camp stops needing everything else." She slid a page toward him. "Look at the quantities. Half these people are guessing because they haven't checked what they already own."
 
-"Maybe you should tell them."
+"Maybe you should tell them," Percy said.
 
 "I have. Three times. Then two counselors told me their requests were special, and a third asked whether I could simply do the inventory for him."
 
-"Could you?"
-
-Silena stared at him until he realized how badly he'd phrased the question.
-
-"I mean, you probably could. I wasn't saying you should."
+"Could you?" Percy asked. Silena stared at him until he realized how badly he'd phrased the question. "I mean, you probably could. I wasn't saying you should."
 
 "Thank you for the distinction."
 
