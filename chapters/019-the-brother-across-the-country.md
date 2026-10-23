@@ -130,9 +130,9 @@ Clarisse blinked. For a moment all the bravado dropped away and she was just a k
 
 "Huh." Clarisse frowned at her spear tip. "What's that like? I have brothers but they're— older. And mortal. And idiots. They put gum in my hair when I was seven and I punched one of them and got grounded for a month. What's it like having a little brother who's— you know, gone?"
 
-Annabeth opened her mouth and found she didn't have an answer that fit in a sentence. How did you explain missing someone whose first years you knew only through your sister's stories? How did you explain loving brothers from a house the world no longer held, and wanting to love the brother waiting in this one, without treating either love as a replacement?
+Annabeth opened her mouth, then stopped; no answer seemed large enough to hold what she felt. She missed someone whose first years she knew only through Thalia's stories, while the brothers she remembered belonged to a house this life no longer held. She wanted to love Jason as he was now without asking him to replace anyone, or pretending affection could restore memories she didn't have.
 
-"It's like—" She stopped. "It's like knowing there's a room in your house you've never been allowed into. You know it's there. You can hear someone moving around in it sometimes. But you can't open the door."
+"It's like—like knowing there's a room in your house you've never been allowed into," she said. "You know someone is there, moving around, but you can't open the door."
 
 Clarisse nodded slowly, like that made sense. "That sucks."
 
@@ -183,13 +183,13 @@ She whipped her head around. "Clarisse told you?"
 
 "It's cute because it's from Jason. Everything from when he was two is automatically cute. That's the rule."
 
-Annabeth was quiet for a moment, watching the water. Percy watched her. He'd gotten good at watching Annabeth — not in a creepy way, just in the way you learned someone you cared about. The way her eyebrows pulled together when she was working through a problem. The way she picked at her braid when she was upset. Right now she was doing both.
+Annabeth watched the water in silence while Percy studied her face with the familiarity that came from caring enough to notice small things: her brows drawing together when a problem occupied her, her fingers picking at her braid when she was upset. Both signs had appeared now, and he waited instead of prying until she was ready to speak.
 
 "Percy?" she said. "Can I tell you something weird?"
 
 "Always."
 
-"I remember my little brothers in Frederick's house," she said. "Bobby and Matthew. Me leaving. And then I hear about Jason as ours. Thalia's and mine. Beryl giving him up. Thalia waking up and finding him gone." She pulled her knees up to her chest. "One childhood is mine and the other is everybody else's. I love the stories she tells me, but I can't turn them into memories. Tonight — I don't know how to feel about a little brother who's supposed to have known me all his life."
+"I remember my little brothers in Frederick's house: Bobby and Matthew, and me leaving. Then Thalia told me Jason was ours—hers and mine—and that she woke up and found him gone. She says the wolves took him west." She pulled her knees up to her chest. "One childhood is mine and the other is everybody else's. I love the stories she tells me, but I can't turn them into memories. Tonight, I don't know how to feel about a little brother who's supposed to have known me all his life."
 
 Percy thought about that. He remembered Sally's kitchen and their original camp and every year with Annabeth, sharply, plainly. He did not remember the Atlantis childhood Amphitrite and Triton described. They loved a boy whose old mornings he could not find, and he was trying to meet that love with the years he did have. He and Annabeth talked about it quietly whenever the mismatch got too large to carry alone.
 
@@ -576,9 +576,9 @@ Thalia walked out of the Big House and kept walking until the night air could ho
 
 She ended up behind the cabins, near the edge of the woods where the boundary hummed faint and the pine needles were soft under her boots. She sat down with her back against a tree and cried the way she hadn't cried since she was eight years old and woke up to an empty crib — ugly, shaking, hands over her mouth to keep quiet because she was sixteen and a lieutenant-in-training and big sisters didn't fall apart where anyone could see.
 
-He was alive. He was small and brave and polite to strangers and missing a tooth. He shared bread with a girl named Reyna. He could do ten push-ups. He didn't remember her.
+He was alive: small, brave, polite to strangers, missing a tooth, sharing bread with a girl named Reyna, and proud he could do ten push-ups. He didn't remember her.
 
-That last one hooked in her ribs and wouldn't come out. She'd told him he didn't have to remember, and she meant it, but gods, it hurt. She'd carried him everywhere for two years. She'd fed him crackers when their mom forgot to shop. She'd slept with him curled against her chest when thunderstorms rattled the windows. And he looked at her like a kind stranger.
+The last fact caught beneath her ribs and stayed there. She'd told him he didn't have to remember, and meant it, but gods, it hurt. She'd carried him everywhere for two years, fed him crackers when their mom forgot to shop, and slept with him curled against her chest when thunderstorms rattled the windows. Now he looked at her like a kind stranger.
 
 Footsteps crunched on pine needles. Thalia wiped her face fast, but it was Annabeth — of course it was Annabeth, who always knew where to find her — with Percy hovering a few feet behind, holding a box of tissues he'd clearly stolen from the Big House and looking awkward and determined.
 
