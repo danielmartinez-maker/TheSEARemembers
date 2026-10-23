@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 145 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 150 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -875,3 +875,34 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/145-the-lake-keeps-what-it-takes.md)
 
 ![Annabeth records the broken mooring while Clarisse closes it with rope and Silena and Thalia stand with Percy beside the lake.](145-the-lake-keeps-what-it-takes.jpg)
+
+
+## 146. The Long Way Back
+
+[Source chapter](../chapters/146-the-long-way-back.md)
+
+![Clarisse tests the submerged west-shore steps in her red bikini as Silena steadies her and records the route in her pink floral bikini.](146-the-long-way-back.jpg)
+
+## 147. The Things We Train For
+
+[Source chapter](../chapters/147-the-things-we-train-for.md)
+
+![Clarisse coaches Percy through a controlled recovery step while Silena waits with water and biscuits.](147-the-things-we-train-for.jpg)
+
+## 148. The Map of Small Things
+
+[Source chapter](../chapters/148-the-map-of-small-things.md)
+
+![Annabeth draws the changing camp map as Percy, Clarisse, Silena, and Thalia study it.](148-the-map-of-small-things.jpg)
+
+## 149. The Argument
+
+[Source chapter](../chapters/149-the-argument.md)
+
+![Clarisse and Thalia argue across the pavilion table while Silena stays beside Clarisse and Percy and Annabeth watch.](149-the-argument.jpg)
+
+## 150. What Keeps
+
+[Source chapter](../chapters/150-what-keeps.md)
+
+![Percy and Silena share rescued strawberries at dawn by the lake; Silena wears her pink floral bikini.](150-what-keeps.jpg)
