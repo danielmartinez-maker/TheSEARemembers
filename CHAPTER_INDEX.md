@@ -221,6 +221,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **215.** [Her Own Instructions](chapters/215-her-own-instructions.md)
 - **216.** [The Faces We Remember](chapters/216-the-faces-we-remember.md)
 - **217.** [Nothing Owed to the Sea](chapters/217-nothing-owed-to-the-sea.md)
+- **218.** [Tide, Thunder, Home](chapters/218-tide-thunder-home.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

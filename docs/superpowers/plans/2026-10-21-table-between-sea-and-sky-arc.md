@@ -131,8 +131,9 @@ Files: Chapters 211–218, continuity handoffs, canon/index updates.
 - [x] Ch216: Zeus returns in a new guise; Ianthe chooses a private meeting, and Thalia and Annabeth set limits on what they will share without directing her feelings.
 - [x] Verify 11,540 body words by the repository whitespace-token method; Thalia-limited POV, Chapter 216 continuity YAML, current 194–216 ledger, index, arc progress, and scoped character-state updates added.
 - [x] Ch217: Clarisse-limited Poseidon visit reopens the siblings' separate hurts; Amphitrite supports Clarisse without mediating; Clarisse privately chooses “Mom” sometimes without forgiving Poseidon.
-- [ ] Ch218: shared seasonal meal closes with negotiated belonging, unresolved asymmetry, and no instant-perfect-family claim.
-- [x] Update selected character-state profiles, the 194–216 arc ledger, chapter index, illustration count, README, FIC_CONTEXT, and spec/plan progress to reflect Chapters 212–216's witnessed events.
+- [x] Ch218: the seven siblings share a seasonal meal and paper-lantern work with negotiated boundaries; Leandros and Ianthe remain imperfect, and no trust reset follows.
+- [x] Verify 10,545 body words by the repository's whitespace-token method; Annabeth-limited POV, Chapter 218 continuity YAML, current 194–218 ledger, chapter index, arc progress, and scoped character-state updates added.
+- [x] Update selected character-state profiles, the 194–218 arc ledger, chapter index, illustration count, README, FIC_CONTEXT, and spec/plan progress to reflect Chapters 212–218's witnessed events.
 - [x] Verify Chapter 217 at 10,410 body words; add its continuity YAML, 194–217 ledger/handoff, index, README, illustration count, and scoped state updates.
 
 Check: private milestones are in separate scenes, no title is awarded for one favor, and all sibling/couple memory boundaries remain intact.
@@ -151,9 +152,9 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **24/25**.
-- Arc body words: **247,235 / 250,000**; **2,765** remain to the cumulative floor.
-- Canon and arc files: spec, plan, Chapters 194–217, index, chapter YAMLs, the current 194–217 ledger, and selected sibling/relationship profiles are on PR #103.
-- Illustration coverage is **120 of 217 chapters**; the latest illustration commit was preserved.
-- Current next action: draft Chapter 218, “Tide, Thunder, Home,” with a shared seasonal meal, negotiated boundaries, and unresolved family asymmetry.
+- Chapters complete: **25/25**.
+- Arc body words: **257,780 / 250,000**; the arc clears its cumulative floor by **7,780** words.
+- Canon and arc files: spec, plan, Chapters 194–218, index, per-chapter continuity YAMLs, the current 194–218 ledger, and selected sibling/relationship profiles are on PR #103.
+- Illustration coverage is **125 of 218 chapters**; the latest illustration commit was preserved.
+- Current next action: complete final hosted full-manuscript and character-memory validation, then record the results.
 

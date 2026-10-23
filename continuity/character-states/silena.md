@@ -1,6 +1,6 @@
 # Silena: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 211; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 218; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found silena in 188 of 193 chapter files (001–025, 027–053, 055–072, 074, 076–153, 155–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -354,4 +354,10 @@
 - She knows Clarisse went on a later walk with Amphitrite and asks about it when Clarisse returns. She is not present for the private conversation and does not learn Clarisse's title choice.
 - Silena does not translate Clarisse or Leandros to Poseidon or to one another. Her own private “Mom” choice for Amphitrite remains between the two of them; Maria remains Silena's mother.
 
-**Carry-forward after Ch217.** Silena's title choice stays private, separate from Clarisse's, and no new letter status or relationship promise is established.
+- **Knowledge provenance:** OBSERVED in Annabeth-limited POV.
+- **Source:** [Chapter 218](../../chapters/218-tide-thunder-home.md); [194–218 chapter ledger](../chapter-ledgers/194-218.md).
+- Silena chooses to attend and bring a rosemary flat loaf. She chooses the recipe, does not serve or manage the meal, and leaves with the remaining bread when she wants.
+- She does not mediate the siblings' conflict and does not learn Clarisse's private Amphitrite title choice.
+- Silena's separate private “Mom” choice remains known only to her and Amphitrite; Maria remains her mother.
+
+**Carry-forward after Ch218.** Silena's title choice stays private and distinct; the meal creates no new mediator role or family promise for her.

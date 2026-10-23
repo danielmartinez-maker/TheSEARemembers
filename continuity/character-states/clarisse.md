@@ -1,6 +1,6 @@
 # Clarisse: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 212; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 218; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found clarisse in 191 of 193 chapter files (001–053, 055–118, 120–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -386,4 +386,10 @@
 - Clarisse tells Leandros she is not angry that he wants their father. She does not agree that the visit means she has received enough attention. Leandros apologizes for accusing her of taking her anger out on him; she hears him without forgiving him.
 - After several days and a separate walk, Clarisse privately chooses to call Amphitrite “Mom” sometimes. She says the choice does not forgive Poseidon or give Amphitrite authority to speak for her. Only Clarisse and Amphitrite know.
 
-**Carry-forward after Ch217.** Clarisse's title choice and Poseidon's absence remain separate. She has not forgiven Poseidon or Leandros and has not invited Poseidon to training.
+- **Knowledge provenance:** OBSERVED in Annabeth-limited POV.
+- **Source:** [Chapter 218](../../chapters/218-tide-thunder-home.md); [194–218 chapter ledger](../chapter-ledgers/194-218.md).
+- Clarisse chooses to attend after stating she will not organize the conversation or stay for a planned dessert. She challenges Ianthe's attempts to impose order and later sets a direct boundary with Leandros about corrections.
+- Clarisse leaves the room when she chooses. No apology, trust, or forgiveness milestone is added between her and Leandros or Ianthe.
+- Clarisse does not disclose her private “Mom” choice to Amphitrite to anyone else; Silena's separate title choice remains unknown to Clarisse.
+
+**Carry-forward after Ch218.** Clarisse's title choice remains separate from her unresolved relationship with Poseidon and her conflict with Leandros.

@@ -1,6 +1,6 @@
 # Ianthe: source-limited continuity notes
 
-**Coverage:** Selected source-anchored events in Chapters 198–207; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
+**Coverage:** Selected source-anchored events in Chapters 198–218; this is not a full appearance or relationship audit. Author-approved baseline remains distinct from witnessed events.
 
 ## Author-approved identity
 
@@ -158,4 +158,9 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 - Ianthe corrects Leandros's gust estimate using the reading she made from the upper path. He takes the reading without turning the exchange into an argument.
 - This single exchange does not verify her broader weather notes, assign authority, settle her Cabin One room, or create broad trust.
 
-**Carry-forward after Ch217.** Ianthe remains in the Big House guest room; room placement and broader weather-note verification remain open.
+- Ianthe attends the meal and offers a schedule, serving order, and corrections to the lantern instructions. She accepts some invitations to ask rather than direct, but continues to prefer order.
+- She makes a dismissive remark about Leandros's expected competence, then names that statement as wrong and apologizes. He acknowledges the apology without granting forgiveness or trust.
+- Ianthe asks Thalia whether she might discuss Zeus sometime. Thalia sets a future direct-request boundary and shares no memory or date.
+- Ianthe gains no authority or room decision; her wider weather notes remain unverified.
+
+**Carry-forward after Ch218.** Ianthe remains in the Big House guest room; the Cabin One room decision, wider weather-note verification, and sibling trust remain open.

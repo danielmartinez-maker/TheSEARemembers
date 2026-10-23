@@ -1,6 +1,6 @@
 # Thalia: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 205, with scoped source updates for the new family-first arc; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 218, with scoped source updates for the family-first arc; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found thalia in 190 files (001–101, 103–105, 107–112, 114–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -408,4 +408,9 @@ Annabeth leaves a longer note on Thalia's pillow explicitly remembering Thalia p
 - Thalia walks a short level path and uses the cane for the dip. No new symptom, examination, activity decision, or clearance occurs; Chapter 214's limited plan and two-week review remain active.
 - Ianthe's private note to Zeus remains unsent and known only to Ianthe and Thalia.
 
-**Carry-forward after Ch216.** Thalia and Ianthe remain sisters with an open, specific boundary; no trust or room decision changes. Thalia remains under her existing care plan.
+- **Knowledge provenance:** OBSERVED in Annabeth-limited POV; her own statements are direct.
+- **Source:** [Chapter 218](../../chapters/218-tide-thunder-home.md); [194–218 chapter ledger](../chapter-ledgers/194-218.md).
+- Thalia accepts the sibling meal with the option to sit quietly and leave afterward. She tells Ianthe that any conversation about Zeus must be requested directly and depends on what Thalia wants to share.
+- She shares no memory about Zeus in this chapter. There is no new symptom, examination, activity decision, or clearance; Chapter 214's care plan remains active.
+
+**Carry-forward after Ch218.** Thalia's boundary with Ianthe remains specific and conditional; her existing care plan stays in force.

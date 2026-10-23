@@ -1,9 +1,9 @@
 # A Table Between Sea and Sky: 250,000-Word Arc Design
 
-**Status:** In implementation on PR #103. The family-first engine and the working sibling pair below were approved by the author in conversation on 2026-10-21. This document is a working arc contract, not a claim that the arc is complete.
+**Status:** Drafting complete; hosted validation pending on PR #103. The family-first engine and working sibling pair below were approved by the author in conversation on 2026-10-21. This document records the arc contract and current evidence.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–217 are drafted on PR #103 at 247,235 body words across twenty-four installments. Chapter 217, “Nothing Owed to the Sea,” is 10,410 body words; 2,765 remain to the cumulative floor. Chapter 218 is next. This is an in-progress checkpoint, not arc completion.
+**Implementation checkpoint (2026-10-22):** Chapters 194–218 are drafted on PR #103 at **257,780 body words** across twenty-five installments. Chapter 218, “Tide, Thunder, Home,” measures **10,545 body words**. The arc clears the 250,000-word floor; final hosted validation is pending.
 
 ## Author-approved direction
 

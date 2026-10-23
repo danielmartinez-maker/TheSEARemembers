@@ -1,6 +1,6 @@
 # Percy: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 212; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 218; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep found percy in 193 of 193 chapter files (001–193). These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -474,4 +474,10 @@
 - He shares an ordinary, affectionate exchange with Annabeth; their relationship remains secure.
 - Percy discloses no erased-future memories or altered-childhood memory gap. Amphitrite learns nothing about either.
 
-**Carry-forward after Ch217.** Percy remains Leandros's sibling without being assigned as the family's intermediary; only he and Annabeth retain erased-future autobiographical memories.
+- **Knowledge provenance:** FIRSTHAND, observed in Annabeth-limited POV.
+- **Source:** [Chapter 218](../../chapters/218-tide-thunder-home.md); [194–218 chapter ledger](../chapter-ledgers/194-218.md).
+- Percy proposes a meal for the seven siblings without defining its meaning. He does not become a messenger to Poseidon or an interpreter of Leandros's feelings.
+- He and Annabeth share ordinary affection and collaborative work; their established relationship remains secure.
+- Percy discloses no erased-future autobiographical memories or altered-childhood memory gap. Amphitrite learns nothing about his predicament.
+
+**Carry-forward after Ch218.** Percy remains Leandros's sibling without an intermediary role; only Percy and Annabeth retain erased-future autobiographical memories.

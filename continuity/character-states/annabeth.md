@@ -1,6 +1,6 @@
 # Annabeth: cumulative memory
 
-**Entry coverage:** Selected source-anchored events through Chapter 212; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
+**Entry coverage:** Selected source-anchored events through Chapter 218; this is not an exhaustive appearance-by-appearance memory matrix. The coverage audit below states the locator-search scope and scene-review limits.
 
 **Coverage audit (this continuation):** A literal-name locator sweep of the 193-chapter source found annabeth in 193 files (001–193); the sweep was not repeated for Chapters 194–200. These are search candidates only; this turn did not read every candidate scene, and a hit does not establish presence, knowledge, or a state change. Existing event entries below remain source-anchored where they cite chapter text/ledgers. The per-character scene audit is incomplete: all locator-hit chapters not represented by a scene-specific entry or directly cited cumulative source below remain **unverified for this profile**. This exact-name sweep does not cover aliases or infer absence from no hit.
 
@@ -502,4 +502,10 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - At the family meal she keeps Leandros's current observations distinct from the land-route check. She gives him no authority or trust milestone.
 - Annabeth does not learn Clarisse's private title choice or Silena's private title choice. No erased-future autobiographical memory is disclosed or transferred.
 
-**Carry-forward after Ch217.** Annabeth remains Percy's partner and does not take over Clarisse's family decisions.
+- **Knowledge provenance:** FIRSTHAND, observed in Annabeth-limited POV.
+- **Source:** [Chapter 218](../../chapters/218-tide-thunder-home.md); [194–218 chapter ledger](../chapter-ledgers/194-218.md).
+- Annabeth helps organize an invitation but catches herself before turning the meal into a plan for managing everyone's disagreement. She and Percy remain affectionate and secure.
+- She hears Ianthe ask Thalia about a possible future conversation about Zeus; Thalia sets a direct, conditional boundary and shares no memory.
+- Annabeth does not learn Clarisse's or Silena's private Amphitrite title choice. No erased-future autobiographical memory is disclosed or transferred.
+
+**Carry-forward after Ch218.** Annabeth remains Percy's partner, does not take responsibility for resolving her siblings' conflicts, and keeps Thalia's choices hers.

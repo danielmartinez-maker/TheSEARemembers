@@ -1,6 +1,6 @@
 # Leandros: source-limited continuity notes
 
-**Coverage:** Selected source notes through Chapter 212; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
+**Coverage:** Selected source notes through Chapter 218; not a full appearance or relationship audit. Author-approved character baseline; not a full appearance or relationship audit.
 
 ## Author-approved identity
 
@@ -178,4 +178,9 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 - He accuses Clarisse of taking her anger at Poseidon out on him and later apologizes specifically for that accusation. Clarisse hears the apology without forgiveness or broader trust.
 - Several days later he accepts Ianthe's gust reading without gaining authority or trust. His impatience for recognition and status assumptions remain.
 
-**Carry-forward after Ch217.** Leandros is waiting to see whether Poseidon writes; no follow-up is scheduled. His conflict with Clarisse remains unresolved.
+- Leandros attends the seasonal meal and offers to carry bowls or a water jug. Clarisse's correction about the pot turns into an argument; he says he wants her to ask before deciding he needs directions.
+- Ianthe says nobody expects him to have the answer. He is hurt; she apologizes specifically, and he acknowledges hearing it without granting forgiveness or trust.
+- He tells Annabeth he is waiting for Poseidon's possible letter and does not want others asking whether he is disappointed. No letter, return date, or follow-up is established.
+- His conflict with Clarisse and his impatience around being corrected remain.
+
+**Carry-forward after Ch218.** Leandros's letter and future contact with Poseidon remain unconfirmed; no sibling has been appointed to follow up for him.
