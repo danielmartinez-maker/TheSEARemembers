@@ -119,13 +119,9 @@ Thalia felt the envelope against her chest as though it had suddenly grown hot.
 
 Chiron waited. He had the irritating ability to make silence feel like an invitation without turning it into an interrogation. Thalia had spent years resenting and depending on it in equal measure.
 
-"I'm not trying to keep it from Annabeth forever," she said.
+"I'm not trying to keep it from Annabeth forever," she said. "I just need to know what to say when I tell her."
 
-"I haven't accused you of doing so."
-
-"I just need to know what to say."
-
-"Then perhaps you should decide what you know, and what you're afraid might happen."
+"I haven't accused you of keeping it from her," Chiron said. "Start with what you know, then separate it from what you're afraid might happen."
 
 Thalia leaned against the shield rack. It was a sensible distinction, which made her want to throw something.
 
@@ -153,7 +149,7 @@ Chiron let the words settle. Thalia knew she had made the problem sound simple. 
 
 "What if Annabeth asks to visit?"
 
-"Then we discuss it. A parent being sober for a little over a month is encouraging. It is not the same as establishing a reliable home or a safe travel arrangement. You and your sister will not be sent away because an envelope arrived."
+"Then we discuss it. If Beryl's account is accurate, thirty-eight days sober is encouraging; it still doesn't establish a reliable home or a safe travel arrangement. You and your sister will not be sent away because an envelope arrived."
 
 Thalia looked up sharply. "You promise?"
 
@@ -203,7 +199,7 @@ Outside the armory, the afternoon bell sounded. Thalia went out toward the pavil
 
 Then she saw Percy speaking to Clarisse, remembered the promise she'd made to Chiron and decided she couldn't hand over the letter with an audience listening. She would wait until they could talk alone.
 
-Thalia had a reason for waiting, and she could admit it without claiming that made the delay harmless. She had heard Annabeth ask for years not to be protected by withheld information. She kept her hand over the letter in her pocket until she reached the cabin where the two of them could speak without an audience.
+Thalia could name her reason for waiting without pretending it made the delay harmless: she hadn't wanted to hand Annabeth a family letter in front of an audience. But she'd heard her sister ask for years not to be protected by withheld information, and the envelope pressing beneath her palm had become one more choice she'd made on Annabeth's behalf. When they reached their cabin, she would give her the letter and let her decide what to do next.
 
 
 
@@ -343,7 +339,7 @@ He didn't ask what the letter said. He didn't ask to see it. He just sat there, 
 
 Percy listened. He thought about his own mom — Sally Jackson, who made blue pancakes and worked double shifts and smelled like vanilla and never, ever left him in a car. He felt guilty for having that, sitting next to Thalia who didn't.
 
-"That sounds really scary," he said quietly. "Being nine and doing that."
+Percy bumped his shoulder against hers. "You were nine, trying to take care of both of you. Gods, that sounds scary."
 
 "It was," Thalia whispered. "And the worst part is I still want to believe her. Every time. I can list every broken promise and then I see a kiss on an envelope and think maybe this is the one. I don't know how to be mad and hopeful at the same time."
 
@@ -955,8 +951,6 @@ Below them, the camp slept. The lake lapped. The boundary wards glowed. On the r
 
 Annabeth fell asleep first, cardigan pulled tight, broth stain and all. Thalia stayed awake a little longer, watching the Perseus constellation rise, thinking about 38 days, about folding sweaters, about strong eyebrows, about how hope felt a lot like fear but warmer.
 
-Tomorrow they would write back. Tomorrow they would tell Chiron, find Jason's address, skip stones while searching for words. Tomorrow Thalia would buy stain remover from the camp store and apologize properly to the sweater.
+Tomorrow they would write back, tell Chiron, find Jason's address, and skip stones while searching for words. Thalia would stop at the camp store for stain remover and apologize properly to the sweater. Those plans were small, but she could hold them more easily than the year ahead.
 
-Tonight, she tucked the sleeping bag tighter around Annabeth's shoulders and left Beryl's letter on the crate between their beds. If their mother wrote again, they would decide what to do when they had an actual envelope to open.
-
-Thalia had spent years anticipating the worst call or the worst knock on the door. She could not stop herself from listening for one. But she didn't have to wake Annabeth to listen with her. She put down the letter, turned off the lamp, and tried to sleep.
+That night, she tucked the sleeping bag tighter around Annabeth's shoulders and left Beryl's letter on the crate between their beds. If Beryl wrote again, they'd decide what to do when it arrived. Thalia still listened for the worst call or knock she'd spent years expecting, but she didn't have to wake Annabeth to listen with her. She turned off the lamp and tried to sleep.
