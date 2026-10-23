@@ -6,12 +6,9 @@ The harvest conch woke Percy before anyone in Cabin Three could pretend not to h
 
 "Up! Harvest crew, boots on!" Mr. D's voice carried over the cabins, magically amplified and deeply irritated. "The strawberries will rot if you dawdle, and then where will we get money for this little horse camp? Chop chop!"
 
-Percy stood, found his shirt and looked toward the lower field. The air smelled of ripe fruit and bruised leaves. Harvest duty wasn't exciting, but he'd lived here long enough to know that sword lessons depended on people who also cleaned tools, repaired fences and brought food to the kitchens.
-He'd been at camp long enough to recognize which arguments would delay breakfast and which would get him an extra inventory form from Silena. Today was different. Today was Harvest Day, which apparently happened several times a season, when every available camper from age twelve up got drafted into picking the famous Camp Half-Blood strawberries — the ones that kept the camp funded in the mortal world, grown extra sweet and extra fast thanks to Dionysus and Demeter kids working overtime.
+Percy stood, found his shirt and looked toward the lower field. The air carried the sweet-tart smell of ripe strawberries and bruised leaves, layered over cut grass, warm pine and sunscreen. Harvest duty wasn't exciting, but he'd lived here long enough to know that sword lessons depended on people who also cleaned tools, repaired fences and brought food to the kitchens. He could tell which arguments would delay breakfast and which would earn him another inventory form from Silena.
 
-He pulled on his orange CAMP HALF-BLOOD shirt, shorts, and sneakers that were already stained pink from last week's berry snack incident, and stumbled out into the morning light.
-
-The air smelled warm and bright. Cut grass, warm pine, sunscreen, and underneath it all, that bright sweet-tart smell rolling down from the hillside fields.
+Harvest Day came several times a season, when every available camper from age twelve up was drafted to pick Camp Half-Blood's famous strawberries—the ones that kept the camp funded in the mortal world, ripening extra sweet and fast thanks to Dionysus and Demeter kids working overtime. Percy pulled on his orange CAMP HALF-BLOOD shirt, shorts and sneakers already stained pink from last week's berry snack incident, then stepped into the morning light.
 
 By the time he got to the pavilion for breakfast, half the camp was already there, looking rumpled and grumbling.
 
@@ -305,17 +302,13 @@ Silena noticed because two baskets of the same size had been recorded at very di
 
 She checked the scale with an empty crate and found that the needle did not return to zero.
 
-"Stop bringing the baskets here," she called. "We need to check the equipment."
+"Stop bringing baskets here for a moment," she called. "The scale isn't returning to zero, and I need to check it before we record anything else."
 
-Clarisse arrived with another load and looked at the queue forming behind the tent.
+Clarisse arrived with another load, glanced from the scale to the queue forming behind the tent, and asked, "You're going to make everybody wait because the arrow looks funny?"
 
-"You're going to make everybody wait because the arrow looks funny?"
+"Because the records will be wrong if I don't," Silena said. "The kitchens use these totals to plan how much fruit goes into jam and how much gets sent out. If the count is off, somebody has to redo that work later."
 
-"Because the records will be wrong if I don't."
-
-"It's berries. We're not taxing them."
-
-"The kitchens use these numbers to plan how much they'll have for jam and how much has to be sent out. If we record the wrong amount, somebody ends up with more work later."
+"It's berries," Clarisse said. "We're not taxing them."
 
 Clarisse put down her basket. She was irritated but willing to listen, particularly because she'd spent the morning competing with Thalia over whose row was fastest. A broken scale could make the contest meaningless.
 
