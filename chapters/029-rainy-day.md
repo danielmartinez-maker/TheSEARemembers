@@ -18,11 +18,11 @@ Percy glanced at Annabeth. She glanced back. Her hand found his sleeve and tugge
 
 "Three days indoors," she whispered. "We're going to kill each other by Thursday."
 
-"We will not," Percy whispered back. "We're excellent at indoors. We're indoor kids."
+"We won't," Percy whispered back. "We'll find things to do, and we're perfectly capable of staying inside."
 
 "We are absolutely not indoor kids."
 
-"We can learn."
+"Then we can learn," Percy said. "We have three days to get the hang of it."
 
 The run to the Big House was a stampede of squealing twelve-year-olds and older teenagers trying to save their dignity and failing. Water stood ankle-deep in the dips of the path. Percy's sneakers squelched. Grover yelped as mud sucked one sandal clean off his hoof, and Ella, the little rust-feathered harpy who followed Grover around like a lost duckling, swooped down squawking and retrieved it in her talons, dropping it back into his hands with a proud chirp.
 
@@ -88,9 +88,7 @@ Annabeth bumped her shoulder into his. "Talk to me on day three when Connor has 
 
 "Okay, fair."
 
-Outside, the rain kept falling. Steady. Patient. Unbothered by twelve-year-olds or schedules or plans. Percy watched it stripe the windows and felt, for the first time in weeks, his shoulders come down from around his ears. No quests. No prophecies. No training dummies. Just cards and soup and Annabeth's knee warm against his.
-
-He could do three days of this.
+Outside, the rain kept falling, steady and patient, unbothered by twelve-year-olds or schedules or plans. Percy watched it stripe the windows and felt, for the first time in weeks, his shoulders come down from around his ears. There were no quests, prophecies, or training dummies to worry about—just cards, soup, and Annabeth's knee warm against his. He could do three days of this.
 
 
 ---
@@ -108,15 +106,13 @@ A knock banged on the door.
 
 Everyone froze. Nobody knocked on the Aphrodite cabin in the rain unless it was important or stupid.
 
-Lacy opened it. Standing on the step, soaked to the skin, mud up to her knees, spear in hand like she'd marched through enemy territory, was Clarisse La Rue.
+Lacy opened the door. Clarisse La Rue stood on the step, soaked to the skin, mud up to her knees, her spear in hand as if she'd marched through enemy territory.
 
 "I got bored," Clarisse announced.
 
-The whole cabin stared.
+The whole cabin stared. Clarisse, who called them perfume princesses and once said blush was for people who didn't know how to bleed properly, stood dripping on their heart-shaped welcome mat.
 
-Clarisse, who called them perfume princesses. Clarisse, who once said blush was for people who didn't know how to bleed properly. Clarisse, dripping on their heart-shaped welcome mat.
-
-Silena recovered first. She always recovered first. That was her job. "Oh, thank the gods. Come in, you're freezing. Lacy, towels! Drew, move your stuff off the good chair!"
+Silena recovered first. She always recovered first; it was her job to move when everyone else froze. "Oh, thank the gods. Come in, you're freezing. Lacy, towels! Drew, move your stuff off the good chair!"
 
 "I don't need—" Clarisse started.
 
