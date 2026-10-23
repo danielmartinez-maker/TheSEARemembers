@@ -2,9 +2,7 @@
 
 Thalia was trying to coax a bent hinge into place on Cabin One's shutter when she noticed the sky. The canvas above the Hall's broken cornice still moved in the sea breeze, but the clouds had stopped drifting. Chiron had sent word that Zeus would be visiting at noon, and apparently their father intended the entire valley to know it before his daughters had finished breakfast.
 
-It was Tuesday in late winter. Camp was busy repairing a building, feeding its campers and finding volunteers for the strawberry crews. Near the cabins, two Apollo children were tuning guitars badly enough to drive a dryad off the path. Thalia set down her screwdriver. The last time Zeus had visited, he'd worn a television actor's face and acted as though no months had passed since the previous visit. She was already rehearsing the expression she'd wear when he tried it again.
-
-Her spear leaned against the porch railing. She checked it out of habit, then caught herself. This was lunch with her father, not a patrol. The fact that she couldn't always tell the difference made her angrier than the weather did.
+Tuesday in late winter found camp busy repairing the Hall, feeding its campers and recruiting volunteers for the strawberry crews. Two Apollo children tuned badly enough to drive a dryad off the path. Thalia set down her screwdriver. Zeus's last visit had been in a television actor's face, and he'd acted as though no months had passed; she was already rehearsing the expression she'd wear when he tried it again. She checked her spear by habit, then stopped: this was lunch with her father, not a patrol. That she couldn't always tell the difference angered her more than the weather.
 
 "You're glaring at the weather again," Annabeth said from behind her, ducking under the low doorway with a book tucked under her arm and a half-finished braid slipping over her shoulder. She was twelve and barefoot and already had a smudge of charcoal on her cheek from whatever she'd been sketching that morning. "People are going to think you're challenging Ouranos to single combat."
 
@@ -364,21 +362,13 @@ She thought of being seventeen, standing on a ship with a boy who chose her agai
 
 She lowered her hand.
 
-"No," Annabeth said.
-
-Every head turned.
-
-Her heart hammered so hard she was sure the glasses on the table were shaking from it and not from her father's storm. "No, I'm not — I'm not doing that this time. Thalia, don't — don't apologize. Dad —" Her voice broke. She forced it steady. "Dad, sit down. Please."
-
-Zeus stared at her. "Annabeth—"
-
-"Please," she said again, quieter. "Just — listen for once. Without a new face. Without the speech."
+"No," Annabeth said, lowering her hand. "I'm not going to smooth this over again. Thalia, don't apologize. Dad, please sit down and listen for once—without a new face or another speech."
 
 Something in her tone got through. Slowly, he sank back into his chair. Thalia remained standing for a beat longer, then sat, hard, like her knees had given out.
 
 Annabeth stayed on her feet. If she sat, she'd fold. She knew herself.
 
-"I love it when you visit," she said. Her hands twisted in her shirt hem. She made herself stop. "I do. I make lists before it. I try to get everything right. I — I pick out shirts. And then you come, and you're someone different, and you tell me I'm good because I'm *agreeable*, and it feels —" She searched for the word. Engineers liked precise words. "It feels like you're praising a trick. Like I'm a dog who learned to sit still while you throw thunder."
+"I love it when you visit," she said, her hands twisting in her shirt hem before she forced them still. "I make lists beforehand and try to get everything right, even picking out shirts. Then you arrive wearing a different face and tell me I'm good because I'm agreeable. It feels like you're praising a trick—like I'm a dog who's learned to sit still while you throw thunder."
 
 "Annabeth," Zeus said, pained. "That's not—"
 
