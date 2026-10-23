@@ -324,7 +324,7 @@ After the photo excitement, Thalia stayed. She claimed it was to make sure they 
 
 Percy went back to his mountain. Box twelve. Atlantis.
 
-He'd been thinking about Atlantis a lot lately. Not in a scary-prophecy way. Just... curious. It was where his dad was from, sort of. Where his family was from, if you went back far enough. He had seen it on his recent visit — white towers and blue light and music that sounded like whales singing. But he still depended on someone else to take him there. He wanted to understand the old surface routes, not just wait for another invitation.
+Percy had been thinking about Atlantis lately, not in a scary-prophecy way but out of curiosity about the place his dad came from. It was where his family was from too, if you traced it back far enough. He had seen Atlantis on his recent visit: white towers, blue light and music that sounded like whales singing. Still, he depended on someone else to take him there. He wanted to understand the old surface routes rather than wait for another invitation.
 
 Chiron's list said: *Box 12 — Journals, quest reports, maps. Unsorted. Includes A. (Atlantis?) material, 1950s-1980s. Handle with care.*
 
@@ -558,7 +558,7 @@ Percy snorted tea through his nose. "Sand-eater."
 
 "Shut up, fish boy," Annabeth said, but she was glowing. "Can I see them? The photos?"
 
-Thalia hesitated. Those photos were... private. They were from before. From the apartment with the peeling paint and the sirens outside, from the days when it was just her and a little girl and an empty fridge and she'd been nine and terrified and pretending she wasn't. She'd kept them because they were proof she'd kept Annabeth alive. Proof she'd been enough, for a little while.
+Thalia hesitated. Those photos were private, taken before all of this, in the apartment with its peeling paint and sirens outside. Back then, it was just her and a little girl, an empty fridge, and a terrified nine-year-old pretending she wasn't. She'd kept the photos as proof she'd kept Annabeth alive, proof she'd been enough for a little while.
 
 But looking at Annabeth now — twelve, strong, surrounded by friends who loved her, asking with wide gray eyes — Thalia thought maybe it was time to share them.
 
