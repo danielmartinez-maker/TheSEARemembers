@@ -1,42 +1,58 @@
 ## Chapter 4: The Hall of Gods
 
-The Hall of the Gods stood where Percy remembered campers setting up folding tables for festivals. Its twelve columns impressed him less than the ordinary marks: wheel scuffs near the north doorway, a mason's patch at one seam, and a scratched path where people had carried heavy lamps around the mosaic. Someone had planned, paid for, and maintained this place. Wind stirred dust around the carved motto, which looked freshly scrubbed against the older masonry: *Know Thyself, Know Thy Father, Know Thy Fate.*
+The Hall of the Gods occupied a stretch of open ground where Percy remembered long folding tables, badly tied festival banners, and campers attempting to carry more food than they could eat beneath a summer sky. The alteration was complete enough that he could almost persuade himself he had confused two different corners of camp. Twelve columns rose from a broad platform of pale stone, each crowned by a carved capital worked with the symbols of an Olympian deity, and their shadows crossed the steps in dark, regular bands. Above them the roofline followed the restrained proportions of a temple, though the builders had allowed themselves more ornament than a strict imitation of the ancient Greeks would have required. Bronze lamps hung beneath the eaves. Between the columns, shallow panels showed ships, vineyards, mountain passes, and the creatures that lived at the margins of mortal stories. The building was neither ruin nor miracle. Its newly cut edges remained sharp, and the mortar at the eastern corner was several shades lighter than the stone it joined.
 
-"Noble, isn't it?"
+Percy stopped at the bottom of the steps, unable to decide which detail troubled him most. He had come here intending to find out what the camp had built and why, but he had not expected an entirely new piece of its daily geography to feel like an accusation. In his remembered life this part of the grounds had belonged to temporary things: tables that collapsed badly, lanterns that needed mending after storms, the arguments that arose whenever Dionysus decided the camp ought to celebrate something. Now the place announced a permanent purpose. Somebody had surveyed the ground, brought stone up through the valley, paid craftsmen, and persuaded a camp that spent much of its time preparing for monsters that a formal hall was worth building. The labor behind those decisions interested Percy as much as the polished columns. Magic might raise walls, but it did not explain the small scratches where a cart axle had grazed the northern entrance or the shallow groove made by generations of heavy lamps being carried around the mosaic.
 
-Percy turned. A girl stood behind him, maybe fifteen, with dark skin, close-cropped hair, and a camp necklace crowded with more beads than seemed possible. She smiled, though her eyes were assessing him.
+The carved words over the doorway were clean enough to have been scrubbed that morning: *Know Thyself, Know Thy Father, Know Thy Fate.* He read them twice. The first sounded like advice Annabeth might give him, the second like an instruction from a god with an inconvenient interest in obedience, and the third like a threat somebody had disguised as wisdom. Percy had spent enough years struggling against prophecies to distrust declarations about fate. He would have asked who had chosen the inscription, had there been anyone standing nearby who looked interested in explaining it.
 
-"It's new," Percy said carefully.
+“It's a very impressive way to remind people that gods enjoy hearing themselves talked about, isn't it?” said a voice behind him. The girl who had spoken stood a little below the steps, one shoulder resting against the low wall as though she had been there long enough to watch him decide whether to go inside. She looked about fifteen, with close-cropped hair, dark skin, and a necklace so crowded with camp beads that Percy wondered how much of her life they recorded. Her expression suggested amusement rather than hostility, but the steady attention of her eyes made him feel he had already taken part in a conversation whose first question he had missed.
 
-"Three years old. I'm Zoe, daughter of Hecate. You'd figure that out soon enough, so here's the other thing: this camp isn't what it seems. The rules are different, the gods are closer, and things are happening that nobody wants to discuss."
+“It's new,” Percy answered, because that was the one observation he could make without giving away how much had changed for him. He shifted his gaze toward the columns. “At least, it's newer than the rest of camp. The stone hasn't had time to weather like the steps at the Big House.”
 
-"Like what?"
+“Three years,” she said. “About three years, if we're being honest about the construction reports. Parts were finished later, and the people who argue about the dedication date never seem to agree which work counts as finished.” She came up one step and held out a hand without ceremony. “I'm Zoe. Hecate's cabin. You're Percy, which I suppose makes us even on introductions, except that I know a little more about you than you do about me.”
 
-Zoe glanced around before lowering her voice. "Three years ago, someone broke into the Big House and took a prophecy from the attic. Nobody caught them, and Chiron won't talk about it."
+He shook her hand. Her fingers were stained with charcoal near the nails, and one cuff of her jacket smelled faintly of lamp oil. The details made her less like a mysterious messenger and more like someone who had been doing a morning's work before deciding to interfere with his. “You know I got here recently. That's about all the interesting information anybody's been telling people.”
 
-Percy's blood ran cold. "A prophecy?"
+“I know your father, or at least I know what people expect from his son. I also know you've been walking around looking at the new paths as though they moved while you weren't watching.” She released his hand. “It's not a crime. A lot of newcomers do that. You happen to look annoyed rather than lost.”
 
-"A big one, the sort people say makes the gods nervous. I don't know what it said, but the building approvals, new cabin rules, and increased divine visits all appear in records from roughly the same period. People argue about which came first." She met his eyes. "Something happened here, Percy. I can't prove the theft caused any of it, but I don't think the questions are finished."
+Percy decided not to mention that the paths had, from his perspective, moved while he was not watching. “I'm trying to learn what belongs where. The Hall wasn't here the last time I saw the grounds.”
 
-Percy took two steps after her, then caught himself before following too closely. "Wait. How do you know a prophecy was taken? If it was stolen, there should be an incident report, a replacement record, or somebody who saw the thief. You said nobody was caught."
+Zoe's smile sharpened with interest. “Then you're asking the right sort of question, though you might want to be careful about the answers people offer. There's been a story going around for years about the Big House and a missing prophecy. Everyone tells it as though they were present, and hardly anyone can say where the story started.”
 
-Zoe stopped, her smile slipping away. "You're asking the right question, at least."
+A breeze came down the steps between them, carrying the scent of cut stone and the bitter smoke of a brazier that somebody was lighting inside. Percy watched a worker guide a narrow trolley past the far column and wondered why the mention of a prophecy could still chill him so quickly. He had seen too many ordinary days redirected by words uttered centuries before anyone alive could question them. He did not like the prospect that one had vanished in the middle of a camp whose records already seemed unreliable. “What exactly was supposed to have happened?” he asked. “And do you know it happened, or is that the part everybody has been repeating?”
 
-"That's not an answer."
+“I know there was a report of a break-in,” Zoe said. Her tone changed a little, becoming more careful now that he had pressed her. “Three years ago, around the time people were beginning to approve work on this Hall, somebody was said to have taken a prophecy from the attic. The story is that nobody was caught. Chiron doesn't discuss it in public, which of course convinces half the camp that every other strange thing must be connected.”
 
-"No," she said, looking back toward the Hall. "It isn't. Come inside; the records may tell us more than either of us knows."
+“Was there an actual prophecy missing, or just a story that there was?” Percy persisted. It sounded pedantic, even to him, but he had learned what happened when frightened people joined separate facts into one explanation merely because the explanation was dramatic. “If the Big House was broken into, somebody ought to have written it down. If something was stolen, there should be a record of what was kept there before.”
 
-The interior was cooler than the steps, and so clean Percy could smell the polish on the benches. Sunlight fell through the upper windows in twelve narrow bars, crossing the enormous mosaic on the floor. Two campers were carrying a brass lamp from one side of the room to the other. They looked at Zoe and then quickly away.
+“That's precisely where the records become interesting,” Zoe replied. “The building approvals, changes to some of the cabin rules, and reports of more divine visits are all dated to roughly the same period. I can't tell you whether one caused another, and I wouldn't trust anyone who claimed to know without checking. But there are missing details in the paperwork, and people have been using those gaps to tell whichever story they already believe.” She glanced toward the entrance. “I could show you the parts that are public. They're not especially glamorous, but at least you'll have something more useful than an account of a thief nobody saw.”
 
-"Did they see something?" Percy asked, watching the two campers hurry the lamp along.
+Percy looked up at the motto again. “You're offering to show me incomplete records about a stolen prophecy in a building that tells people to know their fate. Is this how you greet every new camper?”
 
-"They're on maintenance duty," Zoe replied.
+“Only the ones who stop to count the repair seams instead of admiring the columns.” Zoe began to climb the steps, then noticed that he had not followed her. “What's wrong?”
 
-"That still doesn't answer me."
+“Nothing's wrong. I just want to know why you're telling me all this when we've been talking for five minutes.” It was the kind of question Annabeth would have asked, and he felt the distance between the two of them sharply as he said it. “If you're looking for somebody to believe a story about missing prophecies without checking it, you've chosen badly.”
 
-"No," she said, holding his gaze. "You'll discover I find people who repeat my words less interesting than people who examine them. If you're trying to find out what happened, ask what they saw."
+Zoe stopped beneath the inscription, her hand resting on the doorframe where long scratches showed the passage of equipment. She considered him with an expression more complicated than her earlier smile. “I'm asking because I'm tired of being the person everybody tells to stop asking,” she said. “You aren't obliged to agree with me. I was hoping you might be willing to look at what we actually have, and tell me if I've been missing something obvious. If you decide I'm wasting your time, you'll still have seen a building worth seeing.”
 
-She led him around the edge of the mosaic, avoiding the central image of Zeus. Up close, Percy could see lines scratched into the stone at the joins between tiles. They formed circles around the standing places for twelve Olympians. The marks looked decorative until a camper rolled a lamp stand across one.
+That answer was considerably more convincing than any warning about secrets. Percy climbed the remaining steps, feeling the change in temperature beneath the shadow of the roof. Around the columns little accumulations of dust had gathered in the joints, and the entrances bore narrow grooves where years of traffic had worn the finish away. The Hall was about three years old, as Zoe had said, but its inhabitants were already turning it into a place with habits. Two younger campers carried a brass lamp on a wooden stand between them. Their arms strained against the weight, and when they noticed Zoe they shifted toward the edge of the floor, not from alarm but because they appeared to know she would care where they placed it.
+
+Inside, the light fell from windows high along the walls into twelve pale shafts, revealing a great mosaic whose figures were worked in blue, gold, and dark red stone. Percy smelled polish on the benches and the dry mineral tang of recently repaired mortar. The room held a different sort of silence from a temple abandoned to the centuries; it was the attentive quiet of a place where somebody still expected to be responsible for whatever broke. He followed Zoe past a low table of folded cloths and noticed that one of the lamp bearers kept his eyes on the floor rather than the way ahead.
+
+“Do they know something about the theft?” Percy asked softly, nodding toward the two campers before he could stop himself from sounding as though he had already decided there was a conspiracy.
+
+“They're on maintenance duty,” Zoe said. She sounded genuinely puzzled that he had made the connection. “I don't know whether they've even heard the story in any detail. Why would you ask?”
+
+“Because they looked nervous when they saw you. I thought maybe you were checking something they hadn't finished.”
+
+“It's possible they're nervous because they were told not to drag heavy equipment across the mosaic, and they're carrying a lamp heavy enough that they'd rather put it down.” Zoe gave him a measured look. “You wanted to distinguish evidence from guesses outside. I'd prefer we kept doing that once we're indoors.”
+
+Percy acknowledged the correction. He had been so ready to search for an explanation of the larger mystery that he was beginning to recruit every uneasy glance as support for it. Annabeth would have recognized the habit at once. “You're right. I haven't asked them anything, so I don't know what they're worried about. Let's see the repair you were talking about.”
+
+Zoe nodded, apparently satisfied that he had not taken the correction as an insult, and turned toward the great ring of figures laid into the center of the floor.
+
+ Up close, Percy could see lines scratched into the stone at the joins between tiles. They formed circles around the standing places for twelve Olympians. The marks looked decorative until a camper rolled a lamp stand across one.
 
 Zoe caught the stand before its foot crossed the line.
 
