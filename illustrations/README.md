@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 155 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 160 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -937,3 +937,34 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/155-thirty-nine-marks.md)
 
 ![The five siblings share a north beach picnic over Annabeth's sketch of thirty-nine marks; the girls wear bikinis.](155-thirty-nine-marks.jpg)
+
+
+## 156. What the Hands Know
+
+[Source chapter](../chapters/156-what-the-hands-know.md)
+
+![Clarisse in a red bikini fits the canoe patch while Silena in a pink floral bikini applies warm glue and Percy watches.](156-what-the-hands-know.jpg)
+
+## 157. What We Set Out Before
+
+[Source chapter](../chapters/157-what-we-set-out-before.md)
+
+![Clarisse folds Tyson's blue hoodie onto the visitor bunk while Silena prepares the warm towel, spare shirt, and quilt.](157-what-we-set-out-before.jpg)
+
+## 158. What Brothers Bring
+
+[Source chapter](../chapters/158-what-brothers-bring.md)
+
+![Tyson arrives on Brine as Percy welcomes him and Clarisse, Silena, and Annabeth wait in their red, pink floral, and yellow bikinis.](158-what-brothers-bring.jpg)
+
+## 159. The Middle of the Visit
+
+[Source chapter](../chapters/159-the-middle-of-the-visit.md)
+
+![Tyson teaches young campers to bump a volleyball while Percy plays and Clarisse, Silena, and Annabeth watch.](159-the-middle-of-the-visit.jpg)
+
+## 160. What the Note Said
+
+[Source chapter](../chapters/160-what-the-note-said.md)
+
+![Percy reads Annabeth's folded note on the Cabin Three pool deck in the quiet before dawn.](160-what-the-note-said.jpg)
