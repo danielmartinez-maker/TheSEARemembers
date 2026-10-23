@@ -58,11 +58,9 @@ Nico leaned closer. He had a surprisingly good eye for differences in handwritin
 
 He grinned and went. Zoe watched him leave with the photocopies folded beneath one arm, then turned back to the table.
 
-The Hecate cabin had always been full of people who could make a small room feel large. One girl could darken a lamp without touching it. A boy named Tomas could make a reflected image appear half a second later than it should. Zoe's own talent lay in recognizing when someone had built a spell out of ordinary pieces and hidden the joins under ornament. It was useful for repairs and much less impressive at demonstrations, where everyone wanted to see a door open into nowhere.
+The Hecate cabin was full of people who could make a small room feel large. One girl could darken a lamp without touching it; Tomas could make a reflection appear half a second late. Zoe's own talent was quieter: she could spot where someone had built a spell from ordinary pieces and hidden the joins beneath ornament. It suited repairs, not demonstrations, where everyone wanted her to open a door into nowhere.
 
-She had once hated that difference. Her mother governed crossroads and magic, and younger campers expected a daughter of Hecate to produce impossible doors or conjure a spectacle for their amusement. Zoe's work mostly required a straightedge, three versions of a record, and the patience to tell an adult that a repair they had signed off on needed to be reopened. The work won her few admirers, but after the storm she had watched the evacuation routes depend on a single correctly isolated fitting. It was harder to envy the flashier talents when she'd seen what her own could prevent.
-
-After the storm she was grateful for the talent, even when it left her with more questions than answers.
+She had once hated that difference. Her mother governed crossroads and magic, and younger campers expected her daughter to conjure a spectacle. Zoe's work meant straightedges, comparing records, and telling adults to reopen repairs they'd already approved, which won her few admirers. After the storm, though, she'd watched evacuation routes depend on one correctly isolated fitting. She was grateful for what her quieter talent could prevent, even when it left her with more questions than answers.
 
 At the far end of the table, an unopened letter lay beneath her field notebook. It was from an older cousin who'd offered to let her spend the winter outside camp. Zoe had been planning to answer before the Hall disaster. She wanted to go. She also had a responsibility to the younger Hecate campers who trusted her explanations, and now Chiron was asking for her expertise almost every day. She didn't know whether she could leave until the ward was secure.
 
@@ -241,51 +239,33 @@ The Hall was not a building he remembered from his first childhood at camp. It w
 
 He had treated their certainty as evidence of someone else's careful plan. But a building could shelter people and still hide something dangerous in its floor. Those facts did not identify the builder, or the hand that had altered their lives.
 
-"Could a Hecate child do it?" he asked.
+"Could a Hecate child do it?" Percy asked.
 
-"Add a ward? Yes. Some of us."
-
-"Change someone's memories?"
-
-Zoe's expression changed.
-
-"I've seen enchantments that hide an afternoon," she said. "Not anything that replaces years of a person's life."
+"Add a ward? Yes, some of us can. Change someone's memories?" Zoe's expression shifted. "I've seen enchantments that hide an afternoon, not anything that replaces years of someone's life."
 
 "You must have theories."
 
-"I have enough theories to fill that shelf. None would justify accusing someone." She tapped the drawing. "We can see this. We can compare its dates. We can tell Chiron where the dangerous part may be. Start with what your hands can hold."
+"Enough to fill that shelf, none that justify accusing anyone." She tapped the drawing. "We can see this, compare its dates, and tell Chiron where the danger may be. Start with what your hands can hold."
 
-He looked at his hands, still faintly sore from the storm.
+"There are people here who'd suffer if we changed anything back. Children who didn't write a prophecy or ask the gods to put wards under the Hall."
 
-"There are people here who would suffer if we changed anything back," he said. "Children who didn't write a prophecy or ask the gods to put wards under the Hall."
+"Including you."
 
-"Including you," Zoe said. 
+"Including me." He looked at his hands, still faintly sore from the storm. "What if whoever did it thought they were helping?"
 
-"Including me."
+"Then we still need to know what they did and whether they intend to do more."
 
-She waited.
+"I need Annabeth."
 
-"What if whoever did it thought they were helping?"
+"Bring her the diagram. I'll take the ledger to Chiron myself. You shouldn't have to carry every explanation."
 
-"Then we still need to know what they did, and whether they intend to do more."
-
-He thought of Silena leaning over her mending, alive and impatient with a tangled thread. Of Clarisse saving him a practice weapon that fitted his smaller grip. Of Thalia catching Annabeth by the elbow before she tripped over a loose board, then pretending it had been an accident.
-
-Wanting to keep them did not tell him who had changed them.
-
-"I need Annabeth," he said.
-
-"Yes. Bring her the diagram." Zoe closed the folio. "I will take the ledger to Chiron myself. You shouldn't have to carry every explanation."
-
-He stood, then hesitated.
-
-"I asked if you did it."
+Percy hesitated. "I asked if you did it."
 
 "You did."
 
 "It wasn't fair."
 
-"It was a question." Her gaze held his. "Questions can be answered. Deciding the answer before you ask is where they become dangerous."
+Zoe held his gaze. "It was a question. Questions can be answered. Deciding the answer before you ask is where they become dangerous."
 
 ---
 
@@ -695,33 +675,29 @@ He sat beside her and explained the mark, the ledger, the eclipse. Clarisse list
 
 He gave her a tired look.
 
-"You turned up last month and now you're my brother," she said. "That doesn't make me a clue in somebody's prophecy. And it doesn't mean Silena and I were waiting around for you to solve our lives."
+"You turned up last month and now you're my brother," Clarisse said. "That doesn't make me a clue in somebody's prophecy, and it doesn't mean Silena and I were waiting around for you to solve our lives."
 
-"I didn't say—"
+Percy rubbed the edge of the paper between his fingers. "I didn't say—"
 
 "I know. But you're watching all of us like you expect a confession. It's starting to itch."
-
-He rubbed the edge of the paper between his fingers.
 
 "I don't think you did it."
 
 "Why?"
 
-"Because you tell me when something's wrong. Even when you wish I'd stop asking."
+"Because you tell me when something's wrong, even when you wish I'd stop asking."
 
-"Reasonable." She stood. "And if you need someone to carry sandbags, ask. I'm better at that than mysterious prophecy."
+"Reasonable." She stood. "If you need someone to carry sandbags, ask. I'm better at that than mysterious prophecy."
 
-He stood with her.
-
-"Thanks."
+He stood with her. "Thanks."
 
 "Sleep first. You look like a drowned sock."
 
 "Very specific."
 
-"I've met a lot of drowned socks. You're brothers."
+"I've met a lot of drowned socks. You're my brother."
 
-He laughed despite himself. She bumped his shoulder on the walk back, then took the diagram long enough to work out which path Chiron meant to close.
+Percy laughed despite himself. Clarisse bumped his shoulder on the walk back, then took the diagram long enough to work out which path Chiron meant to close.
 
 ---
 
