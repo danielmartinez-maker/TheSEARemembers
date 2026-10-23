@@ -82,11 +82,7 @@ And now they were on opposite teams on lava day, with the whole camp watching.
 ---
 
 
-Annabeth Grace loved plans the way Percy loved water.
-
-Which was to say, completely, instinctively, and in a way that made other people roll their eyes.
-
-She was sitting on the porch of Cabin One — Zeus's cabin, all white marble and humming ozone and tall ceilings that made thunder sound louder inside — with a wax tablet on her knees and a stylus behind her ear, sketching the climbing wall from memory.
+Annabeth Grace loved plans the way Percy loved water: completely, instinctively, and in a way that made other people roll their eyes. She was sitting on the porch of Cabin One—Zeus's cabin, all white marble and humming ozone and tall ceilings that made thunder sound louder inside—with a wax tablet balanced on her knees and a stylus tucked behind her ear, sketching the climbing wall from memory.
 
 Thalia Grace was braiding her own hair beside her, lightning crackling faintly between her fingertips every time she got bored. Which was every eight seconds.
 
@@ -573,7 +569,7 @@ WHOOMPH. Lava blasted left.
 
 They scrambled up while the vents recharged. Ella fluttered-hop to the next ledge, Grover bleating the whole way, Percy right behind them, finding holds by feel more than sight.
 
-He'd never told anyone how he did it. Not really. It wasn't like Annabeth's counting or Thalia's strength. It was just... the water told him. When the pipes filled, the rock got a tiny bit cooler. When pressure built, the air got damper. His skin prickled. His gut said move.
+Percy had never explained how he did it. It wasn't Annabeth's counting or Thalia's strength; it was the water speaking through small changes in the wall. When the pipes filled, the rock cooled a little. When pressure built, the air grew damper, and his skin prickled before his gut told him to move. He could sense the pattern there without knowing exactly how he knew it.
 
 "You're doing it again," Ella observed, perched beside him, adjusting her glasses. "Your eyes go unfocused. Like you're listening. Page twelve: 'Percy Jackson listens to walls.' Ella wrote that. In Ella's head. Ella's head-book."
 
@@ -794,9 +790,7 @@ Clarisse looked between them, then at Thalia. "Are they... doing the thing? The 
 
 Luke liked to tease her about getting soft whenever she let a Poseidon kid off the hook. *Sea and sky don't mix,* he'd said once, laughing over a capture-the-flag map. Thalia had told him to stop drawing tides on her half of the page.
 
-But looking at these two dorks — twelve years old, covered in soot, grinning at each other after nearly getting melted — Thalia couldn't find the anger. It just... wasn't there. Just a tired, fond ache, like a bruise healing.
-
-She laughed. Actually laughed. Threw her head back and laughed so hard lightning danced in her teeth.
+Looking at these two dorks—twelve years old, covered in soot and grinning at each other after nearly getting melted—Thalia couldn't find the anger. Instead, she felt a tired, fond ache, like a bruise healing, and the feeling drew a laugh out of her before she could hide it. She threw her head back, lightning dancing in her teeth.
 
 "You two are idiots," she said, ruffling Annabeth's hair and then, before she could think better of it, ruffling Percy's too. Percy ducked, shocked. Thalia Grace usually made Poseidon kids earn the teasing. This one had earned it. "Adorable, lava-dodging idiots. Come on. Losers buy the winners ice cream?"
 
