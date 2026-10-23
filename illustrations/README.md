@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 160 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 165 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -968,3 +968,34 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/160-what-the-note-said.md)
 
 ![Percy reads Annabeth's folded note on the Cabin Three pool deck in the quiet before dawn.](160-what-the-note-said.jpg)
+
+
+## 161. Edges That Hold
+
+[Source chapter](../chapters/161-edges-that-hold.md)
+
+![Tyson hugs Clarisse before the ferry leaves as his sisters and Annabeth wave from the dock in their bikinis.](161-edges-that-hold.jpg)
+
+## 162. The Day With Nowhere To Be
+
+[Source chapter](../chapters/162-the-day-with-nowhere-to-be.md)
+
+![Percy and Annabeth wade into the lake, with Annabeth in a yellow bikini; Clarisse and Silena relax on the rock in red and pink floral bikinis.](162-the-day-with-nowhere-to-be.jpg)
+
+## 163. Honey on the Hands
+
+[Source chapter](../chapters/163-honey-on-the-hands.md)
+
+![Silena stirs the lemon-honey syrup while Clarisse steadies the bowl, Percy sweeps, and Annabeth copies the recipe.](163-honey-on-the-hands.jpg)
+
+## 164. The Fire Kept Her Place
+
+[Source chapter](../chapters/164-the-fire-kept-her-place.md)
+
+![Thalia returns from the boundary with her satchel as Annabeth makes room for her at the fire and the family welcomes her.](164-the-fire-kept-her-place.jpg)
+
+## 165. The Morning After
+
+[Source chapter](../chapters/165-the-morning-after.md)
+
+![Percy flips a misshapen whale pancake as Annabeth keeps schedule, Thalia steals bacon, Clarisse coaches, and Silena brings honey.](165-the-morning-after.jpg)
