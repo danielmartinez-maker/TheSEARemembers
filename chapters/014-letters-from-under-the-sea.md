@@ -2,9 +2,7 @@
 
 The gulls woke Percy before the conch did.
 
-Percy listened until he recognized surface gulls fighting over crumbs near the canoe lake. In the weeks he'd spent back in Atlantis, he'd heard siren-gulls above the undersea gardens and silverfin darters tapping against palace windows. Amphitrite had named the birds and explained the quiet hum of the city currents. Those lessons were things he remembered from his recent visit; they were not proof that he could recall growing up in the palace. He could miss Amphitrite without knowing how to answer her stories about the little boy she'd raised.
-
-He lay in his bunk in Cabin Three and listened to them and felt homesick in a way that sat right behind his teeth.
+Percy listened until he recognized the surface gulls fighting over crumbs near the canoe lake. In the weeks he'd spent back in Atlantis, he'd heard siren-gulls above the undersea gardens and silverfin darters tapping against palace windows. Amphitrite had named the birds and explained the city currents. Those were memories from his recent visit, not proof he remembered growing up there. He could miss her without knowing how to answer her stories about the little boy she'd raised. In Cabin Three, homesickness sat just behind his teeth.
 
 It was a Tuesday. Triton's letters said Tuesdays in Atlantis still meant dumpling soup and combat drills. Amphitrite had tied protective knots into his hair before he left and quizzed him on the tide charts she'd shown him. He remembered that last morning clearly; the years before it remained someone else's stories. Tuesdays at Camp Half-Blood meant Capture the Flag drills at nine and archery with the Apollo kids at eleven and, if the rumor Grover had whispered at dinner last night was true, mail call from underwater.
 
@@ -166,15 +164,15 @@ A beat. The water lapped at the dock.
 
 "You look well," Poseidon said. "Chiron reports your control is improving. Your shield held for six minutes in the pool yesterday."
 
-"Seven," Percy said. "Seven minutes. And I — I made a whirlpool that could hold a boulder. Clarisse helped. She threw rocks at me."
+"Seven," Percy corrected. "Seven minutes. And I made a whirlpool that could hold a boulder. Clarisse helped by throwing rocks at me."
 
-Clarisse blinked. "I did. It was training."
+Clarisse blinked. "That was training."
 
 Poseidon glanced at her. "You throw well, I hear."
 
-"Yes, sir," Clarisse said, voice cracking. "I mean — thank you, sir. I mean —"
+"Thank you, sir," Clarisse said, her voice cracking as she tried to sound composed.
 
-"He means thanks," Silena supplied gently. "We train together every morning, sir. Percy shows us Atlantean forms. He's a good teacher. Patient."
+"She means she appreciates it," Silena supplied gently. "We train together every morning, sir. Percy shows us Atlantean forms, and he's a good, patient teacher."
 
 Poseidon nodded slowly. "Good. That is good. Percy —" He hesitated. Triton looked at the floor. Amphitrite twisted her shawl in her hands. "The council keeps me late. The western trenches stir. But I think of you. Be — be brave. Be kind. Write to your mother."
 
@@ -352,9 +350,7 @@ Silena saw. Silena always saw. She smiled at Clarisse over Percy's head and mout
 
 ---
 
-Silena Beauregard kept a journal. She'd kept one since she was eight. It had pressed flowers in it and ticket stubs and little sketches of her siblings and, on the first page, in careful letters: *Things I Want To Remember When I Am Old.*
-
-That evening, after the beach, she wrote:
+Silena Beauregard had kept a journal since she was eight, filling it with pressed flowers, ticket stubs and sketches of her siblings. On the first page, in careful letters, she'd written *Things I Want To Remember When I Am Old.* That evening, after the beach, she opened it to record what she wanted to keep.
 
 *Today Percy shared his family with us. His mom sent jam and bracelets. His brother sent a book that says DO NOT DIE. His dad sent a letter Percy hasn't opened yet. I think he's scared it will be short. Clarisse pretended not to care about the bracelet but she hasn't taken it off and she keeps turning it around her wrist when she thinks no one is looking. Barnacle the hippocamp sneezed on Percy. Percy laughed louder than I've ever heard him. I want to remember the sound.*
 
