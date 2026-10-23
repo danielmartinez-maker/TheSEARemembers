@@ -1,66 +1,82 @@
 ## Chapter 2: The Girl With Lightning in Her Veins
 
-Percy woke when the channel beneath Cabin Three's floor changed pitch. He'd fallen asleep listening to it, and for a confused moment he thought he was back in Atlantis. Then someone landed hard on the floorboards across from his bed and began another set of push-ups.
+Percy woke when the water beneath Cabin Three changed its note, not loudly enough to disturb anyone who had lived beside it for years, but with the insistence of a voice entering a conversation he had been following in his sleep. The little channel ran under the floor and out toward the canoe lake, passing through narrow stonework that made it sound deeper than it was. Its current had slowed in the cool hours before morning. Now something had altered the pressure against the culvert, and Percy knew, before he opened his eyes, which direction the water had begun to move. For one pleasant, confused instant, he thought he was back in his bedroom in Atlantis and that the change meant workers had opened a gate somewhere along the royal gardens. Then the rough underside of his blanket scratched his cheek, a loose shutter rattled against a wooden frame, and somebody dropped to the floor across the room with a thump that shook a pair of boots from the shelf.
 
-Clarisse La Rue was halfway through her morning exercises, counting under her breath. She had introduced herself at dinner, pointed him toward his bunk, and warned him about wet towels. Percy had lived with her in the cabin for one night. He still had no right to the years of acquaintance that belonged to the Clarisse he remembered.
+Clarisse La Rue was doing push-ups between the bunks, with a determination that made it seem she held the floor responsible for some personal offense. She counted under her breath and kept her gaze on the narrow strip of wood beneath her hands, though Percy had the uncomfortable impression that she had known he was awake from the moment his breathing changed. The cabin was cooler than any room he had slept in beneath the sea. A faint smell of wood smoke lingered from the banked stove; wet leather hung near the door, and on one shelf somebody had arranged three chipped mugs around a painted stone that resembled a turtle. Nothing here had been made for a prince. The rafters showed old nails and newer repairs, and each bunk carried the evidence of its occupant's habits. The sight ought to have made him homesick for a place he remembered properly. Instead he was troubled by how much he wanted to be allowed to belong to this ordinary room.
 
-"You're awake," she said without stopping. "Good. You snore."
+“You're awake,” Clarisse observed after completing her set. She rose with a practised motion and tied back the dark hair that had worked loose around her face. “Good, because I was going to wake you in another minute. You snore like you think the roof needs shaking.”
 
-"You counted my snores?"
+Percy sat up and rubbed sleep from his eyes. “I thought the part where you threw yourself at the floor was already your attempt. Did you actually spend the night listening to me snore?”
 
-"I counted how many times you woke me up." She finished the set and rose, pushing back hair that had escaped its tie. Her necklace beads clicked against the neck of her training shirt. "The prince has a morning routine, I assume?"
+“I spent the night trying not to listen to you. There's a difference.” She crossed to the bench, picked up the training shirt she had laid there, and added, “I suppose they don't make princes get up at first bell in Atlantis. What do you do down there, have someone tell the ocean you're ready for morning?”
 
-"Apparently my routine involves being insulted before breakfast."
+“Mostly I wake up on my own,” Percy said, then immediately wished he had chosen another answer. He knew what had happened yesterday morning in Atlantis, and almost nothing about the thousands of mornings everyone here believed he had spent there. “Though if somebody's been asking the ocean to make me sleep through breakfast, they haven't been doing a great job.”
 
-"Then you're adapting." She gestured at the open trunk beside his bed. "Dry gear hangs on the wall. Don't borrow my things, don't leave a weapon where someone can trip over it, and don't touch Silena's notebook unless she says you can."
+Clarisse gave him a look that lasted just long enough for him to wonder whether he had said something strange. Then she snorted and pulled the hem of her shirt straight. “You'll do. Get dressed, and make sure the wet gear goes on the hooks. I've seen what happens when somebody leaves a sword belt across the aisle, and I don't intend to break an ankle getting to the stove.”
 
-Percy looked toward the opposite bunk, where a quilt was folded with care beside a blue-covered notebook. He had heard Silena's name last night, but hadn't met her. That distinction mattered more than he had expected. His memories of her belonged to an entirely different life.
+He followed the direction of her glance to his trunk, which still sat open beside his bed. Someone had placed a clean camp shirt on top of it, folded with the careful indifference of a person who expected him to unfold it in a minute and ruin the neatness. Beyond it stood another bunk with a quilt tucked into sharp corners. A blue notebook lay on a shelf above the pillow, beside a narrow pot filled with brushes, most of them much more carefully washed than Percy's own practice weapons had ever been. It was Silena's corner, apparently. He had heard her name from Clarisse and from Poseidon before leaving Atlantis, yet this morning would be the first time he met the person who owned those things.
 
-"Anything else?" he asked.
+“That's Silena's,” Clarisse said when he looked too long at the notebook. She did not sound suspicious so much as accustomed to naming a boundary before somebody crossed it. “Don't touch her sketches without asking. She won't yell at you, which is sometimes worse, because then she'll look disappointed until you wish she'd just thrown something.”
 
-Clarisse looked him up and down. "I thought you might be taller."
+“I wasn't going to touch it.” Percy reached for his shirt, glad that Clarisse could not see the images his mind had produced. In the other life, Silena had belonged to Aphrodite's cabin; Percy remembered a young woman who had died trying to be brave and whose grief had become entangled with Clarisse's in ways neither of them deserved. Here her notebook sat within arm's reach, and her future had not yet been written. “I just didn't realize people kept their work beside the beds.”
 
-"I'm twelve."
+“Where else would they keep it, in the lake?” Clarisse shook out her necklace so the beads lay flat against her collar. “There's a table, but it belongs to whoever gets there first. Silena works late. I don't. We've learned to avoid arguing about it.”
 
-"That's no excuse. I was twelve last year." She tossed him a camp shirt from the stack by the door. "You can tell Silena how much you hate our hospitality at breakfast."
+Percy pulled the shirt over his head, feeling its coarse cotton catch against his hair. “Is there a list somewhere of everything we're not supposed to argue about? I could save us both some time.”
 
-Outside, the grass was wet enough to darken the cuffs of his trousers. Camp workers were already moving between the forge and the pavilion with baskets of bread and buckets of sand for the brazier. Percy recognized the outlines of the cabins, but not the little arrangements that made the place function: a repaired handrail outside the infirmary, a line of tools hung behind the dining area, the larger Zeus cabin with its annex facing the green.
+“There will be after breakfast if you keep asking questions like that.” Clarisse turned to go, then hesitated at the door with one hand on the latch. “And Percy? You don't have to call me anything fancy. Clarisse is fine. I'm not one of your father's attendants.”
 
-At the Poseidon table, Clarisse was arguing about spear grips with an Ares camper. Beside her sat a red-haired girl with a scar across her chin. She shifted a pile of folded napkins off the empty chair before Percy reached it.
+He met her eyes, surprised by the directness of it. “I wasn't planning to. Is there something you want me to call you?”
 
-"Percy," Clarisse said. "Silena. Now you'll both stop asking me when this is going to happen."
+“Not 'Your Highness,' for a start. I'm older than you, and if you leave your boots in the way I'll move them whether you're a prince or not.” There was a flicker of curiosity in her face, and it made her look suddenly younger than the warrior he remembered. “I thought you'd be taller.”
 
-Silena smiled but didn't get up. "Welcome to Cabin Three. I was hoping you hadn't gotten lost between the bunks and the pavilion."
+“I'm twelve,” he said.
 
-"Not yet. I make no promises about tomorrow."
+“I was twelve last year. Doesn't mean I didn't have standards.” She opened the door before he could answer, admitting a spill of pearl-gray light and the smell of grass soaked through with dew. “Come on. Silena's been asking what you're like, and I'm tired of pretending I have a useful answer.”
 
-"Reasonable." She looked at the cuffs of his trousers. "You're going to want a second pair of socks if you keep walking through the dew."
+Outside, Camp Half-Blood was waking in layers. Smoke climbed above the dining pavilion until the wind from the Sound tipped it toward the trees, and bells answered one another from the workshops and stables without ever quite falling into rhythm. The cabins stood where Percy remembered them, yet their arrangement had acquired changes small enough to disorient him more deeply than a demolished building might have done. Beside the infirmary a repaired handrail shone pale against dark older timber. A shelter near the forge had been extended to keep charcoal dry, and somebody had hung a line of tools behind the pavilion, each fitted into a place its owner clearly knew without reading a label. The Zeus cabin seemed larger, its annex facing the green, and between the paths Percy found worn patches in the grass where generations of feet had taken shortcuts that belonged to this history alone.
 
-He nearly told her she ought to be sitting at the Aphrodite table. In the life he remembered, Silena had been Aphrodite's daughter and had died wearing Clarisse's armor. Here she was alive, his older half-sister, already making sure he'd have dry clothes. Saying what he knew would put her in the position of explaining a history she had never lived.
+His shoes gathered dew as they crossed the central lawn. A pair of younger campers hurried past balancing baskets of bread, and a tall boy from the forge called an apology after nearly striking Percy with a handcart. Nobody bowed. Nobody seemed particularly interested in the fact that the son of Poseidon who had arrived yesterday had once been raised behind gates of coral and stone. Percy found that he liked the indifference, even as he recognized its cost. People would not know what he meant when a familiar name hurt. They would believe he was new here because he was, and when he spoke to someone he had once loved or lost he would have to remember that their shared past existed only inside him.
 
-He sat and took the bread she passed him. "Clarisse says there's a set of rules."
+Clarisse led him between the tables beneath the pavilion roof. She exchanged an insult about spear grips with an Ares camper, then waved Percy toward an open place at the Poseidon table. A girl with red hair and a thin scar crossing her chin had already shifted a stack of folded napkins away from the empty chair. Her expression was curious without being wary, and the plainness of the gesture, making space before deciding whether he deserved it, threatened Percy with an entirely unreasonable rush of gratitude. He put his hand on the chair back and waited while Clarisse finished explaining to the Ares boy why his grip would get him disarmed.
 
-"Several," Silena said. "Most of them are her inventions. The chore rota isn't."
+“Percy, this is Silena,” Clarisse said at last, returning with a mug and looking as though introductions were an administrative burden she ought to have delegated. “Silena, Percy. There. Now neither of you can accuse me of keeping the two of you apart.”
 
-"Are we allowed to eat before the regulations?"
+Silena looked from Clarisse to Percy, taking in his damp trousers and the camp shirt whose sleeves were still a little long. “Welcome to Cabin Three. I thought about coming down yesterday, but you were getting in late and Clarisse said you looked as though you'd had enough people staring at you for one day. Did you find the bed all right?”
 
-"I'll give you five minutes."
+“I did. It was between the wall and a very suspicious collection of weapons.”
 
-Clarisse snorted into her cup. Percy looked between them: Clarisse, who had saved a bed for him and apparently intended to make him earn his place in it; Silena, who had made room at the table without treating him like visiting royalty. Neither was a replacement for the women he remembered. They were people he would have to meet on their own terms.
+“Those are mine,” Clarisse said, setting down her mug.
 
-"Have you met Annabeth?" Silena asked. "Thalia's sister."
+“I guessed. I was going to thank you for not putting them in the bed.”
 
-"Yesterday. Grover took me by the Athena workroom."
+Silena smiled, and for a moment Percy could not speak. He had remembered her laughing before, in another body and another cabin and under a different name for her father. This was not the same woman returned from the dead, as his mind kept trying to insist. She was a living girl with her own morning and her own expectations, and the thing he felt upon seeing her was as much grief for somebody else as joy that she was here. He pulled the chair out carefully and sat rather than stare until she noticed.
 
-"Then you've probably already met Thalia's welcoming committee," Clarisse said.
+“You're going to want another pair of socks if you keep walking through the grass,” Silena told him. “The ground stays wet near the cabins even when the pavilion's dry, and once your feet get cold you spend the rest of the day pretending they aren't.”
 
-"She didn't actually threaten me."
+“I'll add socks to the official list,” Percy said. “Clarisse mentioned there were rules. I'm trying to find out whether breakfast is allowed before we review them.”
 
-"That's promising," Silena replied. "She gets protective when she thinks Annabeth's being pushed around, and Annabeth hates being treated like somebody's project. It keeps both of them busy."
+“Breakfast's encouraged. The chore rota isn't optional, though.” She passed him the bread basket, and her fingers were stained with something faintly blue near the nails. Paint, he guessed, not the sign of any mysterious power or prophecy. “Give him five minutes, Clarisse. He hasn't even finished one meal with us yet.”
 
-Percy thought of the unfinished plans Annabeth had been carrying and Thalia straightening her necklace without asking. "I noticed."
+“Five minutes is generous,” Clarisse replied, but she reached for the jam and pushed it closer to him anyway.
 
-"Good," Silena said. "Notice the cabin rules that carefully and we'll get along."
+Percy took a slice and was grateful for the ordinary difficulty of spreading jam on bread without tearing it. His hands knew more of sword hilts than they ought to, and sometimes the simplest tasks helped him remember that this body belonged in a day with other people. At the next table somebody began an argument about the best route to the arena, while two Apollo children discussed whether the clouds would hold off until the afternoon. A horn sounded from farther along the camp boundary; three quick notes that drew no alarmed glances from the adults. Whatever the signal meant in this version of camp, the people around him had learned it. He made a mental note to ask rather than assume.
+
+“Have you met Annabeth yet?” Silena asked after a while. “Thalia's sister. She'll probably want to know whether you remember enough architecture to be useful to her.”
+
+Percy nearly answered with five years of memories he could not share: Annabeth drawing floor plans on the backs of receipts, Annabeth insisting that a good bridge was an argument between weight and grace, Annabeth catching his hand in the dark when neither of them could see the way out. He swallowed those images and answered with what had actually happened. “Grover took me to the Athena workroom yesterday. We talked for a bit.”
+
+“Then you've probably met Thalia's welcoming committee,” Clarisse said, tipping back her mug.
+
+“She didn't threaten me,” Percy replied. “Not directly, anyway.”
+
+“That's an improvement over some of her introductions,” Silena said. She laid a napkin across her lap and considered him with a steadier gaze. “Thalia's protective of Annabeth, and Annabeth doesn't enjoy being managed. If the two of them start arguing about what's best for her, don't assume that the person speaking the loudest is the person who needs your help.”
+
+The advice stopped Percy more effectively than a reprimand would have done. He remembered Thalia adjusting Annabeth's necklace in the workroom, and the way Annabeth had borne the attention while seeming to hold herself very still. In his old life he had thought he understood the Grace sisters and all the grief that joined them, but this version of their childhood belonged to them, not to his memories. “I'll try to remember that,” he said.
+
+“Good. If you apply the same attention to the cabin rules, we may all survive your first week.” Silena took another piece of bread and glanced toward the far edge of the pavilion, where a pair of campers had begun carrying dishes away. “Now eat. I need to put your name on the rota before somebody decides a prince doesn't wash his own cup.”
+
+Percy looked down at the jam he had managed to spread all the way to the crust and smiled despite himself. He did not have the life he remembered, and he could not speak freely to either of the girls who sat beside him. Still, Clarisse had shown him where to hang his gear, and Silena had made him a place at the table. The gestures were not proofs of belonging, much less invitations to treat them as the sisters he already knew in his head. They were beginnings, and for the first morning since he had woken beneath the sea, he could endure the uncertainty of beginning.
 
 ---
 
