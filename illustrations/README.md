@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 120 of 217 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 125 of 217 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -726,3 +726,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/120-a-letter-from-the-sea.md)
 
 ![Clarisse and Silena carry orchard apples as Percy retrieves Amphitrite's sealed bottle from the tide.](120-a-letter-from-the-sea.jpg)
+
+## 121. The Cabin Three Pact
+
+[Source chapter](../chapters/121-the-cabin-three-pact.md)
+
+![Percy, Clarisse, and Silena gather their shell, sea-glass bracelet, and carved panther as they make a family pact.](121-the-cabin-three-pact.jpg)
+
+## 122. The Lake Stands Up
+
+[Source chapter](../chapters/122-the-lake-stands-up.md)
+
+![Triton rides the raised canoe lake to shore as Percy, Clarisse, and Silena welcome him.](122-the-lake-stands-up.jpg)
+
+## 123. The Garden Under the Sea
+
+[Source chapter](../chapters/123-the-garden-under-the-sea.md)
+
+![Clarisse braces a coral nursery shelf while Silena threads kelp and Percy guides a careful current under Amphitrite's watch.](123-the-garden-under-the-sea.jpg)
+
+## 124. After the Reef
+
+[Source chapter](../chapters/124-after-the-reef.md)
+
+![Silena tests the woven kelp sample at the cabin table while Clarisse watches and Percy writes a letter.](124-after-the-reef.jpg)
+
+## 125. The Invitation Accepted
+
+[Source chapter](../chapters/125-the-invitation-accepted.md)
+
+![Triton opens the lake corridor as Percy and Annabeth hold hands and their friends enter the current for Atlantis.](125-the-invitation-accepted.jpg)
