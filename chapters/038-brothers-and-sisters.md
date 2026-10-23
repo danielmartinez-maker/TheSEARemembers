@@ -67,7 +67,7 @@ Triton raised an eyebrow. "You must have been drilling with the Ares cabin again
 
 Clarisse blinked, then laughed — a short, surprised bark. "Okay. I like him."
 
-Thalia and Annabeth arrived a second later, Thalia with her arms crossed, her black hair streaked with silver, her leather jacket over her shoulders despite the heat.
+Thalia and Annabeth arrived a second later, Thalia with her arms crossed, her black hair still tipped with blue, her leather jacket over her shoulders despite the heat.
 
 "So," Thalia said, looking Triton up and down. "You're the famous big brother."
 
@@ -407,7 +407,7 @@ Chiron's eyes were suspiciously bright. Mr. D actually put down his newspaper an
 
 Then Team Sea. Percy stepped forward, holding their platter with both hands like an offering. Triton stood behind him, arms crossed, uncharacteristically serious. Thalia held the bread, a golden, slightly lopsided loaf drizzled with honey.
 
-Percy took a breath. "Uh. Hi. So — I'm learning what family feels like at camp. Blue food on birthdays used to mean a tiny apartment with my mom — long story — and I still miss that. Here there's Atlantis, and Amphitrite, and our dad, and a brother who's like, a thousand years old and steals my toast —"
+Percy took a breath. "Uh. Hi. So — I'm learning what family feels like at camp. Blue food on birthdays used to mean a tiny apartment with my mom — long story — and I still miss that. Here, I have Atlantis, Mom — Amphitrite — and our dad, plus a brother who's like, a thousand years old and steals my toast —"
 
 "Accurate," Triton said.
 
@@ -920,7 +920,7 @@ Percy held out his wrist immediately. "Duh."
 
 As Annabeth tied the string with fumbling fingers, Percy looked around the fire — at Triton smiling at Thalia, at Silena leaning on Clarisse's shoulder, at Chiron watching them all with shining eyes, at camp, at home — and felt something expand in his chest, warm and huge and a little scary.
 
-He remembered a childhood when family had been just him and Sally against the world. Everyone here remembered the boy raised in Atlantis, with Amphitrite and Triton and sisters waiting at camp. He hadn't recovered those years, but the people in front of him were real. Annabeth was real. They yelled at him, fed him, sparred with him, teased him, saved him.
+He remembered a childhood when family had been just him and Sally against the world. He'd heard stories of the boy raised in Atlantis with Amphitrite and Triton, but he hadn't recovered those years. The people in front of him were real. Annabeth was real. They yelled at him, fed him, sparred with him, teased him and saved him.
 
 He had a big family now. A weird, loud, mismatched, impossible family.
 
