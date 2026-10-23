@@ -666,7 +666,7 @@ He'd been sent to retrieve a coil of rope left by the canoe crew. He wasn't look
 
 Clarisse nudged the coil toward him. "They can have it. The last section's fraying, so tell them not to use it for anything that needs to hold weight. I was about to put it in the repair pile."
 
-Clarisse nudged the rope toward him with one bare foot. Percy picked it up and checked for cuts. Most of the length was sound, but the last yard had begun to fray.
+Percy picked it up and checked for cuts. Most of the length was sound, but the last yard had begun to fray.
 
 "I'll mark it for repair when I get back," Percy said, separating the damaged end from the rest.
 
