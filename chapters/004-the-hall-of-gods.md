@@ -1,50 +1,40 @@
 ## Chapter 4: The Hall of Gods
 
-The Hall of the Gods occupied the green where Percy remembered campers setting up folding tables for festivals. Its twelve columns were impressive, but he noticed the ordinary marks first: wheel scuffs near the north doorway, a mason's patch beside a seam, and a scratched service path where heavy lamps had been carried around the mosaic. Somebody had planned, paid for and maintained the place. He wanted to know who.
-
-Percy stood at the entrance as wind lifted the dust caught in the carved letters above him. The steps were damp in the shade, and the inscription looked freshly scrubbed compared with the masonry around it. The inscription read: *Know Thyself, Know Thy Father, Know Thy Fate.*
+The Hall of the Gods stood where Percy remembered campers setting up folding tables for festivals. Its twelve columns impressed him less than the ordinary marks: wheel scuffs near the north doorway, a mason's patch at one seam, and a scratched path where people had carried heavy lamps around the mosaic. Someone had planned, paid for, and maintained this place. Wind stirred dust around the carved motto, which looked freshly scrubbed against the older masonry: *Know Thyself, Know Thy Father, Know Thy Fate.*
 
 "Noble, isn't it?"
 
-Percy turned. A girl stood behind him — maybe fifteen, with dark skin and close-cropped hair, wearing a camp necklace with more beads than seemed possible. She was smiling, but her eyes were assessing.
+Percy turned. A girl stood behind him, maybe fifteen, with dark skin, close-cropped hair, and a camp necklace crowded with more beads than seemed possible. She smiled, though her eyes were assessing him.
 
 "It's new," Percy said carefully.
 
-"Three years old. I'm Zoe. Daughter of Hecate. And I'm telling you this because I think you're going to figure it out eventually anyway: the camp isn't what it seems. The rules are different here. The gods are closer. And there are things happening that nobody talks about."
+"Three years old. I'm Zoe, daughter of Hecate. You'd figure that out soon enough, so here's the other thing: this camp isn't what it seems. The rules are different, the gods are closer, and things are happening that nobody wants to discuss."
 
 "Like what?"
 
-Zoe glanced around, then lowered her voice. "Like the fact that three years ago, someone broke into the Big House and stole a prophecy from the attic. Nobody was ever caught. Chiron won't even talk about it."
+Zoe glanced around before lowering her voice. "Three years ago, someone broke into the Big House and took a prophecy from the attic. Nobody caught them, and Chiron won't talk about it."
 
 Percy's blood ran cold. "A prophecy?"
 
-"A big one. The kind that makes the gods nervous. I don't know what it said. But the building approvals, new cabin rules and increased divine visits all appear in records from roughly the same period. People argue about which happened first." She met his eyes. "Something happened here, Percy. Something big. And I don't think it's over."
+"A big one, the sort people say makes the gods nervous. I don't know what it said, but the building approvals, new cabin rules, and increased divine visits all appear in records from roughly the same period. People argue about which came first." She met his eyes. "Something happened here, Percy. I can't prove the theft caused any of it, but I don't think the questions are finished."
 
-Percy took two steps after her.
+Percy took two steps after her, then caught himself before following too closely. "Wait. How do you know a prophecy was taken? If it was stolen, there should be an incident report, a replacement record, or somebody who saw the thief. You said nobody was caught."
 
-"Wait. How do you know a prophecy was taken?"
-
-Zoe stopped, but her expression changed at the question. The smile she had worn while introducing herself slipped away.
-
-"Why?"
-
-"Because if somebody actually stole one, there should be an incident report. Or a replacement record. Or somebody who saw the thief. You said nobody was caught."
-
-"You're asking the right question, at least."
+Zoe stopped, her smile slipping away. "You're asking the right question, at least."
 
 "That's not an answer."
 
-"No." She looked toward the Hall. "Come inside."
+"No," she said, looking back toward the Hall. "It isn't. Come inside; the records may tell us more than either of us knows."
 
 The interior was cooler than the steps, and so clean Percy could smell the polish on the benches. Sunlight fell through the upper windows in twelve narrow bars, crossing the enormous mosaic on the floor. Two campers were carrying a brass lamp from one side of the room to the other. They looked at Zoe and then quickly away.
 
-"Did they see something?" Percy asked.
+"Did they see something?" Percy asked, watching the two campers hurry the lamp along.
 
-"They're on maintenance duty."
+"They're on maintenance duty," Zoe replied.
 
-"That wasn't what I asked."
+"That still doesn't answer me."
 
-"You'll discover I find people who repeat my words less interesting than people who examine them."
+"No," she said, holding his gaze. "You'll discover I find people who repeat my words less interesting than people who examine them. If you're trying to find out what happened, ask what they saw."
 
 She led him around the edge of the mosaic, avoiding the central image of Zeus. Up close, Percy could see lines scratched into the stone at the joins between tiles. They formed circles around the standing places for twelve Olympians. The marks looked decorative until a camper rolled a lamp stand across one.
 
@@ -54,29 +44,25 @@ Zoe caught the stand before its foot crossed the line.
 
 The camper muttered an apology. The boy beside him hurried to lift the other end, and together they carried the lamp around the room.
 
-"Why?" Percy asked when they'd gone.
+"Why stop them?" Percy asked once the lamp was safely around the room.
 
-"Because it weighs too much. The tile joints weren't designed for equipment carts."
+"Because it's too heavy for the tile joints; they weren't built to take equipment carts." Zoe crouched near the join. "The floor needs protecting for that ordinary reason, whether or not there's something else going on."
 
-"That's all?"
+Percy studied the marks around the Olympians. "And the lines in the mosaic?"
 
-"That's a good enough reason to protect the floor." Zoe crouched near the join. "There may be others, but I won't pretend I have one."
+"There may be another purpose, but I don't have evidence for one."
 
 She ran a finger an inch above the stone without touching it. A faint prickle passed along Percy's arms. Not a wave. Not the deep pressure of sea magic. Something dry and humming, almost like standing under a power line.
 
-"Did you feel that?" she asked.
+"Did you feel that?" Zoe asked.
 
-"Yes."
+Percy looked at his arms, where the prickling had risen and fallen with the dry hum. "Yes. It felt like static—or maybe a ward."
 
-"What did it feel like?"
+"Those are different explanations."
 
-"Static. Or a ward."
+"I know. I haven't ruled either out."
 
-"Those are different answers."
-
-"I haven't ruled either out."
-
-She smiled briefly. "Better."
+Her smile appeared briefly. "Better."
 
 Zoe gestured toward the base of a northern column. Between the polished sections lay one narrow patch of rougher stone. The mortar around it was newer, and a little brass pin had been driven beside the seam.
 
@@ -212,17 +198,17 @@ Annabeth pulled an empty sheet toward her. "Zoe heard it from Chiron, and you he
 
 They stared at each other while cold lamplight pooled on the table, the mystery pressing around them like deep water.
 
-"We need to talk to Chiron," Annabeth said, checking the path behind them. "Carefully. We can't just ask him about a stolen prophecy — that would raise too many questions."
+"We should talk to Chiron, carefully," Annabeth said, checking the path behind them. "We can't ask outright about a stolen prophecy without raising questions of our own."
 
-"Agreed. But there might be another way. The attic of the Big House — if the prophecy was taken, there might be records. Notes. Something."
+Percy nodded. "The attic might hold records or notes we can check before deciding those events are connected."
 
-"You want to break into the Big House."
+"You mean you want to break into the Big House."
 
-"I want to *investigate* the Big House. Breaking in is just a method."
+"I mean I want to investigate it. Breaking in is a method, and probably a stupid one."
 
-Annabeth smiled — small and conspiratorial. "When?"
+Annabeth's smile was small and conspiratorial. "When?"
 
-"Tonight."
+"Tonight, before I talk myself into waiting until morning."
 
 ---
 
