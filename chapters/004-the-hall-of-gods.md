@@ -674,47 +674,47 @@ Somebody had dug a ditch and built a useful thing. The work was on a map, and th
 
 ---
 
-The next day, Percy was summoned to Chiron's office.
+The following afternoon Chiron sent word that he wished to see Percy at the Big House, and Percy spent the walk uphill wondering how much the centaur knew about the attic. He had slept badly after their first visit and worse after discovering that the document they had taken was less conclusive than he had wanted it to be. By morning he had begun to suspect that every counselor who paused to look at him was trying to decide whether to ask what he had done. His imagination supplied a whole system of surveillance where there might have been nothing more suspicious than a twelve-year-old boy looking miserable at breakfast. It would have been easier, Percy thought, if the gods had simply announced when they were angry instead of allowing people to spend an afternoon guessing.
 
-He found the centaur in his wheelchair form, but his expression was grave. Beside him, Mr. D stood with his arms crossed, looking even more irritated than usual.
+The Big House looked almost welcoming in the fading light. The porch boards had been swept, a coil of garden hose lay neatly beside the steps, and somewhere inside someone was baking something with cinnamon. An older camper was fixing a loose hinge on a cupboard just beyond the open door. He glanced at Percy without any particular interest and went back to his work. Percy disliked being reminded that the building was not a fortress of secrets for his personal investigation. It was Chiron's office, Mr. D's unwilling home, and the place where people came to ask for supplies or permission to change their duties. Whatever had happened in its attic, the rooms below were occupied by people doing ordinary things.
 
-"Percy," Chiron said. "Thank you for coming."
+Chiron was in his wheelchair disguise behind the desk, examining a set of papers weighted at one corner with a smooth gray stone. Mr. D stood beside the window with his arms crossed and a cup of something dark in his hand, looking as though the whole afternoon had been a personal insult. Percy knew that expression from the older life. He had been relieved, once, to discover that Dionysus could be genuinely worried about campers without ceasing to complain about them. He was not sure whether this younger Percy had given the god reason to think well of him, and he did not intend to assume the relationship was unchanged.
 
-"Of course. What is it?"
+“Thank you for coming promptly,” Chiron said, motioning toward the chair in front of the desk. “We've had questions about the Hall of the Gods, and Zoe mentioned that you were interested in the repair records. There is nothing wrong with curiosity about a place you haven't used before, but I would prefer you ask the people responsible for the work instead of collecting rumors at the edges of the training grounds.”
 
-Mr. D answered before Chiron could. "You've been asking questions. The daughter of Hecate told me you've been poking around the Hall of the Gods, asking about the changes. Asking about the prophecy."
+Percy sat, unsure whether the opening was an invitation or a warning. “Zoe said there was a later repair that didn't appear on the original building list. I wanted to know what it was for. The Hall wasn't here the last time I saw camp, and I don't know much about who built it.”
 
-Percy kept his expression neutral. "I was curious."
+Mr. D lifted his cup. “An excellent question. I would also like to know why anyone needed a marble hall in which to discuss the gods. They could have saved everyone considerable trouble by discussing me in the dining pavilion, where there are chairs and something drinkable within reach.”
 
-"Curiosity gets people killed." Mr. D's voice was sharp. "Especially curiosity about things they shouldn't know about."
+Chiron did not smile, but Percy saw the smallest change in the lines around his eyes. “The Hall serves several purposes, and the council approved it over several stages. The repairs Zoe mentioned were made after the original dedication. That is not unusual for a building used by several cabins.”
 
-"I don't think I'm the only one who's noticed the changes," Percy said carefully. "The camp is different. The rules are different. People have been talking about it."
+“Then why are parts of the authorization records missing from the public copies?” Percy asked. He could have made the question sound casual, but after the last several days he was tired of pretending not to care about answers. “If people are supposed to learn how the building works, you'd think they'd be able to see who paid for the work and when it was done.”
 
-"People talk too much." Mr. D's eyes were hard. "And people who talk too much tend to have accidents."
+“Some records contain information about wards and security arrangements,” Chiron replied. “Those are not placed in the public library, because a map showing how to protect a building also shows someone how to damage it. Other records are incomplete because the work was completed over time and the clerks did not always file their copies as carefully as they should have. It is fair to ask whether something is missing. It is less fair to decide, before asking, that someone must have hidden it for a sinister purpose.”
 
-"Mr. D," Chiron said quietly. "Perhaps that's enough."
+Percy thought of the pages in his bag and looked toward the window. A shadow moved across the porch as the camper outside carried his tools to a different room. He had been looking for a conspiracy because the missing years of his life demanded an explanation. Chiron's account made the gaps sound irritating, ordinary, and entirely human, which did not make it less plausible. “I don't think every missing page is a secret,” Percy said. “I suppose I wanted the dates to line up so I could tell what changed first.”
 
-The god of wine — who looked nothing like a god of wine, with sharp eyes and an even sharper tongue — studied Percy for a long moment. Then he said, "I don't like this one, Chiron. Too much curiosity. Too much backbone. He'll get himself killed, or worse, get someone else killed."
+Mr. D gave him a long look. “And what exactly do you imagine changed? The color of the walls? The number of campers complaining about their chores? Things change every year, Jackson. The unfortunate nature of the world is that people keep having ideas, and a certain percentage of them insist on putting those ideas into practice.”
 
-"With respect, Mr. D," Percy said, "I've been at camp for two weeks. I've been nothing but polite. I've done everything I've been asked to do. Why would I get myself killed?"
+Percy let the question pass rather than risk an answer he could not safely give. He was not prepared to tell either of them that the childhood they believed he had lived was missing from his own memory, or that Annabeth remembered a mother who was no longer hers in this history. The room felt crowded with that knowledge even though nobody else had spoken it. He reached for the safer part of the truth. “People keep talking about a prophecy that was taken from the attic three years ago. Zoe said she had heard the story from older campers. Does it have anything to do with the Hall?”
 
-"Because you're a child of the Big Three in a time when the Big Three are very important. That makes you either very useful or very dangerous. Depending on who's doing the asking." Mr. D turned away. "Watch yourself, Jackson. Some questions aren't worth the answers."
+The silence after the question was longer than he expected. Mr. D set down his cup, and Chiron regarded Percy with the weary patience of someone who had heard a dangerous rumor repeated often enough to know that dismissing it would not make it vanish. “There were concerns about the security of our records during that period,” Chiron said at last. “The details are not mine to discuss with every camper who hears a story, particularly when some of those records are bound up with the Oracle's duties. I can tell you that a rumor about a theft is not evidence that the Hall, its builders, and every family at camp have been drawn into a single design.”
 
-He swept out of the office, leaving the air heavy with unspoken warnings.
+“That's not what I was saying,” Percy answered, though he knew how close the suspicion had come to his own thoughts. “I wanted to know whether there was an incident report. If somebody reported a theft, that would be one date we could compare to the building records.”
 
-Chiron watched him go, then turned back to Percy with an expression that seemed almost... apologetic.
+“It would also be a record maintained for a reason,” Mr. D said. His voice had lost some of its theatrical irritation. “You have not been given the responsibility for guarding the Oracle, and I would suggest you refrain from volunteering yourself. A child of one of the great gods attracts enough attention without climbing after every tale he hears. You may find that curiosity makes you interesting to exactly the wrong sort of people.”
 
-"He's not always so harsh," the centaur said.
+Percy met his gaze. “I understand that there's a risk. I just don't like being told to ignore a question because it might have an ugly answer.”
 
-"I know. He's worried."
+“Then learn to tell the difference between a question worth asking and a dare you've given yourself,” Mr. D replied. He moved toward the door, stopped to look back at Chiron, and added, “If he's going to continue wandering through the records, at least make him useful. There are still cabinets nobody has organized since last spring.” The door closed after him without a slam. Percy could not decide whether that counted as a concession or a punishment.
 
-"More worried than usual. Something is coming, Percy. Something that has the gods on edge and my old friend Dionysus reaching for his thyrsus before noon." Chiron leaned forward. "I don't know what it is. But I know that the answers to some questions are more dangerous than the questions themselves. And I think you need to decide, very carefully, which ones you're willing to die for."
+Chiron waited until the footsteps had moved down the hall. “Dionysus speaks more sharply when he is concerned, although that does not always make his advice pleasant. We have had to increase our caution about certain records. That is not a reason to treat you as a criminal for asking about them.” He straightened a page on his desk. “If you want to understand the Hall's construction, I can arrange for you to inspect the public work logs and speak with the people who repaired it. Zoe has already volunteered to help with the comparison. I would rather have curious campers learn how to handle evidence properly than force them to make do with rumors.”
 
-Percy met the centaur's ancient eyes. "I'm already willing to die for the answers. The question is whether I'm willing to let other people die because I don't have them yet."
+Percy was tempted to accept without qualification. He wanted to work through the records with Annabeth at his side, and the offer sounded almost exactly like the route she had suggested before he talked her into the attic. Yet the knowledge of the stolen page made it difficult to answer as though he had done nothing more than ask a question. He had not been caught, as far as he could tell. That did not erase the choice. “I think I'd like that,” he said. “And I need to think about whether I've already made some decisions I should have talked to you about first.”
 
-Chiron was quiet for a long moment. Then he said, "That's the question, isn't it? And I don't have an answer for you. I'm sorry."
+Chiron studied him for a moment. Percy wondered whether the centaur understood more than he was prepared to say, but the expression told him nothing certain. “Then think carefully, Percy. You are allowed to be frightened of what you do not understand. You are also responsible for how you act when you're frightened. There are other children here whose safety depends on the records and protections you're asking about, and their interests do not disappear because your questions feel urgent.”
 
-Percy walked out with Chiron's apology following him, heavier than the warning.
+Percy got up, thanked him, and took the steps down from the porch with less certainty than he had carried into the office. Nothing he had heard proved who had written the altered prophecy, why the Hall had been built, or what had happened to the two lives only he and Annabeth could remember. Chiron had offered a practical way to learn some of those things without stealing anything. Percy would have to tell Annabeth about the conversation, and he suspected she would be pleased about the offer and furious that he had made it necessary. It was a less dramatic prospect than confronting a hidden enemy, and considerably harder to avoid.
 
 ---
 
