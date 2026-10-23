@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 130 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 135 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -785,3 +785,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/130-the-family-photo.md)
 
 ![Percy poses between Clarisse and Silena beneath the maple for their Cabin Three family photograph.](130-the-family-photo.jpg)
+
+## 131. Cabin Three at Night
+
+[Source chapter](../chapters/131-cabin-three-at-night.md)
+
+![Percy listens as Clarisse, wrapped in a blanket, shares a childhood memory over cocoa with Silena beside her.](131-cabin-three-at-night.jpg)
+
+## 132. A Month Beneath the Sea
+
+[Source chapter](../chapters/132-a-month-beneath-the-sea.md)
+
+![Percy joins Clarisse and Silena on the canoe-dock beach beside their Atlantis photograph; Clarisse wears a red bikini and Silena a pink floral bikini.](132-a-month-beneath-the-sea.jpg)
+
+## 133. Annabeth's Birthday
+
+[Source chapter](../chapters/133-annabeth-s-birthday.md)
+
+![Percy gives Annabeth his hand-drawn house-by-the-sea sketch at her birthday while Thalia watches beneath the lanterns.](133-annabeth-s-birthday.jpg)
+
+## 134. The Secret Passage
+
+[Source chapter](../chapters/134-the-secret-passage.md)
+
+![Percy holds the lantern as Annabeth, Thalia, Clarisse, and Silena study the ancient Big Three mural uncovered beneath the cabins.](134-the-secret-passage.jpg)
+
+## 135. The Garden
+
+[Source chapter](../chapters/135-the-garden.md)
+
+![Annabeth replans the garden around the old shrine as Percy, Silena, Clarisse, and Chiron gather with seedlings and the old camp plan.](135-the-garden.jpg)
