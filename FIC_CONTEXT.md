@@ -9,6 +9,8 @@
 
 > **Core promise:** Percy and Annabeth remember a future together, but return to a changed earlier point in their own history. They must keep their established bond while learning to live with families who know childhoods that they themselves do not remember. Family intimacy, romance, camp life, and ordinary shared experiences are the story's center. Mystery, quests, and divine politics should complicate those relationships, not replace them.
 
+**Active prose directive (2026-10-22):** The author requested a literary overhaul of **every existing chapter, 001–213**, aiming for sustained narrative paragraphs of **70+ words where naturally appropriate** and eliminating pervasive staccato dialogue and emotionally sterile, corporate-sounding exchanges. Do not inflate spoken lines to meet paragraph targets. Write flawed, affectionate, angry, grieving and distinct characters, with sustained POV interiority and natural conversational variation. This overrides older stylistic experiments but does not amend plot canon. See [the manuscript-wide progress tracker](editorial/MANUSCRIPT-WIDE-PROSE-OVERHAUL-2026-10-22.md) and [prose acceptance standard](editorial/prose-dialogue-acceptance.md). Initial scoped rewrites in Chapters 194, 209, 211 and 213 remain **partial**, not certified whole-chapter edits. No manuscript-wide prose pass has been completed.
+
 This document describes **intended canon and writing requirements**, not a certification that every existing chapter complies. Do not treat a contradiction in an older draft as new lore. Identify it, document it, and revise it deliberately.
 
 ---
@@ -28,8 +30,8 @@ When two sources disagree, use this order:
 
 ### 1.2 Working files, as of 2026-10-22
 
-- **GitHub source for this pass:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers), with `main` pinned at `63ae90bb6aad31753fcabfd057a1771359594dca` before edits. It contains numbered Markdown files for **chapters 1–198** and **two bonus interludes**, plus an index, manifest, and assembly script.
-- **GitHub filename convention:** `chapters/001-the-weight-of-salt-and-sky.md` through `chapters/198-the-face-of-thunder.md`. Use the actual filenames in `CHAPTER_INDEX.md`; do not assume the older `chapters/ch02.md` convention still applies in this repository.
+- **GitHub source for this pass:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers), with `main` pinned at `63ae90bb6aad31753fcabfd057a1771359594dca` before edits. The active PR branch contains numbered Markdown files for **chapters 1–213** and **two bonus interludes**, plus an index, manifest, and assembly script.
+- **GitHub filename convention:** `chapters/001-the-weight-of-salt-and-sky.md` through `chapters/213-the-person-in-the-middle.md`. Use the actual filenames in `CHAPTER_INDEX.md`; do not assume the older `chapters/ch02.md` convention still applies in this repository.
 - **Authority update:** The user's 2026-10-13 direction to work from the latest GitHub repository supersedes the earlier local-copy precedence for this pass. Historical/deprecated local manuscript copies were not used or reconciled; do not treat them as competing authorities unless the user explicitly re-designates one.
 - **Arc continuity:** The originally planned fourth-arc range was chapters **140–164**, but the story continued through Chapter **193** as one continuous developing stretch. On 2026-10-21 the user set a new boundary after Chapter 193 and authorized a distinct family-first arc for Chapters **194–218**. All twenty-five installments are now drafted at **257,723 body words** by the repository's whitespace-token method; Chapter 218, “Tide, Thunder, Home,” measures **10,488 body words**.
 - **Exports:** Existing PDF/DOCX volumes are historical until rebuilt from selected, corrected sources. Preserve old versions.

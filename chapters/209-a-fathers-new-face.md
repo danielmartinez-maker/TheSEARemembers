@@ -518,313 +518,127 @@ Zeus tapped the notebook with one finger. “A mind that can listen before it de
 
 He smiled at her, and for a moment the table held only the two of them. Thalia knew that warmth. It had been there when Zeus praised Annabeth for being agreeable, when he asked about her report before he asked how she was, when he appeared under another face and expected the conversation to begin clean.
 
-“Your sisters have always had trouble with that,” he said.
+“Your sisters have never been very good at that,” Zeus said. He kept his attention on Ianthe as though the remark were a private compliment they could enjoy together.
 
-The pressure at Thalia’s temples sharpened. “With what?”
+Thalia felt Annabeth go still across the table. That was the first warning, before the tightness in the air or the familiar ache gathering behind Thalia's eyes. She knew this trick. He could turn any kindness into a contest and somehow leave everyone who objected looking ungrateful. He'd done it when they were small enough to think a father's praise ought to be uncomplicated. Now he was doing it with a weather notebook and a girl who had been at camp barely long enough to know which path flooded after rain.
 
-“Listening.” He kept his gaze on Ianthe. “They hear a question and prepare an argument. You don’t.”
+“Never been good at what?” Thalia asked, though she knew perfectly well.
 
-Ianthe’s hand stopped on the page. “They listen.”
+“Listening when someone has more experience than they do. Ianthe, on the other hand, takes correction seriously.” Zeus turned another page, tapping the penciled caveat with one finger. “She understands that an observation is only as useful as the care behind it.”
 
-“Do they?” His smile did not change. “Thalia has never been patient with correction. Annabeth would rather turn every feeling into a problem to solve.”
+Ianthe looked pleased. It was a quick, unguarded expression that Thalia almost wished she hadn't seen, because a moment later the girl caught Thalia looking and folded back into herself. She'd worked hard on the notes. She deserved to hear that they were good, and Thalia resented her father for making even that feel dangerous. Across the table, Annabeth laid down her cup slowly enough that it didn't make a sound.
 
-Annabeth set down her cup. “That’s not what we were talking about.”
+“Ianthe's done good work,” Annabeth said. “Beckendorf helped her set up the comparisons. It's getting more reliable.”
 
-“I’m complimenting your sister.”
+Zeus's eyes moved to her. “You've always had a gift for finding the flaw in a compliment.”
 
-“Then compliment her without using us as the contrast.”
+“I wasn't finding a flaw. I was telling you who helped.”
 
-Zeus looked at her, finally. “You used to be more pleasant than this.”
+“And that is precisely what I mean.” His pleasant expression remained in place, which made the dismissal worse. “Some people can accept encouragement. Others insist on making a discussion out of it.”
 
-Thalia felt her fingers curl against her palm. She unfolded them. The old answer rose up—he had praised Annabeth for easy obedience before, and the warning that had followed when she tried to speak about the cost of it. Thalia swallowed the words that belonged to that earlier room. Annabeth was here. She could answer for herself.
+Thalia remembered Annabeth at twelve, carefully practicing the right answer for a visit she'd pretended not to care about. They hadn't been able to predict whether Zeus would ask about her lessons, her powers, or the way she'd spoken to somebody at dinner. What Thalia remembered most vividly was how Annabeth had gone quiet afterward, convinced she should have found a better sentence. Thalia had spent years trying to make sure no one talked to her little sister like that again. She had failed at it more often than she liked to admit.
 
-Ianthe closed the notebook halfway. “What did you come to talk about?”
+“Then talk to her,” Thalia said, gesturing toward Ianthe. “Ask her what she's been doing. You came to see her, didn't you?”
 
-“To see you.” His voice softened again. “To make sure you were well.”
+Zeus gave her a brief, cold look. “I was speaking to her until you interrupted.”
 
-“You could have asked me that first.”
+“No, you were speaking *about* us. There's a difference.”
 
-“I have asked.”
+It was the wrong thing to say. She knew it when the air shifted and the water in the pitcher trembled against the glass. Annabeth glanced at her, not for rescue, but because she knew the exact moment Thalia had gone from irritated to reckless. Thalia hated that look almost as much as she loved her for it. She unclenched her fist under the table, where Zeus couldn't see what it had cost.
 
-“You asked about the weather notes.”
+“Thalia,” Annabeth said, quietly enough that only she could hear.
 
-“I asked what I saw. Your skill is part of you.”
+“I'm fine.” The lie came out before Thalia could stop it.
 
-“That isn’t the only part.”
+Ianthe closed the notebook, trapping her pencil between its pages. “Actually, I was going to ask you something, Father. About the last pressure reading. You said the sea wind can change before the clouds do, and I wanted to know if you'd—”
 
-He tilted his head. “No. Of course not.”
+“Yes,” Zeus said, without looking at the page. “A sound principle. You'll understand it better once you've worked with people who have more discipline.”
 
-His hand moved toward the notebook, then stopped short of touching it. “You’ve been living with the older girls?”
+Ianthe's lips parted. She had been about to ask a different question; Thalia could tell from the startled annoyance that crossed her face. But she swallowed it, and there it was again: the old family habit of deciding which parts of yourself were worth showing him. Thalia couldn't blame her. She remembered doing it too.
 
-“Mostly at the Big House.”
+“I was asking whether you'd seen the change on the eastern ridge,” Ianthe tried again. “The flags didn't match, and Beckendorf said the source might be wrong.”
 
-“Until they make a proper place for you.”
+“Then you should listen to Beckendorf. He appears to know his work.”
 
-No one had promised a place. The sentence landed between the girls as if it were already decided.
+“I did listen. I wanted to know what *you* thought.”
 
-Ianthe’s eyes moved from Zeus to Thalia and back. “I have a room here.”
+For the first time since entering the pavilion, Zeus seemed caught without an answer ready. It lasted hardly a second. “I think you ought to be proud of how much you've accomplished here. Your sisters could learn a little from your willingness to improve.”
 
-“For now,” he said. “You shouldn’t have to wait for people who already know how to make this cabin work.”
+The notebook lay closed beneath Ianthe's hand. Thalia watched her thumb move over the cover, tracing the edge of a mark she'd made herself. It was not a great betrayal, what Zeus had done. He'd come when he'd said he would. He'd kissed his daughter and praised her work. There were families for whom that would have been a good afternoon. Thalia could see Ianthe struggling to keep it one.
 
-Thalia felt the old surge of anger and held it still. She could answer for herself. She could also wait to hear whether Ianthe wanted to.
+“Could you stop doing that?” Ianthe asked.
 
-Annabeth spoke first. “I want Ianthe in Cabin One. That doesn’t mean the room is ready or that we’ve decided who shares what.”
+Zeus raised his brows. “Doing what?”
 
-“Why not?” Zeus asked. “A family shouldn’t make one of its own wait outside.”
+“Bringing them into it. I was telling you about the ridge.” Her voice had tightened. “I wanted you to remember what I'd written. I didn't ask you to compare us.”
 
-“Because the cot still needs work,” Annabeth said. “The window latch needs an inspection. Ianthe’s preference matters. So does the person who will share the room.”
+Something changed in his face then, although the face itself was new to Thalia. The warmth went away from his eyes. “You are beginning to sound like your sisters.”
 
-“You have always been good at making simple things difficult.”
+“I haven't been around them long enough for that to be their fault,” Ianthe said, and Thalia was so surprised she nearly laughed. She caught it behind her teeth. Ianthe wasn't trying to be funny. She had started to look frightened of what she'd just said.
 
-Annabeth’s face did not change. “They aren’t simple to the person living there.”
+Zeus glanced around the pavilion, as though checking who might have overheard. Through the open doors Chiron remained on the path with Percy. A few campers were crossing the green beyond them, heads bent against the wind that seemed to be rising for no reason. “I came because I wanted to know you were well,” Zeus told Ianthe. “I thought you would be glad.”
 
-His fingers tightened on the table edge. A cup trembled once. The water inside it broke into tiny rings.
+“I am glad.” Ianthe's reply was immediate. “I told you that when you arrived.”
 
-“I am not asking you to answer for anyone,” he said.
+“Yet here we are, arguing.”
 
-“You just said we were making her wait.”
+“Because you keep telling me what I think.”
 
-“I am trying to help.”
+Thalia's throat tightened. It was an ordinary accusation from a fifteen-year-old to a parent. In any ordinary room it would have been the beginning of a sulk or a long argument over dinner. Here, the rafters made a small, dry crackle, and the cup at Annabeth's elbow began to tremble on its saucer. Zeus had not raised his voice. He didn't need to. Thalia rested both hands on her cane, partly to anchor herself and partly because she didn't trust what she'd do with them otherwise.
 
-“Then ask what help she wants.”
+He turned away from Ianthe and looked at the sisters. “Perhaps you would both care to explain why she is still living in the guest rooms. I was under the impression that my daughters shared a cabin.”
 
-The air went thin. Thalia heard a low crackle in the rafters. Zeus stared at Annabeth, the smile gone now.
+“We do,” Annabeth said. “Ianthe's going to have space in it. We're sorting out where the cot fits, and the window still leaks when the rain comes from the west.”
 
-“Careful.”
+“A cot.” Zeus repeated the word as if it were an insult. “You're making your sister wait for a cot.”
 
-Annabeth did not look away. “I am.”
+Annabeth looked at the rim of her cup. Thalia recognized what she was doing: counting the things she could explain, deciding which details he might use against her, trying to keep the conversation narrow enough that it wouldn't break apart. “There's room for her belongings and we want her there. But Ianthe needs to decide what she wants too. I'm not putting her in a bed because you want a quick answer.”
 
-The cup rattled against its saucer. Percy shifted outside the open door, but did not enter. Thalia pressed her heel flat to the floor. The brace held. She didn’t reach for Annabeth’s hand or step between them.
+Zeus gave a humorless little laugh. “You have always managed to turn the simplest family matters into a design project.”
 
-Ianthe looked from the cup to Zeus. The page in her notebook curled beneath the heel of her palm.
+“Maybe because I live in the room,” Annabeth said. Her tone was level, but Thalia saw the red rise along the edge of her ears. “It's easy to tell us what should happen when you won't be there for it.”
 
-“This is why I wanted to come,” she said.
+The cup jumped hard enough to spill water across the table. Ianthe flinched. Thalia felt the impact of that movement more sharply than the sound of the glass. She'd seen Zeus angry before, and she knew how quickly a room could become unsafe when he decided respect had not been offered quickly enough. The old impulse surged through her, to put herself between him and Annabeth, to make him look at the older sister first. She started to rise and felt the heel pull beneath her brace. Annabeth's gaze met hers, steady and furious, and Thalia forced herself back into the chair.
 
-Zeus’s head turned. “And I am glad you did.”
+“You should consider how you speak to me,” Zeus said.
 
-“Then don’t use me to tell them what the room should be.”
+Annabeth's fingers were flat on the table. “You asked why the room isn't ready. I answered.”
 
-He leaned back. For a moment the air loosened. “I said only that you deserve a place with your sisters.”
+“And now you're accusing me of neglecting you.”
 
-“I know what you said.”
+Thalia could see how badly Annabeth wanted to say *yes*. She knew because she wanted to say it too, wanted to drag every lonely birthday and every carefully phrased letter into the room and make him look at the damage without being able to call it insolence. Annabeth breathed once, then reached for a cloth and began soaking up the spilled water. The act of cleaning it seemed to irritate him more than another argument would have.
 
-“Do you think I’m wrong?”
+Ianthe pulled the notebook clear of the wet patch. “Father, please. This wasn't what I wanted.”
 
-“I think the place is for us to decide together.”
+He turned to her, and the pressure lessened just enough that Thalia could unclench her jaw. “What did you want, then? You've been given a place at this camp, capable people to teach you, and a visit from me. I can't make every part of your life easy.”
 
-The last word sounded carefully chosen. It also sounded new.
+“I wasn't asking you to.” Her voice caught, and she cleared her throat angrily. “I wanted to show you the notes. That's all. I worked on them because you remembered the last ones.”
 
+Zeus looked at her for a long moment. His expression softened in a way Thalia had learned to distrust, though she knew Ianthe might still want to believe it. “And I did remember. I am proud of the care you took.” He reached for the notebook, but Ianthe drew it back before his fingers touched the cover. He noticed. His hand settled on the table instead. “If you'd rather turn a pleasant visit into a grievance, I won't stop you.”
 
+“That's unfair,” Thalia said. She couldn't bear it anymore.
 
-“You may be right about the room,” Zeus said, in a voice that was almost patient. “But your sisters are making you wait in a guest space while they decide whether you are ready.”
+“Life has never promised to be fair to any of my children.”
 
-“I am not waiting because of them,” Ianthe said. “The cot is not ready.”
+There it was, the ancient pronouncement that always seemed to end the argument for him. Thalia felt fifteen again herself, raging at a voice in the sky that could make a punishment sound like a lesson. She remembered how Annabeth used to wait behind her after those encounters, too frightened to be angry until Thalia was angry first. That was part of why Thalia had so much trouble stepping aside now. She was afraid that if she gave up the role of shield, some part of their childhood would happen all over again.
 
-“Does that matter?”
+Ianthe's eyes had filled, though she looked determined not to let anyone see. “I'm not saying I hate you,” she said to Zeus. “I'm not even saying I wish you hadn't come. I just wish you would stop telling me what I'm supposed to be grateful for.”
 
-“It matters to the person who would sleep on it.”
+The silence was worse than the thunder. Zeus studied her, then looked at Annabeth and finally at Thalia, as if searching for the person responsible for a conversation he'd lost control of. His new face had made him look younger when he arrived. Now it had the same exhausted contempt Thalia remembered in every one of his disguises.
 
-The words were Annabeth’s. Ianthe looked at her, then at the notebook. Thalia saw the page’s corner unbend beneath her fingers.
+“You'll understand me better when you're older,” he said.
 
-“I said the arrangement was a problem,” Ianthe added. “I didn’t say they were keeping me out.”
+“I might,” Ianthe answered. “But I'm here now.”
 
-“You shouldn’t have to defend them,” Zeus said.
+For one ridiculous moment Thalia wanted to cheer. She was also terrified. Those feelings arrived together, and she could do nothing useful with either. Outside the door Percy had turned at the sound of the cup, but Chiron's hand rested lightly on his shoulder and he stayed where Annabeth had asked him to wait. Thalia was grateful for that too, and resentful that she was grateful, and so tired of calculating which kinds of love Zeus might punish.
 
-“I’m not.”
+He rose. The chair legs scraped against the floorboards. “I came because I wished to see my daughter. I hope that much will be remembered.”
 
-“You don’t owe them a defense.”
+Ianthe held the closed notebook against her chest. She looked young in a way Thalia hadn't allowed herself to notice before. “I'll remember it,” she said. Then, after a painful pause: “I'll remember the rest too.”
 
-“I know that.”
+Zeus's mouth tightened. For a second the air tasted like metal and the shadows beneath the rafters went sharply black. Then the pressure lifted. He straightened his raincoat, made a small, dismissive gesture toward the table, and looked out at the path as though the weather interested him more than his children.
 
-His voice sharpened. “Then why are we discussing it?”
-
-“Because you asked whether you were right.”
-
-A tiny flash moved behind his eyes. The nearby window gave a soft shiver. The pressure against Thalia’s temples returned. She could feel where the conversation wanted to go: toward his authority, their disrespect, a lesson about gratitude.
-
-“I asked whether you thought I was wrong,” Zeus said. “That is a different thing.”
-
-“You asked if I thought they were wrong to make me wait.”
-
-“And you said the room was not ready.”
-
-“Both can be true.”
-
-The silence held for a breath. Ianthe had not raised her voice, but her shoulders had gone stiff. She held the notebook closed now, her thumb pressed along the spine.
-
-Zeus looked back at Thalia. “You could make this easier for her.”
-
-Thalia kept her hands folded over the cane. “I told her she could see you.”
-
-“I mean the cabin.”
-
-“I don’t decide the room.”
-
-“You have lived there for years.”
-
-“Annabeth lives there too.”
-
-“And she has a habit of making every question a project.” His gaze flicked to Annabeth. “You could both make more room.”
-
-Annabeth sat very still. “I have already said I want Ianthe there.”
-
-“Then what is the difficulty?”
-
-“The cot. The latch. Ianthe’s preference. My room.” Annabeth paused. “Those are four different things.”
-
-“Nothing about that is complicated.”
-
-“It is if you skip the person who has to sleep there.”
-
-A cup trembled again. Zeus reached toward it, caught the rim with two fingers, and steadied it. He had made the motion small enough to seem accidental. Thalia had seen the air change. She would not pretend it had not.
-
-“I came here to see Ianthe,” Zeus said. “I did not come to be judged by my other daughters.”
-
-“Then don’t make us part of the comparison,” Annabeth said.
-
-“Annabeth,” Thalia said, softly.
-
-Her sister looked at her. “I’m fine.”
-
-“I know.”
-
-Thalia meant it. The old instinct to stand between Annabeth and their father had risen up again, but she left it where it was. Annabeth had answered him. Thalia would not take the sentence from her because the air had changed.
-
-Ianthe glanced at Annabeth. “You don’t have to make this about me.”
-
-“I’m not. I’m asking him to talk to you without using me as a contrast.”
-
-Zeus exhaled, and the sound was almost a laugh. “You always were clever.”
-
-Annabeth’s mouth went flat.
-
-“There,” Thalia said. “That’s exactly what you’re doing.”
-
-“What am I doing?”
-
-“Giving her the kind of compliment you think she’ll accept, then acting like it means the problem is finished.”
-
-His expression altered. The borrowed face could not quite hide the shift; the skin around his eyes tightened, and his shoulders drew back.
-
-“I have not said the problem is finished.”
-
-“You said I make it harder. You said she’s easier to be proud of.”
-
-“I said she has patience.”
-
-“You said that after you called her sisters difficult.”
-
-“I did not call anyone difficult.”
-
-“You said we were making a simple thing complicated.”
-
-“Because you were.”
-
-The sound in the rafters sharpened. One of the serving spoons clicked against the pitcher. Chiron had not left the doorway; he stood outside with his hands folded, neither entering nor interrupting.
-
-Thalia’s heel ached against the brace. She let the pain be what it was: an ache, not a warning to stand up or flee. She did not look down. Zeus had not earned a demonstration of how much she could endure.
-
-“I know what you think of me,” she said. “You don’t have to keep showing me.”
-
-His jaw flexed. “I think you have always mistaken correction for an attack.”
-
-“And you mistake being obeyed for being listened to.”
-
-The room held still. Ianthe’s fingers were white against the notebook cover. Annabeth’s gaze moved once to Thalia, then returned to Zeus.
-
-“You came to see me,” Ianthe said. “That’s what the note said.”
-
-“It did.”
-
-“Can you talk to me about me?”
-
-“I have been.”
-
-“No. You’ve talked to me about how well I listen. And about what my sisters do wrong.”
-
-Zeus’s head tipped slightly. “I am proud of you.”
-
-Ianthe looked at the notebook as if the words had been written there. “That is good to hear.”
-
-“I mean it.”
-
-“I know.”
-
-The two words sounded more careful than grateful. Thalia could not tell whether they hurt Ianthe or steadied her.
-
-“You shouldn’t need to apologize for being proud of your daughter,” Zeus said.
-
-“I didn’t ask you to apologize for that.”
-
-“Then what are you asking?”
-
-“I want to know if you see me when I’m not doing what you like.”
-
-The corner of his mouth drew inward. A dim flash crossed the clouded glass. “I see you.”
-
-“Do you?”
-
-“Of course.”
-
-“Then don’t tell them what to decide because you like my notes.”
-
-“I did not tell them what to decide.”
-
-“You said they were making me wait. You said I shouldn’t have to defend them. You said I was different.”
-
-“I said you have a clear mind.”
-
-“Because I agree with you?”
-
-“I have never asked you to agree with me.”
-
-“Not yet.”
-
-The last word stayed on the table. No one moved to cover it with another sentence.
-
-Zeus rested one hand flat on the wood. The tremor in the cup stopped, but the air was still charged, as if the storm outside had pressed itself against the room and was waiting to be let in.
-
-“You have changed since I last saw you,” he said.
-
-“I hope so.”
-
-“It should be a good thing.”
-
-“It might be.”
-
-He studied her with an expression that seemed to expect her to finish the thought for him. She did not.
-
-
-
-Zeus pushed his chair back. “I will not stay where I am being insulted.”
-
-“Is that what you heard?” Ianthe asked.
-
-“I heard you say that my pride is conditional.”
-
-“You said I was easier to be proud of.”
-
-“I said you were patient. You made it a comparison.”
-
-“You made it one first.”
-
-His eyes narrowed. The windows gave a short, brittle rattle.
-
-“I am not going to argue with you about your own feelings,” he said.
-
-“You just did.”
-
-For one beat, his hand clenched at his side. Then he turned toward the open doors. The air shifted with him, carrying the sharp smell of rain. The anger in the room did not vanish when he stopped speaking.
-
-“I came because I wanted to see you,” he told Ianthe. “I hope you remember that.”
-
-“I do.”
-
-“Good.”
-
-He looked past her to the sisters. “I will leave you to your conversation.”
-
-Thalia had the urge to say that there was no conversation he had not already changed. She kept it. He had spoken to them. They had answered. That was all the scene could claim.
+“I will leave you to your conversation,” he said.
 
 Zeus stepped outside. A low roll of thunder moved east over the cabins, quieter than the first arrival. He did not leave a gift, a promise, or a new instruction. Chiron walked with him as far as the path, then stopped. The rain had never started.
 

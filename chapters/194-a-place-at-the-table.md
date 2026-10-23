@@ -1,110 +1,100 @@
 ## Chapter 194: A Place at the Table
 
-Percy washed the last of Sunday's dishes before breakfast on Monday. The job did not need a plan.
+Percy had been awake for an hour before Clarisse discovered him washing dishes in his good shirt, which was a mistake he ought to have seen coming. He had found the shirt draped over the end of his bunk in the dark and put it on because he was cold. The fire had sunk low overnight, and the cabin smelled of damp wood and yesterday's cocoa. He'd washed the breakfast bowls, then started on the pot Silena had left beside the stove, working slowly enough that the warm water felt like an excuse to keep his hands busy. He'd been awake half the night thinking about Thalia and the look she'd given him at the shooting line.
 
-He found himself at Cabin Three’s washbasin with his sleeves rolled twice above his wrists, a towel over one shoulder and cold water running down the backs of his hands. There was a stack of bowls beside him, three plates on the drying board, and a cup turned upside down in a patch of weak morning sun. Someone had left a spoon in the cocoa pot. He scraped the last of the dark sweetness into the sink, rinsed the pot, and heard Clarisse behind him.
+“You're going to ruin that,” Clarisse said from behind him.
 
-“You’re doing that wrong.”
+Percy glanced into the pot. “I can't imagine how. It's already been used to make cocoa. Its reputation is finished.”
 
-He stopped with the sponge halfway across the bottom. “I’m washing a pot.”
+“I'm talking about your shirt, genius.” Clarisse crossed the room in bare feet, grabbed the towel from its hook, and tossed it at his shoulders with enough force to make the water slosh. “You own six shirts that look like they've been dragged behind a chariot. You picked the one Silena bothered to mend.”
 
-“You’re wearing your good shirt.”
+“This one was clean.”
 
-“It’s a shirt.”
+“That has never stopped you before.”
 
-“It’s the only one you don’t smell like the stove in.” She picked up the towel and dropped it across his back. “You’re going to be in the laundry again.”
+She wasn't wrong. Percy looked down at the dark wet stripe running across his chest and wondered whether he could blame the pot. The cabin was still unevenly warm, hot by the stove and cold enough by the door that he could see the draft disturbing the hem of the blanket they'd hung against the frame. Clarisse had laid out two mugs on the table, one chipped and one without a handle. She always took the chipped one for herself, claiming she liked it better, and then got annoyed when Silena pointed out that it burned her fingers.
 
-“Good morning to you too.”
+Silena was sitting by the small mirror at the back of the room, trying to pin up her hair while keeping an old green sweater from slipping over her hands. “If he ruins it, I'm not sewing that cuff again,” she said without turning around. “I swear he finds the one place my stitches are weakest and deliberately catches it on something.”
 
-“Good morning. Put your elbows in.”
+“I've never deliberately caught my sleeve on anything in my life,” Percy said. “Not one sleeve. Total innocence.”
 
-She could have done it herself. Clarisse could have taken the pot from his hands and scoured it clean in half the time. She did not. Percy watched her cross the cabin to where the list lay on the table, where Silena had copied its lines onto a fresh sheet after the original became soft at the corners. Bent fence. Soil banking. Awning. Stool. Rail. Frost check. The words were small and neat, but there was no neatness in the work they named.
+“You caught it on a nail last week because you tried to open the door with your elbow while carrying six apples.”
 
-Clarisse drew a mark beside “rail.”
+“I still had all six apples afterward.”
 
-“Rhys brought tools,” Percy said. “He said he’d fix it today.”
+“You had four. Two rolled under Clarisse's bed.”
 
-“He said he’d bring somebody with a screwdriver.”
+“Which is where apples go to die,” Clarisse said, picking up the work list from the table. “Now get that pot finished. We're going to have a fence that leans into the path if the frost gets into the posts again.”
 
-“Did you hear him say that?”
+Percy scrubbed at the last brown ring in the bottom of the pot. Clarisse sounded like she was planning a military operation, as usual, but he knew what was underneath it. The broken fence, the greenhouse soil banking, the torn awning, Annabeth's stool, the loose cabin rail, the frost check: these were things people would have to live with long after the day was over. Clarisse wanted them fixed because she noticed when a younger camper tripped or a shutter came loose in the wind, even if she'd rather bite her tongue than admit that was the reason. She'd spent most of the previous night complaining about Thalia's heel, Percy's interference, and the fact that nobody could be trusted to leave a damaged thing alone.
 
-“No.” She ran her finger under the line. “He is somebody with a screwdriver.”
+“You've read that list three times since I got up,” Percy said.
 
-“That’s true.”
+“Four. And I'm checking which parts we can do without getting somebody killed by a falling plank.”
 
-She turned the paper so the list faced him. “You’re on the fence with me after breakfast. Silena’s doing soil banking if the ground’s still soft enough. You can wash your shirt tonight.”
+“I was thinking more along the lines of a leisurely morning.”
 
-“I can do two things.”
+“You've already had your leisurely morning. You used it to drown a shirt.”
 
-“You can, but you’ll do one properly if I give you one.”
+He dried the pot and held it up to the window. “Beautifully clean, though. You have to admit that.”
 
-“Have you considered that I might be capable of laundry and fence repair on the same day?”
+Clarisse inspected it, her mouth twitching with the beginnings of a smile she clearly intended to suppress. “It's a pot, Percy. Put it away.”
 
-“I have. I decided the fence is more important.”
+They had been at this long enough that Percy knew when she was genuinely angry and when she was asking him to keep arguing because the morning felt better with somebody to complain at. He'd spent years in another life learning to read people by how they moved in battle. There had been a time when he could tell Annabeth was frightened by the way she gripped a knife, or tell Grover was about to panic from the tiny scrape of his hooves. Here he was learning more ridiculous signals: Clarisse straightening a crooked list meant she didn't want to talk about something, and Silena humming too loudly while she cooked meant she had been hurt but hadn't decided whether to say so.
 
-At the far end of the cabin, Silena was tying her hair back in front of the small mirror nailed to the post. She had changed into an old green sweater, and the sleeves hung past her knuckles. “If he ruins the shirt, he gets your old one.”
+“What are you actually worrying about?” Silena asked, catching his eyes in the mirror.
 
-“I don’t have an old one.”
+“Laundry, apparently.”
 
-“You have a blue one with a hole under the arm.”
+She put down the pin. “You haven't made one terrible joke about Clarisse's fence plan yet, and you've been standing over that pot like it owes you money. That's usually a sign something is going on.”
 
-“That’s not old. It’s a shirt with a hole under the arm.”
+Percy wanted to tell her he'd slept badly and leave it at that. He could still see Thalia at the shooting line, her weight shifting wrong, and himself striding over before he'd thought about what the entire group would make of it. He'd been scared, and frightened Percy had always had the unfortunate habit of turning his concern into orders. Thalia had every reason to be furious. The worst part was that he knew she would have noticed the same thing about him.
 
-Clarisse looked at him. “You want to argue about fabric all morning?”
+“I'm going over to see Thalia after breakfast,” he said. “I owe her an apology.”
 
-“No.”
+Clarisse put the list down. “You certainly do.”
 
-“Then eat when I say it’s ready.”
+“Thanks. I'd almost forgotten.”
 
-Percy rinsed the pot until the water ran clear. The cabin was warm at the stove and cold beside the door. At some point someone had laid a folded blanket over the crack in the bottom frame, and the heat held in a little better than it had last week. He was still learning which places in this life were familiar to everyone else and new to him. Cabin Three smelled like laundry soap, iron, and the shoreline after rain. His body knew how to tie his boots without looking, and his mind still noticed that the boots were arranged by a family who expected him to come back at night.
+“You were hoping we'd tell you it wasn't that bad.” Her voice was harsh, but she set the chipped mug nearer to the stove before the tea cooled. “It was bad because you did it in front of everybody. If you'd taken her aside, she might still have called you an idiot, but at least she'd have had the pleasure of doing it privately.”
 
-He set the pot upside down on the board.
+Silena turned back to her hair, tugging one unruly strand into place. “She probably would have called him something worse. She knows so many interesting words.”
 
-“Where’s Annabeth?” Silena asked.
+Percy smiled despite himself. He'd wanted advice from his sisters and had gotten it, in the form of two people who would never let him get away with pretending he'd meant well enough to excuse everything. He also knew that once he left, they'd probably spend another ten minutes discussing whether he was getting enough sleep and who ought to make him eat something before he went near Cabin One. It was their way of caring, a little too bossy and sometimes irritating, and after a life full of impossible losses Percy had become embarrassingly fond of being irritated by them.
 
-“Cabin One. She said she was going to help Thalia write down what Chiron told her about the splint.”
+Clarisse pushed the fence list across the table. “After your apology, you're with me on the posts. Rhys said he'd bring tools for the rail, but I don't know whether he's bringing somebody to help, so don't promise him anything on my behalf. If the frost has shifted the fence, we'll get Chiron before we try to straighten it.”
 
-Clarisse’s attention flicked toward him. “You’re going to apologize today.”
+“Understood, Captain. May I have permission to finish ruining my shirt first?”
 
-It wasn’t a question. Percy wiped his hands on the towel. “Yeah.”
+“Only if you promise to use soap this time.”
 
-“Good.”
+Silena snorted, and Percy finally laughed. It didn't make the conversation with Thalia any less uncomfortable, but the knot that had been sitting behind his ribs since yesterday loosened a little. He rinsed the pot, put it on the drying board, and hung the towel where Clarisse would find it. Their boots stood in their usual mismatched row by the door, turned toward the path as though the cabin expected all three of them back at the end of the day. He still noticed that, sometimes: the small, ordinary evidence of being expected somewhere.
 
-He looked at her. “That’s all?”
+“Where's Annabeth?” Silena asked as she finished tying her hair.
 
-“What else do you want?”
+“Cabin One, helping Thalia with whatever Chiron said about the splint. She left her field book here yesterday.” Percy picked it up from beneath a folded cloth, turning it over to make sure it hadn't got wet. “I was going to bring it over. Thought it might give me a reason to knock.”
 
-“I don’t know. A speech? A demonstration?”
+“You don't need an excuse to knock,” Clarisse said. She gave him a long look, then added, “But if you go over there with some complicated speech you've practiced in the mirror, she's going to throw it back at you.”
 
-“I’m not your moral instructor.” She folded the list once and put it back on the table. “You embarrassed her. You know it. Say that. Don’t explain what you thought you were doing until she asks.”
+“I've never practiced a speech in the mirror.”
 
-Silena had gone still at the mirror. She met his eyes in its reflection. “And don’t ask her to make you feel better afterward.”
+“Probably why you're so bad at them,” Silena said.
 
-“I’m not going to.”
+Percy could hear the warning beneath the teasing. He had rehearsed half a dozen apologies during the night, each carefully arranged to explain exactly how scared he'd been and how much he respected Thalia. The more he thought about it, the more they sounded like arguments for why she should forgive him. He put the field book under his arm and wondered if the only sensible thing he could do was tell her that he'd embarrassed her and let her say whatever she wanted in return. If she decided she was still angry, he would have to live with it. He disliked the idea intensely, which probably meant it was the right one.
 
-“You say that now.”
+Clarisse headed for the door, pausing long enough to collect her work gloves. “I'll look at the fence before you come down. Don't go trying to straighten anything until we've checked the ground. I don't need you on top of the splint problem with a broken hand.”
 
-“I mean it.”
+“I wasn't planning to break anything.”
 
-“Then you’ll be fine.” Silena reached for the door. “We’re leaving in ten minutes. If the fence is worse than it looked yesterday, I want somebody to fetch Chiron before we touch it.”
+“That's what you always say before we spend an hour looking for tools.”
 
-Clarisse nodded. “I’ll look first.”
+Silena caught Percy's sleeve as she passed and smoothed the damp edge of the cuff with her thumb. “Bring Annabeth down for lunch if she's free,” she said. “And eat something before then. You've had tea and an argument.”
 
-“I can do that,” Percy said.
+“Two arguments, if we're counting this one.”
 
-“No.”
+“I'm counting you as the argument.” She kissed his cheek, fast enough that he didn't have time to complain, and followed Clarisse outside.
 
-“Why not?”
-
-“Because I’ll look first.”
-
-“Sure.”
-
-“Do you need a chart?”
-
-“I could use one.”
-
-Clarisse left the cabin. Silena followed after giving Percy a look that meant she had heard the joke and would not be rewarding it. He hung the towel on its nail, pulled his cuffs down and found the blue shirt with the hole under the arm. He did not put it on. The green wool itched at his throat, but he kept it.
+Percy stood alone for a moment, looking at the field book and the damp cuff she'd fixed. Then he pulled his sleeves into place and went to find Annabeth, hoping that by the time he reached Cabin One he'd managed to stop rehearsing the words Thalia hadn't asked him to say.
 
 The quiet that followed his sisters out of the cabin was different from the quiet before they woke. Morning always made the little building sound occupied, even when no one remained inside it. Heat ticked through the iron stove; the wooden shutters trembled as a gust came off the water; beneath the floorboards the pipes gave a tired knock whenever someone farther along the row used a pump. Percy had learned to distinguish most of those sounds over the past weeks. There was an embarrassing sort of comfort in the knowledge. He could tell which draft had found its way under the door without looking, which window Silena had opened to air out yesterday's laundry, and whether Clarisse had left the outer latch hooked by the note it struck when the wind changed. Knowing the cabin that well had not been a decision. It had happened while he was doing other things, until the place began to answer him in ordinary, unremarkable ways.
 
