@@ -219,11 +219,11 @@ Annabeth stared. He stared back. Behind him, Tyson was indeed playing Malcolm at
 
 "Percy," Annabeth said slowly, "did you net-deck? Did Luke teach you?"
 
-"No! I swear! I just... I've played a lot. Before. You were there for some of it." He stopped. His face did something complicated. Sad, for half a second, then covered with a grin. "Maybe more stuck than you thought."
+"No, I swear. I just... I've played a lot before. You were there for some of it." He stopped, sadness flickering across his face before he covered it with a grin. "Maybe more stuck than you thought."
 
 Oh. The rainy afternoons in their old camp, when Beckendorf had been alive and Silena had still been Aphrodite's daughter. Annabeth remembered those too. She remembered beating Percy often enough to stop checking whether he was improving. If cards had been another thing he kept safe from that life...
 
-Her interrogation face softened. "Okay. I underestimated you. That was — sorry."
+Her interrogation face softened. "Okay, I underestimated you, and I'm sorry."
 
 "No, it's cool. You're scary when you're smart, you know that?"
 
