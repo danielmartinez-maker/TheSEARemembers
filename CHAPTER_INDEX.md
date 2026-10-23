@@ -220,6 +220,7 @@ Illustrations: [view the chapter artwork gallery](illustrations/README.md).
 - **214.** [The Heel’s Measure](chapters/214-the-heels-measure.md)
 - **215.** [Her Own Instructions](chapters/215-her-own-instructions.md)
 - **216.** [The Faces We Remember](chapters/216-the-faces-we-remember.md)
+- **217.** [Nothing Owed to the Sea](chapters/217-nothing-owed-to-the-sea.md)
 
 ## Revision QA — Chapters 023–036 (2026-10-15)
 

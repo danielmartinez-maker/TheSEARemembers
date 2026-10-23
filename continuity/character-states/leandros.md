@@ -167,3 +167,15 @@ Leandros has made one useful observation and carried out unglamorous work, but h
 - At supper he reports a flag change from the fence path; Ianthe keeps it separate from her rack reading. This creates no friendship, authority, or broad trust milestone.
 
 **Carry-forward after Ch215.** The two coils remain damp; the separate splice remains untested. Leandros and Ianthe can exchange bounded observations but do not have a sibling relationship or broad trust.
+
+### Chapter 217 · Praise does not settle belonging
+
+- **Knowledge provenance:** OBSERVED in Clarisse-limited POV; Leandros speaks directly with Poseidon.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Leandros chooses to meet Poseidon after Chiron presents the option without pressure. He shows two current observations made from the marked upper landing; the lower bank stays closed.
+- Poseidon praises his current-reading skill and asks about the compass he remembers from childhood. Leandros values the attention and asks whether Poseidon will return. Poseidon cannot give a date; at Leandros's request he says he will ask Chiron where to send a letter.
+- Leandros accepts Clarisse's correction that current notes do not establish land safety. At the meal he acknowledges that Clarisse was right about the bank, then becomes defensive when she names the unequal attention.
+- He accuses Clarisse of taking her anger at Poseidon out on him and later apologizes specifically for that accusation. Clarisse hears the apology without forgiveness or broader trust.
+- Several days later he accepts Ianthe's gust reading without gaining authority or trust. His impatience for recognition and status assumptions remain.
+
+**Carry-forward after Ch217.** Leandros is waiting to see whether Poseidon writes; no follow-up is scheduled. His conflict with Clarisse remains unresolved.

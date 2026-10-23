@@ -346,3 +346,12 @@
 
 **Carry-forward after Ch212.** Silena's private title choice remains between her and Amphitrite; the Maria letter remains folded and unsent. Clarisse's separate relationship is unchanged.
 
+### Chapter 217 · Refusing the family-mediator role
+
+- **Knowledge provenance:** REPORTED/OBSERVED in Clarisse-limited POV for the shared meal and separate later walk.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Silena tells Poseidon that she will not be responsible for smoothing the family gathering or preparing a separate meal. She recalls that he previously asked her to manage the conversation; he acknowledges the request without demanding reassurance.
+- She knows Clarisse went on a later walk with Amphitrite and asks about it when Clarisse returns. She is not present for the private conversation and does not learn Clarisse's title choice.
+- Silena does not translate Clarisse or Leandros to Poseidon or to one another. Her own private “Mom” choice for Amphitrite remains between the two of them; Maria remains Silena's mother.
+
+**Carry-forward after Ch217.** Silena's title choice stays private, separate from Clarisse's, and no new letter status or relationship promise is established.

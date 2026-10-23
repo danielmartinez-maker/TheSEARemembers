@@ -465,3 +465,13 @@
 - Percy and Annabeth disclose no erased-future memories or altered-childhood memory gap.
 
 **Carry-forward after Ch216.** Percy remains present as Annabeth's partner and a Poseidon sibling without becoming the family's interpreter. Only he and Annabeth retain erased-future autobiographical memory.
+
+### Chapter 217 · Present without mediating
+
+- **Knowledge provenance:** FIRSTHAND, observed in Clarisse-limited POV.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Percy witnesses Poseidon's visit and eats with his siblings. He does not carry a message, interpret Clarisse's response, or mediate between Poseidon and Leandros.
+- He shares an ordinary, affectionate exchange with Annabeth; their relationship remains secure.
+- Percy discloses no erased-future memories or altered-childhood memory gap. Amphitrite learns nothing about either.
+
+**Carry-forward after Ch217.** Percy remains Leandros's sibling without being assigned as the family's intermediary; only he and Annabeth retain erased-future autobiographical memories.

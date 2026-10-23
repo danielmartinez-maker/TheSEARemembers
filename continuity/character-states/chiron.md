@@ -330,3 +330,12 @@
 - No heel symptom, examination, activity instruction, or clearance is recorded for Thalia; the Chapter 214 plan remains active.
 
 **Carry-forward after Ch216.** Ianthe's room placement remains unresolved; Thalia's two-week review remains due.
+
+### Chapter 217 · Offers, not assignments
+
+- **Knowledge provenance:** FIRSTHAND in Clarisse-limited POV for his statements and actions.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Chiron tells Leandros that Poseidon wants to speak with him and explicitly leaves the decision to meet, refuse, or ask for another time to Leandros.
+- He passes Amphitrite's request for a walk to Clarisse; she is free to accept or decline. No obligation to host or manage the family visit is assigned.
+
+**Carry-forward after Ch217.** Leandros's follow-up letter is not sent or scheduled. The next sibling gathering remains an invitation, not a required mediation.

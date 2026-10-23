@@ -132,3 +132,15 @@
 - **Chapters 167–193 — no direct appearance or confirmed report to him.** Triton visits Percy and Clarisse in Ch167; that does not prove Poseidon was present or later informed. Tyson's letters concern camp/forge matters. No later scene confirms the promised hinge visit or a follow-up with Clarisse. The later chapters do not show Poseidon learning Percy and Annabeth's erased-future memories or the memory gap. [Ch.167 ledger](../chapter-ledgers/167-171.md#L23), [Ch.183–188 ledger](../chapter-ledgers/183-188.md#L12), [Ch.189–193 ledger](../chapter-ledgers/189-193.md#L18).
 
 **Current carry-forward at Ch193.** Poseidon's exact present relationship with each child remains as last witnessed: an apology to Clarisse without completed repair, a declined hug, and an unfulfilled offer to ask before attending training; a promise to hear Tyson's hinge without a set date. Do not turn Triton's visits or children's reports into Poseidon's firsthand knowledge. No later memory disclosure, new family arrangement, or confirmed visit is established.
+
+### Chapter 217 · Focused attention, unfinished history
+
+- **Knowledge provenance:** Poseidon's words and actions are FIRSTHAND in Clarisse-limited POV.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Poseidon arrives at camp and asks Chiron to speak with Leandros. He reviews Leandros's current readings from the marked upper landing, praises his eye for currents, and asks about the childhood compass he gave him. He learns Leandros's mother kept it at her house.
+- He listens as Clarisse recalls his unfulfilled Chapter 098 offer to ask the next morning whether she wanted him at training. He acknowledges that he did not return. Clarisse declines a renewed conversation about training; no repair, forgiveness, or new visit is established.
+- He hears Silena say she will not manage the family's conversation or prepare a separate meal. He acknowledges that he had previously asked her to help keep the room smooth; she does not reassure him.
+- Leandros asks whether Poseidon will write. Poseidon says he will ask Chiron where to send a letter. No letter or return date is confirmed.
+- Poseidon does not learn Clarisse's private title choice or Silena's private Chapter 211 title choice. He receives no erased-future memory or knowledge of Percy's altered-childhood memory gap.
+
+**Carry-forward after Ch217.** Poseidon's attention to Leandros does not resolve his relationships with Clarisse or Silena. His letter and future visit remain unconfirmed.

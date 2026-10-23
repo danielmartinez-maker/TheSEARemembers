@@ -130,9 +130,10 @@ Files: Chapters 211–218, continuity handoffs, canon/index updates.
 - [x] Ch215: Ianthe records a bounded task, makes one unauthorized command, and repairs the work log without earning instant trust.
 - [x] Ch216: Zeus returns in a new guise; Ianthe chooses a private meeting, and Thalia and Annabeth set limits on what they will share without directing her feelings.
 - [x] Verify 11,540 body words by the repository whitespace-token method; Thalia-limited POV, Chapter 216 continuity YAML, current 194–216 ledger, index, arc progress, and scoped character-state updates added.
-- [ ] Ch217: Poseidon attention reopens existing hurt; Amphitrite supports Clarisse without speaking for her; Clarisse’s separate title choice is earned.
-- [ ] Ch218: shared meal closes with negotiated belonging, unresolved asymmetry, and no instant-perfect-family claim.
+- [x] Ch217: Clarisse-limited Poseidon visit reopens the siblings' separate hurts; Amphitrite supports Clarisse without mediating; Clarisse privately chooses “Mom” sometimes without forgiving Poseidon.
+- [ ] Ch218: shared seasonal meal closes with negotiated belonging, unresolved asymmetry, and no instant-perfect-family claim.
 - [x] Update selected character-state profiles, the 194–216 arc ledger, chapter index, illustration count, README, FIC_CONTEXT, and spec/plan progress to reflect Chapters 212–216's witnessed events.
+- [x] Verify Chapter 217 at 10,410 body words; add its continuity YAML, 194–217 ledger/handoff, index, README, illustration count, and scoped state updates.
 
 Check: private milestones are in separate scenes, no title is awarded for one favor, and all sibling/couple memory boundaries remain intact.
 
@@ -150,9 +151,9 @@ Check: completion report separates implemented files, actual counts, local QA, h
 
 ## Progress ledger
 
-- Chapters complete: **23/25**.
-- Arc body words: **236,827 / 250,000**; **13,173** remain to the cumulative floor.
-- Canon and arc files: spec, plan, bible additions, Chapters 194–216, index, chapter YAMLs, the current 194–216 ledger, and selected sibling/relationship profiles are on PR #103.
-- Illustration coverage is **120 of 216 chapters**; the latest illustration commit was preserved.
-- Current next action: draft Chapter 217, “Nothing Owed to the Sea,” preserving Clarisse's and Silena's separate histories and Clarisse's agency around Amphitrite.
+- Chapters complete: **24/25**.
+- Arc body words: **247,235 / 250,000**; **2,765** remain to the cumulative floor.
+- Canon and arc files: spec, plan, Chapters 194–217, index, chapter YAMLs, the current 194–217 ledger, and selected sibling/relationship profiles are on PR #103.
+- Illustration coverage is **120 of 217 chapters**; the latest illustration commit was preserved.
+- Current next action: draft Chapter 218, “Tide, Thunder, Home,” with a shared seasonal meal, negotiated boundaries, and unresolved family asymmetry.
 

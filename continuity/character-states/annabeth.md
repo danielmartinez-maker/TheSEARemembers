@@ -493,3 +493,13 @@ Annabeth WRITES and DELIVERS a longer note to Thalia's pillow containing the sen
 - Annabeth does not learn the contents of Ianthe's private note to Zeus. Percy and Annabeth remain secure; no erased-future memory is disclosed or transferred.
 
 **Carry-forward after Ch216.** Annabeth and Thalia agree to share only their own memories and to say when they do not know. Annabeth remains secure with Percy and does not decide Ianthe's room or family response.
+
+### Chapter 217 · Shared work without family verdicts
+
+- **Knowledge provenance:** FIRSTHAND, observed in Clarisse-limited POV.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Annabeth and Percy handle a pantry crate and route notes together; a brief disagreement ends without a relationship reset. They remain secure and affectionate.
+- At the family meal she keeps Leandros's current observations distinct from the land-route check. She gives him no authority or trust milestone.
+- Annabeth does not learn Clarisse's private title choice or Silena's private title choice. No erased-future autobiographical memory is disclosed or transferred.
+
+**Carry-forward after Ch217.** Annabeth remains Percy's partner and does not take over Clarisse's family decisions.

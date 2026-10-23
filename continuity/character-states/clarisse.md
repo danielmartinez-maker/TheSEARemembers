@@ -376,3 +376,14 @@
 - Later Clarisse answers Ianthe's factual question about where she was in the measurement sequence. Her cooperation is limited to that request and does not make Ianthe her supervisor.
 
 **Carry-forward after Ch215.** Clarisse and Ianthe remain in a work-boundary conflict; Clarisse's forgiveness and trust remain open.
+
+### Chapter 217 · A choice that belongs to her
+
+- **Knowledge provenance:** FIRSTHAND in Clarisse-limited POV. She does not know Silena's private title choice.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Poseidon arrives and asks Chiron to speak with Leandros. Clarisse leaves the meeting to them and later tells Poseidon that his focused attention on Leandros does not complete their own history.
+- She reminds Poseidon that his Chapter 098 offer to ask the next morning whether she wanted him at training was never followed through. He acknowledges he did not return. Clarisse declines a renewed training conversation; no forgiveness or repair milestone follows.
+- Clarisse tells Leandros she is not angry that he wants their father. She does not agree that the visit means she has received enough attention. Leandros apologizes for accusing her of taking her anger out on him; she hears him without forgiving him.
+- After several days and a separate walk, Clarisse privately chooses to call Amphitrite “Mom” sometimes. She says the choice does not forgive Poseidon or give Amphitrite authority to speak for her. Only Clarisse and Amphitrite know.
+
+**Carry-forward after Ch217.** Clarisse's title choice and Poseidon's absence remain separate. She has not forgiven Poseidon or Leandros and has not invited Poseidon to training.

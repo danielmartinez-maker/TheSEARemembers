@@ -2,7 +2,7 @@
 
 *Percy Jackson and the Olympians fanfiction · Time travel · Canon divergence · Percabeth*
 
-**Work in progress.** This repository organizes 216 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
+**Work in progress.** This repository organizes 217 chapters and two bonus interludes into individual Markdown files. The PR branch includes scoped continuity and prose revisions; manifest.json retains the checksum for the original imported manuscript. Chapter filenames begin with three-digit numbers to keep them ordered.
 
 - [Chapters](chapters/)
 - [Bonus interludes](bonus/)
@@ -13,7 +13,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 
 ## Active family-first arc (October 22, 2026)
 
-PR #103 is drafting Chapters 194–218. Chapters 194–216 contain **236,827 body words across twenty-three installments**. Chapter 216, “The Faces We Remember,” measures **11,540 body words** by the repository's whitespace-token method; **13,173** more are needed to reach the cumulative floor. Illustration coverage is **120 of 216 chapters**. The 25-chapter arc remains in implementation, with Chapter 217 next. Hosted validation is tracked on the PR.
+PR #103 is drafting Chapters 194–218. Chapters 194–217 contain **247,235 body words across twenty-four installments**. Chapter 217, “Nothing Owed to the Sea,” measures **10,410 body words** by the repository's whitespace-token method; **2,765** more are needed to reach the cumulative floor. Illustration coverage is **120 of 217 chapters**. The 25-chapter arc remains in implementation, with Chapter 218 next. Hosted validation is tracked on the PR.
 
 ## Canon and editing
 

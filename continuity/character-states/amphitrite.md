@@ -183,3 +183,13 @@
 
 **Carry-forward after Ch211.** Amphitrite keeps Silena's title choice private and makes no future visit schedule or demand. She remains unaware of Percy's erased-future memories and altered-childhood memory gap.
 
+### Chapter 217 · Clarisse chooses a private title
+
+- **Knowledge provenance:** FIRSTHAND for her own conversation with Clarisse; the Poseidon visit occurs in Clarisse-limited POV.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Amphitrite asks whether Clarisse wants company and acknowledges that relaying an earlier question through Chiron was not the same as asking Clarisse directly. She does not tell Clarisse what to feel about Poseidon.
+- She hears Clarisse name Poseidon's missed Chapter 098 follow-up and lets Clarisse address him herself. Amphitrite does not speak for Clarisse, mediate, or request a maternal title.
+- After separate time together and a later walk Clarisse chooses, Clarisse privately says she wants to call Amphitrite “Mom” sometimes. Amphitrite agrees to keep the choice private and does not treat it as a permanent guarantee or repair with Poseidon.
+- Silena does not hear the choice. Amphitrite remains unaware of Percy's erased-future memories and altered-childhood memory gap.
+
+**Carry-forward after Ch217.** Clarisse's title choice is known only to Clarisse and Amphitrite; it does not change Amphitrite's separate relationship with Silena or her history with Percy.

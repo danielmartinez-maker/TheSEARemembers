@@ -150,3 +150,12 @@ Ianthe has accepted Annabeth's breakfast invitation and met Leandros once. She r
 - The Cabin One room/cot remain unresolved; her broad weather notes remain unverified. Her private, unsent note to Zeus remains known only to Ianthe and Thalia.
 
 **Carry-forward after Ch216.** Ianthe still wants Zeus's attention and can disagree with him without giving up the good feeling of his praise. Her status assumptions and tendency to judge persist. No authority, room placement, broad trust, or parental repair follows.
+
+### Chapter 217 · One bounded correction
+
+- **Knowledge provenance:** OBSERVED by Clarisse in third-person-limited POV.
+- **Source:** [Chapter 217](../../chapters/217-nothing-owed-to-the-sea.md); [194–217 chapter ledger](../chapter-ledgers/194-217.md).
+- Ianthe corrects Leandros's gust estimate using the reading she made from the upper path. He takes the reading without turning the exchange into an argument.
+- This single exchange does not verify her broader weather notes, assign authority, settle her Cabin One room, or create broad trust.
+
+**Carry-forward after Ch217.** Ianthe remains in the Big House guest room; room placement and broader weather-note verification remain open.
