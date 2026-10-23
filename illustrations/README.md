@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 140 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 145 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -845,3 +845,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/140-last-one-in.md)
 
 ![Percy, Annabeth, Silena, and Thalia leap from the dock in bikinis as Clarisse waits in the moonlit lake.](140-last-one-in.jpg)
+
+## 141. The Canoe Race
+
+[Source chapter](../chapters/141-the-canoe-race.md)
+
+![Clarisse, Silena, Annabeth, and Thalia relax in their bikinis as the linked canoes paddle home at sunset.](141-the-canoe-race.jpg)
+
+## 142. Night Swim
+
+[Source chapter](../chapters/142-night-swim.md)
+
+![Percy and his friends pose for a starry-night group photo after the lake swim, in their swimwear and towels.](142-night-swim.jpg)
+
+## 143. The Dock Repair
+
+[Source chapter](../chapters/143-the-dock-repair.md)
+
+![The siblings rest on the repaired dock above the lake after a day of work, with Tyson holding the T-shaped end from below.](143-the-dock-repair.jpg)
+
+## 144. Rain on the Lake
+
+[Source chapter](../chapters/144-rain-on-the-lake.md)
+
+![The siblings coordinate a canoe rescue as the storm reaches the lake, their bikinis beneath fastened life vests.](144-rain-on-the-lake.jpg)
+
+## 145. The Lake Keeps What It Takes
+
+[Source chapter](../chapters/145-the-lake-keeps-what-it-takes.md)
+
+![Annabeth records the broken mooring while Clarisse closes it with rope and Silena and Thalia stand with Percy beside the lake.](145-the-lake-keeps-what-it-takes.jpg)
