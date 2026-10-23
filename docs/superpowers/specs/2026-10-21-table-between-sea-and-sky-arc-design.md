@@ -1,9 +1,9 @@
 # A Table Between Sea and Sky: 250,000-Word Arc Design
 
-**Status:** Drafting complete; hosted validation pending on PR #103. The family-first engine and working sibling pair below were approved by the author in conversation on 2026-10-21. This document records the arc contract and current evidence.
+**Status:** The 25-chapter draft and hosted mechanical gates are complete on PR #103. Full literary/semantic review and an updated reader edition remain separate review work. The family-first engine and working sibling pair below were approved by the author in conversation on 2026-10-21.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–218 are drafted on PR #103 at **257,723 body words** across twenty-five installments. Chapter 218, “Tide, Thunder, Home,” measures **10,488 body words**. The arc clears the 250,000-word floor; final hosted validation is pending.
+**Implementation checkpoint (2026-10-22):** Chapters 194–218 are drafted on PR #103 at **257,723 body words** across twenty-five installments. Chapter 218, “Tide, Thunder, Home,” measures **10,488 body words**. The arc clears the 250,000-word floor by **7,723** words. On content commit [`74e8b76`](https://github.com/danielmartinez-maker/TheSEARemembers/commit/74e8b763bacba55fb33fb4bc3057982e13a2863f), hosted [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39881975897) passed: 218/218 chapters meet the 10,000-word gate with no shortfall; chapter structure/order/UTF-8 passed; 2,193,194 chapter-only 300-word windows had zero exact matches; the strict chapter-plus-bonus check covered 221 files, 2,409,526 body words, and 2,343,746 windows with zero exact matches. [Character-memory checks](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39881975778) passed 55 source-anchored checks. These are mechanical results, not full semantic or literary signoff.
 
 ## Author-approved direction
 
@@ -90,4 +90,4 @@ All titles are working titles. Each chapter is a full installment with one or mo
 
 ## Review boundary
 
-This is the working design for the user-requested arc. The author may revise creative choices in later turns. Implementation progress belongs in the paired plan; this header remains “in implementation” until the acceptance criteria are met.
+This is the working design for the user-requested arc. The author may revise creative choices in later turns. The paired plan records which mechanical checks passed and which whole-arc editorial or reader-edition reviews remain open.

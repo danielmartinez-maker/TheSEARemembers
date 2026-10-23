@@ -13,7 +13,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 
 ## Active family-first arc (October 22, 2026)
 
-PR #103 contains the completed draft of Chapters 194–218: **25 installments and 257,723 body words** by the repository's whitespace-token method. Chapter 218, “Tide, Thunder, Home,” measures **10,488 body words**. The arc clears its 250,000-word floor. Illustration coverage is **125 of 218 chapters**. Final hosted validation is tracked on the PR.
+PR #103 contains the completed draft of Chapters 194–218: **25 installments and 257,723 body words** by the repository's whitespace-token method. Chapter 218, “Tide, Thunder, Home,” measures **10,488 body words**. The arc clears its 250,000-word floor. Illustration coverage is **125 of 218 chapters**. Hosted full-manuscript QA and 55 source-anchored character-memory checks passed on [content commit 74e8b76](https://github.com/danielmartinez-maker/TheSEARemembers/commit/74e8b763bacba55fb33fb4bc3057982e13a2863f). Full literary review and an updated reader edition remain open.
 
 ## Canon and editing
 
