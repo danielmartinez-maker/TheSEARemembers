@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 165 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 169 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -999,3 +999,28 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/165-the-morning-after.md)
 
 ![Percy flips a misshapen whale pancake as Annabeth keeps schedule, Thalia steals bacon, Clarisse coaches, and Silena brings honey.](165-the-morning-after.jpg)
+
+
+## 166. The Braid and the Blue Rag
+
+[Source chapter](../chapters/166-the-braid-and-the-blue-rag.md)
+
+![Annabeth braids Thalia's hair in their sunlit cabin as the blue rag and sketchbook rest nearby.](166-the-braid-and-the-blue-rag.jpg)
+
+## 167. What Sharpens Together
+
+[Source chapter](../chapters/167-what-sharpens-together.md)
+
+![Clarisse and Percy face off with practice spears in the frost-edged arena at dawn.](167-what-sharpens-together.jpg)
+
+## 168. Wool, Steam, and Paper
+
+[Source chapter](../chapters/168-wool-steam-and-paper.md)
+
+![The family builds a blanket fort beside the warm indoor pool during a storm; Clarisse wears a red bikini, Silena a pink floral bikini, Annabeth a yellow bikini, and Thalia a deep navy bikini.](168-wool-steam-and-paper.jpg)
+
+## 169. The Conspiracy of the Afternoon
+
+[Source chapter](../chapters/169-the-conspiracy-of-the-afternoon.md)
+
+![Percy and his sisters gather by the canoe at the autumn lake; Clarisse wears a red bikini, Silena a pink floral bikini, Annabeth a yellow bikini, and Thalia a deep navy bikini beside the safe buoy line.](169-the-conspiracy-of-the-afternoon.jpg)
