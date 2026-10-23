@@ -175,11 +175,11 @@ They switched. Thalia sat, Annabeth standing on tiptoes behind her, tongue stuck
 
 Annabeth's hands were careful, almost reverent. Snip. Snip. Black hair with blue tips dusted Thalia's shoulders. The bathroom smelled like strawberry shampoo and metal.
 
-"You know," Annabeth said quietly, combing through a section, "In that old life, I used to cut Frederick's hair. When I was little. He'd sit on the kitchen stool and I'd stand on a chair behind him with a comb. He said I was the only barber he trusted."
+"You know," Annabeth said quietly, combing through a section, "in that old life, I used to cut Frederick's hair when I was little. He'd sit on the kitchen stool while I stood on a chair behind him with a comb. He said I was the only barber he trusted."
 
 Thalia went very still. "Yeah?"
 
-"Yeah. He has this cowlick in the back that sticks up no matter what. I always tried to flatten it." A small laugh. "Bobby and Matthew would put towels on their heads and pretend to be customers. stupid."
+"Yeah. He has this cowlick in the back that sticks up no matter what, and I always tried to flatten it." Annabeth laughed softly. "Bobby and Matthew would put towels on their heads and pretend to be customers. It was stupid."
 
 Bobby and Matthew. Her little half-brothers in the life she remembered. Mortal. Thalia had never met them; Annabeth never said their names lightly.
 
