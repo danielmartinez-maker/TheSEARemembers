@@ -124,7 +124,7 @@ It struck Percy again how unfair his upbringing had been to Clarisse and Silena.
 
 Amphitrite stepped forward and took both girls' hands.
 
-"Clarisse. Silena." She said their names like she had practiced them. Like they mattered. "I know you. Clarisse, you took your first prize in spear drill when you were nine, and your father bragged about it for a month. Silena, you sang the reef-lullaby at the summer tide so sweetly the dolphins repeated it back. I've heard such good things."
+"Clarisse. Silena." She said each name with care, as if she'd practiced them because she wanted to get them right. "I know you both. Clarisse, you took your first prize in spear drill when you were nine, and your father bragged about it for a month. Silena, you sang the reef-lullaby at the summer tide so sweetly the dolphins repeated it back. I've heard such good things."
 
 Clarisse's mouth fell open. "You — you know that?"
 
@@ -498,7 +498,7 @@ Thalia laughed wetly and let fly. Bullseye.
 
 They stood in silence while the lake laughter drifted up again.
 
-"You know what she did?" Clarisse said after a while. "Amphitrite. She pulled me aside and asked if she got it right. Like — she was nervous. The Queen of the Entire Ocean was nervous about meeting *me*. Me, who once set Percy's bed on fire by accident—"
+"You know what she did?" Clarisse said after a while. "Amphitrite pulled me aside and asked if she'd got the visit right. The Queen of the Entire Ocean was actually nervous about meeting me, the girl who once set Percy's bed on fire by accident—"
 
 "By accident?" Thalia raised an eyebrow.
 
