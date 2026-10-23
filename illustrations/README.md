@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 135 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 140 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -815,3 +815,33 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/135-the-garden.md)
 
 ![Annabeth replans the garden around the old shrine as Percy, Silena, Clarisse, and Chiron gather with seedlings and the old camp plan.](135-the-garden.jpg)
+
+## 136. Percy's Birthday
+
+[Source chapter](../chapters/136-percy-s-birthday.md)
+
+![Amphitrite presents Percy with a glowing pearl at his Atlantis birthday feast as his sisters sing and Tyson sleeps beside the cake.](136-percy-s-birthday.jpg)
+
+## 137. Fourteen
+
+[Source chapter](../chapters/137-fourteen.md)
+
+![Percy accepts a slice of blue trident cake at the campfire while Tyson leads the birthday song and his friends join in.](137-fourteen.jpg)
+
+## 138. The Mural Finished
+
+[Source chapter](../chapters/138-the-mural-finished.md)
+
+![Clarisse speaks beside the completed mural as Percy holds the viewing line and the camp studies the preserved painting.](138-the-mural-finished.jpg)
+
+## 139. Storm Season
+
+[Source chapter](../chapters/139-storm-season.md)
+
+![At the supervised cove drill, Percy anchors the current channel while Clarisse, Silena, Annabeth, and Thalia coordinate the practice and its safety signals.](139-storm-season.jpg)
+
+## 140. Last One In
+
+[Source chapter](../chapters/140-last-one-in.md)
+
+![Percy, Annabeth, Silena, and Thalia leap from the dock in bikinis as Clarisse waits in the moonlit lake.](140-last-one-in.jpg)
