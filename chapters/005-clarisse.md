@@ -1,68 +1,68 @@
 ## Chapter 5: Clarisse
 
-A few weeks after Percy arrived at camp, Clarisse took him on border patrol and handed him the supply bag. It held everything she insisted they needed: rope, two rain capes, a first-aid kit, spare bowstring, and three signal horns, despite the one already hanging from her belt. Each time Percy shifted the strap, something heavy swung against his hip; he began to suspect the extra gear had been packed to test him.
+A few weeks after Percy arrived at camp, Clarisse took him on the eastern border patrol and handed him a supply bag that appeared to have been packed by someone preparing for an expedition across an entire continent. It contained rope, a first-aid kit, spare bowstring, two rolled rain capes, and three signal horns, although Clarisse already had one hanging from her belt. Something heavy shifted against his hip whenever he changed the strap from one shoulder to the other, and he began to suspect that at least one of the horns had been included to discover whether he would complain. The morning had the sharp, clean smell that came after a cold night, when the first sunlight warmed the needles of the pines while frost still lay unbroken in their shade. A few weeks was not enough time to know a place, but it had been long enough for him to discover that camp was larger in its habits than its boundaries suggested. Every path had a purpose, every repair somebody responsible for it, and every stretch of quiet ground concealed a story that older campers believed everybody already knew.
 
-"You could've told me how much this weighed before I volunteered," Percy said as they reached the first marker.
+Clarisse moved ahead with the easy confidence of someone who had walked the route so often she no longer needed to watch the familiar parts. She still examined the ground at the places where it mattered. At the first marker she crouched beside the carved boundary post, checked a line of scratches near its base, and ran her glove over the wood to see whether any of the marks had been made since the last watch. Percy watched her work instead of trying to identify the post from his old memories of camp. In that other life Clarisse had often looked like anger made flesh, a rival who struck first and discovered the reasons afterward, but the girl beside him now was older than he was, patient in small practical matters, and reluctant to announce what she knew until the work required it. The difference made him feel ignorant in a way that had nothing to do with swordsmanship.
 
-Clarisse checked the carved post for fresh scratches. "You didn't volunteer. You were assigned, and if you hadn't spent ten minutes looking for the gloves you left in the wrong trunk, we'd have been here before the sun cleared the trees."
+“You could've warned me that the bag weighs as much as a small horse,” Percy said when they reached the marker. He shifted the strap once more and felt the brass rim of a horn knock against his ribs. “I thought I was volunteering for a walk, not carrying everything the camp owns.”
 
-"I found them," he said, tugging them on.
+Clarisse kept her eyes on the scratches. “You didn't volunteer, Jackson. You got assigned because you spent ten minutes hunting for the gloves you left in the wrong trunk, and somebody decided you could make up the time by being useful. If you'd put them where Silena told you, we'd have been here before the sun reached the treeline.”
 
-"Then use them. That post has splinters."
+“I found them eventually,” Percy replied, dragging the gloves from his pocket and pulling them on. One finger caught in a crooked seam that Silena had mended for him yesterday. “It turns out that owning a bag full of emergency equipment doesn't automatically make me organized.”
 
-The path rose through scrub and pines toward the eastern boundary. The ground had hardened in the cold, and little white patches of frost remained wherever sunlight couldn't reach. Most of the leaves were still green. Percy liked that he was starting to know which turns led to old fences and which opened into views of the valley. Each landmark gave him something about this version of camp he had learned for himself.
+“I'm delighted you're learning. Now use the gloves if you're going to touch the markers, because the wood's old and you don't need a splinter on the hand you're supposed to hold a sword with.” She straightened and gave the post a final look, satisfied enough to move on. “And don't take my joking about the bag as permission to leave anything behind. We carry more than we expect to need because the one time we don't, somebody ends up needing it.”
 
-Clarisse stopped at the second observation point and had him repeat the horn signals. She listened without interrupting until he confused contact with retreat, then took the horn and demonstrated both.
+The path curved through scrub oak and pine, climbing gradually toward a shoulder of higher ground where the eastern fence met the natural ridge. The country beyond camp had its own order, less obvious than the numbered trails and carefully kept shelters inside the boundary. Long pale roots broke through the slope and vanished beneath stones covered with lichen, while rain had cut a narrow channel beside the track where runoff travelled after storms. In a low hollow Percy could see the remnant of an older wall, its rocks settled into the earth and its upper courses dismantled for later repairs. He wondered who had placed it there, and whether that person had ever imagined a Greek camp existing among these American trees. He had visited lands where the past lay visible under every new foundation. Here the past hid beneath moss and ordinary labor, but that did not make it any less real.
 
-"Three short blasts mean you don't have time to be brave," Clarisse said. "Get the younger campers moving, then retreat and bring people who know what they're doing. Running off alone makes you a fast idiot, not a useful one. You understand?"
+At the second observation point Clarisse stopped where two routes met beneath a crooked pine. A narrow view opened toward the lower hillside, and another toward a line of old fencing that disappeared among the trees. She took one of the horns from the bag and explained that the patrol signals were not designed to sound impressive. They had to be short enough for a frightened camper to remember and different enough that nobody would mistake a warning for an instruction to move toward danger. Percy knew versions of those signals from an older war, yet the ones used here belonged to different patrol routes and a different chain of command. He took the horn and repeated the sequence she demonstrated, then hesitated on the distinction between a call announcing contact and one ordering retreat.
 
-"I get them out, then go for help," Percy said."
+“Try that again,” Clarisse said, without the gloating he had expected when he got it wrong. “Three short blasts mean you need everybody moving away from the threat before you think about winning a fight. If you've got younger campers with you, you take them toward the safest open route and send somebody for help. You're not there to become the heroic idiot in the songs. You're there to make sure people come back.”
 
-That sounded like something Chiron might have said, but with less patience and considerably more bite.
+Percy considered the distant fence and tried the signal again. The horn's note travelled across the hollow and returned faintly from the trees. “So the point isn't to tell everyone I found a monster,” he said. “It's to make sure they know what I need them to do about it. I suppose that's easier than shouting an explanation while somebody's trying to eat me.”
 
-They stood watch for a quarter hour before Clarisse sat on a flat rock, set her spear within reach and took a folding knife and a little block of wood from her jacket. Percy had seen her repair weapons in the arena. He hadn't expected her to produce an animal from the rough shape of a branch.
+“It's considerably easier, and I recommend you stick to it.” Clarisse held out her hand for the horn, but she did not take it until he had demonstrated the other signal correctly. “Chiron can train a good fighter in a year or two if the camper listens. Training somebody to stay sensible when they see a friend in danger takes longer, because the urge to help makes people reckless. That's not an excuse to stay out of trouble. It just means you learn the difference between being brave and being useful.”
 
-"What are you making?" Percy asked.
+They stood watch for a quarter hour, listening to the trees and the occasional call from another station. Percy learned that the valley carried certain sounds much farther than others: a loose stone sliding on the dry slope sounded close even when it fell beyond the next turn, while voices from the lower camp became indistinct almost as soon as the wind changed. He could feel water running beneath the ground in places the path did not cross any visible stream, small springs moving between layers of stone and joining the lake farther downhill. He considered mentioning what he sensed, then decided to wait until Clarisse asked. The knowledge was useful, but it was not automatically more important than what she saw with her own eyes.
 
-"A panther. Or it was, before somebody interrupted me."
+When their turn at the observation point was nearly over, Clarisse sat on a flat rock with her spear laid within reach and drew a folding knife from inside her jacket. She produced a short piece of wood, already worked into the shape of an animal whose head was beginning to emerge from the grain. Percy had seen her mend a spear shaft and tighten the fittings on a shield, but he had not imagined she would spend a quiet watch carving something small enough to fit in her palm. The creature had a broad feline body and a pair of wings sketched along its back, though one ear stood taller than the other and its face still showed the rough marks of the first cuts.
 
-He leaned over to see the pointed ear and the two wings sketched across its back. "I didn't know panthers could fly. Is Poseidon secretly running a zoo?"
+“Is that for practice, or are we expecting the camp's panthers to grow wings?” Percy asked, crouching beside the rock. He was careful not to come so close that he would crowd her hands. “Because I don't think I packed a horn signal for flying cats.”
 
-"Sea monsters are enough trouble for him. Silena wanted something on the shelf to make the cabin look lived in." Clarisse cut another shaving from the wood.
+“It's supposed to be a panther,” Clarisse said, examining the uneven ear with an expression of professional disappointment. “The wings are Silena's idea. She said it looked too serious without them, which is a strange complaint from someone who wants it sitting beside her paints.”
 
-"So you're making her a present."
+“So you're making it for her.”
 
-"I started the panther for her. She looked at the sketch and said the shelf needs a drawer more than another decoration. She's right about the drawer, which is annoying, but I'll finish this anyway."
+“I started it because she said our shelf looked as though it belonged in a storage room instead of somebody's home. Then she saw the sketch and told me the shelf would be more useful with a drawer. She's right about the drawer, but the panther's already half carved, so I'm finishing it before I build anything.” Clarisse worked the knife along the grain, raising a narrow curl of wood that fell across the toe of her boot. “Don't make that face. People can give each other presents without putting on a ceremony.”
 
-"That's a generous gift."
+“I wasn't going to put on a ceremony. I was thinking you have a pretty good eye for the shape of it.” Percy looked at the creature's broad back, where the first wing followed the natural line of the wood. “It reminds me of the decorations on some of the old halls under the sea. They're all enormous and carved in stone, though, so the people who made them probably had more room to hide mistakes.”
 
-"Keep talking and I'll carve a mouth on it that looks like yours."
+Clarisse gave him a sidelong look. “You saying the ear's a mistake?”
 
-He laughed. She passed him a smaller piece of wood, one that still had a knot near the end, and showed him how to brace it against his knee.
+“I'm saying if I tried to make an ear that small, the whole head would come off.”
 
-"Try taking a thin strip from that edge. Away from your hand, Percy. I don't need to explain to Chiron why we came back from patrol with fewer fingers than we started with."
+“That's more sensible.” She put the panther beside her and offered him a smaller block, one that still held a knot near the end. “Here. Try taking a shaving from the side. Hold it against your knee so it doesn't roll, and keep the blade moving away from your fingers. If you take one off, Chiron will expect me to explain why we returned from patrol with less of you than we left with.”
 
-His first attempt dug the knife too deep. A wedge broke off the side of the wood.
+Percy accepted the wood and turned it over in his hands. Its surface held the faint roughness of dry bark, and the knot offered resistance at precisely the place where a novice would be tempted to force the knife. He had learned sword forms from people who could cut a moving target in the dark, but a carving blade demanded an entirely different sort of control. His first stroke bit too deeply. A wedge came away from the side, leaving an ugly gouge where he had hoped for a smooth curve. The embarrassment was so immediate that he almost tossed the block into the grass, then remembered that Clarisse was watching him with more interest than amusement.
 
-Clarisse winced. "That's what happens when you try to stab a piece of timber."
+“You tried to stab it,” she observed. “That's probably a useful skill in the arena, but timber generally responds better if you persuade it instead.”
 
-"I'm learning. Last week I was trying to drown a drainage ditch."
+“Last week I was trying to drown a drainage ditch. At least this time I've chosen an object that won't flood the paths if I get it wrong.” Percy held the block out for inspection and raised his eyebrows. “Is there any chance this becomes a panther, or should I aim for a potato while I still can?”
 
-"Yes, and this week you can destroy a smaller object. It's progress."
+“A potato would be ambitious.” Clarisse repositioned his hand, turning the block so the grain ran with the cut. Her touch was brief and practical, the touch of someone demonstrating a movement rather than taking the work away from him. “Watch where the knife wants to go. If you push against the grain, it splits. If you take a thinner strip and let the blade follow it, you get something you can shape.”
 
-She showed him again, guiding the angle of the blade but leaving him to make the next cut himself. The shaving curled cleanly away. It wasn't much, but it gave him the satisfaction of understanding something through his hands instead of being told he ought to remember already knowing it.
+He tried again. A curled shaving fell across his glove, almost translucent at the edge, and for a moment he felt the particular satisfaction that came from learning a thing with his hands instead of being told he ought to remember already knowing it. The shore of Atlantis, the halls beneath the sea, even the training yard were full of skills this new body apparently possessed without offering him the memories of acquiring them. Here, on an unremarkable hillside, he had made a small cut correctly because his sister had shown him how. It was an achievement nobody would record, which made it unexpectedly valuable.
 
-"Who taught you to carve?" he asked.
+“Who taught you?” he asked, looking at the neat wing beginning to emerge beneath Clarisse's knife. “You make it look easy, and I can't imagine Chiron includes carving in the patrol manual.”
 
-"An older camper. She used to make little birds for the younger kids when they were homesick. I broke one by accident, and she told me I could either keep looking guilty or learn to make a replacement."
+“An older camper who used to make little wooden birds for kids who were homesick,” Clarisse said. Her expression softened around the memory before she seemed to notice what she was doing. “I broke one by accident when I was smaller. She told me I could either stand around apologizing every time I saw her or learn to make a replacement. Mine looked like a badly injured potato for a while, but she helped me get the beak right. I kept at it after that.”
 
-"Did you make one?"
+“What happened to the bird?” Percy asked.
 
-"Eventually. It looked like a potato until she helped me with the beak." Clarisse turned the panther over, checking the grain. "That's probably where yours is headed."
+“I gave it to the kid she'd been making it for. He didn't mind that one wing was crooked, which was good, because I couldn't get it straight no matter what I did.” She brushed a shaving from the panther and considered the line of its back. “I suppose most things we make for other people turn out a little different from what we meant. Sometimes they like them anyway.”
 
-He examined his small block of wood, which already looked more potato-shaped than animal-shaped.
+Percy looked at the block in his hand and tried to imagine it becoming something that anybody might want on a shelf. In Atlantis he had been surrounded by beautiful things made by craftsmen whose names he did not know, and in his first remembered life he had taken far too long to understand how much care could be contained in an object someone had repaired rather than replaced. Clarisse's animal was neither grand nor perfect. It carried the time she had chosen to give Silena, and he understood the gift better for having spent a few minutes trying to copy the work. He should have left the thought there. Instead, remembering Triton leaning over a practice sword in the palace and Amphitrite reading in the garden pool, he asked the question that had been troubling him since he learned how differently his sisters knew their father.
 
-"Was Poseidon ever interested in it?"
+“Was Poseidon ever interested in it?”
 
 The knife paused. Percy wished he could take the question back. He had been thinking of Triton teaching him sword drills in Atlantis and Amphitrite reading near the garden pool; for a moment, he had forgotten Clarisse's experience of their father was entirely different.
 
