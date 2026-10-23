@@ -9,6 +9,8 @@
 
 > **Core promise:** Percy and Annabeth remember a future together, but return to a changed earlier point in their own history. They must keep their established bond while learning to live with families who know childhoods that they themselves do not remember. Family intimacy, romance, camp life, and ordinary shared experiences are the story's center. Mystery, quests, and divine politics should complicate those relationships, not replace them.
 
+**Revised author direction (2026-10-22):** The proposed multi-chapter Annabeth–Leandros secret-romance arc is **withdrawn**. Replace it with exactly **one standalone, nonsexual, age-appropriate chapter** of romantic tension, ending in **a single mutual kiss beside Camp Half-Blood's freshwater lake on the beach at midnight**. No ongoing affair, further romance chapters, romantic retcon, time-memory disclosure, relationship resolution, or post-kiss aftermath is authorized by this direction. The completed standalone text is [The Hour Between Tides](drafts/standalone/the-hour-between-tides.md). It is a standalone draft, **not a numbered canonical Chapter 219**, and does not automatically supersede the current family arc or Percy's established relationship with Annabeth. Earlier multi-chapter outlines, the Chapter 219 survey draft, and the alternate first-kiss scene study were retired from the active branch; their history remains recoverable through prior Git commits. Keep the separate prose-edit PR #104 unchanged.
+
 This document describes **intended canon and writing requirements**, not a certification that every existing chapter complies. Do not treat a contradiction in an older draft as new lore. Identify it, document it, and revise it deliberately.
 
 ---
