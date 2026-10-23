@@ -1,8 +1,6 @@
 ## Chapter 33: Architecture
 
-Annabeth Grace woke up with a building in her head.
-
-She had done this for years in the life she remembered. Here, in Cabin One, she still woke with unfinished plans turning over in her head before she was entirely awake, staircases that went nowhere and then, suddenly, somewhere. Usually they faded by breakfast. This one didn't.
+Annabeth Grace woke up with a building in her head, as she had for years in the life she remembered. Here in Cabin One, unfinished plans still turned over in her mind before she was entirely awake, staircases that led nowhere until, suddenly, they led somewhere. They usually faded by breakfast, but this one stayed.
 
 She sat up in her bunk in Cabin One — Zeus's cabin, all high windows and storm-gray blankets and that faint smell of ozone that never quite left, even on sunny days — and grabbed her sketchbook off the nightstand before the image could dissolve.
 
@@ -230,7 +228,7 @@ Silena thought, tapping a shell against her chin. "Somewhere to leave notes," sh
 
 Annabeth wrote that down, underlining it twice: *LEAVING PLACE — niches for notes/offerings.*
 
-Clarisse was quiet for a moment. Then she said, gruffly, "Benches with backs. So old veterans with bad backs can sit. And new kids who're scared can lean. My brother —" she stopped. "Just. Benches with backs. Low ones. So your feet touch the ground."
+Clarisse was quiet for a moment. Then she said gruffly, "Benches with backs, so old veterans with bad backs can sit and new kids who're scared can lean. My brother—" She stopped, then tried again. "Just benches with backs. Low ones, so your feet touch the ground."
 
 Annabeth wrote it down without comment, but she reached over and squeezed Clarisse's wrist briefly. Clarisse squeezed back, hard, then let go and pretended to be very interested in a piece of red tile.
 
