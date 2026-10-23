@@ -1,13 +1,9 @@
 ## Chapter 26: The Roof
 
 
-Annabeth Grace knew seven ways out of the Zeus cabin after curfew without creaking a single bunk.
+Annabeth Grace knew seven ways out of the Zeus cabin after curfew without creaking a single bunk. She'd counted them on her first night in Cabin One, back when the hunters' moon was still high and Thalia was snoring in the bunk across from hers with one arm thrown over her eyes and sparks crawling faintly along her bracelet.
 
-She'd counted them on her first night in Cabin One, back when the hunters' moon was still high and Thalia was snoring in the bunk across from hers with one arm thrown over her eyes and sparks crawling faintly along her bracelet. Annabeth had lain awake listening to the unfamiliar thunder-hum that lived in the walls now — different from the low owl-quiet of the Athena cabin she still dreamed about — and she'd mapped exits the way other kids counted sheep.
-
-Window latch. Back corner where the wall boards didn't quite meet the foundation. Front door if you lifted before you pulled. She'd tested all of them by the end of the first week. Not to break rules. Just to know.
-
-Tonight she used the window.
+Annabeth had lain awake listening to the unfamiliar thunder-hum that lived in the walls now, so different from the low owl-quiet of the Athena cabin she still dreamed about, and she'd mapped exits the way other kids counted sheep: the window latch, the back corner where the wall boards didn't quite meet the foundation, and the front door if you lifted before you pulled. She'd tested all seven by the end of the first week, not to break rules, just to know. Tonight, she used the window.
 
 Percy was waiting behind the tool shed where she'd told him to meet her, exactly where she'd drawn an X on the little map she'd slipped into his copy of *The Odyssey* at dinner. He was wearing his camp hoodie over pajamas, his hair sticking up in the back, his sneakers untied. When he saw her, his whole face did that brightening thing it did, like someone had turned a lamp on inside him.
 
@@ -102,7 +98,7 @@ None of them felt like this. High and hidden and quiet, with Annabeth's head on 
 
 Annabeth was quiet for a beat too long.
 
-"Yeah," she said finally. "It was. Is." She pulled the thin blanket over their legs. "In — before. In the other memory. The Athena cabin has — had — this perfect flat roof. You could get to it from the library window if you were skinny enough and didn't mind splinters. I found it when I was seven. First week at camp. I couldn't sleep because everything smelled wrong — like cedar and old books instead of home — and I climbed out the window and just... sat up there. I could see the whole camp. It made it smaller. Easier to understand. Like a model."
+"Yeah," she said finally. "It was. Is, I guess." She pulled the thin blanket over their legs. "Back in that other memory, the Athena cabin had this perfect flat roof. You could reach it from the library window if you were skinny enough and didn't mind the splinters. I found it during my first week at camp, when I was seven. I couldn't sleep because everything smelled wrong, like cedar and old books instead of home, so I climbed out the window and just sat up there. From the roof, I could see the whole camp spread out below me, and it made everything feel smaller, easier to understand. Like a model."
 
 Percy wrapped an arm around her shoulders, careful, giving her room to move away if she wanted. She didn't. She settled closer.
 
