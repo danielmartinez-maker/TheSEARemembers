@@ -1,12 +1,6 @@
 ## Chapter 6: The Sister
 
-Thalia had been awake for most of the night, which was why she knew exactly how much noise a person could make while trying to leave a cabin unnoticed.
-
-Annabeth wasn't particularly good at it. She stopped to find her other shoe beneath the bed, nearly knocked a book off the shelf, and spent an absurd amount of time easing the latch up so it wouldn't click. The latch clicked anyway.
-
-Thalia kept her eyes shut. She heard her sister freeze in the doorway, wait, and finally slip out.
-
-Only then did she sit up.
+Thalia had been awake for most of the night, enough to know exactly how much noise a person could make while trying to leave a cabin unnoticed. Annabeth wasn't particularly good at it: she stopped to find her other shoe beneath the bed, nearly knocked a book off the shelf, and spent an absurd amount of time easing the latch. It clicked anyway. Thalia kept her eyes shut as her sister froze in the doorway, waited, and finally slipped out. Only then did Thalia sit up.
 
 The repaired shutter rattled softly in the wind. Two weeks ago she would have gone after Annabeth without thinking, and she wasn't entirely sure why she stayed put now. Perhaps it was the conversation they'd had after the first forbidden trip to the Big House. Annabeth had promised to tell her where she was going. She hadn't promised to stop going.
 
@@ -26,11 +20,7 @@ She could have offered to help inspect the Hall. She had already offered. Chiron
 
 The insult wasn't the assignment itself. Training children mattered. Thalia knew what happened to children who couldn't defend themselves. The insult was being treated as though she couldn't learn anything useful from a repair order because her father's name appeared on it.
 
-She turned away from the window and began putting away the practice equipment she'd left by the door. Her spear went on its usual hooks. Her gloves, still stiff from yesterday's rain, went over the back of a chair. A chipped mug sat beside Annabeth's bed, empty except for a spoon and a line of honey at the bottom.
-
-There had always been a mug there.
-
-When Annabeth was six, she'd insisted that honey made the tea stronger, although she had meant sweeter. Thalia had corrected her every time, until the day their mother came home furious and Annabeth crawled into Thalia's bed without asking for anything at all. After that, Thalia made the tea however her sister wanted it. The argument hadn't seemed worth having.
+She turned away from the window and began putting away the practice equipment she'd left by the door. Her spear went on its usual hooks. Her gloves, still stiff from yesterday's rain, went over the back of a chair. A chipped mug sat beside Annabeth's bed, empty except for a spoon and a line of honey at the bottom. There had always been one there. When Annabeth was six, she'd insisted honey made the tea stronger, though she meant sweeter. Thalia corrected her every time until the day their mother came home furious and Annabeth crawled into Thalia's bed without asking for anything. After that, Thalia made the tea however her sister wanted; the argument hadn't seemed worth having.
 
 Now Annabeth sometimes looked at the mug as though it belonged to another child.
 
@@ -314,13 +304,9 @@ Thalia felt the words as a blow, not because they were cruel but because they we
 
 The argument had nowhere easy to go. Thalia had been hoping to catch Percy in a contradiction. He kept giving her answers that left Annabeth in charge of her own choices.
 
-"I don't trust you yet," she said.
+"I don't trust you yet, and I don't like that she sneaks around with you," she said.
 
-"All right. I'm not asking you to."
-
-"I don't like that she sneaks around with you."
-
-"Neither do I. The sneaking part, I mean. We made a bad decision with the attic, and Chiron made that pretty clear. I don't want Annabeth to get hurt because I decide I know better than everybody else."
+"All right. I'm not asking you to trust me. I don't like the sneaking either—the attic was a bad decision, and Chiron made that pretty clear. I don't want Annabeth to get hurt because I decide I know better than everybody else."
 
 Thalia looked sharply at him. "You took things from the attic together?"
 
