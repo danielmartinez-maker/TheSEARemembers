@@ -1,46 +1,40 @@
 ## Chapter 5: Clarisse
 
-A few weeks after Percy arrived at camp, Clarisse took him on border patrol and made him carry the supply bag.
+A few weeks after Percy arrived at camp, Clarisse took him on border patrol and handed him the supply bag. It held everything she insisted they needed: rope, two rain capes, a first-aid kit, spare bowstring, and three signal horns, despite the one already hanging from her belt. Each time Percy shifted the strap, something heavy swung against his hip; he began to suspect the extra gear had been packed to test him.
 
-It was full of things she insisted were necessary and Percy suspected were being used to test him: an extra coil of rope, two rain capes, a first-aid kit, a length of spare bowstring, and three metal signal horns despite the fact that Clarisse already had one hanging from her belt. Every time he adjusted the strap, something heavy shifted against his hip.
+"You could've told me how much this weighed before I volunteered," Percy said as they reached the first marker.
 
-"You could've told me how much this thing weighed before I volunteered," he said as they reached the first marker.
+Clarisse checked the carved post for fresh scratches. "You didn't volunteer. You were assigned, and if you hadn't spent ten minutes looking for the gloves you left in the wrong trunk, we'd have been here before the sun cleared the trees."
 
-Clarisse inspected the carved post for fresh scratches. "You didn't volunteer. You were assigned, and if you hadn't spent ten minutes looking for the gloves you left in the wrong trunk, we would have been here before the sun cleared the trees."
+"I found them," he said, tugging them on.
 
-"I found the gloves."
-
-"Congratulations. Now use them. That post's got splinters."
-
-He made a face but put them on.
+"Then use them. That post has splinters."
 
 The path rose through scrub and pines toward the eastern boundary. The ground had hardened in the cold, and little white patches of frost remained wherever sunlight couldn't reach. Most of the leaves were still green. Percy liked that he was starting to know which turns led to old fences and which opened into views of the valley. Each landmark gave him something about this version of camp he had learned for himself.
 
 Clarisse stopped at the second observation point and had him repeat the horn signals. She listened without interrupting until he confused contact with retreat, then took the horn and demonstrated both.
 
-"Three short blasts mean you don't have time to be brave," she said. "You go back and bring people who know what they're doing. You understand?"
+"Three short blasts mean you don't have time to be brave," Clarisse said. "Get the younger campers moving, then retreat and bring people who know what they're doing. Running off alone makes you a fast idiot, not a useful one. You understand?"
 
-"I understand. If I hear three, I run."
-
-"You get the younger campers moving first. Running off by yourself makes you a fast idiot, not a useful one."
+"I get them out, then go for help," Percy said."
 
 That sounded like something Chiron might have said, but with less patience and considerably more bite.
 
 They stood watch for a quarter hour before Clarisse sat on a flat rock, set her spear within reach and took a folding knife and a little block of wood from her jacket. Percy had seen her repair weapons in the arena. He hadn't expected her to produce an animal from the rough shape of a branch.
 
-"What are you making?" he asked.
+"What are you making?" Percy asked.
 
-"A panther. Or I was, until somebody decided to talk through my concentration."
+"A panther. Or it was, before somebody interrupted me."
 
-Percy leaned over enough to see the outline of a pointed ear. Two wings had been sketched across its back. "I didn't know panthers could fly. Are we sure your father isn't secretly running a zoo somewhere?"
+He leaned over to see the pointed ear and the two wings sketched across its back. "I didn't know panthers could fly. Is Poseidon secretly running a zoo?"
 
-"Sea monsters are more than enough trouble for him. Anyway, Silena wanted something for the shelf near her bunk." Clarisse cut another thin shaving from the wood. "She's been complaining that nobody ever makes the cabin look as though people actually live there."
+"Sea monsters are enough trouble for him. Silena wanted something on the shelf to make the cabin look lived in." Clarisse cut another shaving from the wood.
 
 "So you're making her a present."
 
-"I started it for her. Silena looked at the sketch and told me the shelf needs a drawer more than another decoration." Clarisse brushed a shaving off the wing. "She's right about the drawer, which is annoying. I'll finish this anyway."
+"I started the panther for her. She looked at the sketch and said the shelf needs a drawer more than another decoration. She's right about the drawer, which is annoying, but I'll finish this anyway."
 
-"That's a very generous gift."
+"That's a generous gift."
 
 "Keep talking and I'll carve a mouth on it that looks like yours."
 
@@ -70,15 +64,13 @@ He examined his small block of wood, which already looked more potato-shaped tha
 
 "Was Poseidon ever interested in it?"
 
-The knife paused.
+The knife paused. Percy wished he could take the question back. He had been thinking of Triton teaching him sword drills in Atlantis and Amphitrite reading near the garden pool; for a moment, he had forgotten Clarisse's experience of their father was entirely different.
 
-Percy would have taken the words back if he could. He'd been thinking of Triton demonstrating sword drills in Atlantis and of Amphitrite sitting near the garden pool with her letters. When he asked the question, he'd forgotten for an instant that Clarisse's experience of their father had been entirely different.
-
-"He didn't teach me, if that's what you're asking," she said.
+"He didn't teach me, if that's what you're asking," Clarisse said.
 
 "I wasn't trying to—"
 
-"I know. You're curious." She put the knife on her knee, blade closed. "That's one of your less irritating habits, most days. But you should understand that asking about him doesn't always get a good story."
+"I know you're curious." She put the closed knife on her knee. "That's one of your less irritating habits, most days. But you should understand that asking about him doesn't always get you a good story."
 
 Percy sat down on the rock opposite her.
 
@@ -188,31 +180,23 @@ Percy knew this because she'd written twenty minutes on the practice schedule, u
 
 Instead she was watching a small Hermes camper try to buckle a practice shield onto her arm.
 
-"Wrong side," Clarisse said.
+Clarisse pointed at the strap. "Turn this over."
 
-The girl changed hands. The shield dropped to the sand.
+The girl tried, and the shield dropped to the sand. She glared at it; her helmet, dented above one ear, kept slipping over her eyebrows. "You said wrong side."
 
-"That's not what I meant."
+"I meant the strap, not the whole shield."
 
-"You said wrong side."
-
-"I meant turn the strap over."
-
-The girl glared at the shield. She could not have been much more than ten. Her helmet had a dent over one ear and kept sliding over her eyebrows.
-
-Percy looked at Clarisse. "You could just show her."
+Percy looked at Clarisse. "Would it help if you showed her a different way?"
 
 "I've shown her twice."
 
-"Then show her a different way."
+"Then let me be the bad example."
 
-Clarisse's eyes narrowed.
-
-"Is this where you tell me all about teaching?"
+Clarisse's eyes narrowed. "Is this where you tell me all about teaching?"
 
 "No. This is where I volunteer to be the idiot in the demonstration."
 
-The girl looked up with interest.
+
 
 Clarisse considered him for a long moment, then tossed him another shield.
 
@@ -252,11 +236,11 @@ They practiced until the girl's arms trembled. She started making the same mista
 
 "That doesn't stop a monster."
 
-"It does stop her learning the next bit."
+"No, but it makes it harder for her to learn the next part."
 
 The girl scowled. "I can do another."
 
-"Great," Percy said. "But can you do a better one?"
+"Can you do a better one?" Percy asked.
 
 That gave her pause.
 
