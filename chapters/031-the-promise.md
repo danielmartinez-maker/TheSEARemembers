@@ -1,6 +1,6 @@
 ## Chapter 31: The Promise
 
-The dining pavilion emptied the way it always did on a warm, lingering night, not all at once but in slow unraveling threads. Someone's laughter from the Apollo table. Clatter of plates being cleared by harpies who were in too good a mood to threaten anybody. The torches guttered low and threw amber across the marble steps.
+The dining pavilion emptied the way it always did on a warm, lingering night, not all at once but in slow, unraveling threads: laughter from the Apollo table, the clatter of plates as harpies cleared them (they were in too good a mood to threaten anybody), and torches guttering low, throwing amber across the marble steps.
 
 Percy Jackson lingered.
 
