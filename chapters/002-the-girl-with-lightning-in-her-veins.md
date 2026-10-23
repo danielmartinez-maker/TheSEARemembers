@@ -124,11 +124,7 @@ She considered that, then held the slate out to him.
 
 
 
-The first thing Percy broke was not a thing.
-
-He broke a rule he hadn't known existed.
-
-Behind Cabin Three, Silena showed him where the channel water returned beneath a stone grate. The little troughs ran through the floor to keep the cabin cool, then curved around a basin where any grit could settle before the water moved on. A brass lever opened the drain for cleaning. It looked simple enough.
+Percy’s first broken rule was one he hadn’t known existed. Behind Cabin Three, Silena showed him where the channel water returned beneath a stone grate. The little troughs ran through the floor to keep the cabin cool, then curved around a basin where grit could settle before the water moved on. A brass lever opened the drain for cleaning. It looked simple enough.
 
 "Close the intake first," Silena said. "Otherwise you'll get a—"
 
@@ -422,31 +418,27 @@ Percy thought about that. "It's like that for me with Sally. I remember her, but
 
 They sat in silence, watching the sun sink below the treeline. The lake turned gold, copper light pooling warm on their skin while cold seeped up through the dock boards, then copper, then deep purple, and the first stars appeared in the darkening sky.
 
-"Percy," Annabeth said quietly. "Do you think we're here for a reason? That someone sent us back on purpose?"
+“Percy,” Annabeth said quietly, “do you think we're here for a reason? That someone sent us back on purpose?”
 
-"I don't know. But I don't think it was an accident."
+“I don't know,” he said. “But I don't think it was an accident.”
 
-"What do you think we're supposed to do?"
+“What do you think we're supposed to do?”
 
-"I think..." He paused, trying to articulate something he'd been turning over in his mind since he'd woken up in Atlantis. "I think we're supposed to piece together what changed. Who changed it. And why."
+“We need to piece together what changed, who changed it, and why.” He paused, trying to give shape to the thought he'd been turning over since waking in Atlantis. “Then we decide whether to let it stand.”
 
-"And then?"
+Annabeth turned to look at him. “What do you mean?”
 
-"And then we decide whether to let it stand."
+“What if fixing the timeline means erasing the people who exist in this one—your sister, my parents, Clarisse and Silena? What if restoring the original history means destroying this life?”
 
-Annabeth turned to look at him. "What do you mean?"
+Annabeth's expression was unreadable. “I've been thinking about that too.”
 
-"I mean — what if fixing the timeline means erasing the people who exist in this one? Your sister. My parents. Clarisse and Silena. What if restoring the original history means destroying this one?"
+Percy waited, giving her room to continue.
 
-Annabeth's expression was unreadable. "I've been thinking about that too."
+“I don't know,” she said. “In my original life, I didn't have a sister. Thalia nearly died when she was twelve, became a tree, and later came back to us. She was my friend, not my biological sister. Here, she is my sister—the most important person in my life—and I don't remember earning that.”
 
-"And?"
+“So what do we do?”
 
-"And I don't know. In my original life, I didn't have a sister. Thalia nearly died when she was twelve, became a tree, and later came back to us. She was my friend, not my biological sister. And now she is. She's the most important person in my life in this timeline, and I don't remember earning that."
-
-"So what do we do?"
-
-"We piece together what happened. We find out who's responsible. And then..." She trailed off. "Then we make a choice."
+“We piece together what happened, find out who's responsible, and then...” She trailed off. “Then we make a choice.”
 
 Percy nodded. It wasn't a satisfying answer, but it was the only one they had.
 
@@ -734,13 +726,9 @@ Thalia let her have it.
 
 ---
 
-The next morning, Percy woke to the sound of Clarisse doing push-ups. He lay in his bunk for half a breath, staring at the ceiling, and tried to piece together what he was going to do.
+The next morning, Percy woke to the sound of Clarisse doing push-ups. He lay in his bunk, staring at the ceiling as he tried to decide what to do next. He needed to investigate the changes and find out who had altered their history, but wanting an answer didn't give him evidence. His first two days had already supplied plenty of bad guesses, and he still hadn't earned the right to decide what should happen to this life.
 
-He knew he needed to investigate the changes to the timeline. He wanted to find out who had changed their history and why. But wanting an answer wasn't the same as having evidence, and his first two days had already supplied plenty of bad guesses. He still hadn't earned the right to decide what should happen to this life.
-
-And he was only twelve years old. In this body, in this timeline, he was just a kid. He didn't have the strength or the stamina or the experience of his seventeen-year-old self. He was working with a twelve-year-old body and memories through seventeen, and the disconnect was exhausting.
-
-But he couldn't stop. Because if he stopped, the people he cared about would be trapped in this altered timeline forever. And that was unacceptable.
+At the same time, he was only twelve. His body lacked the strength, stamina, and experience of his seventeen-year-old self, while his memories reached through seventeen and left him exhausted. He couldn't stop investigating: if he did, he believed the people he cared about would remain trapped in this altered timeline forever. That possibility was unacceptable.
 
 He got up and dressed. Clarisse finished her push-ups and looked at him.
 
@@ -1070,31 +1058,27 @@ They finished the watch without further confidences. On the way down, Thalia too
 
 That evening Percy found Annabeth at the canoe lake, sitting on the dock with a folded list of observations balanced on her knees. The paper was damp along one edge. She moved it when he sat so neither of them would step on the writing.
 
-"Was that Thalia with you on the eastern path?" she asked.
+“Was that Thalia with you on the eastern path?” Annabeth asked.
 
-"Yeah. She taught me the horn signals and informed me I'm apparently unqualified to identify a deer."
+“Yeah. She taught me the horn signals and told me I apparently can't identify a deer.”
 
-Annabeth looked at him. "Did you break a rule?"
+Annabeth drew a line through one of the guesses on her page. “Did you break a rule?”
 
-"She would say I ignored one. She'd be right."
+“She'd say I ignored one. She'd be right.”
 
-"She usually is about patrols." Annabeth drew a line through one of the guesses on her page. "What else?"
+“She usually is about patrols. What else?”
 
-Percy hesitated. He could have left Thalia's private comment alone, but he hated seeing Annabeth convinced that all her sister wanted was control. "She told me she checks the lookouts because she worries about threats reaching you. She said she's been watching out for you at night too."
+Percy hesitated. He could have left Thalia's private comment alone, but he hated seeing Annabeth convinced that all her sister wanted was control. “She told me she checks the lookouts because she's worried about threats reaching you, and that she's been watching out for you at night too.”
 
-Annabeth's pencil stopped. "Did she ask you to tell me that?"
+Annabeth's pencil stopped. “Did she ask you to tell me that? If she didn't, why are you telling me?”
 
-"No."
+“No. I thought you'd want to know she wasn't only checking up on you to make you miserable.”
 
-"Then why did you?"
+“Percy, I know she cares about me. She's the one who has to live with me every day.” Annabeth set down the pencil. “I don't need you carrying private things between us because neither of us knows how to say them.”
 
-"I thought you'd want to know she wasn't only checking up on you to make you miserable."
+He realized he'd inserted himself into an argument. “You're right. I shouldn't have repeated it.”
 
-Annabeth put down the pencil. "Percy, I know she cares about me. She's the one who has to live with me every day. I don't need you carrying private things between us because neither of us knows how to say them."
-
-He hadn't meant to insert himself into an argument, but that was exactly what he'd done. "You're right. I shouldn't have repeated it."
-
-"Thank you." She looked down at the sheet, then pushed it toward him. "I still don't remember most of the things she says we did. I can be grateful for her help and angry that everyone expects me to remember needing it. Both are true."
+“Thank you.” She looked down at the sheet and pushed it toward him. “I still don't remember most of the things she says we did. I can be grateful for her help and angry that everyone expects me to remember needing it. Both are true.”
 
 Percy read the three headings she'd drawn: *Remembered*, *Told*, and *Observed here*. Beneath *Observed* she'd written that the cabin window latch rattled and Thalia had repaired it yesterday. The plainness of the record made him think of the folded paper in his own pocket.
 
