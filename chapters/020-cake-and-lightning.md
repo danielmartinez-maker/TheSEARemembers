@@ -64,13 +64,7 @@ Silena's whole face lit up, and suddenly Percy understood why people followed Si
 
 ---
 
-Clarisse La Rue did not do cute.
-
-This was a known fact, like the sky is blue and Ares kids win capture the flag when they cheat properly. Clarisse did spears. Clarisse did war chariots and shield walls and screaming loud enough to make satyrs drop their pipes.
-
-Clarisse did not do streamers.
-
-And yet there she was, two days before Thalia's belated party, lying on her stomach at Cabin Three's cleared-off craft table with Silena Beauregard, surrounded by enough blue and silver tissue paper to stuff a pegasus.
+Clarisse La Rue did not do cute. This was a known fact, like the sky being blue and Ares kids winning capture the flag when they cheated properly. Clarisse did spears, war chariots and shield walls, and she could scream loudly enough to make satyrs drop their pipes. Streamers were another matter. Yet there she was, two days before Thalia's belated party, lying on her stomach at Cabin Three's cleared-off craft table with Silena Beauregard, surrounded by enough blue and silver tissue paper to stuff a pegasus.
 
 "No," Clarisse said flatly, holding up Silena's sketch. "Absolutely not."
 
@@ -310,11 +304,7 @@ Silena set down her fork. "Okay. Tomorrow. Fresh start. Nobody tells Thalia. Nob
 
 ---
 
-Annabeth Grace knew how to build things.
-
-She knew how to measure a wall and square a corner and lash a spar so it would hold in a storm. In her remembered life, Athena kids learned early: the world made sense if you drew it first. Plans were safety. Blueprints were promises.
-
-Gifts were harder. Gifts didn't have load-bearing walls.
+Annabeth Grace knew how to build things: measure a wall, square a corner, lash a spar so it would hold through a storm. In the life she remembered, Athena's children learned early that the world made more sense when you drew it first. Plans offered safety; blueprints were promises. Gifts were harder because a present could mean too many things at once, and none of those meanings came with load-bearing walls she could trust.
 
 She sat in the back of the Zeus cabin — her cabin, shared with Thalia throughout the childhood she knew only through her sister's stories — with a block of pine wood, a carving knife, and a knot in her stomach the size of a minotaur.
 
@@ -412,17 +402,11 @@ When the door closed, Annabeth pulled the half-carved tree back out and held it 
 
 ---
 
-Thalia Grace knew about the surprise party.
+Thalia Grace knew about the surprise party. At sixteen, observant and very much alive, she had noticed Percy whisper to Grover before both fell silent when she entered the mess hall; Clarisse's roll of blue streamers beneath her breastplate, supposedly "tactical camouflage"; and Silena measuring the bonfire area with a ribbon while pretending to sunbathe. Ella had trailed her, singing that they were "definitely not birthday songs, no, Ella doesn't know what birthday you mean." Subtle, these people were not.
 
-Of course she knew. She was sixteen, observant, and very much alive. She'd noticed Percy whispering to Grover and then both of them shutting up the second she walked into the mess hall. She'd noticed Clarisse carrying what was very obviously a roll of blue streamers under her breastplate and claiming it was "tactical camouflage." She'd noticed Silena measuring the bonfire area with a ribbon while pretending to sunbathe. She'd noticed Ella following her around singing what Ella claimed were "definitely not birthday songs, no, Ella doesn't know what birthday you mean."
+Thalia played along. It felt good to be someone her friends wanted to celebrate, though the feeling was strange and a little scary; she refused to think about it too hard.
 
-Subtle, these people were not.
-
-Thalia played along because... well, because it felt good to be the kind of person people threw secret parties for.
-
-Which was weird. And a little scary. And she was absolutely not going to think about that too hard.
-
-Instead, on the afternoon before her birthday party, she let herself be kidnapped by the training-cabin prank war, which was either part of the distraction plan or just campers being feral. Honestly, with this group, it could be both.
+On the afternoon before the party, she let herself be kidnapped by the training-cabin prank war, either as part of the distraction plan or because campers could be feral. With this group, it could be both.
 
 It started when Percy challenged her to spar.
 
@@ -944,9 +928,7 @@ Thalia Grace, sixteen and finally celebrated, daughter of Zeus, sister of Annabe
 
 ---
 
-By the time the cake was served, Thalia had stopped wondering when the embarrassing speech would arrive. There had been a few toasts, mostly jokes, and Clarisse had declared that the entire camp owed Thalia an apology for allowing her to get to sixteen without an adequate supply of sparring partners. Percy hadn't stood up to deliver the words she'd heard him rehearsing in the kitchen. Instead he handed her the plate with the largest slice and let her decide whether she wanted to make a wish.
-
-She didn't. She was too hungry.
+By the time the cake was served, Thalia had stopped wondering when the embarrassing speech would arrive. There had been a few toasts, mostly jokes, and Clarisse had declared that the entire camp owed Thalia an apology for allowing her to get to sixteen without an adequate supply of sparring partners. Percy hadn't stood up to deliver the words she'd heard him rehearsing in the kitchen. Instead, he handed her the plate with the largest slice. She'd already made her wish over the candles and was too hungry to wait before eating.
 
 At the edge of the bonfire circle, Tomas from the Hecate cabin was hovering with an empty cup. The younger boy had joined the celebration late and seemed unsure whether it was a private party he hadn't been invited to attend. Thalia recognized the look from a time when she'd had to decide whether it was safe to accept food from strangers.
 
