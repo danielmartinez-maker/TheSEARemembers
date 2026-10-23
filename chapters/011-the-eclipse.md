@@ -88,9 +88,7 @@ Only when the equipment had been signed back into the observation log did Zoe pe
 
 ---
 
-Eclipse morning arrived clear and cold.
-
-Percy woke before the conch. Clarisse had already pulled on her boots; Silena stood beside the door with a bundle of clean towels and the expression she wore when someone was about to make a preventable mess.
+Percy woke before the conch on a clear, cold eclipse morning. Clarisse had already pulled on her boots; Silena stood beside the door with a bundle of clean towels and the expression she wore when someone was about to make a preventable mess.
 
 "Infirmary supplies," she told him.
 
@@ -116,23 +114,19 @@ Percy dressed and found the two of them inspecting a wooden board propped agains
 
 "And if something happens while you're away?"
 
-Clarisse looked at the assignment sheet. There were not enough senior campers for every route to have a familiar face at both ends. Percy understood the problem. They had built a plan around the idea that everyone would reach the pavilion before the eclipse. If anyone was delayed, the last person on the path might be on their own.
+Clarisse looked at the assignment sheet. There weren't enough senior campers for every route to have a familiar face at both ends. They'd planned around everyone reaching the pavilion before the eclipse; a delay could leave the last person on the path alone.
 
-"I can take the western turn," he offered.
+"I can take the western turn," Percy offered.
 
 Silena shook her head. "You're assigned to the pavilion group. The counselors asked you to help account for the younger swimmers because you know who can handle the water crossings."
 
 "I can still be useful over there."
 
-"That's not the point. The point is that we can't build a route around you and then move you every time a problem appears."
+"That's not the point. We can't build a route around you and then move you every time a problem appears."
 
-Clarisse set down the chalk. She didn't look pleased, but she didn't argue.
+Clarisse set down the chalk. She didn't look pleased, but she didn't argue. "Fine. I'll stay at the west crossing. Bea can take the upper path. Percy stays at the pavilion, and the younger campers can be counted before they move."
 
-"Fine," she said. "I'll stay at the west crossing. Bea can take the upper path. Percy stays at the pavilion, and the younger campers can be counted before they move."
-
-Silena wrote the changes on the board, then made each of them read the assignment aloud. Percy tried to joke about being tested on a schedule, but she ignored him.
-
-"I want us to know where to find one another if the light changes," she said. "If the Hall starts making noise, we don't go chasing whoever isn't in sight. We report the missing person to Chiron. We have enough people to get everyone to the pavilion if we keep the counts accurate; we don't have enough people to send everyone running off on separate rescues." Silena drew a box around Percy's name and left her pencil beside it. She wasn't trying to keep him from Annabeth. She was trying to make his promise to the other children mean something.
+Silena wrote the changes on the board, then had each of them read the assignment aloud. "I want us to know where to find one another if the light changes. If the Hall starts making noise, we don't run after anyone who's out of sight. We report them to Chiron. We have enough people to get everyone to the pavilion if we keep the counts accurate; we don't have enough to send everyone running off on separate rescues." She boxed Percy's name and left the pencil beside it. She wasn't trying to keep him from Annabeth; she wanted his promise to the other children to mean something.
 
 Clarisse looked at Percy. "And if you decide to be helpful by running into the building, I will personally make your chores so bad you'll miss the infirmary."
 
@@ -780,35 +774,21 @@ Silena had already gone back to stores. There were dressings to inventory and la
 
 Percy sat on the step beside her.
 
-"Are you going to yell?"
+"Are you going to yell?" Percy asked.
 
-"Not yet. I'm deciding what to yell about."
-
-"That sounds promising."
-
-She placed the clipboard between them. The final count contained the names of every camper who had reached the Big House safely. Below the last line was a separate list of counselors and staff who had remained on duty near the Hall.
-
-"That's your group," Clarisse said, pointing to a checked entry. "You were supposed to help Silena count them before we moved anyone."
+"Not yet. I'm deciding what to yell about." Clarisse set the clipboard between them and pointed to his checked entry. "This was your group. You were supposed to help Silena count everyone before we moved."
 
 "I know."
 
 "Then why were you inside the building?"
 
-"Thalia went toward the door, and it looked like she was going to get hurt. Chiron called us over when the ward started drawing in pressure. I thought I could help keep the water off the floor."
+"Thalia went toward the door, and it looked like she was going to get hurt. Chiron called us over when the ward started drawing in pressure. I thought I could keep the water off the floor."
 
-"You did help with the water. That's not the question."
+"You did help with the water. That's not what I'm asking." Clarisse tapped the clipboard. "Did you check whether Silena still had enough people to move the pavilion group? Did you tell your counselor where you were going?"
 
-Percy looked at her. He had been waiting for somebody to say that his contribution justified the decision. Clarisse refused to give him the easy version.
+"No. I didn't check her count or tell the counselor. I only told you I'd stay with Chiron."
 
-"Did anyone check whether Silena still had enough people to move the pavilion group when you left?" she asked.
-
-"I didn't."
-
-"Did you tell your counselor where you were going?"
-
-"No. I told you I'd stay with Chiron."
-
-"Which is not where you were assigned."
+"Which wasn't where you were assigned."
 
 He turned the pencil over in his hands. "You're right."
 
