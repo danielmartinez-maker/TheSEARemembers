@@ -4,31 +4,23 @@ Annabeth woke on the floor of Cabin One, tangled in the blanket she'd pulled dow
 
 The cabin was empty. Thalia's bunk was made with military precision, the corners tight enough to bounce a coin off, and the small shelf above her bed was lined with books and weapons in alternating order. The girl herself was nowhere to be seen — probably training, or brooding, or doing whatever it was Thalia did before dawn.
 
-Annabeth got up and dressed. The camp beads on her necklace clinked softly as she moved — she'd been here less than a week in this timeline, but this version of her had been here for years, and the collection of beads told a story she couldn't read. Each one represented a summer, a season, a childhood she'd never lived.
+Annabeth got up and dressed. The camp beads clicked against her necklace as she moved. She had been here less than a week in this timeline, but this version of her had worn the beads for years; each marked a summer, a season, a childhood she couldn't remember. She resented them for recording what she'd lost, then resented herself for wanting to take them off. Thalia had lived those years beside her. Removing the necklace wouldn't erase them; it would only force another conversation neither of them was ready to have.
 
-She resented the beads for marking summers she could not remember, then resented herself for thinking of removing them. Thalia had lived those summers alongside her; taking the necklace off wouldn't make that history disappear, but it would force another conversation neither of them was ready to have.
+The dining pavilion was already busy. Breakfast was usually loud and chaotic, but that morning the noise had a brittle edge. Annabeth took a tray to the Zeus table and slid into her usual spot beside Thalia.
 
-The dining pavilion was already busy when she arrived. Breakfast at Camp Half-Blood was a loud, chaotic affair, but today there was an undercurrent of tension that made the noise feel sharper, more brittle. Annabeth grabbed a tray and made her way to the Zeus table, where Thalia was already sitting with a group of older campers.
+"Morning," she said.
 
-"Morning," Annabeth said, sliding into her usual spot.
+Thalia looked up from her conversation with the older campers. "You look terrible—and don't say it's only lack of sleep. Did you sleep at all?"
 
-Thalia looked up from her conversation. "You look terrible."
+"Some," Annabeth said, hoping that would end the questions.
 
-"Thanks."
+Concern slipped through Thalia's irritation. "The nightmares again?"
 
-"Did you sleep?"
+Annabeth didn't answer, and Thalia took her silence as confirmation. "You should talk to Chiron. Or Mr. D. Someone who can help."
 
-"Some."
+"I'm fine," Annabeth said.
 
-Thalia's expression shifted — concern breaking through her default expression of mild irritation. "Nightmares again?"
-
-Annabeth didn't answer. Thalia took that as confirmation.
-
-"You should talk to Chiron. Or Mr. D. Or — someone."
-
-"I'm fine."
-
-"You're not fine. You've been having nightmares every night since—" Thalia stopped herself, glancing at the other campers. "Since you got sick."
+"You're not. You've been having nightmares every night since—" Thalia stopped herself and glanced toward the other campers. "Since you got sick."
 
 *Since I got sick.* That was the cover story. A mysterious illness shortly before Percy arrived, after which Annabeth had apparently become quieter, more withdrawn, more... different. It was close enough to the truth that it stuck — but it wasn't the truth at all.
 
@@ -42,13 +34,7 @@ Thalia looked like she wanted to press, but a commotion at the entrance to the d
 
 The pavilion erupted. Campers were on their feet, grabbing weapons, shouting for their cabin leaders. Thalia was already moving, barking orders at the younger kids, her voice cutting through the noise like a blade.
 
-Annabeth stood frozen for a half-second. A drakon. She knew drakons — they were rare, dragon-like creatures that regenerated unless you hit the weak spot on their throat. She'd fought one before, in another life, with Percy beside her and the weight of the world on her shoulders.
-
-But the Annabeth everyone here knew had been trained by Thalia, not by five years of the wars Annabeth remembered. She did not know how much knowledge she could reveal without frightening her sister.
-
-She had to pretend. She had to be twelve years old and inexperienced and scared.
-
-It was one of the hardest things she'd ever done.
+Annabeth froze for half a second. A drakon: rare, dragonlike, able to regenerate unless someone struck the weak point in its throat. She'd fought one before, in another life, with Percy beside her through years of war. But this Annabeth had trained with Thalia, not survived those campaigns. She couldn't reveal too much without frightening her sister; for now, she had to play the inexperienced, scared twelve-year-old. It was one of the hardest things she'd ever done.
 
 ---
 
@@ -94,15 +80,9 @@ Thalia was at Annabeth's side in an instant, her hands on her shoulders, her fac
 
 "I'm sorry," Annabeth said, and the words came out small and choked.
 
-Thalia's expression cracked. The anger drained away, replaced by something raw and desperate, and she pulled Annabeth into a hug so tight it hurt.
+Thalia's expression cracked. The anger drained away, leaving fear so raw that she pulled Annabeth into a hug that hurt. "Don't ever do that again," she whispered. "Please. I can't—I can't lose you." Annabeth closed her eyes and let herself be held; the love in the embrace belonged to years she couldn't remember, and she had no idea how to meet it.
 
-"Don't ever do that again," Thalia whispered. "Please. I can't — I can't lose you."
-
-Annabeth closed her eyes. That love — fierce and unearned and absolute — pressed down on her like a physical thing.
-
-In her original timeline, Thalia had been a friend. A chosen sister. Someone she'd met when they were both fighting for their lives, and whose courage had saved her more than once. But this Thalia had raised her. Had protected her. Had spent years being mother and sister and guardian all at once, and the depth of that bond was something the original Annabeth had never had to carry.
-
-Now Annabeth carried it. And she didn't know how.
+In the life she remembered, Thalia had been a friend and chosen sister, someone she'd met while they were both fighting for their lives and whose courage had saved her more than once. This Thalia had raised and protected her, spending years as mother, sister, and guardian at once. Annabeth carried that bond without remembering how it had formed, and still didn't know what to do with it.
 
 ---
 
@@ -116,29 +96,27 @@ Her hands shook as she looked at the scraped knuckles the practice sword had lef
 
 And Thalia had seen.
 
-"Thought I'd find you here."
+"Thought I'd find you here," Percy said. Annabeth didn't turn; she kept staring at the water, trying to steady her breathing.
 
-Percy's voice. Annabeth didn't turn. She simply sat there, staring at the water, trying to steady her breathing.
-
-"Heard about the drakon," he said, sitting down beside her. "You okay?"
+He sat beside her. "I heard about the drakon. Are you all right?"
 
 "I shouldn't have done it."
 
-"Helping your sister? Yeah, you should have."
+"Help your sister?" His answer came gently. "That was the right thing to do."
 
-"I mean I shouldn't have done it *well*. I shouldn't have been that fast. That precise. I'm supposed to be a twelve-year-old who's never fought a monster before."
+"I mean I shouldn't have done it *well*. I shouldn't have been that fast, that precise. I'm supposed to be a twelve-year-old who's never fought a monster before."
 
-Percy was quiet for a breath. Then he said, "You know what my problem is? I can't turn it off. The training. The instincts. When that drakon showed up, my body just... knew what to do. And I had to actively stop myself from doing it."
+Percy was quiet for a breath. "My problem is that I can't turn the training and instincts off. When that drakon showed up, my body just... knew what to do, and I had to stop myself."
 
 "Same," Annabeth admitted.
 
-"So we're both pretending to be something we're not. And we're both bad at it."
+"So we're both pretending to be something we're not, and neither of us is very good at it."
 
 "We're going to get caught."
 
-"Maybe. Or maybe everyone's just going to think we're prodigies."
+"Maybe. Or people will decide we're prodigies."
 
-Annabeth laughed — a short, bitter sound. "You really think Chiron's going to buy that?"
+Annabeth's laugh came out short and bitter. "Do you really think Chiron will buy that?"
 
 "No. But what choice do we have?"
 
@@ -172,23 +150,17 @@ Annabeth leaned against him, just slightly. He put his arm around her shoulders,
 
 ---
 
-Thalia hated being told to sit still.
-
-The infirmary had been constructed by people who enjoyed telling demigods to sit still. Its benches were too high, its windows wouldn't open far enough, and the healer assigned to check her ribs had a voice that suggested she'd been practicing disappointment for years.
+Thalia hated being told to sit still, and the infirmary seemed designed for the purpose: benches too high, windows that barely opened, and a healer whose voice suggested she'd practiced disappointment for years.
 
 "Deep breath," the healer said.
 
-Thalia breathed in. Something near her side pulled sharply.
-
-"Again."
+Thalia inhaled; something beneath her ribs pulled sharply. "Again."
 
 "That was deep."
 
-"That was about half a breath. Again."
+"About half a breath. Try once more."
 
-Thalia gave her a look and obeyed. The healer listened, pressed two fingers below the ribs and nodded.
-
-"Bruised. I don't feel a break. No sparring for forty-eight hours. If the pain worsens, come back."
+Thalia gave her a look but obeyed. The healer listened, pressed two fingers below her ribs, and nodded. "Bruised. I don't feel a break. No sparring for forty-eight hours. If the pain worsens, come back."
 
 "I'm on border rotation."
 
@@ -198,7 +170,7 @@ Thalia gave her a look and obeyed. The healer listened, pressed two fingers belo
 
 "Then camp has the perfect opportunity to discover how it works without you."
 
-Silena, who had volunteered to bring supplies from the stores, made a small choking sound from the doorway. She was trying not to laugh. Thalia could tell because she was looking at the ceiling with unusual concentration.
+Silena, who had volunteered to bring supplies from the stores, made a small choking sound from the doorway. She tried not to laugh; Thalia could tell from the unusual concentration on the ceiling.
 
 "Don't," Thalia warned.
 
@@ -220,21 +192,13 @@ The drakon had dissolved to dust on the hill. The only obvious remains were a da
 
 Thalia would have preferred evidence that required less imagination.
 
-Chiron was waiting at the Big House with a clipboard.
-
-"I need your incident account," he said.
+Chiron waited at the Big House with a clipboard. "I need your incident account."
 
 "I killed it."
 
-"That is the conclusion. I'd prefer the sequence of events."
+"I know. I need the sequence of events; the satyr's account isn't enough without yours."
 
-"Ask the satyr who spotted it."
-
-"I have. I would also like yours."
-
-Thalia lowered herself into the porch chair without thanking him for putting it there.
-
-She described the alarm, the campers behind the hill, the first strike, the tail that caught her in the ribs, and the moment Annabeth ran forward with a practice sword. Chiron made notes without interrupting.
+Thalia lowered herself into the porch chair without thanking him for putting it there, then described the alarm, the campers behind the hill, the first strike, the tail that caught her in the ribs, and Annabeth running forward with a practice sword. Chiron took notes without interrupting.
 
 "I hadn't cleared the children from the footpath," she said. "That's on me."
 
@@ -1064,7 +1028,7 @@ Annabeth's stomach twisted.
 
 "Once. You cried for an hour. Luke made me turn it back."
 
-That was a memory neither girl could share now. Thalia had lived it. Annabeth heard it as though she were listening to somebody describe an old photograph.
+That memory was Thalia's alone. Annabeth could only listen, like someone being told what an old photograph showed.
 
 "And he never came?" Annabeth asked.
 
