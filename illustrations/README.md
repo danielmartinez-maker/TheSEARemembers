@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 125 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 130 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -756,3 +756,32 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/125-the-invitation-accepted.md)
 
 ![Triton opens the lake corridor as Percy and Annabeth hold hands and their friends enter the current for Atlantis.](125-the-invitation-accepted.jpg)
+## 126. The Palace Below
+
+[Source chapter](../chapters/126-the-palace-below.md)
+
+![Percy and his sisters return to the underwater palace, where Clarisse studies the childhood height marks as Amphitrite listens.](126-the-palace-below.jpg)
+
+## 127. Guest and Beloved
+
+[Source chapter](../chapters/127-guest-and-beloved.md)
+
+![Amphitrite welcomes Annabeth to Atlantis as Clarisse prepares to slice the sea-plum cake.](127-guest-and-beloved.jpg)
+
+## 128. The Sky in the Sea
+
+[Source chapter](../chapters/128-the-sky-in-the-sea.md)
+
+![Thalia sends a drachma into a rainbow at the Big House fountain as Annabeth stands beside her and thunder scatters pigeons.](128-the-sky-in-the-sea.jpg)
+
+## 129. The Way Back
+
+[Source chapter](../chapters/129-the-way-back.md)
+
+![Amphitrite hugs Silena and offers Clarisse her hand at the Atlantis departure platform; Clarisse wears a red bikini and Silena a pink floral bikini beside the waiting hippocampi.](129-the-way-back.jpg)
+
+## 130. The Family Photo
+
+[Source chapter](../chapters/130-the-family-photo.md)
+
+![Percy poses between Clarisse and Silena beneath the maple for their Cabin Three family photograph.](130-the-family-photo.jpg)
