@@ -180,9 +180,7 @@ Percy watched his girlfriend and her big sister square off on the far deck, watc
 
 ---
 
-Clarisse had a theory about Percy, and on Tuesday she tested it.
-
-Her theory was this: Percy thought of water as a weapon you threw. Big splash, big push. Atlantean war-forms, tidal fists. He did not think of water as armor you wore.
+Clarisse had a theory about Percy, and on Tuesday she tested it. She thought he saw water as a weapon to throw: big splashes, hard pushes, Atlantean war-forms and tidal fists. He didn't seem to think of it as armor he could wear.
 
 She thought this because she had grown up in the pool. When she was nine, her dad — Poseidon, who visited in dreams as a man with sea-green eyes and calloused hands — had shown her how to pull water up her arms like sleeves. When she was eleven, she had held a curtain of water around herself for a full minute while Ares kids pelted her with blunt arrows, and not one had gotten through. Water could be hard if you asked it right. Hard and fast and close.
 
@@ -236,7 +234,7 @@ Clarisse sat beside him, elbows on knees. "Tell me. How did they teach it?"
 
 Percy was quiet for a moment, staring at the mosaic hippocampus under the water. When he talked about Atlantis, his voice went distant in a way that always made Clarisse's chest ache. He was twelve. He should not sound like that.
 
-"They showed me the current hall on my visit," he said slowly. "Deep water, strong flow. No sword at first. Just — stand. Feel where the push is. Turn your shoulder a hair so it misses. Master Ione walked along the edge with a staff and poked a trainee if he braced. 'Don't fight the sea,' she'd say. 'Join it and step aside.' Then later they'd give you a blade and you'd do the same thing while moving."
+"They showed me the current hall on my visit," he said slowly. "Deep water, strong flow, and no sword at first. You just stood there and felt where the push was, then turned your shoulder a little so it could pass. Master Ione walked along the edge with a staff and poked a trainee if he braced. She'd say, 'Don't fight the sea. Join it and step aside.' Later they'd give you a blade and you'd do the same thing while moving."
 
 "Huh," Clarisse said. "That's smarter than how Ares teaches. They just yell 'block harder.'"
 
@@ -450,7 +448,7 @@ Losers made hot chocolate — real hot chocolate this time, with Thalia's emerge
 
 Percy floated beside Clarisse, eyes half-closed, hot mug balanced on his stomach.
 
-"Thank you," he said quietly, so only she could hear. "For this week. I — I feel different. Lighter. Like I'm not carrying something heavy around in a fight anymore."
+"Thank you," he said quietly, so only she could hear. "For this week. I feel different—lighter, like I'm not carrying something heavy around in a fight anymore."
 
 Clarisse nudged his noodle with hers. "You're fighting like yourself now. Not like you're scared of yourself."
 
