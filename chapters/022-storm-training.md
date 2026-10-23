@@ -7,11 +7,7 @@ That almost never happened. At Camp Half-Blood, mornings belonged to the Apollo 
 
 She sat up in Cabin One, careful not to wake Jason in the cot beside the door. Her ten-year-old brother had arrived the previous afternoon on a newly approved seven-day visit from Camp Jupiter. Chiron had explained the supervision rules, and Thalia had shown Jason where to hang his Roman cloak without asking him to remember a childhood he'd been too little to retain. The guest bed made their huge cabin feel crowded for the first time. Thalia's side still held broken watches and a transistor radio; Jason's blanket was tucked in with a precision Annabeth suspected he'd learned from Roman instructors. Her own bunk was nearest the exit, and she'd already checked twice that Jason was still there, an embarrassed sort of relief she hadn't expected to feel.
 
-She pressed her palm to her chest. Her heart was going fast for no reason. Not nightmare-fast. Storm-fast. That buzzy, restless feeling under her skin that she'd had since arriving in this twelve-year-old body, old memories confronting powers everybody else thought she should know.
-
-In her first life — no. In the other life. The one where she was Annabeth Chase, daughter of Athena, architect, the girl who held up the sky. In that life her hands had been steady. She solved things. She built things. She read blueprints like other kids read comics. Her mind was her weapon and she knew exactly how to use it.
-
-In this life she was Annabeth Grace, daughter of Zeus, and her weapon crackled when she got nervous and made all the metal doors at camp hum.
+She pressed her palm to her chest. Her heart was racing for no reason—not nightmare-fast but storm-fast, the restless buzz under her skin since she'd arrived in this twelve-year-old body with old memories and powers everyone else assumed she already understood. In her first life—no, the other life—she had been Annabeth Chase, daughter of Athena, architect, the girl who held up the sky; her hands had been steady, her mind a weapon she knew how to use. She solved things, built things and read blueprints like other kids read comics. Now, as Annabeth Grace, daughter of Zeus, her power crackled when she got nervous, making the camp's metal doors hum.
 
 She slipped out of bed, pulled on her camp shirt and shorts, laced her sneakers, and shoved her hair back with a headband. Thalia's bunk was empty, blanket thrown back. A note on the pillow in Thalia's slashing handwriting: *Hill. Sunrise. Bring jacket. — T*
 
@@ -61,11 +57,11 @@ They breathed.
 
 The sun crested the water and spilled gold across the Sound. Gulls cried. The mist burned off the fields. Annabeth tried to count and breathe and not think about whether she was doing it wrong, which was itself thinking about doing it wrong, which made her shoulders creep up toward her ears.
 
-"Drop your shoulders," Thalia murmured. "Unclench your jaw. You're doing that Athena thing where you try to solve breathing."
+"Drop your shoulders and unclench your jaw," Thalia murmured. "You're doing that Athena thing where you try to solve breathing."
 
 "I am not—"
 
-"You are. I can hear you thinking. Stop thinking. Feel."
+"You are," Thalia said. "I can hear you counting every breath. Let the numbers go for a moment and feel what's happening."
 
 Annabeth huffed, then tried again. In for four. The air smelled like wet grass and salt and pine resin. Hold for four. Her heartbeat thudded in her ears. Out for six. Slow. Her fingertips tingled.
 
@@ -307,11 +303,7 @@ Annabeth's jaw tightened. Percy recognized that look. That was the other-life An
 
 *CRACK.*
 
-A white-blue arc ripped from her palm, forked midair, and slammed into the nearest large conductive object.
-
-Which was Percy.
-
-Because Percy, son of Poseidon, twelve-year-old boy who was mostly salt water in a camp shirt, was basically a walking lightning rod.
+A white-blue arc ripped from her palm, forked through the air and slammed into the nearest large conductive object: Percy. At twelve, with Poseidon for a father and mostly salt water in a camp shirt, he was practically a walking lightning rod.
 
 "GAH!" Percy yelped as every hair on his head stood straight up. Blue sparks skittered across his shoulders and popped in his ears. He smelled burnt sugar. His teeth buzzed.
 
