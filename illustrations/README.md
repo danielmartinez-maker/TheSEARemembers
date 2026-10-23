@@ -2,7 +2,7 @@
 
 One chapter-specific image for each numbered chapter, based on that chapter's scenes and continuity. The images are kept separate from the manuscript text and do not affect chapter word counts.
 
-**Progress: 150 of 218 illustrations complete.** The series is in progress and follows chapter order.
+**Progress: 155 of 218 illustrations complete.** The series is in progress and follows chapter order.
 
 ## 001. The Weight of Salt and Sky
 
@@ -906,3 +906,34 @@ One chapter-specific image for each numbered chapter, based on that chapter's sc
 [Source chapter](../chapters/150-what-keeps.md)
 
 ![Percy and Silena share rescued strawberries at dawn by the lake; Silena wears her pink floral bikini.](150-what-keeps.jpg)
+
+
+## 151. Two Currents
+
+[Source chapter](../chapters/151-two-currents.md)
+
+![Clarisse and Percy spar in the arena as Thalia guides Annabeth's lightning practice and Silena brings lemonade.](151-two-currents.jpg)
+
+## 152. A Full Day of Sky
+
+[Source chapter](../chapters/152-a-full-day-of-sky.md)
+
+![Thalia watches Annabeth float in the lake; Thalia wears a navy bikini and Annabeth a yellow bikini.](152-a-full-day-of-sky.jpg)
+
+## 153. What the Sea Owes
+
+[Source chapter](../chapters/153-what-the-sea-owes.md)
+
+![Percy, Clarisse, and Silena wade into the lake at sunset; Clarisse wears a red bikini and Silena a pink floral bikini.](153-what-the-sea-owes.jpg)
+
+## 154. The Heron
+
+[Source chapter](../chapters/154-the-heron.md)
+
+![Percy and Annabeth investigate the still lake from a skiff as a heron stands on the sunken boat and rings spread.](154-the-heron.jpg)
+
+## 155. Thirty-Nine Marks
+
+[Source chapter](../chapters/155-thirty-nine-marks.md)
+
+![The five siblings share a north beach picnic over Annabeth's sketch of thirty-nine marks; the girls wear bikinis.](155-thirty-nine-marks.jpg)
