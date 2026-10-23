@@ -480,7 +480,7 @@ Triton was quiet for a long moment. The bravado slipped. “Cold,” he said fin
 
 Thalia nodded slowly. She understood that kind of parental lie. She’d lived it.
 
-“He’s a good kid,” she said. “Brave. Loyal to a fault. Annoying kid when he wants to be, but he shows up when it counts.”
+“He’s a good kid,” she said. “Brave and loyal to a fault, annoying when he wants to be, but he shows up when it counts.”
 
 “He is small,” Triton said fondly. “When he was seven he tried to ride a dolphin backwards and fell off and cried and then punched a shark that laughed at him.”
 
@@ -814,7 +814,7 @@ They surfaced together under the moon, treading water, hair slicked back, grinni
 
 Percy laughed, then sniffed. The salt water stung his eyes. Or something did.
 
-“I’ll come visit Atlantis soon,” he promised. “When… when things calm down. I want to see Mom — Amphitrite. And the whale. Is the whale still in my nursery?”
+“I’ll come visit Atlantis soon,” he promised. “When… when things calm down. I want to see Mom again. And the whale. Is the whale still in my nursery?”
 
 “The whale is enormous now and still sleeps in your old crib and refuses to move. We have built around him.”
 
