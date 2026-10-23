@@ -666,7 +666,7 @@ He'd been sent to retrieve a coil of rope left by the canoe crew. He wasn't look
 
 Clarisse nudged the coil toward him. "They can have it. The last section's fraying, so tell them not to use it for anything that needs to hold weight. I was about to put it in the repair pile."
 
-She nudged it toward him with one bare foot. Percy picked it up and checked for cuts. Most of the length was sound, but the last yard had begun to fray.
+Clarisse nudged the rope toward him with one bare foot. Percy picked it up and checked for cuts. Most of the length was sound, but the last yard had begun to fray.
 
 "I'll mark it for repair when I get back," Percy said, separating the damaged end from the rest.
 
@@ -762,9 +762,7 @@ Percy hadn't asked. The admission caught him off guard.
 
 He thought about the wooden panther on his knee. Clarisse had been working on it while they discussed Poseidon at the border, and she'd finished it without saying another word about what she'd told him.
 
-"I can't make him better at being your father," Percy said.
-
-"I know I can't fix what's already happened with Dad," Percy said. He settled the carved panther on his knee. "I just want you and Silena to know I'm not going to vanish the moment camp stops being new to me. I like having you both around, even when you make me carry every heavy thing in the cabin."
+"I can't make him better at being your father, and I know I can't fix what already happened," Percy said. He settled the carved panther on his knee. "I just want you and Silena to know I'm not going to vanish the moment camp stops being new to me. I like having you both around, even when you make me carry every heavy thing in the cabin."
 
 Clarisse examined him from beneath the loose hair at her forehead. "Then keep doing what you've been doing. Show up for drills, put your gear away, don't make me chase you down every time there's a job. If you manage that for a while, I'll probably believe you."
 
@@ -811,151 +809,62 @@ They reached the cabin before the second horn. Percy set the damaged rope beside
 Clarisse pretended not to notice where he'd put it.
 ---
 
-Annabeth found Percy at the lake after dinner. He'd gone back to return the repaired section of rope and ended up sitting on the dock longer than he meant to.
+Annabeth found Percy sitting at the end of the canoe dock after dinner, with the repaired section of rope beside his boots and the small wooden panther Clarisse had given him balanced on his knee. The lake had lost the day's warmth. Its surface was dark where the pines overhung the bank and silver toward the middle, where the last of the sky showed between banks of cloud. Every few minutes a breeze came down the slope from the training grounds and stirred the ropes against their cleats, making a soft percussion among the creak of boards and the slap of water against the pilings. Percy was looking out over the lake with the expression Annabeth knew from the aftermath of difficult conversations, when he wanted to understand what had happened before deciding whether he was allowed to feel relieved.
 
-"Thalia is looking for you," Annabeth said as she sat on the dock. "Before you panic, it's about the practice shields. She can't find the ones she signed out this morning, and you're the last person she remembers using the rack."
+“You know Thalia's looking for you,” she said as she stepped onto the dock. “Before you start imagining that she's discovered our latest collection of problems, it's about the practice shields. She thinks someone took them from the rack she used this morning, and apparently your name was the last one written beside the equipment list.”
 
-"I put them where Clarisse told me. They're not missing, but I forgot to tell Thalia I moved them. I'll sort it out tomorrow."
+Percy looked up, blinking as though he had been thinking of something much farther away. “Oh. Clarisse had me move them after drills because the rack near the door was getting damp. They're on the upper shelf in the armory, and I forgot to change the location on the list. I should've told Thalia before dinner.”
 
-"Please do. I don't want to spend breakfast refereeing a fight over storage shelves."
+“That would have saved me a fairly educational conversation about how people who borrow equipment should be made to carry it home on their backs.” Annabeth sat beside him, drawing her jacket around her knees before she looked at the little carving. “You could still tell her in the morning, preferably before she decides it's evidence that Poseidon's cabin has declared war on organized storage.”
 
-"I put them where Clarisse told me. I can show her tomorrow."
+“She'd enjoy that war too much. I'd lose before breakfast.” Percy picked the panther up by its body rather than its wings, turning it so she could see the deliberately uneven face. “Clarisse gave me this earlier. She says it's for my birthday, whenever she works out when that is. I think she wanted to finish a project she'd started for Silena, but she wouldn't let me thank her long enough to find out.”
 
-Annabeth sat beside him, pulling her jacket tight. She'd brought a notebook but didn't open it.
+Annabeth held out her hand. When Percy passed the carving over, she examined it with the care she gave to models and tools, following the cuts along the wings and the small places where the grain had forced Clarisse to change the shape. It was imperfect in a way she liked. Someone had known where to stop carving rather than remove every mark left by the work. “This took her a while,” she said. “Look at the underside of the wings. She had to turn the knife against the grain to get them to sit like that. Did she teach you how?”
 
-"You've been spending a lot of time with Clarisse."
+“She tried. I made something that could be a potato if you were generous about the anatomy.” Percy smiled when Annabeth raised an eyebrow. “It turns out I'm less talented at carving wood than I am at annoying Clarisse. She's been very patient about one of those things.”
 
-"She's teaching me how not to get killed by routine camp maintenance."
+“It's nice that she's letting you see this part of her,” Annabeth said. She turned the panther again, then gave it back. “You used to tell me how impossible she was, and now you spend half your time following her around the training grounds. I know this isn't the Clarisse you remember, but I like that you're getting to know the person who's here.”
 
-"Useful skill."
+Percy placed the carved creature on the boards between them, carefully away from the water. “She doesn't want me to solve anything between her and Poseidon. I keep catching myself wanting to do it anyway. In Atlantis, Dad was there for breakfast and training and a dozen little things I didn't even know I'd missed in the other life. Then Clarisse tells me about him leaving halfway through a tournament, and I can't make those two versions of him fit together.”
 
-"Underrated."
+Annabeth watched a narrow canoe returning toward the storage shed. The camper in its stern had to work harder on one side because the wind pushed at the bow, and she found herself thinking of all the corrections a person made while moving toward a place that never stopped shifting. “Maybe they aren't supposed to fit,” she said. “You can believe he loves you and still believe he failed her. If you make either of them less real, it's only going to make your conversations with Clarisse harder.”
 
-Annabeth smiled, but it didn't last. Percy waited. He had learned that she sometimes needed a minute to decide whether a thing was worth saying, and that trying to hurry her usually meant they argued about the wrong part of it.
+“I know. She told me to show up for drills and chores rather than make speeches about family.” Percy rubbed at the faint cut on one finger, earned while Clarisse had been teaching him to shape the wood. “I think I can manage that. It's the trying not to do more that's difficult.”
 
-"Thalia thinks you're getting into something with the Hall records again," she said.
+“She knows,” Annabeth said, and nudged his knee gently with hers. “I suspect she can see you thinking about it from across the pavilion. You don't have a particularly mysterious face when somebody you care about is upset.”
 
-"She's not entirely wrong."
+He turned to her. “That's a cruel thing to say to a person who spent two wars perfecting an expression of heroic indifference.”
 
-"I know. That's what bothers me."
+“You spent two wars getting caught whenever you tried to hide something from me.” She let the teasing soften as she looked toward the illuminated windows of Cabin One on the hill. “Thalia's been talking about Zeus again. Not because she wants to, I think, but because somebody asked which face he wore on his last visit, and I couldn't answer. She said he had a different voice and hair from the time before, that even the way he stood had changed. She spoke as though I ought to be able to put the descriptions together and recognize him.”
 
-Percy turned toward her.
+Percy listened without interrupting. He knew the gods could choose their appearances, and the shifting faces of Zeus were not a mystery in themselves. What mattered was the way Annabeth had described her sister's voice, as if a remembered father could become almost impossible to hold in one's mind when the face never stayed the same. He waited for Annabeth to continue rather than turn the conversation into another investigation.
 
-"You want to stop?"
+“I asked Thalia whether she believed he'd come back soon,” Annabeth said. “She looked at me like I'd asked whether winter was going to be warm. Apparently he said he would, and apparently he's said it before. I wanted to ask whether he ever remembers the things he promised us when he comes back wearing somebody else's face, but I could tell she was tired of being the one who knows what he usually does.”
 
-"No. I want to stop acting like we have to figure everything out before breakfast. Nico has a ledger. Zoe knows the repair system. Silena knows people who worked on the water channels. We're not alone in it anymore."
+“Do you want to ask him yourself?” Percy said. “Not right this minute, obviously. I doubt we'd get a useful answer by hunting for him through the clouds.”
 
-"You're right."
+“I don't know whether I do. Part of me wants him to recognize me without being told who I am, which is ridiculous because I don't even know what he looks like from one visit to the next.” She drew her knees closer. “And part of me misses Athena so much that I feel guilty whenever Thalia tells a story about us being Zeus's daughters. With Athena I knew why we disagreed, even when it hurt. Here I don't know what he expects, or whether he thinks about me when he's somewhere else.”
 
-"I wish you'd stop saying that when I haven't finished."
+Percy looked down at his hands. In the fading light they seemed younger than they had in the old world, and he remembered the hundreds of practical things Sally had done without turning them into lessons. “I miss my mom too. I keep catching myself remembering her kitchen when Amphitrite asks what I used to eat when I was little, and the answers don't match anything I can say to her. I love Amphitrite, and I can see how much she cares about me. But Sally's still in every memory I have of growing up. It's not something I can put down because somebody else has been kind.”
 
-"Sorry."
+Annabeth knew how carefully he was choosing his words. Sally had lived through the childhood they remembered, while this altered history held a death he had not experienced and a household he could not recall. Amphitrite was not responsible for the loss. Neither was Percy. Annabeth found herself thinking of Thalia keeping a bedside lamp on when she had nightmares, and of Athena showing pride in her work only after making her struggle to earn it. The feelings were not substitutes for one another. They occupied the same life and sometimes made that life harder to explain.
 
-She rested the notebook on her knees.
+“When Thalia describes things we did together,” she said, “I can see the pictures she means. I can work out which year she was talking about and what I must have been like from the way she says it. But there's no memory behind the pictures, and I think that hurts her more than she wants to admit. I wish I could tell her exactly what happened to us, just once, without making her question everything else she knows.”
 
-"I spent some time with Thalia today. She told me our father visited last week."
+Percy moved the panther away from a wet place on the boards and rested his hand palm-up beside hers. “I wish we could too. I don't think we can do it safely yet, and I don't want us telling half the truth just because the whole one is frightening. But you don't have to pretend the stories mean nothing. They're things Thalia lived, even if you didn't remember living them. Maybe she can tell you what she wants you to know without making it a test.”
 
-Percy took a moment to understand the pronoun. Zeus. Of course.
+Annabeth took his hand. The advice was imperfect, which made it easier to accept. He had not offered a method for recovering lost years or a way to make her feel differently about Zeus. He had reminded her that listening was something she could do without pretending to possess memories she did not. “We're repairing a frame together,” she told him. “The portrait in Cabin One has been leaning against the wall for weeks. I wanted to finish it all in one evening, and Thalia made me admit that the glue needed time to dry.”
 
-"Did you see him?"
+“I'm shocked that you, of all people, were in a hurry to finish a construction project.”
 
-"No. I must have been at training. She said he looked completely different from his last visit. New face, new voice, different hair. Like meeting someone and being told they're the same person you spoke to a month earlier."
+“It's a repair, Seaweed Brain. That makes it worse. I can see what the finished thing should look like, so waiting for the materials is infuriating.” She grinned and squeezed his fingers. “Thalia's not bad at the work, though. She's better at holding a piece steady than I expected. She can sit with me for an hour without deciding the whole thing needs a battle plan, as long as I don't make it sound as though she has to.”
 
-"That sounds like him."
+Percy picked up the panther and set it in her palm again for a moment. “Then she can teach me to hold the frame while you glue it. I'll have years of practice by the time you let me do anything complicated.”
 
-"To you, maybe. I don't remember growing up with him. Thalia does. And now she has to describe how he behaved as though I should remember it too."
+“No, because you'd immediately tell us it looked fine with three nails and a prayer.” Annabeth passed the panther back and stood, brushing dust from the hem of her jacket. “Come on. Curfew's coming, and you still owe Thalia a proper explanation about the shields. Tell her where you put them before she decides to search every cabin herself.”
 
-Percy looked at the water.
+Percy got to his feet and gathered the coil of rope. The dock creaked beneath them as their combined weight shifted toward shore, and they walked slowly enough to speak about unimportant things: how cold the water had become, whether the younger campers would ever stop borrowing each other's coats, and what Silena might say about the panther once she discovered Clarisse had given it away. At the fork beneath Cabin One, Annabeth gave him a brief kiss and took the uphill path, while Percy continued toward Cabin Three with the little carving safe inside his jacket. The people waiting in their separate cabins could not restore a past neither of them fully understood. They could, however, make room for another ordinary evening, and Percy was beginning to recognize how much trust had to be built from evenings like this one.
 
-"What did he say?"
-
-"That he'd try to come again soon." Annabeth picked at the edge of her notebook. "Thalia doesn't believe him."
-
-"Do you?"
-
-"I don't know him well enough in this life to have an opinion. That's the problem."
-
-He had no answer. There was a version of Poseidon in his memory who had sometimes been too distant to reach, and there was the father whose household he'd woken up in. Neither made Zeus easier to understand.
-
-"I miss Athena," Annabeth said.
-
-It wasn't a grand declaration. She said it quietly, looking at her closed notebook.
-
-"Even when we were fighting, I knew what she expected from me. Here I can't tell whether Zeus cares how I train or whether he'd recognize me if I walked past him."
-
-Percy nudged her knee with his.
-
-"I think he'd recognize you."
-
-"That isn't based on any evidence."
-
-"No. You're right."
-
-She gave him a look.
-
-"Don't start."
-
-He smiled, then grew serious.
-
-"I miss Sally, too. Every time I write home and Amphitrite asks something about when I was little, I remember a different kitchen. I don't know what to tell her without making her worry."
-
-"Are you going to tell her?"
-
-"No. Not about the other life."
-
-Annabeth nodded. They'd agreed on that, and it still felt like a difficult choice.
-
-Percy drew the wooden panther from his pocket and showed her.
-
-"Clarisse made this."
-
-Annabeth took it gently.
-
-"The wings are good."
-
-"She said it was a birthday present."
-
-"When's your birthday?"
-
-"Not according to her system, apparently."
-
-Annabeth ran her thumb over the uneven paws.
-
-"She must have worked on this for hours."
-
-"She did." Percy watched her expression. "What?"
-
-"Nothing."
-
-"That is a very specific nothing."
-
-"Thalia used to make things for me. She tells me about them, and I can't remember getting them." Annabeth handed back the panther. "It's strange being jealous of a little carved animal. At least you can remember the day Clarisse gave it to you."
-
-Percy slipped his hand into hers.
-
-"You can still make new things with Thalia."
-
-"We're fixing the portrait frame."
-
-"How's that going?"
-
-"Slowly. Which is apparently better than my plan to finish it in one night."
-
-He laughed.
-
-They stayed a few more minutes, but not until curfew. Annabeth stood first, and he followed. The camp lights shone between the trees. Percy could hear Clarisse complaining to someone near Cabin Three.
-
-At the fork, Annabeth turned toward Cabin One.
-
-"Tell Thalia where the shields went tomorrow," Annabeth reminded him at the fork. "And no disappearing into another investigation before you've eaten and finished your duties. If we're doing this together, I want us both awake enough to notice when we've made a bad assumption."
-
-"Fair," Percy said. "Although I reserve the right to complain if you schedule every interesting part of our lives after lunch."
-
-"You complain when I schedule breakfast." She shook her head, but she was smiling as she turned toward Cabin One.
-
-She shook her head, laughing despite herself, and walked back toward her sister. Percy headed for Cabin Three with the carved panther in his pocket, thinking that having people to come home to did not solve the question of what had happened to their past.
-
-It did give him a reason not to rush the answer.
 ---
 
 When Percy returned to Cabin Three that night, there was a hand-drawn schedule pinned to the inside of the door.
