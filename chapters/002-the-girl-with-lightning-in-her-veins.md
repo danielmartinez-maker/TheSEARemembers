@@ -80,199 +80,71 @@ Percy looked down at the jam he had managed to spread all the way to the crust a
 
 ---
 
-Before he could escape the pavilion, Silena caught the back of his shirt.
+Percy had nearly made it out of the pavilion when Silena caught the back of his shirt and asked whether he had forgotten something. She was holding a little slate divided into three columns, each headed with a name in neat chalk: Clarisse for equipment checks, Silena for linens and stores, Percy for a collection of empty boxes beneath a question mark far larger than his name. At first he assumed she meant to make a joke of his ignorance, but she turned the slate so he could read it and waited while he traced the lines with his finger. This version of camp apparently expected the children of gods to do the kind of work that kept a household running. In Atlantis, servants, craftsmen and the palace attendants had performed many of those tasks in a rhythm so well established that Percy could not always tell which parts of his morning happened because somebody had ordered them to happen. Here the names were written where everyone could see whose turn it was, and no one had thought of exempting him.
 
-"You're on the rota," she said.
+“It's the cabin rota,” Silena explained. “Clarisse wants you to take the morning water check and dry your gear after training. I added a space for helping with Friday cleaning, because that way when you inevitably spill something we can all agree whose fault it was. You'll get used to it, but I thought I'd show you before the first job turns into an argument.”
 
-"What rota?"
+“Does being new count as an excuse for not knowing where anything is?” Percy asked. He looked at the blank boxes and then at her blue-stained fingers. “I can wash clothes. I can carry things. I don't know what a water check is, and the name makes me suspect somebody's about to give me a test.”
 
-"The cabin rota." She turned a piece of slate toward him. Three columns of names ran beneath a drawing of a shell. CLARISSE had been written beside equipment checks. SILENA had linen and stores. PERCY had three empty boxes and, below them, an impressively large question mark.
+“It's not a test. There's a channel that runs under Cabin Three and returns to the drainage basin behind it. Sometimes pine needles and grit block the grate, and when that happens the water goes where it shouldn't. The check is to make sure the intake runs properly and the basin isn't backing up.” She tapped the slate. “You could probably do it with your eyes closed once somebody's shown you, but I'm not going to make you guess which valve to turn.”
 
-"Am I supposed to guess?"
+Percy took the slate while she cleared the last line with her thumb. “I was actually wondering whether there were naiads who helped with the water. In Atlantis there are attendants for some of the channels, and I wasn't sure whether this was the same kind of system.”
 
-"I was waiting to see whether you could read."
+Silena raised her eyebrows, though she did not seem offended so much as surprised that he had never considered the difference. “The naiads are busy living in the water, Percy. We don't ask them to collect our dirty towels because we're too lazy to do it ourselves. But the channel is important, and if you want to learn how it works I'd rather show you than have you stand around hoping someone else deals with it.”
 
-"I can read."
+“I wasn't asking anyone to wash my socks,” he protested, then heard how defensive he sounded. “I mean, I was asking how the system worked, and I managed to make it sound as if I'd never done a chore in my life. I don't particularly want that to be your first impression of me.”
 
-"Wonderful. We'll start there." She tapped the first box. "Morning water check. Second, dry your gear after training. Third, clean your half of the cabin before inspections on Friday."
+“It isn't my first impression.” She looked toward the edge of the pavilion where Clarisse was still arguing about spear grips with another camper. “My first impression is that you listen more carefully than you let on, and you keep looking surprised whenever somebody expects you to be here tomorrow. The rest I can find out while we're working.”
 
-"How much of the cabin is my half?"
+He was grateful she turned away before he had to respond to that last observation. She could not know how much truth it contained. She had made space for him on a slate before he arrived, as though a younger brother could simply enter the cabin and be assigned duties that belonged to him. He was still trying to understand what it meant for somebody to expect his continued presence. When he followed Silena around the back of the cabin, he felt the difference between the enormous palace systems of Atlantis and this improvised arrangement of stone, brass and timber. The channels beneath the floor were narrow enough for a child to understand their plan, but they had been maintained for years through the patience of people who did not take water for granted simply because their divine father ruled it.
 
-"That depends on how much you spill."
+Behind Cabin Three the ground sloped toward a basin lined with uneven stones. A grate sat across the place where the channel emerged from beneath the floor, and a brass lever controlled the drain that cleared the accumulated grit. Small roots had grown between the joints in the wall, while moss clung to the cooler face of the stones where the afternoon sun seldom reached. The sound of moving water was familiar to Percy, but he had not realized how carefully the builders had guided it. Instead of following a single open stream, the water passed through a series of narrow troughs, allowing the cabin to remain cooler in summer, then settling in a shallow basin before returning to the drainage system. The mechanism had no interest in the fact that a son of Poseidon stood beside it. It would work well or badly according to whether its passages were clear.
 
-Clarisse was three benches away arguing with Matt about spear grips. Silena had waited until Percy was alone. He couldn't tell whether that was considerate or tactical.
+“First you close the intake,” Silena said, setting her tools on a dry stone. She pointed to the upper valve. “If there's pressure coming through the channel when you open the drain, you'll get a face full of water. The lever isn't difficult, but the order matters. I learned that one the hard way.”
 
-"Don't you have naiads doing some of that?" he asked, then wished the question back into his mouth.
+“I can probably feel the pressure,” Percy said, studying the metal rod that connected the lever to the basin. He sensed the small current shifting against the closed passages and, as often happened near water, felt a confident urge to touch it and see what it would do. “There's a blockage near the grate, I think. It feels as though the water is pressing against something solid.”
 
-Silena's eyebrows went up.
+“There is a blockage, which is why we're here. And if you can feel that, all the more reason to wait until the intake's closed before you pull anything.”
 
-He'd been trying to ask about the water channels beneath their floor. In Atlantis a dozen small things happened around a person before breakfast, and he had learned that some of them were automatic. But the question sounded exactly like something a prince would ask about a servant.
+Percy reached for the lever while his mind was still working through her explanation, a foolish piece of automatic movement that would have been harmless in a training exercise where he controlled the current. The brass handle resisted, then gave way, and before he could decide whether he had moved it correctly the water struck him full in the chest. The surge knocked him backward onto the gravel. For a moment the entire world became cold splashing noise and the shocked realization that he had done precisely the thing Silena had warned him not to do. She lunged for the intake and twisted the valve with both hands, bracing one foot against the wall until it turned. The flood dwindled to a trickle, leaving Percy sitting in the puddle with his hair plastered across his eyes.
 
-"At camp?" Silena said.
+Silena looked at him for one horrified instant before asking whether he had hurt his head. She knelt to check, and when he shook the water out of his face and assured her that only his pride had suffered, she began to laugh. It was not the polished laugh of a courtier, nor the careful encouragement of someone obliged to make a prince feel competent. It was the helpless laughter of a girl who had warned a younger brother not to touch something and then watched him touch it anyway. Percy tried to glare at her but couldn't maintain it while water ran down the front of his shirt.
 
-"No. I meant—"
+“I was about to explain why we close the intake first,” she said when she could speak. “You moved before I reached the interesting part. I don't know whether that's a royal habit or a Percy habit, but you're going to have to break it if you want to help.”
 
-"I know what you meant." She rubbed out the question mark on the slate with her thumb. "At camp the people who make the mess are generally expected to deal with it. In my experience the naiads have better things to do than collect our socks."
+“It's a Percy habit,” he admitted. “I thought I could tell what the water was doing. I wasn't wrong about the pressure, which is possibly the most embarrassing part. I was just wrong about what I should do with the information.”
 
-"Fair."
+He could have diverted the surge. The water had answered the touch of his skin at once, a pressure gathering at the edge of his mind, but he had been too startled to shape it before landing in the gravel. It was an absurd lesson for a son of Poseidon to learn. Knowing the behavior of a current was not the same as knowing how to maintain the tools people had built around it. Nor was being powerful enough to save himself from an error a good excuse for making the error in the first place. He accepted Silena's hand and let her pull him upright, his wet shoes making an unpleasant sound against the stones.
 
-"It's not a punishment, Percy. It's three jobs. You'll be all right."
+She removed the grate while he steadied it, and together they cleared out a fistful of pine needles, two fragments of pottery, and a clump of sediment packed into a space too narrow for a hand. Silena handed him a small hooked tool and showed him how to lift the debris without damaging the cloth stretched across the filter opening. Percy watched her hands. She worked carefully, not because the task was difficult in the way swordplay was difficult, but because a careless movement might leave a tear the next person would not see until the basin flooded again. The work appealed to her, he could tell, in a way that had nothing to do with earning praise. She wanted the system to function after she left it.
 
-He nodded. The expression on her face eased, but she didn't move away. There was another question waiting.
+A pale green thread emerged from the needles. Silena pinched it between two fingernails and held it up to the light. Its color was nearly the same as the curtains in the Atlantis bedroom Percy had woken in, and the comparison came to him with an odd pang. He knew what those curtains looked like because he had seen them recently. He knew almost nothing about the years during which people believed he had known them. He was beginning to understand why Annabeth wanted them to distinguish observed things from the stories people told about them. A piece of thread could be held between his fingers. A theory about why it lay in the grate could only be tested.
 
-"You really don't know the cabin routines?"
+“That's from the new filter cloth,” Silena said. She spread the thread on a flat stone so neither of them would lose it in the debris. “I helped carry the rolls from the stores last week. The color's distinctive, and there shouldn't be loose fibers on this side of the grate.”
 
-"I've only been here a day."
+“Bad material?” Percy suggested. “Or did the current catch it on something sharp?”
 
-"That's not what I asked."
+“Either one is possible. It might have been stretched too tightly when somebody installed it, and that would pull the stitching loose even if the cloth was good. We'll have to look at the seam before we decide.” She glanced at him. “And yes, I know your father controls the sea. That doesn't make 'the water didn't like being filtered' a useful explanation.”
 
-He looked at the slate. The name PERCY had been written in a hand so careful that it seemed out of place among the scratched-out chore assignments. Silena had left room for him before he arrived. For however many summers she'd been at camp, she had been expecting a younger brother she'd never met.
+“I wasn't going to suggest that,” Percy said with great dignity, although he had been about to make precisely that joke. “I was going to say we ought to keep the thread until we know where the rest of it went.”
 
-"Things were different at home," he said.
+“That, at least, is a decent idea. Put it somewhere you won't forget about it, then help me seat this grate.” She gave him a small, tired smile. “You'll find that most of the interesting mysteries around camp turn out to involve something being built badly or looked after carelessly. That doesn't make them less important when somebody has to use the thing.”
 
-"Different how?"
+He wrapped the thread in a dry scrap of cloth and put it in his pocket. Together they returned the grate to its seat and tested the drain with the intake only half-open. The first attempt required Silena to stop him from moving the lever in the wrong sequence again, but on the second the basin emptied cleanly without flooding the path. Percy felt a satisfaction entirely disproportionate to the achievement. He had helped repair something. He had been shown what to do, made a mistake, and been allowed to learn without anybody deciding the mistake proved he did not belong.
 
-"Different enough that I'm going to get most of this wrong before I get it right."
+They sat for a moment on the low wall while their tools dried. From the arena came the clash of practice weapons and a shout for a healer that soon dissolved into laughter. The air smelled of damp stone and crushed pine needles. Silena used the edge of a rag to clean grit from beneath her nails, then told Percy how she had begun helping with the channels last summer, after working on the stores inventory and the irrigation of the strawberry beds. She liked making systems that continued to work when their builders were elsewhere. Clarisse, she said, liked learning which systems failed under pressure and how to make the people inside them stop failing with them.
 
-She considered that, then held the slate out to him.
+“It's not that different from what you're doing with the patrols,” she said. “She'll never admit it, but half the time she's teaching you to notice the moment somebody else needs help. She gets irritated when you take too long, though, so try not to make her explain every lesson twice.”
 
-"Good answer. Let's start with something you can actually break."
+Percy looked at the wet front of his shirt. “I suppose you can both agree that I have a great deal to learn.”
 
+“We can agree that you shouldn't touch a lever while I'm in the middle of telling you what it does. The rest we'll find out.” She stood and offered him the slate again. This time the boxes looked less like proof of what he did not know. They were three jobs with names beside them, all manageable if he paid attention. “Come on. We still have time to hang your shirt before it starts dripping all over the floor. If Clarisse asks why you're wet, I'm going to let you tell the story.”
 
+“She's going to make it sound worse,” Percy complained as he followed.
 
-Percy’s first broken rule was one he hadn’t known existed. Behind Cabin Three, Silena showed him where the channel water returned beneath a stone grate. The little troughs ran through the floor to keep the cabin cool, then curved around a basin where grit could settle before the water moved on. A brass lever opened the drain for cleaning. It looked simple enough.
+“Probably. She's very good at that, and unlike me she might not believe you fell into a perfectly ordinary drain.” Silena stepped around a puddle and turned back with a grin. “Better start thinking of an explanation that doesn't make you sound like a prince who expected the water to do his chores.”
 
-"Close the intake first," Silena said. "Otherwise you'll get a—"
 
-Percy pulled the lever.
-
-A sheet of water struck him in the chest.
-
-He sat down hard in the gravel. Silena grabbed the intake valve with both hands and twisted. The flow stopped abruptly, leaving his hair dripping into his eyes.
-
-"—very wet prince," she finished.
-
-For a moment she looked genuinely worried. Then Percy spat out a mouthful of water, and she started laughing.
-
-"You were supposed to wait."
-
-"I gathered that."
-
-"Are you hurt?"
-
-"Only where I landed."
-
-She offered a hand. He took it, and she hauled him upright with more strength than her slender arms suggested.
-
-He could have stopped the surge. The water had answered his skin the instant it struck him, a familiar pressure collecting behind his eyes. There had been time to lift a palm and bend it aside. Instead he'd been too surprised to remember that what he could do with the sea didn't automatically make him good at cleaning a drain.
-
-Silena knelt and took the grate off. A fistful of pine needles and two bits of broken pottery had wedged themselves beneath it.
-
-"That's the problem. Give me the little hook from that box."
-
-He passed it over, pleased that he could manage a task without starting another flood.
-
-She worked the debris loose. A pale green thread was tangled through the needles. She pinched it between two fingernails.
-
-"That's from the new filter cloth. It shouldn't be here."
-
-"Does it matter?"
-
-"It means the cloth's fraying." She laid the thread on a flat stone. "Someone replaced it last week. I helped carry the rolls from the stores."
-
-"Bad material?"
-
-"Could be. Or somebody stretched it too tight."
-
-"Or water doesn't like being filtered."
-
-"Percy."
-
-"Sorry. I was attempting a theory."
-
-"Try a theory that starts with checking the stitching."
-
-He crouched beside her. When she held out the scrap, he examined it. The green had almost the same shade as the palace curtains he thought he ought to remember. He knew those curtains existed because Amphitrite had told him to leave them alone when he was younger. He couldn't remember touching them. What he did know, from the few days he'd spent trying to make a life in Atlantis, was how difficult it was to distinguish what he'd seen for himself from what people assumed he knew.
-
-The thread was real. He could hold it. That was a relief.
-
-"You're looking at it like it's going to answer a riddle," Silena said.
-
-"Maybe it will."
-
-"Then you'd better put it in your pocket. Chiron charges extra for mysteries left in the drains."
-
-Percy did.
-
-She showed him how to seat the grate and test the lever with the intake only half-open. The first time he got the order wrong. The second time, the basin emptied without baptizing either of them.
-
-"See?" she said. "Competent by lunchtime."
-
-"That's an optimistic definition."
-
-"It's camp. We work with what we have."
-
-From the arena came the flat clash of bronze and somebody shouting for a healer. Silena cocked her head but didn't rush toward it. A moment later the shouting turned into laughter. She returned to packing away her tools.
-
-"Can I ask something?" Percy said.
-
-"You're going to regardless."
-
-"When did you start looking after all this?"
-
-"The drains? Last summer. The stores before that." She pushed a stubborn latch shut with the heel of her palm. "I helped plan a watering system for the strawberry beds. Someone has to make sure the summer campers don't use all the fresh water trying to drown one another."
-
-"Why you?"
-
-"Because I like making things that work. Clarisse likes things that win. We overlap occasionally." She glanced at him. "That surprises you."
-
-"Not the winning part."
-
-"People hear Poseidon's name and assume we spend all day throwing waves at each other. I can do that. I'd just rather have clean sheets and strawberries that don't die."
-
-He tried to picture the Silena from the life he remembered in this place: overseeing stores, laying out pipe routes, getting annoyed about a thread caught in a grate. That Silena had had a gift for noticing what people needed, too. But this girl was alive, fourteen, and had been making her own decisions long before he turned up. The memories he carried weren't instructions for how to treat her.
-
-"You can put me on the stores job if you need help," he offered.
-
-"That is a terrible offer to make on your second morning. I might actually take it."
-
-"I'll survive."
-
-"Not if you touch another lever without asking."
-
-He looked down at his dripping shoes. "Noted."
-
-Silena retrieved the green thread from him and folded it into a piece of paper, recording the date beside it. Percy watched her write the note. She hadn't dismissed the problem. She hadn't decided the damaged cloth proved some sinister plot. She had made a record and planned to check the next filter.
-
-"You should tell Annabeth about this," he said.
-
-"Why?"
-
-"She likes fixing systems."
-
-"Then I probably will." Silena slid the note into her pocket. "But first you should change. Chiron's going to be looking for you, and I'm not explaining why our new camper resembles a drowned mop."
-
-"What would you tell him?"
-
-"The truth. He failed the first water check and passed the second."
-
-Percy groaned.
-
-She nudged his shoulder as they headed back toward the cabins.
-
-"For what it's worth," she said, "I prefer a brother who makes an honest mistake over one who pretends he knows everything."
-
-He wanted to tell her how large a relief that was. He settled for walking beside her, squishing noisily in his shoes.
-
-At the cabin door she stopped.
-
-"One thing. Don't let Clarisse hear about the lever."
-
-"Why not?"
-
-Silena's smile was entirely unhelpful.
-
-"She'll find a name for you and it'll last until we're thirty."
 
 ---
 
