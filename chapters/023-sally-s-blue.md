@@ -33,7 +33,7 @@ Silena pressed a hand to her chest. "I love her. I've never met her and I love h
 
 "Yeah," Percy said quietly. "Me too."
 
-Talking about her still caught him by surprise. He had told them about Sally for the cake, but saying her name could close his throat without warning, and then he had to go swim until his chest stopped hurting. To everyone else she had died ten years ago. To him her chipped mug and off-key humming were near enough to touch. He could feel Annabeth looking at him, not staring, just — noticing. She didn't write anything in her notebook.
+Talking about Sally still caught Percy by surprise. He had told them about Sally while they made the cake, but saying her name could close his throat without warning, and then he had to swim until his chest stopped hurting. To everyone else, she had died ten years ago. To him, her chipped mug and off-key humming felt near enough to touch. He noticed Annabeth watching without staring or writing anything down, giving him room to say only what he wanted.
 
 "Okay," he said, clapping his hands together too hard. Flour puffed up from his palms. "Okay. Step one. Butter and sugars. Mom always says room-temp butter, not melted, or the cookies go flat. She leaves it out on the counter while she hums. She hums off-key."
 
@@ -735,7 +735,7 @@ Tyson fell asleep in a flour drift by the hearth, a half-eaten cookie on his che
 
 Percy sat on the railing, cookie in hand, watching the sky go pink over the Sound. He thought about Sally's tiny apartment kitchen in his original childhood, the chipped blue mug, the off-key humming. He thought about Gabe's shouting and the rain on the fire escape and the way Sally always saved him the biggest cookie even when there wasn't enough.
 
-He missed her so much it should have hurt. And it did — a little. A dull ache under his ribs. But it didn't swallow him. It sat beside him, like a friend.
+He missed her enough for it to hurt, a dull ache beneath his ribs, but it didn't swallow him whole. The ache sat beside him like a friend, present and familiar, without pulling him under.
 
 Annabeth climbed up to sit next to him, swinging her legs. She offered him her notebook. On the last page, under the recipe, she'd written in careful letters:
 
