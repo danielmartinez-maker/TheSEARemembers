@@ -2,9 +2,7 @@
 
 The gulls woke Percy before the conch did.
 
-That was wrong, and it bothered him for a full minute before he could name why. Since returning in Atlantis, he had heard siren-gulls singing outside the palace windows and silverfin darters clicking against the glass. Amphitrite had explained the low morning hum of the city currents. None of it sounded like hoarse surface gulls fighting over a french fry near the canoe lake.
-
-He lay in his bunk in Cabin Three and listened to them and felt homesick in a way that sat right behind his teeth.
+Percy listened until he recognized the surface gulls fighting over crumbs near the canoe lake. In the weeks he'd spent back in Atlantis, he'd heard siren-gulls above the undersea gardens and silverfin darters tapping against palace windows. Amphitrite had named the birds and explained the city currents. Those were memories from his recent visit, not proof he remembered growing up there. He could miss her without knowing how to answer her stories about the little boy she'd raised. In Cabin Three, homesickness sat just behind his teeth.
 
 It was a Tuesday. Triton's letters said Tuesdays in Atlantis still meant dumpling soup and combat drills. Amphitrite had tied protective knots into his hair before he left and quizzed him on the tide charts she'd shown him. He remembered that last morning clearly; the years before it remained someone else's stories. Tuesdays at Camp Half-Blood meant Capture the Flag drills at nine and archery with the Apollo kids at eleven and, if the rumor Grover had whispered at dinner last night was true, mail call from underwater.
 
@@ -30,7 +28,7 @@ His heart kicked up fast.
 
 He'd sent three letters down already. The first had been very formal because he'd been nervous: *Dear Mother and Father and Triton, Camp is adequate. Training is adequate. Food is adequate.* Silena had read it over his shoulder and said, "Percy, you sound like a tax form," and made him rewrite it. The second had been better. The third had been three pages about Annabeth's laugh and Grover's panpipes and Clarisse suplexing a hellhound dummy and then asking if the palace kitchen still made that sea-plum jam.
 
-He hadn't gotten anything back yet. The sea didn't do fast mail. You had to seal letters in sharkskin, give them to a hippocamp courier, hope they didn't get distracted by a school of tuna on the way down the continental shelf. Or you waited for an Iris-message slot, which cost drachmas and good weather and somebody on the other end who knew how to aim a rainbow through five thousand feet of water and a palace ward.
+He hadn't seen an answer yet. The sea didn't do fast mail, and Percy refused to turn the delay into a story about Amphitrite forgetting him: she had written first and asked him to tell her about camp. Waiting for a reply was new enough to make him restless without accusing anybody of neglect. You had to seal letters in sharkskin, give them to a hippocamp courier, hope they didn't get distracted by a school of tuna on the way down the continental shelf. Or you waited for an Iris-message slot, which cost drachmas and good weather and somebody on the other end who knew how to aim a rainbow through five thousand feet of water and a palace ward.
 
 08:00 by the lake. Percy checked the clock nailed to the wall. 07:42.
 
@@ -166,15 +164,15 @@ A beat. The water lapped at the dock.
 
 "You look well," Poseidon said. "Chiron reports your control is improving. Your shield held for six minutes in the pool yesterday."
 
-"Seven," Percy said. "Seven minutes. And I — I made a whirlpool that could hold a boulder. Clarisse helped. She threw rocks at me."
+"Seven," Percy corrected. "Seven minutes. And I made a whirlpool that could hold a boulder. Clarisse helped by throwing rocks at me."
 
-Clarisse blinked. "I did. It was training."
+Clarisse blinked. "That was training."
 
 Poseidon glanced at her. "You throw well, I hear."
 
-"Yes, sir," Clarisse said, voice cracking. "I mean — thank you, sir. I mean —"
+"Thank you, sir," Clarisse said, her voice cracking as she tried to sound composed.
 
-"He means thanks," Silena supplied gently. "We train together every morning, sir. Percy shows us Atlantean forms. He's a good teacher. Patient."
+"She means she appreciates it," Silena supplied gently. "We train together every morning, sir. Percy shows us Atlantean forms, and he's a good, patient teacher."
 
 Poseidon nodded slowly. "Good. That is good. Percy —" He hesitated. Triton looked at the floor. Amphitrite twisted her shawl in her hands. "The council keeps me late. The western trenches stir. But I think of you. Be — be brave. Be kind. Write to your mother."
 
@@ -308,7 +306,7 @@ The smell hit first — salt and lavender and hot copper and home. Clarisse didn
 
 Inside, packed in layers of soft glow-kelp that pulsed faintly blue, was:
 
-- A jar of deep purple sea-plum jam, labeled in Amphitrite's hand: *For Perseus and his sisters — plenty to share!*
+- A jar of deep purple sea-plum jam, labeled in Amphitrite's hand: *For Perseus, Clarisse, and Silena — plenty to share!*
 - A folded blue blanket, soft as water, smelling of lavender. Tucked into it was a note: *Surface nights are cold. Love, Mom.*
 - A battered leather training manual with TRITON'S — DO NOT TOUCH — MINNOW, IF YOU STEAL THIS I WILL FEED YOU TO A KRAKEN scribbled on the cover, and underneath in smaller writing: *(okay you can borrow it, love you, don't die)*
 - Three braided cord bracelets, blue and green and gold, with little shark teeth and pearls.
@@ -352,9 +350,7 @@ Silena saw. Silena always saw. She smiled at Clarisse over Percy's head and mout
 
 ---
 
-Silena Beauregard kept a journal. She'd kept one since she was eight. It had pressed flowers in it and ticket stubs and little sketches of her siblings and, on the first page, in careful letters: *Things I Want To Remember When I Am Old.*
-
-That evening, after the beach, she wrote:
+Silena Beauregard had kept a journal since she was eight, filling it with pressed flowers, ticket stubs and sketches of her siblings. On the first page, in careful letters, she'd written *Things I Want To Remember When I Am Old.* That evening, after the beach, she opened it to record what she wanted to keep.
 
 *Today Percy shared his family with us. His mom sent jam and bracelets. His brother sent a book that says DO NOT DIE. His dad sent a letter Percy hasn't opened yet. I think he's scared it will be short. Clarisse pretended not to care about the bracelet but she hasn't taken it off and she keeps turning it around her wrist when she thinks no one is looking. Barnacle the hippocamp sneezed on Percy. Percy laughed louder than I've ever heard him. I want to remember the sound.*
 
@@ -468,7 +464,7 @@ Percy turned his head to look at her. "Yeah," he said. "Yeah, we do."
 
 Clarisse flopped down on the tiles beside them, dripping all over both of them on purpose. "Are you two having feelings without me? Absolutely not. Scoot over. Group float."
 
-They floated in a row, three children of Poseidon, shoulder to shoulder, staring at the painted stars while the pool rocked them gently. And for a little while, the ache eased.
+They floated in a row, the three Cabin Three siblings, shoulder to shoulder, staring at the painted stars while the pool rocked them gently. And for a little while, the ache eased.
 
 ---
 
@@ -560,7 +556,7 @@ Annabeth laughed. "Does it work?"
 
 Their conversation should have ended there. Instead Annabeth remained beside the fence, twisting the end of the ribbon at her wrist.
 
-"Amphitrite doesn't know the person he used to be," she said quietly.
+"Amphitrite remembers a childhood Percy can't describe back to her," Silena said quietly. "He goes quiet when she talks about a room or a game from when he was little. I don't know what happened to his memory. I know he gets to decide what to tell her."
 
 Silena turned to her. The words could mean a dozen things, and none was a question she could reasonably answer. Percy had arrived with the kind of gaps in his recent history that frightened anyone responsible for a child. Silena knew he sometimes looked blank when Clarisse mentioned a family outing, then tried to disguise it with a joke. She had learned to let him have that moment.
 

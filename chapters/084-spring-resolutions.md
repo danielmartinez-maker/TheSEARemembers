@@ -124,7 +124,7 @@ Percy reached across and gripped his wrist. "Then we'll help you get ready."
 
 Grover smiled crookedly. "Resolution number one, huh?"
 
-"Write it down for tonight," Silena said softly, and pushed a little card and a pencil toward him from the basket. She had made them for everyone, cream cards with pressed leaves in the corner. "Everyone gets one. Rule is you have to say it out loud."
+"Write it down for tonight," Silena said softly, and pushed a little card and a pencil toward him from the basket. She had made them for everyone, cream cards with pressed leaves in the corner. "Everyone may have one. You can say it aloud or keep it private. Chiron asked me not to turn people's plans into a public test."
 
 Clarisse snorted. "Who made that rule?"
 
@@ -133,6 +133,82 @@ Clarisse snorted. "Who made that rule?"
 ---
 
 The shrine garden was behind the Athena cabin, in a sheltered elbow where the wall broke the north wind and the sun pooled even on a cool spring day.
+
+Before Percy went there, he stopped at the Big House to ask Chiron about the blue notebook Annabeth had given him for the Sally project.
+
+He hadn't told Chiron every detail of his remembered mother. Chiron knew the two children held memories that didn't match the history their families had lived, but the centaur hadn't used that knowledge as permission to display those memories publicly. Percy was grateful for the distinction.
+
+"Do you want to write something for the memorial archive?" Chiron asked.
+
+"Maybe. Not yet."
+
+"Then you needn't."
+
+Percy unfolded the plan he'd made with Annabeth. He wanted to write about Sally Jackson, the woman who raised him in the life he remembered before the rewrite. He wanted the stories to be true, not just the parts that sounded heroic. He also didn't want the book to make Amphitrite, his mother in this life, think he was accusing her of something she hadn't done. She loved the boy she remembered raising, and she didn't know why he couldn't remember his childhood as the same boy.
+
+"Can I keep it private?" Percy asked.
+
+"Yes."
+
+"Even if it's about somebody who died here?"
+
+"Particularly if sharing it would hurt someone who hasn't consented to be part of the story."
+
+Percy looked at the blank notebook. "What if I accidentally write something wrong?"
+
+"Then correct it, or mark the limits of your memory. The important thing isn't to produce a perfect volume. It is to know what each account can support."
+
+Percy thought of Elena's stories about her mother. A written sentence could preserve an ordinary moment without giving the writer ownership of everyone else's feelings.
+
+"Could I show it to Annabeth?"
+
+"That's your decision. But ask her before you make her responsible for keeping it."
+
+Percy nodded. He wasn't asking her to be the keeper of every secret he carried. He wanted her help spelling difficult words and identifying which parts of the narrative were memories they had lived together and which belonged to Percy's childhood before she knew him.
+
+He went to the garden and found Annabeth testing the soil by pressing a small trowel into it.
+
+"I asked Chiron about the book," Percy said.
+
+Annabeth looked up. "And?"
+
+"It's mine. It stays private unless I decide otherwise. You can read what I show you, not every page by default."
+
+She sat back on her heels. "Good."
+
+"I thought you'd be annoyed."
+
+"Why?"
+
+"Because you offered to help."
+
+"Helping isn't the same as owning it." She wiped mud from her hands. "You can tell me when you want me to read something."
+
+Percy opened the notebook to the first page. He tried to write an outline, then stopped. The headings seemed enormous: *Childhood, School, Family, War.* He had thought he could write Sally's story by remembering a few good afternoons. Now he realized the book would include people who hadn't all consented to have their lives recorded.
+
+"What if I don't remember the exact day?" he asked.
+
+"Then don't invent one. Write 'I think it was spring' or 'I can't place it.' You already know how to do that."
+
+"Do I?"
+
+"You've been doing it with your family here. You know what Amphitrite told you about the palace, but you don't pretend you saw those years."
+
+The words hurt a little, though she meant them kindly. Percy looked toward the camp path.
+
+"I want to remember Sally without making everyone else feel like I'm asking them to disappear."
+
+"Then tell the truth about the people who are here too," Annabeth said. "That's part of your story."
+
+He sat on the wall beside her and wrote his first heading: *Things I remember myself.* Beneath it he made a second: *Things people told me afterward.* He left the rest blank. It wasn't much of a book. It was the beginning of one he could trust.
+
+Annabeth returned to the trowel. Percy watched her move a small stone from the growing bed. She'd told him earlier that a garden needed drainage and enough space for roots, not just flowers lined up for a picture. He understood the comparison without needing to say it aloud.
+
+He closed the notebook, then reopened it to add one more note: *Sally liked blue food. I remember her making it. I don't know the date of every breakfast.*
+
+It was a small fact. He knew it was his.
+
+
 
 It had started last summer as an apology. Annabeth had been twelve and furious after a difficult encounter with Zeus, and she had taken a trowel and a bag of marble chips and built a tiny square of order in the pine needles: a low stone border, a flat altar stone, a place for offerings that were not about war. The Athena campers had offered a sheltered corner for her garden. She remembered wisdom and craft and olive trees from her original life; this could hold rosemary and thyme and a place for quiet without changing whose daughter she was.
 
@@ -180,7 +256,7 @@ Annabeth's expression softened completely. "Percy, that's—"
 
 "You won't mess it up. You'll do it like you do everything. Slow and true." She bumped her head against his shoulder. "I'll help with spelling if you want. But the words have to be yours."
 
-He nodded, throat tight. Sally's story felt huge and fragile, like one of those snowdrop buds. If he didn't write it, who would? Poseidon had myths. Sally had no temple. She deserved a book.
+He nodded, throat tight. Sally's story felt huge and fragile, like one of those snowdrop buds. If he didn't write it, who would? Poseidon had myths. Sally had no temple. Percy wanted to write a private account of the mother he personally remembered, without distributing details that would expose the rewritten timeline to people who weren't entrusted with it.
 
 "Saturdays too?" Annabeth asked. "You write, I plant? Side by side?"
 
@@ -189,6 +265,68 @@ He nodded, throat tight. Sally's story felt huge and fragile, like one of those 
 They stayed there a while, planning rows, while the sun moved and the woodland bells seemed to lift a millimeter toward the light.
 
 ---
+
+The first problem with the shrine garden was that Annabeth's drawing was wrong.
+
+It wasn't wrong about the position of the stones or the amount of afternoon sun. Percy had helped her measure those. The problem was that the little garden bed was growing across the route an older camper used to bring offerings to the wall. A new patch of thyme would look beautiful until somebody had to step through it to reach the memorial alcove.
+
+Annabeth found out when Mara, the Demeter camper who had helped with the beach castle, arrived carrying a tray of seedlings.
+
+"Where do you want these?" Mara asked.
+
+"Along the back," Annabeth said. "The thyme won't need much room."
+
+Mara looked at the path. "My counselor says we need room to get to the wall without stepping on the plants. We bring water and tools through there."
+
+Annabeth followed her gaze. The sketch had a narrow walkway. In practice the entrance was wide only if nobody was carrying anything.
+
+"You're right," she said.
+
+Percy knelt by the nearest stone. "Could we move this border?"
+
+"Maybe. But the soil changes nearer the wall."
+
+They tested it instead of guessing. Mara brought a small jug of water and poured it into two sample holes at different distances from the stone. The first drained slowly. The second drained even more slowly, leaving a little pool near the roots. Annabeth made a note and called over the Demeter counselor before moving anything.
+
+The counselor suggested keeping the main path open and placing the thyme in raised planters along the sunny side. That would allow the soil to dry properly and make it easier for younger campers to care for the plants without kneeling in the narrow bed.
+
+"Do you mind if we change the layout?" Annabeth asked Percy.
+
+"It's your garden."
+
+"Some of it. You helped make the plan."
+
+"And people actually use this place. Ask the people who use it."
+
+They took the revised drawing to Chiron. He agreed to inspect the planters when they were built and asked that the route remain clear for the infirmary cart, which sometimes brought campers to the memorial after an injury. Annabeth had nearly missed that clearance requirement when she planned the removable poem board earlier in spring. She wasn't going to repeat it.
+
+Mara worked beside Percy to move the soil into two small containers. She asked whether they could leave one corner unplanted for a child who wanted to make their own offering.
+
+"Yes," Annabeth replied. "But nobody gets to put names there without asking the family first."
+
+"Why?"
+
+"Because an offering can be private even if it's placed in a public space."
+
+Mara considered. "Could they leave a blank stone?"
+
+"Yes. We can ask Chiron about a place for those."
+
+The idea reminded Percy of a grieving Demeter camper who had wanted to honor someone without announcing the name to everyone. He remembered that conversation because he'd been present for it. Mara hadn't been there. He didn't tell her the boy's private circumstances. He simply said that a blank stone might mean something important to the person leaving it.
+
+They finished the revised layout by midday. The thyme was not planted yet, because the containers still needed an inspection and the soil needed to be mixed correctly. Annabeth took the unplanted seedlings back to the sheltered bench and covered them to keep them from drying out.
+
+Percy looked at the unfinished bed.
+
+"Not the resolution you wanted?"
+
+"It's the resolution I actually made," Annabeth replied. "Finish it properly."
+
+"With all the boring steps?"
+
+"Especially those."
+
+She smiled as she cleaned her trowel. The garden had made one more small change in her life: it no longer needed to look complete today to be worth doing.
 
 Thalia arrived at noon like a storm front, all crackle and grin and windburn.
 
@@ -308,7 +446,7 @@ She closed the notebook hard. "No. Absolutely not. They'll laugh."
 
 At Silena's name, Clarisse's expression shifted, softened in a way few people ever saw. Silena was the only person Clarisse let braid her hair. Silena was the only person who had ever told Clarisse her hands were gentle and made her believe it.
 
-"I was thinking," Clarisse said slowly, "maybe my resolution could be... sharing one. Just one. At the bonfire. So I can't chicken out later."
+"I was thinking," Clarisse said slowly, "maybe my resolution could be... sharing another one. A different poem, if I decide it belongs at the bonfire. I shared three lines for the memorial board, not the whole notebook."
 
 Percy grinned. "That's a good resolution."
 
@@ -319,6 +457,110 @@ Percy grinned. "That's a good resolution."
 She punched his arm, but gently, and her eyes were shiny in the forge light. "Shut up, little brother."
 
 ---
+
+At five, the private resolutions had already begun changing.
+
+Percy found Ella at the library sorting the cream cards Silena had set out at breakfast. The cards weren't being collected for public reading. Campers could choose to put a sealed note in the box for themselves, give one to a friend or keep it in a pocket. Ella was drawing a divider between the notes people wanted archived and the ones nobody was allowed to open.
+
+"That's a lot of boxes," Percy said.
+
+"Different kinds of promises need different homes," Ella replied.
+
+"How do you decide who gets which?"
+
+"Ella asks. If someone cannot tell Ella, the letter stays with the person who wrote it."
+
+Percy nodded. He wasn't going to give her his Sally notebook just because it existed. The memorial garden and a book about his mother were different projects, even if they both dealt with grief.
+
+Silena came in carrying a bundle of folded cloth. "Has anyone seen Clarisse?"
+
+"Forge," Percy said.
+
+"Still?"
+
+"She was writing."
+
+Silena set down the cloth. Her expression changed. She had helped Clarisse make decisions about public poetry before, and Percy recognized the hesitation.
+
+"She told me she might read another piece tonight," Silena said. "I don't want to stand beside the fire waiting for her to do it. That's pressure."
+
+"Then don't," Ella suggested.
+
+"She asked me to listen if she reads it."
+
+"You can listen without asking for a performance."
+
+Silena considered, then smiled. "Fair."
+
+They went outside together. Clarisse was leaving the forge with the notebook under one arm and a small rolled sheet in her hand. She stopped when she saw all three of them.
+
+"What?"
+
+"Nothing," Percy said.
+
+"You're all standing in a suspicious formation."
+
+Silena held out the folded cloth. "You left this in the cabin. It's your old practice wrap."
+
+Clarisse took it. "Thanks."
+
+"And I won't ask what you're reading tonight."
+
+Clarisse looked at her with sudden relief. "Good. Because I haven't decided."
+
+Percy nodded. He wanted to tell her he was proud, that she should read it no matter what. That was exactly the kind of well-meant push she'd been resisting since the arena, when her private poems had become everybody else's topic.
+
+"You can come just to listen," he said.
+
+"I know, idiot."
+
+"That's what I'm planning."
+
+Clarisse almost smiled. Then she looked at Ella.
+
+"Did you get the words for the memorial board checked?"
+
+"Not the final mounting," Ella answered. "Chiron approved the plan, but the brace repair and cart clearance still have to be inspected."
+
+"Then it stays off the fence."
+
+"Yes."
+
+Percy was relieved to hear the older promise still had practical work attached to it. Annabeth had been careful about the placement since the first draft, and nobody needed the board installed in a rush just because the camp was feeling sentimental.
+
+Clarisse rolled the loose sheet into the wrap. She didn't offer it for anyone to read. Silena asked whether she wanted company on the way to the amphitheater, and Clarisse said yes.
+
+They walked together toward the open green. It was still light, and a few campers were carrying firewood to the supervised stack beside the stage. Chiron had asked for wet-weather covers because the wind was carrying rain. The fire would start only after the perimeter had been checked.
+
+A small girl from the Demeter cabin came running toward Silena, clutching a resolution card with muddy fingerprints.
+
+"I wrote that I want to learn the song," she said.
+
+"Which song?"
+
+"Yours."
+
+Silena looked startled. "You can learn it if you want."
+
+"Will you teach me?"
+
+"Not during the bonfire. Tomorrow, when my voice is rested and we can talk about the words."
+
+The girl nodded, satisfied by a specific answer. She tucked the card back into her pocket and went to find her counselor.
+
+Clarisse watched her go. "You make that look easy."
+
+"It's not always easy," Silena replied. "I wanted to say yes immediately. But then I would have spent the whole evening worrying about whether I remembered the plan."
+
+"See? You're learning."
+
+Percy smiled. The next generation of promises at camp was going to be less grand and more inconvenient. People would need to actually keep them.
+
+At the amphitheater the seats were already filling. A few campers chose not to write a resolution at all. Chiron didn't make them explain. Some brought cards to the box marked *private, return to owner*. Others kept theirs. One older camper asked whether a resolution could be revised tomorrow.
+
+"Of course," Ella said. "It's a plan, not a prophecy."
+
+Percy sat beside Annabeth and watched Clarisse choose a place near Silena. The loose poem was still rolled in the wrap. Whether she read it or not would be a choice she made when the time came.
 
 By seven the amphitheater glowed.
 
@@ -396,9 +638,103 @@ Silena bowed, laughing and crying, and mouthed Thank you to Clarisse, who mouthe
 
 ---
 
+By ten Percy had heard enough resolutions to be suspicious of the word *always*.
+
+An Apollo camper had promised never to be late to morning practice again, then admitted he had an early infirmary shift twice a week and couldn't possibly do both. Chiron helped him revise it to arriving on time when he was scheduled, or telling the instructor in advance when his duties conflicted. A younger Hephaestus camper promised to rebuild every damaged shield before summer, then checked the repair list and discovered half the parts were still on order.
+
+The night was full of moments like that. Some campers laughed, some groaned, and a few were relieved when they learned they could make a promise small enough to keep.
+
+Grover stood near the edge of the fire with a folded route sheet in his hand. He had been quiet during most of the announcements. Percy joined him.
+
+"You okay?"
+
+"Trying to work out whether mine is brave or stupid."
+
+"What's yours?"
+
+"To help one Searcher who hasn't come home. Not by breaking an order. By asking for a route I can actually take."
+
+Percy looked at the sheet. "Did Chiron approve?"
+
+"Not yet. I'm showing him tomorrow."
+
+"Then maybe that's the resolution. Make the request properly."
+
+Grover gave him a rueful look. "It sounds less heroic when you put it that way."
+
+"Last spring we would have run into the woods with a bag of tin cans and called it a strategy."
+
+"We almost did."
+
+"We were idiots."
+
+"We were ambitious," Grover corrected.
+
+Percy smiled. He remembered Grover's farewell by the lake, the schedule he'd made for reporting his location and the way Ella had agreed not to treat one late letter as proof he was lost. The resolution was a continuation of that conversation. Grover wanted to do something meaningful, but he wasn't using the word *Searcher* as permission to disappear without warning.
+
+"Do you want me there when you ask?" Percy said.
+
+"No. This one's mine. But can you help me read the route restrictions afterward?"
+
+"Sure."
+
+"Good."
+
+Thalia joined them with a cup of tea. Her patrol parka was still damp from the afternoon. She listened while Grover described the proposed search and asked whether he had a rest and return plan.
+
+He showed her the reverse side of the sheet. It included a list of safe houses and a note about contacting Chiron if weather closed a route. Thalia nodded.
+
+"That's better than my first expedition plan," she said.
+
+"What was your first plan?" Percy asked.
+
+"Go quickly. Come back eventually. Tell nobody I needed help."
+
+"Excellent plan."
+
+"Nearly flawless."
+
+She smiled, then looked at Grover again. "You can ask for somebody to review it. That isn't the same thing as asking them to take over."
+
+He looked down at the paper. "I know."
+
+"Knowing and doing are different," Thalia replied. "I spent all spring learning that."
+
+Percy watched her face. He knew she'd been worrying about her Hunters' obligations, Jason and Beryl's invitation to meet as a family later in summer, and the promise to escort Zoe toward the marked lantern at a future new moon. Those obligations belonged to different people. The fact that she could care about all of them didn't mean she could be everywhere.
+
+"Have you made your own resolution?" he asked.
+
+"Ask for help before I get desperate enough to order somebody around."
+
+"That sounds difficult."
+
+"Terrifying."
+
+She raised her cup in a mock toast. Grover touched his route sheet against it, and Percy raised an empty hand because he hadn't fetched a drink.
+
+"To small promises," Percy said.
+
+"To keeping them," Grover replied.
+
+They returned to the amphitheater as the first lanterns were lit. Percy noticed Clarisse sitting beside Silena with the rolled sheet still in her lap. She hadn't read it yet. Silena wasn't looking at it. They watched the fire crew finish the perimeter inspection and invite the counselors to bring the early guests to their seats.
+
+When a small boy stopped and asked whether he'd missed the important part of the night, Silena answered that tomorrow's breakfast was important too, and he didn't need to stay up past his bedtime to prove he belonged. The boy went with his counselor without argument.
+
+Percy looked at his own card. *Write Sally's story.* It still seemed too large. He scratched out the sentence and wrote instead: *Saturday mornings, one page about a day I remember. Mark what I don't know.*
+
+He showed the revised wording to Annabeth when she sat beside him. She read it and nodded.
+
+"I think that's a better start."
+
+"Less impressive."
+
+"More likely to happen."
+
+That was exactly the point. He folded the card and kept it for himself rather than dropping it into the archive box.
+
 Midnight came slow and then all at once.
 
-The bonfire burned low, coals pulsing red-gold. Marshmallows were gone. Mr. D had, as predicted, stayed two hours and fallen asleep in his blankets, snoring faintly while Chiron kept watch with fond exasperation. The younger campers dozed on blankets. The older ones talked low, shoulders touching for warmth. Ella had finally fallen asleep on her archive box, pencil still in hand, and Silena had gently tucked a blanket around her without waking her.
+The bonfire burned low, coals pulsing red-gold. Marshmallows were gone. Mr. D had, as predicted, stayed two hours and fallen asleep in his blankets, snoring faintly while Chiron kept watch with fond exasperation. The younger campers had been escorted to their cabins by counselors before midnight. The older ones talked low, shoulders touching for warmth. Ella had finally fallen asleep on her archive box, pencil still in hand, and Silena had gently tucked a blanket around her without waking her.
 
 Percy and Annabeth slipped away just before midnight, by unspoken agreement, to the overlook above the amphitheater where they could see both the fire below and the Sound beyond, black and silver under the moon. Their breath fogged together. The wind was softer here, smelling of pine and salt and woodsmoke.
 
@@ -471,6 +807,122 @@ My mom's name is Sally Jackson and this is her story.
 Annabeth planted thyme beside him, humming Silena's song softly under her breath, her shoulder against his. The sun rose. The woodland bells lifted. The garden waited to be finished. The book waited to be written.
 
 Side by side, they began.
+
+The first paragraph took Percy nearly half an hour.
+
+He wrote about a blue birthday cake Sally had made in the apartment, then stopped because he couldn't remember which year it had been. He could remember the kitchen window, the smell of sugar, and the way his mother had told him to wait for the frosting to cool. He could not remember whether he'd already met Grover or whether that part of his childhood came later.
+
+He crossed out the date he'd guessed and wrote *I don't remember the year* in the margin.
+
+Annabeth was kneeling beside the planter, placing thyme roots in damp soil. She didn't lean over to read his page. Every few minutes she asked whether he wanted tea, or needed a sharper pencil. Percy told her when he did.
+
+After a while she sat beside him and held out her hand.
+
+"Want help?"
+
+"With the spelling."
+
+"Okay."
+
+He showed her the sentence, pointing to a word he'd written three different ways. She corrected the spelling and moved the notebook back. She didn't change the story.
+
+"You didn't tell me whether it was good," Percy said.
+
+"Do you want me to?"
+
+"Maybe."
+
+Annabeth read the paragraph again. She smiled at the detail about Sally making him wait for frosting even though he was already trying to eat the cake with a spoon.
+
+"I like that," she said. "It sounds like her."
+
+"You remember her."
+
+"I do. From later. Not from every birthday before I knew you."
+
+Percy looked at the page. That was a distinction he might have blurred if he'd let himself. Annabeth had met Sally in the life they remembered, but she couldn't personally confirm the particular birthday he was describing.
+
+He added a small note: *Annabeth knows Sally from later years, not this day.*
+
+"That's a strange thing to put in a story," Annabeth said.
+
+"Maybe. It's important to me."
+
+"Then keep it."
+
+Mara arrived to inspect the soil in the raised container. She looked at the thyme and said the roots would need more room once summer heat came. Annabeth moved one plant farther apart before covering the roots. The adjustment left a small empty space, which Percy admired.
+
+"Your garden has a gap," he said.
+
+"For another plant when we know what fits."
+
+He looked at his notebook. It had gaps too. The unknown years, the things Sally might have thought but never said aloud, the parts Annabeth knew only because Percy told her. The gaps did not make the story worthless.
+
+They finished one row and one page before breakfast.
+
+Percy stood, wiped dirt from his knees and closed the notebook. He wrote the date on the outside so he would know when he'd begun, not because it made the remembered birthday more precise.
+
+"Next Saturday?" Annabeth asked.
+
+"Next Saturday."
+
+"If you're here."
+
+"If I'm not, I'll write a page wherever I am and send you a note that I've done it."
+
+"You don't have to prove it to me."
+
+"I know. I just like telling you."
+
+Annabeth smiled. She washed her hands at the little outdoor tap and helped Mara return the unused seedlings to the Demeter counselor. Percy carried the remaining tools to the shed, where he signed them back in instead of leaving them in the garden.
+
+When he returned, Annabeth was looking at the planted thyme.
+
+"Do you think it'll last?" Percy asked.
+
+"If we water it and keep the soil right."
+
+"That's not very inspiring."
+
+"It's a garden. It needs us to show up again."
+
+Percy thought about the book and his family, about letters that came late, and about how much easier it was to make a solemn promise than to carry out small work every week. He had spent the previous night with people who loved making speeches. Now the sun was up, and there were tools to put away.
+
+"Then I'll show up," he said.
+
+Annabeth nodded. They walked to breakfast with the notebook tucked safely in Percy's coat, leaving the thyme to its first clear morning.
+
+On the way they met Clarisse carrying her composition book back toward Cabin Three. Percy glanced at it, then looked away.
+
+"You read the winter patrol poem last night," he said. "Did you decide whether to share another?"
+
+"No. One was enough."
+
+"You don't have to tell me why."
+
+"I know. But I might." Clarisse shifted the book under her arm. "When Silena finished her song I realized I didn't need to share another piece just to prove I was brave. The winter patrol poem was mine to choose, and the three lines for the board are enough for now. I can keep the rest private."
+
+Percy nodded. "Okay."
+
+"Don't sound relieved. I'm still writing."
+
+"Wouldn't dream of stopping you."
+
+"I also asked Ella to help me mark which pieces I've shared and which ones I haven't. Not to catalog every page, just the permissions."
+
+"That sounds like a good system."
+
+Clarisse looked toward the cabins. "Silena's going to teach that Demeter girl her song tomorrow. She asked me to come if I want to hear it."
+
+"Are you going?"
+
+"Maybe."
+
+Percy grinned. Clarisse wasn't promising to become somebody else because she'd admitted she had feelings. She was learning when to share them, and Percy was learning not to demand a performance in return.
+
+At breakfast he found Ella already setting aside the sealed resolutions in their proper boxes. She asked him whether he wanted his card filed. He said no and kept it in his pocket. The book he was starting had a first page; the garden had a first row. Neither needed a certificate from the rest of camp.
+
+He poured himself a cup of ordinary tea, sat beside Annabeth and told her he was ready for another Saturday when it came.
 
 ---
 

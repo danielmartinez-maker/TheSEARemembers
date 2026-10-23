@@ -1,6 +1,6 @@
 # Chapter 120 editorial screening: A Letter from the Sea
 
-**Source:** [Chapter 120](../../chapters/120-a-letter-from-the-sea.md), git blob `06405cabe8b10ca0d2af24ce8760b6254211cbdf`. **Approximate body words:** 4,713. **Status:** Screening only; manuscript unchanged.
+**Historical source:** [Chapter 120](../../chapters/120-a-letter-from-the-sea.md), pre-expansion git blob `06405cabe8b10ca0d2af24ce8760b6254211cbdf` at 4,713 body words. **Current body words:** 10,003 by the repository counter. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 

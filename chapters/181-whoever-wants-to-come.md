@@ -86,7 +86,7 @@ So Percy opened the door, and the cold came in from the bottom of the bank, and 
 
 Katie Gardner did not swim. Katie Gardner came down the hill in a coat with a scarf on and a canvas bag of her own, sat on the second bench, and became, by eight o'clock, the most effective piece of furniture in the building, because she took coats and hung them and took wet ones off small ones and put dry ones on, and never once raised her voice above the level of a person who expected to be obeyed, which meant that nobody ever had to.
 
-Her six came in in a clump the way they had the first time and stopped in the doorway to breathe, because a black-tiled hall full of steam at seven o'clock at night is a large thing when you are six or seven or even ten, and every single one of them did the same thing: coat off, shoes off, toes in the water, hands flat on the tile, and the small intake of breath that Percy had learned in September was not fear exactly, but arithmetic.
+Her six came in in a clump this time and stopped in the doorway to breathe, because a black-tiled hall full of steam at seven o'clock at night is a large thing when you are six or seven or even ten. On opening night Rosie had run ahead; tonight she stayed with the others. Every single one of them did the same thing: coat off, shoes off, toes in the water, hands flat on the tile, and the small intake of breath that Percy had learned in September was not fear exactly, but arithmetic.
 
 "Face in and count three," Rosie said to the smallest of them, a Demeter boy of six who had evidently not been told the method. "That's the whole thing. Face in, count three, head up, look at something you can see. Everybody's watching but they're not watching *at* you."
 
@@ -114,19 +114,19 @@ Olive Nakamura came down with a drawing tube under one arm, in a coat, and stood
 
 "It's in your sock," Olive said, and was right, and Percy gave her the pencil, and she took it into the dressing room with the tube as though she were being handed a commission.
 
-And Neve from the forge came, and two of the Apollo kids who had heard the door, and a Hermes boy who had come out of pure nosiness on the opening night and had, by now, the unmistakable air of a person for whom Tuesday had become a fixed institution.
-
 By a quarter past seven the room had twelve people in it and the water had stopped being still.
+
+In the minutes after quarter past seven, before Annabeth and Thalia came down, Neve from the forge arrived, followed by two Apollo kids who had heard the door and a Hermes boy who had come from pure nosiness on opening night and had, by now, the unmistakable air of a person for whom Tuesday had become a fixed institution.
 
 That was the part Percy never got used to. He had grown up in water and he had arrived at this camp assuming, without ever once examining the assumption, that everybody came to it the way he did — as the thing you did instead of standing up. What he got instead, twice a week, in a black-tiled room with the heater ticking, was six kids working up to it an inch at a time with their hands clenched on the edge, and then the exact moment it broke: somebody's grip loosened, somebody laughed because their feet came off the floor, and the room went from a held breath to a riot in about four seconds flat.
 
 The small ones splashed the way small ones splash, which is to say with no aim, no mercy and no awareness that they were doing it, and the hall gave every one of them back twice, so that a single flailed arm became weather. Marcus went under the ladder and came up on the far side like a man arriving at work. Olive, who had spent twenty minutes of her life learning to float on her back in this room and had never once been told she was good at it, did it again under the skylight with her goggles on the right way round and her ears under, and said, to the ceiling, to nobody, "It holds you up better," and somebody behind her said "yeah" and nobody else in the room understood the sentence and everybody in the room agreed with it.
 
-Percy went down the shallow end on his hands and knees with his eyes open, because the water was clear of the tile tonight and the light from the lamp came through it in one long green coin, and he stayed there with his lungs easy and his hair floating in front of his face and thought, with the part of his mind that was always doing this whether he asked it to or not, about a corridor.
+Percy went down the shallow end on his hands and knees with his eyes open, because the water was clear of the tile tonight and the light from the lamp came through it in one long green coin, and he stayed there with his lungs easy and his hair floating in front of his face and thought, with the part of his mind that was always doing this whether he asked it to or not, about Atlantis.
 
-The smell got him there, the way it always did, before the water did. Clean mineral salt in warm air, not sea salt and not the lake, which smelled of pine roots and cold mud and reeds — the other thing, the deep-palace thing, the corridor outside his mother's rooms where the pools were lit from below and the water was kept at the temperature of a held breath and somebody's voice came down the length of it at six o'clock to say that dinner was on.
+The smell got him there, the way it always did, before the water did. Clean mineral salt in warm air, not sea salt and not the lake, which smelled of pine roots and cold mud and reeds. It brought with it a deep-palace association he couldn't fasten to a corridor, a pool, or a voice. No image came with it, only a pressure of warmth and the sense he belonged somewhere.
 
-He had put that room where it belonged a week ago tonight, in front of a slate with five rules on it, and he could feel it now through the back of his ribs anyway, the way you feel a stair in the dark that you have already counted. The hall was not the palace. The hall was a Tuesday in October with a broken pump and a boy of six learning to count to three and a woman on a bench warming towels on hot stones, and both of those things were true at once and neither of them cancelled the other, and he chose — the way he had chosen a week ago, on purpose, in front of Annabeth — to push off the tile and come up.
+He had named the boundary a week ago tonight, in front of a slate with five rules: the hall was not the palace, and an association was not a scene he remembered. His ribs still tightened at the smell; it was an answer from his body without reliable details to go with it. The hall was a Tuesday in October with a broken pump and a boy of six learning to count to three and a woman on a bench warming towels on hot stones. Both were true. Neither made the other less real, and he chose — the way he had a week ago, on purpose, in front of Annabeth — to push off the tile and come up.
 
 Steam. Lantern. The ceiling's flat sheet of it, and the ladder ticking softly against the tile where somebody had just gone past it, and the whole shallow end arguing at once about a thing that had happened four seconds earlier and was already being disputed by two people who had not seen it.
 
@@ -304,7 +304,7 @@ He worked for a while and she held the light. From the shallow end came a splash
 
 "Fifteen," he said again, to the box, as if he were checking the number against the plumbing.
 
-"Fifteen," Silena said. "Four out of the bag, three of them borrowed and one of them mine, and Rosie's back in the one with the silk in the shoulder, which she has now worn three Tuesdays running and has never once mentioned to anybody."
+"Fifteen," Silena said. "Four out of the bag—three borrowed and one of mine. The repaired rack suit is a fifth loaner: Neve wore it opening night, and Rosie has it tonight. She's never said a word about the stitching."
 
 "That's the one I noticed," he said. "Opening night. Somebody sewed a shoulder like it was a shirt."
 

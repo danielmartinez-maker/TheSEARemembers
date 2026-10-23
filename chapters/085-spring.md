@@ -108,7 +108,7 @@ Thalia was straddling two worlds. She'd gone out as a camp scout for a time, the
 
 "You staying through June?" Percy asked quietly.
 
-"Trying to," Thalia said. "College stuff. Mortal stuff. My mom—" She stopped, restarted. "Yeah. I'll be here next summer. Wouldn't miss watching you two get all tall and annoying."
+"Trying to," Thalia said. "Long-term school plans. Mortal stuff. My mom—" She stopped, restarted. "Yeah. I'll be here next summer. Wouldn't miss watching you two get all tall and annoying."
 
 "We're already tall and annoying," Annabeth said.
 
@@ -157,6 +157,88 @@ Annabeth glanced at Percy. Together, from memory: "Home isn't done being built y
 "Yes." Chiron's voice was warm. "Well. Look at us now."
 
 Outside the window, the camp bell rang for mid-morning lessons. Swordplay. Architecture. Greek. Monster identification for the winter newbies who still mixed up empousai and dracaenae.
+
+Chiron didn't let them leave immediately.
+
+"One more thing," he said, touching the map on the ping-pong table. "The route changes you made during the spring departures worked. I'd like you to look at the early summer arrivals before the first large group comes."
+
+Annabeth straightened. "The visitor route?"
+
+"That and the path from the cabins to the infirmary. New campers don't automatically know which door is open at night."
+
+Percy looked at the map. The line he and Annabeth had corrected for Owen's departing bus was still there, inked in red. An arrow marked the turn that had confused the driver. It was strange to see a mistake they'd fixed becoming part of the camp's regular plan.
+
+"We can walk it," Annabeth said.
+
+"With somebody who hasn't memorized the camp," Chiron replied.
+
+Percy thought of Lucy. She'd noticed the inaccessible steps in Annabeth's sandcastle, and she'd helped the younger campers find a safe place for their shoes at the beach. She knew enough now to help, but not so much that the routes would look obvious to her.
+
+"Can we ask Lucy?" he said.
+
+"Ask her if she would like to help," Chiron answered. "Don't assign her without checking her schedule and her counselor's approval."
+
+They found Lucy outside the Hermes cabin with her light-up shoes in her lap. One had stopped blinking. She was trying to work out whether the problem came from a wet connection or a broken switch.
+
+"Want to test some directions for us?" Percy asked.
+
+"Directions to what?"
+
+"The infirmary. At night."
+
+"Why?"
+
+"Because if the signs are confusing, we'd rather find out now."
+
+Lucy thought about it. "Can I finish fixing this first?"
+
+"Of course."
+
+She returned an hour later with her counselor. The shoe still wasn't blinking, but she'd decided to save the repair for another day.
+
+Annabeth handed Lucy a small map and asked her to find the infirmary as though she'd just arrived at camp. They began outside the Big House. Lucy immediately took the path toward the dining pavilion because the first sign had an arrow pointing ambiguously between two forks.
+
+"That one is wrong," Annabeth said.
+
+"It's not wrong if you already know where the infirmary is," Lucy replied.
+
+Percy grinned. "Which means it's wrong for the person who needs it."
+
+They moved the sign to face the approaching path and added the infirmary name beneath the symbol. At the next fork Lucy correctly identified the route but couldn't read the small letters from far away.
+
+"Could we make them bigger?" she asked.
+
+Annabeth took notes.
+
+The third problem was the narrow bridge across the shallow creek. It was not dangerous in daylight, but wet leaves made it slippery after rain. Lucy remembered falling there during her first week and admitted she'd been embarrassed to tell anyone.
+
+Percy crouched beside the railing. One fastening had come loose. He called for the maintenance crew rather than tightening it with his sword hilt, the way he might have when he first arrived.
+
+Beckendorf inspected the bracket. It needed a new bolt. The crew put up a temporary route marker until the repair could be completed and signed off.
+
+Lucy looked worried. "Did I get the path closed?"
+
+"You helped us find a problem," Annabeth said. "That's not the same thing."
+
+They finished at the infirmary door, where Will showed Lucy how to ring the nighttime bell without waking every cabin. He also told her which things counted as reasons to come immediately and which could wait for morning. Lucy asked good questions and wrote down the answers.
+
+At the end Annabeth made a revised map for new arrivals. It included bigger signs, a marked alternate route for the creek bridge and a reminder to ask a counselor before leaving a cabin at night. Lucy checked it and said it was easier to follow.
+
+"Do I get to put my name on it?" she asked.
+
+"Yes," Annabeth said. "You're the person who found most of the problems."
+
+Lucy looked pleased. She went back to her cabin with her counselor and the corrected map, while Percy and Annabeth took the repair request to Chiron.
+
+"That was useful," Chiron said.
+
+Percy looked at the line of notes. "The map's uglier now."
+
+"More honest," Annabeth replied.
+
+They walked toward lessons together. Percy had been thinking that spring was about returning to places where everybody already knew him. Lucy had reminded him that home also required making room for people who didn't know where anything was yet.
+
+He tucked the copied map under his arm and promised himself not to complain when Annabeth asked him to help test the signs again after the bridge was fixed.
 
 Percy stood. Annabeth rolled her blueprints.
 
@@ -396,6 +478,120 @@ He bumped his knee into hers. "Home is people who know the dumb stuff and stay a
 
 ---
 
+Nico found Percy after lunch at the small fort behind Cabin Thirteen.
+
+He was sitting at the lower table with the Mythomagic pieces spread out in a half-circle. Bianca stood beside the doorway with a folding rule, measuring a space above the carved names. Annabeth had given Nico permission to propose a little skull emblem for the door if the Hephaestus crew approved the placement. Nico had decided he wanted to make the drawing himself before anyone cut the wood.
+
+"Do you know how to draw a skull that looks fierce but not evil?" he asked Percy.
+
+"That's specific."
+
+"It needs to protect the fort. But Bea doesn't like scary faces."
+
+Percy knelt beside him. There were three sketches on the table: one skull with enormous teeth, one with tiny round eyes and a third wearing a Roman helmet.
+
+"That one looks like Jason," Percy said, pointing to the helmet.
+
+"Jason isn't a skull."
+
+"Excellent point."
+
+Bianca laughed. Nico turned the paper around so Percy could see what he'd drawn on the back. It was a map of the fort with spaces labeled for people who wanted to play. The lower table was for card games, the shaded bench outside was for drawing, and the loft had a little mark that said *two people*.
+
+"Annabeth told me I had to make a plan," Nico said.
+
+"She does that."
+
+"I like it. Then people don't have to ask where they can go."
+
+Percy looked at the tiny shapes. "Is this for your friends?"
+
+"For the new campers. Some don't want to come in because they think I'll be doing death magic all the time."
+
+"Are you?"
+
+"Not all the time."
+
+Percy tried not to laugh.
+
+Nico looked serious. "I don't want to be the creepy boy who has a fort nobody wants to use."
+
+Percy recognized the fear. Nico had spent his first weeks at camp learning which older kids flinched when he mentioned Hades. His birthday had helped, but it hadn't erased every unpleasant look. Percy also knew he couldn't fix the problem by telling everybody that Nico was wonderful and demanding that they believe him.
+
+"What do you want them to know?" Percy asked.
+
+"That they can play here. But they have to ask before using the cards."
+
+"Then put that on your map."
+
+"Can it be a rule?"
+
+"It's your fort, with Bianca. Ask Chiron if you want it posted on the shared notice."
+
+Nico looked toward his sister. Bianca nodded.
+
+"I think that's fair," she said. "And it would be nice if you told people where to put things when they're done."
+
+Nico added a box near the door labeled *return cards here*. Then he wrote a short note for anybody who was nervous about the shadow flowers behind the cabin: the plants were not dangerous to touch, but visitors should leave them in the ground so they would keep growing.
+
+Milo came by carrying a small canvas bag. He had brought the borrowed Mythomagic deck back after the lesson Nico gave him on his birthday. He placed it on the table and checked whether all the cards were present before Nico counted them.
+
+"Can I play again?" Milo asked.
+
+Nico looked at the new map. "Yes. First you have to choose whether you want to play inside or outside."
+
+"Inside."
+
+"Okay. The lower table is free."
+
+Milo sat down. He saw the skull drawings and said he liked the one with the Roman helmet. Nico immediately accused him of not knowing how skulls worked, and they started arguing about whether a skeleton could wear a helm without a head.
+
+Percy watched the boys arrange their pieces. It occurred to him that Nico had solved his immediate problem in a way Percy couldn't have designed for him. He had built a place for other children to choose how close they wanted to come.
+
+Bianca came to stand beside Percy.
+
+"He has been like that all week," she said.
+
+"Like what?"
+
+"Making lists. Asking if people want to play. He keeps wanting to tell me every time he learns something new."
+
+"Sounds exhausting."
+
+"It is. I love it."
+
+Percy looked at the drawings again. "Are you glad you built the fort?"
+
+"Yes. But not because everybody likes him now. He still has bad days."
+
+"So do I."
+
+She glanced at him. "I know."
+
+He looked toward the path where Annabeth was talking to Chiron about the creek bridge. She had plans for a new season, and sometimes they would go wrong. Percy was learning that loving someone didn't mean making every future day safe or easy. It meant being there when the plan changed and asking what kind of help they wanted.
+
+Milo lost the first game because he had forgotten to defend one of his monsters. He complained, and Nico told him he could try again but wasn't allowed to take back an entire turn. Bianca left them to negotiate the rules, and Percy followed her out.
+
+At the doorway Nico called after him.
+
+"Percy?"
+
+"Yeah?"
+
+"Can you ask Annabeth whether the skull has to be symmetrical?"
+
+"I can. But I think I know what she'll say."
+
+"What?"
+
+"She'll ask why."
+
+Nico grinned. "Because the left eye is bigger."
+
+Percy laughed. "That's a pretty good reason."
+
+They left him with the map, the cards and his own crooked drawing, all of them things he could change without asking anyone to become a different person.
+
 That afternoon it rained.
 
 Spring rain at camp was different from summer rain. Summer rain was warm, dramatic, gone in an hour. Spring rain was cold, steady, soaking, the kind that turned paths to soup and sent everyone running for cover laughing and swearing.
@@ -468,7 +664,71 @@ They laughed, and the cabin walls, which had once echoed empty, held the sound w
 
 By evening the rain stopped as suddenly as it had started, leaving the whole camp dripping and shining under a washed blue sky.
 
-Someone — probably the Apollo kids — started a bonfire down by the lake without permission. Chiron took one look, sighed, and gave permission retroactively, because spring needed fire.
+The creek path was still closed. The loose bracket on the railing had been replaced, but Beckendorf wasn't satisfied with how the old wood held the new bolt. Percy saw the work crew at the crossing when he went to collect water for the bonfire.
+
+"Is it fixed?" he asked.
+
+"Not for use," Beckendorf said. "The bolt is fine. The rail needs a new length of wood before anyone can lean on it."
+
+"Can I help?"
+
+"You can help carry the barrier signs, if Chiron has cleared you for that."
+
+Percy checked. Chiron approved the sign work but asked him not to test the structure himself. Percy had enough strength to hold back a current. That did not mean his hands could tell whether an old timber would hold a camper leaning on it in the rain.
+
+He took the signs along the alternate path and placed them where new arrivals could see them before reaching the crossing. Annabeth met him with Lucy and her counselor. Lucy checked the direction of each arrow, then stood back at the first fork.
+
+"That one is still too high," she said.
+
+Percy looked up. The sign was readable to him. He lowered it so a younger camper could see it without craning their neck.
+
+"Better?"
+
+"Better."
+
+They walked the route once more and returned to the Big House. Chiron added the replacement rail to the next day's repair list and asked that the shortcut remain closed until it passed inspection. Percy thought of the old habit of shouting *Fixed!* every time someone tightened a screw. The new habit was slower. It also meant people could trust the sign that told them where to walk.
+
+On the pavilion steps he found Silena sorting towels from the rain into two baskets, one for washing and one for drying. Clarisse was beside her, trying to untangle a pile of wet tent lines from the afternoon's training drills.
+
+"You're late," Clarisse told him.
+
+"For what?"
+
+"Helping."
+
+"I didn't know I was assigned."
+
+"You're assigned now."
+
+Percy raised his eyebrows. "Ask me."
+
+Clarisse glared at him. Then, with visible effort, she said, "Would you help us untangle these? We can finish before dinner if all three of us work."
+
+"Yes," Percy answered.
+
+Silena smiled down at her towels. "That was almost polite."
+
+"Don't spread rumors," Clarisse said.
+
+They worked until the lines were neatly coiled and each was marked for the correct storage rack. Percy found that the knots were worse near the old broken pegs, which let lines twist whenever someone pulled a bundle free.
+
+"Could we fix the pegs tomorrow?" he asked.
+
+"Maybe," Clarisse replied. "They're not an emergency."
+
+"Then put them on the list."
+
+Silena held up the basket. "My resolution was to stop making everybody's problems my own. These towels were left by people who can do their own laundry."
+
+Percy looked at the name tags. Two belonged to Apollo campers who were still at practice. Silena had been sorting them so they wouldn't mildew before the evening return, but she was not their laundry service.
+
+"Let's leave a note," he said.
+
+She wrote a reminder on the notice board. Clarisse put the dry lines away. They went to dinner with their own work finished and everybody else's laundry still somebody else's responsibility.
+
+Percy liked the way the rain had changed the camp without turning the entire evening into a crisis.
+
+The Apollo counselors requested a supervised bonfire down by the lake. Chiron approved the site after inspecting the fire ring, confirming a water supply and assigning adults to stay until the embers were cold.
 
 Word spread cabin to cabin: bonfire, lake, bring food, bring blankets.
 
@@ -542,9 +802,119 @@ Percy felt Annabeth's breathing slow as she dozed. He felt Thalia's boot nudge h
 
 He looked up at the stars, at the constellations his father sailed by and Annabeth's father threw lightning through, and he made a promise without words, the way Poseidon kids do: to stay, to return, to build, to remember.
 
+Thalia shifted beside him. Her boot nudged his again, deliberately this time.
+
+"Did Annabeth tell you about Jason's letter?" she asked quietly.
+
+"Only that you're all considering a visit with Beryl."
+
+"That's it."
+
+Percy waited. He had learned not to treat a pause as an invitation to pry.
+
+"I'm still deciding whether I want to go," Thalia said after a while.
+
+"Okay."
+
+"You don't think I'm being unfair?"
+
+"To whom?"
+
+"Mom. Jason. Annabeth. Everybody who thinks family should want to spend a weekend together just because they have the same name."
+
+Percy looked out across the dark lake. He thought of the little record of Sally he had begun writing in private, of Amphitrite listening to him talk about school, and of Tyson going back to the forge without Percy trying to keep him at camp. Families could care about one another without needing all the same things.
+
+"I think you're allowed to decide," he said.
+
+Thalia rubbed her palms together. "I want to see Jason. And I want Annabeth to have choices I didn't have when she was small. I just don't want to walk into a house and spend an entire weekend pretending we all remember the same happy childhood."
+
+"You don't have to pretend for me."
+
+"Good, because you're not going."
+
+"Rude."
+
+She smiled. Then the smile disappeared again.
+
+"Sometimes Annabeth asks me what happened when we were little," Thalia said. "And sometimes I don't remember enough to answer. I hate how disappointed she looks."
+
+Percy turned toward her. "She isn't disappointed in you."
+
+"How do you know?"
+
+"Because when she asks me about my memories, she tells me it's okay not to have all the answers. She's learning to say the same thing to herself."
+
+Thalia considered that. "She still wants to know."
+
+"Of course she does."
+
+Percy thought about his own reasons for holding on to the original history. He had loved Sally; he didn't want that to become a story people told him was less real because the world had changed. Annabeth had loved Athena and survived terrible things alongside Percy. Neither could simply choose to stop remembering. But their siblings, who lived the altered history directly, were not responsible for filling every gap.
+
+"You can tell her you don't know," he said. "And she can ask somebody else."
+
+Thalia nodded slowly. "I need to write Jason back. He asked for a definite answer."
+
+"Then tell him you don't have one yet."
+
+"You and Annabeth are becoming impossible."
+
+"Occupational hazard."
+
+She laughed. Clarisse stirred in her sleep under Silena's blanket. From the other side of the fire, Grover played a little fragment of melody on his pipes, soft enough not to wake anyone. Percy listened for a moment, then looked back at Thalia.
+
+"You don't have to make tonight a decision about your whole family," he said.
+
+"No?"
+
+"No. You're here. That's enough for this evening."
+
+Thalia pulled her jacket tighter. "I like that."
+
+She looked toward the cabin lights and added, "I do want to ask Jason whether we can meet without the house. Just the three of us first. Maybe a walk."
+
+"Sounds reasonable."
+
+"It sounds less dramatic."
+
+"That's a virtue."
+
+She nodded. They sat in silence until Annabeth stirred beside Percy and asked what they'd been talking about. Thalia told her that she was considering a different proposal for Jason, and that she wanted to discuss it when both were awake. Annabeth agreed without asking for an immediate answer.
+
+Percy watched the two sisters settle back against the blankets. The question hadn't been solved. They were still here, with a conversation scheduled for another day instead of a promise neither could keep.
+
+The fire burned lower. A counselor moved through the circle reminding the campers who were staying late that curfew still applied and the younger ones needed to return to their cabins. Clarisse woke enough to complain about the noise and let Silena pull her upright. Grover put away his pipes. Percy helped stack the unused blankets rather than leaving them in the wet grass.
+
+Annabeth stayed beside him while the last embers were banked. When they were finished, she took his hand and they walked along the marked path toward Cabin One. She didn't ask what he had promised Thalia, and he didn't tell her private things his sister hadn't chosen to share.
+
+"Good night," she said at the fork.
+
+"Good night."
+
+They were tired, and the night hadn't cured anybody's old fears. But Percy had kept an agreement, moved a sign, listened to a friend and watched Nico invite someone into his fort. Those ordinary acts would still count when tomorrow arrived.
+
+At Cabin Three Percy found a note that Silena had slipped beneath his door. It was written on an ordinary piece of notebook paper, without ribbons or a decorative border.
+
+*I checked the old towels. The Apollo kids collected them before dinner. I didn't need to do their washing, and they didn't need me to remind them twice. Funny how that works. Love, your sister.*
+
+Below that she had written a second line: *Also, the bread in the kitchen belongs to everybody, not just you. Don't eat it all before breakfast.*
+
+Percy grinned. He folded the note and placed it in the small box Tyson had left on his shelf. The latch caught on the second try, just as it had on the morning his brother departed. He still hadn't fixed it. He didn't have to pretend every unfinished task was evidence he'd forgotten someone.
+
+He took out the blue notebook about Sally and wrote down another small memory. In the original life she had once left a note on his lunch because she'd known he was nervous about school. He couldn't remember the precise words. He remembered the folded paper and the way he had carried it in his pocket after the food was gone.
+
+He wrote that down and marked the uncertain part honestly.
+
+Then he checked the envelope he'd prepared for Amphitrite. It contained an account of the Roman visit and a question about the next undersea study block. He had not written the secret of the rewrite, and he had not pretended to remember going to the old school as a small boy. He'd written about the things that had actually happened this month, including a failed model and a trip home that needed three corrected forms.
+
+He put both letters on the desk where he would see them in the morning. The notebook stayed in the box, private.
+
+From the neighboring bunk came Clarisse's familiar complaint about the way the blankets were folded. Silena answered that Clarisse could fold them herself. Percy lay down and listened to the argument turn into quiet laughter.
+
+Not every night had to become a revelation. Sometimes home meant hearing your sisters disagree about laundry while you were almost asleep, and knowing nobody was asking you to choose a side. Tomorrow he would ask whether they wanted help with the next load. Tonight he could close his eyes without turning their conversation into something he had to solve. They knew one another. That was enough.
+
 Spring had come back, as it always did. So had they. So would they.
 
-Because home is people
+Because home is people. And people have to choose, ask, listen, and keep coming back.
 
 ---
 

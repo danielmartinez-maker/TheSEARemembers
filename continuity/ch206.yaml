@@ -1,0 +1,65 @@
+chapter: 206
+title: "The Storm’s Mistake"
+source: "chapters/206-the-storms-mistake.md"
+status: "10,083 body words; scoped arc implementation and continuity review recorded"
+relative_chronology:
+  - "Begins the morning after Chapter 205's Tuesday close; no exact calendar date or year is established"
+  - "An early-winter storm arrives earlier than the work schedule anticipates; the chapter continues through the next morning's ground inspection"
+pov: "Clarisse La Rue, third-person limited"
+locations:
+  - "Big House porch and kitchen passage"
+  - "Equipment yard and lower fence drainage cut"
+  - "Canoe shed"
+people_knowledge_relationships:
+  clarisse:
+    - "Follows Chiron's safety limits and leads response with Beckendorf and Eli from firm ground; does not allow anyone to climb or cross the saturated cut."
+    - "Names that Ianthe's schedule left supplies in the lower shed while Leandros's separate decision moved the drainage board against instruction."
+    - "Does not treat Leandros's admission or useful rope work as an apology, trust milestone, or authority."
+  ianthe:
+    - "Uses a schedule that leaves the dry line and repair canvas in the lower shed until after the fence inspection, relying on the expected weather window and without confirming the path with its users."
+    - "Accurately identifies the direction and interval of gusts, helping Beckendorf secure the rack cover."
+    - "Recognizes that the plan's order left supplies in the lower area; asks Eli about the drainage only after the damage, and writes his information without assigning him."
+    - "Does not receive broad trust, authority, or a room-placement decision."
+  leandros:
+    - "Sees water pooling and moves the drainage board after being told to leave it until the ground is inspected. Water redirects toward the shed rack."
+    - "Shows real skill with rope while moving the damp coils under Beckendorf's direction, but his boat/current experience does not establish knowledge of the camp's ground drainage."
+    - "Admits he should have checked the channel from the other side. He does not apologize or seek forgiveness in this chapter."
+  beckendorf:
+    - "Checks the canvas brace and lower board from firm ground, directs how the rope coils are covered and moved, and postpones the drainage repair until the soil firms."
+  eli:
+    - "Explains from his prior leaf-clearing work that the lower run turns around the pine roots; Clarisse and later Ianthe hear this firsthand."
+    - "Chooses when and how to help with sacks and supplies; he is not assigned general labor without being asked."
+  chiron:
+    - "Sets a no-climbing/no-crossing safety boundary, records the storm damage, and defers resetting the board until its footing can be inspected."
+  percy:
+    - "Helps move dry supplies and rewrite tags indoors; no leadership or interpretive role in the sibling conflict is assigned."
+  annabeth:
+    - "Coordinates indoor label recovery with Percy. Their familiar affection remains secure; no new relationship conflict occurs."
+  thalia:
+    - "Does not appear on-page; no new heel assessment, activity decision, or clearance occurs."
+work_and_health_states:
+  - item_or_event: "Lower fence drainage"
+    last_seen: "Leandros shifts the temporary board; runoff redirects toward the canoe-shed rack. The board remains unrepaired until the saturated ground firms and Beckendorf can inspect its footing."
+  - item_or_event: "Rope, tags, and canvas"
+    last_seen: "Two coils are damp, three tags are blurred and recopied, and one canvas strip is spread to dry. All material is recoverable; no one is injured."
+  - item_or_event: "Temporary rack cover"
+    last_seen: "Beckendorf secures it from the ground during a short lull identified by Ianthe. The separate awning bracket remains open."
+  - item_or_event: "Other camp repairs"
+    last_seen: "The Cabin One rail, north-step frost check, Cabin Three blanket pin, and remaining listed repairs stay open."
+  - item_or_event: "Thalia's heel"
+    last_seen: "No examination or health update occurs. Carry forward the Chapter 204 care status and do not infer clearance."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; this chapter discloses none."
+  - "Clarisse witnesses the storm choices and the next-morning inspection; the storm does not establish private motives beyond what characters say or do."
+  - "No event at the previous evening's hall is inferred; Ianthe's Chapter 205 attendance remains unshown."
+  - "Thalia and other absent characters receive no new knowledge from this chapter."
+next_chapter_dependencies:
+  - "Continue the storm-cost follow-up without claiming that the fence drainage board or footing is repaired."
+  - "Leandros has not apologized or earned forgiveness; Clarisse's response remains her own, and Percy does not interpret it for her."
+  - "Ianthe's wind observation and later question to Eli show bounded competence and practical partial change, not authority or broad trust."
+  - "Dry and recheck two damp rope coils, replace the three blurred tags, and dry the canvas strip."
+  - "Carry forward the Cabin One placement, stool curing history, Thalia's existing care plan, and other open repairs without inventing new outcomes."
+unresolved_canon_questions:
+  - "The lower board's final repair and the fence drainage route remain unknown pending a dry-ground inspection."
+  - "Whether Leandros will take responsibility beyond his brief admission remains open for Chapter 207."
+  - "Ianthe's long-term Cabin One bed and room placement remain unresolved."

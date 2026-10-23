@@ -1,6 +1,6 @@
 # Chapter 119 editorial screening: Sisters' Errand
 
-**Source:** [Chapter 119](../../chapters/119-sisters-errand.md), git blob `fa957e50b045bfc6b4959acc64609ee9412b2f3c`. **Approximate body words:** 4,790. **Status:** Screening only; manuscript unchanged.
+**Historical source:** [Chapter 119](../../chapters/119-sisters-errand.md), pre-expansion git blob `fa957e50b045bfc6b4959acc64609ee9412b2f3c` at 4,790 body words. **Current body words:** 10,179 by the repository counter. The screening below predates the expansion and is not a full review of the current chapter; broader literary signoff remains open.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 

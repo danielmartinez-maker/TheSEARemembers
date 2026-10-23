@@ -2,6 +2,8 @@
 
 **Source:** [Chapter 103](../../chapters/103-the-things-we-remember.md), git blob `fa29c00d1ea67d7d7aec120b8b313137a339d4b1`. **Approximate body words:** 1,520. **Status:** Screening only; manuscript unchanged.
 
+**Current version note (2026-10-17):** The screening below predates the expanded source and is retained as historical review context. The current Chapter 103 contains 10,218 body words by `scripts/audit_chapter_length.py` and passes the 10,000-word gate. The approximate count and any structural-seam/length findings below are superseded; other prompts are not a current full-chapter re-audit.
+
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
 ## Chapter-specific focus

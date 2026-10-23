@@ -128,7 +128,7 @@ They did the list in order, and Annabeth did the checking, and Percy did the row
 
 "Canoe launch," Annabeth said, at the fifth, and the canoe launch was fine.
 
-The fallen birch was fine. The rocks at the steep bank were fine. The willow cove came up at the end — a green half-mile of shade where the trees dipped over the water and the lake went suddenly from sun-warm to cold-shadow cold — and Annabeth checked the mooring stakes and the floating fence section and the new crack in the ramp, and wrote everything down, and Percy watched the little pencil move and the light flicker on her wrist as she wrote, and Thalia said, from the bow of the other skiff, "You're not checking anything."
+The fallen birch was fine. The rocks at the steep bank were fine. The willow cove came up at the end — a green half-mile of shade where the trees dipped over the water and the lake went suddenly from sun-warm to cold-shadow cold — and Annabeth checked the mooring stakes and the floating fence section, then noted the new crack in the ramp at the closed west mooring from the skiff. She wrote everything down, and Percy watched the little pencil move and the light flicker on her wrist as she wrote, and Thalia said, from the bow of the other skiff, "You're not checking anything."
 
 "I'm resting my eyes," Percy said.
 
@@ -254,7 +254,7 @@ She turned her head, so her cheek was on his shirt instead of her forehead, so s
 
 Annabeth sat up, because the sentence deserved her full attention and NOT her sleepy weight, and took his chin in her hand, and turned him so he was looking at her over the top of his own shoulder, and she kissed him.
 
-It was not a hard kiss. It wasn't the mess-hall-doorway kind, which broke like weather. It was the willow-shade kind: slow, sun-freckled, careful, unhurried, the kind where you have all day and you know it and nobody knows what time it is, the kind where you take your time finding the angle because the angle is the point. He made a small sound and kissed her back with his hand at her jaw and the other still around her back and the lake air coming in cool off the surface past both their faces.
+It was not a hard kiss. It wasn't the dawn-dock kind, which broke open under first light and approaching footsteps. It was the willow-shade kind: slow, sun-freckled, careful, unhurried, the kind where you have all day and you know it and nobody knows what time it is, the kind where you take your time finding the angle because the angle is the point. He made a small sound and kissed her back with his hand at her jaw and the other still around her back and the lake air coming in cool off the surface past both their faces.
 
 Her hair fell forward. His thumb found her ear, felt for the small earring she wasn't wearing in this lifetime, and followed the absence of it down to her throat like it was a line he'd drawn once and could still trace. Somewhere in the willows above them a bird moved, and the shadow broke for a second, and went still.
 
@@ -640,7 +640,7 @@ The lake moved. The dock creaked. Clarisse put her hand out and found Silena's s
 
 Clarisse leaned back on her hands. "Good."
 
-Thalia, still on her back, said, "When I was a tree, I used to think about this."
+Thalia, still on her back, said, "After we talked about the tree, I started thinking about this."
 
 "About docks?" Annabeth asked.
 
@@ -684,7 +684,7 @@ Clarisse put her boots back on, which Thalia was pretty sure was the closest she
 
 She thought, in no particular order: that her sister had made a boy, and that the boy had made her sister, and that neither fact had anything to do with her, and that both facts did. That the fourth arc of her life — the one that had started with a cabin, and a war, and a theft — had somehow arranged itself around a lake. That she was older than all of this by four years and younger by none.
 
-That tomorrow there would be another lake day, and one after that, and that for a girl who had once been a tree, still being a girl on a dock was the best thing she knew how to be.
+That tomorrow there would be another lake day, and one after that, and that still being a girl on a dock was the best thing she knew how to be.
 
 ---
 
@@ -800,7 +800,7 @@ The moon came up out of the trees, not full, not new — the fat crescent that h
 
 "I'll get the paint," Annabeth said. "You get the ten minutes."
 
-He turned, and kissed her, and it was the third kind of kiss they owned — not the mess-hall one that broke like weather, and not the willow one that took its time — but the one that belonged to night water: slow, warm at the top, cool underneath, with the moon-road bright on the lake beside them and the whole day folded into it. Her hand came up and rested at the back of his neck, and his held its place at her jaw like it had been built there, and the lake kept its silence around the dock with the discretion of a good witness.
+He turned, and kissed her, and it was the third kind of kiss they owned — not the dawn-dock one, broken open by first light and approaching footsteps, and not the willow one that took its time — but the one that belonged to night water: slow, warm at the top, cool underneath, with the moon-road bright on the lake beside them and the whole day folded into it. Her hand came up and rested at the back of his neck, and his held its place at her jaw like it had been built there, and the lake kept its silence around the dock with the discretion of a good witness.
 
 They came back out of it by degrees, foreheads down, breathing the same cooled air off the surface.
 

@@ -1,28 +1,22 @@
-# Chapter 133 editorial screening: Annabeth's Birthday
+# Chapter 133 developmental review: Annabeth's Birthday
 
-**Source:** [Chapter 133](../../chapters/133-annabeth-s-birthday.md), git blob `bd297312a2befdc741e4df7a2165f17256c1ebd3`. **Approximate body words:** 4,480. **Status:** Screening only; manuscript unchanged.
+**Current source:** [Chapter 133](../../chapters/133-annabeth-s-birthday.md) on PR #103, including the current branch's pavilion-star count clarification. The earlier screen cited an older source blob and a 4,480-word draft; those figures are historical.
 
-**Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
+**Current body words:** 10,660, using the strict whitespace-token count that excludes headings, dividers, and comments. The full chapter was read with Chapter 132's ending, Chapter 134's opening and passage-entry scene, its YAML handoff, and the 131–139 continuity ledger.
 
-## Chapter-specific focus
+## Current findings
 
-Annabeth turns fourteen in this draft: lock the date/age baseline and preserve her Grace identity and lack of altered-childhood memories.
+- **Passage handoff clarified:** Jason and Annabeth discuss old service spaces visible on plans, not a corridor they have physically surveyed. The plans show no route to the lake, and physical investigation still requires maintenance staff. Chapter 134's breakfast rumor remains the trigger for their on-page investigation; the known plans show no connection between Cabins Six and Three.
+- **Prop clarity repaired:** “the remaining gifts” makes clear that the scene is continuing after Annabeth already opened the compass and Zeus's gift.
+- **Star-count clarification:** Silena counts the twenty-eight decorations Ella brought out; Ella's thirty total includes two spares, so the fourteen overhead stars and table stars are drawn from the laid-out batch.
+- **Repeated sensory phrase repaired:** the sketchbook embrace now uses the cedar/campfire/oil smell once.
+- **Developmental note:** Annabeth's frustration at being sidelined occurs during both pavilion preparation and party setup. The second beat remains useful because she chooses the needed aisle and exit arrangements and rejects a forced entrance; it changes the group's plan rather than only repeating her objection.
+- **Canon review:** no memory-boundary or family-assignment breach found. Annabeth remains fourteen, keeps her prior-life memories private from Jason, and does not treat the proposed house sketch as a binding future plan. Jason's parcel remains in transit.
 
-## Source passages for scene-level review
+## Handoff
 
-1. **Opening development:** Which present objective, social friction or physical constraint gives the activity stakes beyond established belonging? **[Line 59](../../chapters/133-annabeth-s-birthday.md#L59):** “Annabeth sat up, blanket pooling around her waist. "I want dinner with people I like, and cake. No speech about how swiftly time passes."”
+Chapter 134 begins the next morning with a rumor about a secret passage. Annabeth knows old service spaces exist and that the plans do not show a Cabin Six–to–Three route; she has not entered or physically surveyed a passage. The chapter's mechanical length gate passes, but this scoped review is not a manuscript-wide literary signoff.
 
-2. **Middle development:** Does the event change someone's knowledge, choice or behavior, or merely restate a feeling already established? **[Line 247](../../chapters/133-annabeth-s-birthday.md#L247):** “Thalia retrieved the card tucked under the lining. The script shifted from broad and formal to narrow and slanted. Aloud she read, "I was informed that presents should not oblige a daughter to defeat a monster to open them. This s…”
+## Mechanical status and limits
 
-3. **Closing handoff:** Identify what concretely persists: promise, new boundary, object, visit, recovery, project milestone or unresolved conflict. **[Line 461](../../chapters/133-annabeth-s-birthday.md#L461):** “Palm up, he offered his hand. Annabeth took it. She could remember loving him in another life, but this Percy wasn't asking her to replay the old story. He had drawn a future as a question and left room for her answer.”
-
-## Mechanical and continuity flags
-
-- **Age checkpoint:** The birthday/age progression in Chapters 133, 136 and 137 must be reconciled against the 14-year baseline from Chapter 140.
-- **Continuity names:** Jason ([L9](../../chapters/133-annabeth-s-birthday.md#L9)), Zeus ([L93](../../chapters/133-annabeth-s-birthday.md#L93)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
-
-## Canon boundaries and follow-through
-
-Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
-
-**Audit status:** Evidence-linked screening, not an implemented fix.
+The latest local full-manuscript run passes the 10,001-word floor for 193/193 chapters, checks 1,942,560 chapter-only 300-word windows with zero exact matches, and checks 2,093,112 chapter-plus-bonus windows with zero exact matches. Chapter 133's local body count is 10,660. Independent literary signoff remains pending.

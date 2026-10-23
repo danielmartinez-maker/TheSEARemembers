@@ -1,0 +1,71 @@
+chapter: 120
+title: "A Letter from the Sea"
+source: "chapters/120-a-letter-from-the-sea.md"
+status: "expanded to 10,003 body words; semantic style signoff pending"
+chronology:
+  - "Follows Chapter 119; exact elapsed time, calendar date, and season are unknown. The chapter moves through daylight into evening."
+  - "Percy, Clarisse, and Silena collect apples from the orchard, receive Amphitrite's letter at the shore, then deliver the apples to the kitchen before dinner."
+pov: "Percy Jackson, third-person limited throughout"
+scene_locations:
+  - "Camp orchard path and shoreline"
+  - "Cabin Three"
+  - "Cabin Three worktable and shelf"
+  - "Big House pantry, by Chiron's delivery of a basket"
+  - "Camp kitchen doorway"
+participants:
+  - "Percy"
+  - "Clarisse"
+  - "Silena"
+  - "Annabeth"
+  - "Thalia"
+  - "Chiron"
+  - "Unnamed camp kitchen cook"
+letter_and_knowledge:
+  - "A green glass bottle with Amphitrite's shell seal reaches Percy, Clarisse, and Silena at the shore. Percy opens and reads the letter aloud; each sibling reads or hears the message. Annabeth and Thalia later read it too."
+  - "Amphitrite's letter is addressed to Percy, Clarisse, and Silena, personally welcomes Clarisse and Silena, and says there is no date or hurry. It offers chosen camp friends without fixing a guest list."
+  - "Clarisse says she wants to know what she is walking into and retains her right to decide how much she tells Amphitrite. Her tide-clock story is her own current-timeline account; Percy hears the fuller account from her here as new information and does not claim to remember it firsthand. Amphitrite's letter says Chiron sent Clarisse's questions but does not establish whether or how she knows about the clock incident."
+  - "Percy and Clarisse and Silena do not send a reply. Percy's earlier acknowledgment draft remains with the first invitation in the Big House; Chiron confirms nothing has been sent."
+  - "Percy does not disclose his erased-future memories or inability to recall his altered childhood. Amphitrite remains unaware of both."
+map_and_gift:
+  - "The portrait map begun in Chapter 118 is continued as a water-resistant copy. Its camp landmarks remain pictorial rather than navigational; the original stays separate, and the name/signature corner remains blank."
+  - "The gift basket includes camp strawberry jam, the water-resistant map copy, Cabin One blue cloth lining, Clarisse's leather cord, and an unsigned card with no date. Silena's painted shell and cloth sleeve are kept beside the basket so the paint can finish drying; the shell is not yet packed."
+  - "The card reads, 'From our camp to yours. We look forward to visiting you in Atlantis. When we're ready to come.' It remains unsigned and undated."
+  - "A diagnostic lift shows the jar shifting against the map. After adding a cloth ring at the jar's base, the group carries the basket once more to check the repair; the handle stays straight and the jar no longer knocks the map. The painted shell is kept beside the basket to dry. The basket is stored on a Cabin Three shelf with the letter visible beneath its lining."
+  - "The orchard apples are delivered once to the camp kitchen. Bruised fruit is marked for first use and firm fruit for breakfast; the empty wicker basket remains by the kitchen entrance."
+travel_and_relationship_state:
+  - "No date, route, weapons policy, transport plan, or traveler list is settled. The gift is preparation, not a departure."
+  - "Clarisse writes an unsent question about palace expectations for carrying and storing weapons and who would explain them before a possible visit. She keeps the note; no answer is received and no travel choice follows."
+  - "Annabeth says she still wants to visit and speaks honestly about possibly feeling like an outsider. Percy listens without promising that she will not feel that way and maintains their established, age-appropriate relationship."
+  - "Thalia says she might want to go but has not checked camp coverage and is not on the traveler list. She will compare actual dates to camp needs if dates are later proposed."
+  - "Clarisse remains cautious and interested; Silena is eager. Neither is recorded as having agreed to a date."
+items_promises_injuries:
+  - item_or_event: "Amphitrite's written letter"
+    owner_or_people: ["Percy", "Clarisse", "Silena"]
+    current_status: "kept in Cabin Three, visible under the basket lining; no reply sent"
+  - item_or_event: "Portrait camp map from Chapter 118"
+    owner_or_people: ["Percy", "Annabeth", "Clarisse", "Silena"]
+    current_status: "original retained separately; water-resistant copy made; signature corner blank"
+  - item_or_event: "Camp-to-Atlantis gift basket"
+    owner_or_people: ["Percy", "Annabeth", "Clarisse", "Silena", "Thalia"]
+    current_status: "stored in Cabin Three; card unsigned; no travel date"
+  - item_or_event: "Percy's acknowledgment draft"
+    owner_or_people: ["Percy", "Chiron"]
+    current_status: "still with the original invitation in the Big House; unsent"
+open_threads:
+  - "Who, if anyone beyond Percy, Clarisse, and Silena, will choose to travel remains undecided; Thalia's camp coverage is unresolved."
+  - "Dates, route, duration, palace security, weapons expectations, guest arrangements, and final reply remain open."
+  - "Chapter 121 develops the Cabin Three pact; no such pact has yet been made in Chapter 120."
+next_chapter:
+  chapter: 121
+  opening_checked: true
+  locator: "chapters/121-the-cabin-three-pact.md#L3-L20"
+  handoff: "Chapter 120 ends in Cabin Three in the evening with the letter and gift basket waiting and no travel answer made. Chapter 121 opens the following morning with Clarisse heading to the arena; the family check-in/space pact is still to be formed."
+qa:
+  body_words: 10004
+  previous_chapter_closing_scene_checked: true
+  next_chapter_opening_scene_checked: true
+  prior_life_memory_boundary_checked: true
+  no_trip_commitment_or_date_added: true
+  gifts_promises_and_open_threads_carried_forward: true
+  exact_300_word_cross_chapter_check: "Final local QA on 2026-10-17: zero exact matches across 1,941,481 chapter-only windows and 2,092,033 bonus-inclusive windows in 196 files."
+  independent_scene_semantic_and_style_review: "pending"

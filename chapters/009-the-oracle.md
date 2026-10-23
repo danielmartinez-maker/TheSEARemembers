@@ -10,7 +10,7 @@ The morning after their second visit to the attic, Percy tried to repair a pract
 
 "Because I thought it might appreciate the change."
 
-Clarisse crossed the room and put down the stack of bucklers she'd been carrying. Percy had volunteered for an hour of equipment repair after the storm. It was supposed to give him a task he could finish with his hands, which had seemed appealing when the alternative was another argument with Annabeth about the Oracle. Instead he'd spent fifteen minutes threading a needle through the wrong side of a leather backing.
+Clarisse crossed the room and put down the stack of bucklers she'd been carrying. Percy had volunteered for equipment repair after the storm, in part because he owed the camp work and in part because a shield offered a problem with an obvious answer. That answer had once been simple: the leather either held or it didn't. Now he found himself watching Clarisse for signs that she had discovered the previous night's trip to the attic. He had already learned she noticed missing tools, late returns, and people who looked at her instead of their work. Instead he'd spent fifteen minutes threading a needle through the wrong side of a leather backing.
 
 "Let me see," Clarisse said.
 
@@ -46,7 +46,7 @@ Percy thought about the note in his jacket, still sealed and addressed to Chiron
 
 He could almost hear her thinking of an argument she didn't quite know how to make. Clarisse was good at taking responsibility for a room full of campers who were about to do something stupid. She was less practiced at admitting she cared about the stupid one.
 
-"Annabeth isn't the only person who'll go looking for you if something happens," she added.
+"Annabeth isn't the only person who'll go looking for you if something happens," she added. "Silena'll want the last place you were seen, and I'll be stuck explaining to Chiron why nobody told us before it got dangerous. You can decide what to say about your investigation. You don't get to decide we wouldn't care."
 
 Percy looked up. His sister was studying the torn strap as though she hadn't said anything unusual.
 
@@ -282,33 +282,27 @@ Annabeth smiled because the story was funny. It was also her sister's, not hers.
 
 Thalia shook her head, amused. Then she looked at Annabeth more carefully.
 
-"You don't remember any of that, do you?"
+"Do you remember any of that?" Thalia asked.
 
-The humor stayed in the room for a moment before it thinned.
+The humor lingered for a moment before thinning. "No," Annabeth said. "I wish I did."
 
-"No," Annabeth said. "I wish I did."
-
-Thalia turned the cord over. She had known the answer before asking. Annabeth could see that.
-
-"I keep bringing up things you don't remember," Thalia said. "I tell myself if I find the right story you'll laugh the way you used to, and it'll feel normal."
+Thalia turned the cord over. She had known the answer before asking; Annabeth could see that. "I keep bringing up things you don't remember," Thalia said. "I tell myself that if I find the right story, you'll laugh the way you used to, and it'll feel normal."
 
 "I laughed just now."
 
-"You laughed because it was funny. That's not the same thing."
+"Because it was funny. That's not the same thing."
 
-Annabeth put her pencil down. She had a dozen possible responses, most of them technically true and none useful. She could tell Thalia about Luke finding her in the woods with a knife and a stolen jacket, and how that Thalia had given her a place to belong. Her sister might recognize some part of it, or she might be frightened by a story that didn't match any year of the life she'd lived.
-
-"I can't give you your memories back from my side," Annabeth said at last. "I know you were there. I know those things happened to you. I just can't pretend they happened to me the way you remember."
+Annabeth set down her pencil. She had a dozen possible responses, most technically true and none useful. She could tell Thalia about Luke finding her in the woods with a knife and a stolen jacket; her sister might recognize some part of it or be frightened by a story that didn't match any year of the life she'd lived. "I can't give you your memories back from my side," Annabeth said at last. "I know you were there. I know those things happened to you. I just can't pretend they happened to me the way you remember."
 
 "Are you asking me to stop talking about them?"
 
-"No. I want you to keep telling me. Sometimes I can picture it afterward. Sometimes I can't. But it matters that you remember."
+"No. I want you to keep telling me. Sometimes I can picture them afterward, sometimes I can't. But it matters that you remember."
 
-Thalia stared at the cord. She was silent long enough that Annabeth considered adding something. Then her sister said, "If you want me to stop for a day, you can tell me. I'd rather know than find out afterward I've been making you miserable."
+Thalia stared at the cord for a long moment before she said, "If you want me to stop for a day, you can tell me. I'd rather know than find out afterward I've been making you miserable."
 
 "Okay."
 
-"And if you want to ask about something I know, you can ask without doing that thing where you act as though you're interviewing a witness."
+"And if you want to ask about something I know, ask me without doing that thing where you act as though you're interviewing a witness."
 
 Annabeth looked at the notebooks beside her. "That might take practice."
 
@@ -350,7 +344,7 @@ Camp lay dark, cabins shuttered, the dining pavilion cold. The surf broke faintl
 
 Before they reached the Big House, they had to cross the stretch of open ground between the cabins and the green. Someone had replaced the lantern on the path after the storm, and its light fell across a new sign announcing that the attic and the Hall were closed to all campers pending review. Beneath the notice Chiron had added the date and his signature. It would have been easier to ignore the rule if it were an old, forgotten thing nobody expected them to read.
 
-Annabeth studied the sign as though its exact wording might offer a technical exception.
+Annabeth read the restriction notice all the way to the date beneath Chiron's signature. She could identify three ways the archive transfers might still be inspected lawfully and had already been refused the most direct one. She disliked that her next thought was to treat the side window as a fourth option. Percy waited without asking whether she'd found a loophole; he knew her well enough to recognize when she was arguing with herself.
 
 "It says access is restricted," she whispered. "It doesn't say the entire house is restricted."
 
@@ -599,21 +593,21 @@ They went out through the window, down the ivy, and into the trees above the lak
 
 She nodded. "The records disagree over three years. That doesn't tell us when our childhoods changed, or whether the same person made all the changes."
 
-Percy had been trying to put one culprit behind every wrong thing they found. It had felt tidier that way. He disliked how quickly a tidy explanation could become a person to blame.
+Percy had been trying to fit one culprit behind every wrong thing they found. It felt tidier than admitting that the Oracle's silence, the disputed records, and their altered childhoods might not share a cause. He disliked how quickly a neat explanation could turn a real person into someone to blame, especially when every clue still left them guessing and none established who had changed their lives.
 
 "Who benefits?" he asked.
 
-Annabeth looked up.
+Annabeth looked up. "Thalia's alive. Silena's alive. You have a sister. I have sisters. Somebody wanted those things."
 
-"Thalia's alive. Silena's alive. You have a sister. I have sisters. Somebody wanted those things."
+"We want those things," Percy said.
 
-"We want those things."
+"That doesn't mean we did it," Annabeth replied.
 
-"That doesn't mean we did it."
+"Exactly." He scuffed his shoe against a root.
 
-"Exactly." She tucked the notebook back beneath her jacket. "A better outcome for someone isn't evidence that they caused it."
+"A better outcome for someone isn't evidence that they caused it." She tucked the notebook back beneath her jacket.
 
-He scuffed his shoe against a root. "I know."
+"I know," Percy said.
 
 "Do you?"
 
@@ -621,9 +615,9 @@ He could hear the worry beneath the challenge. He had been watching Thalia as if
 
 "I'll be careful," he said.
 
-"With her, too."
+"With her, too," Annabeth said.
 
-"With her, too."
+"With her, too," he agreed.
 
 The lake showed through the trees. They followed the path down until there was enough space to sit without having to look over their shoulders at the Big House.
 
@@ -631,7 +625,7 @@ The lake showed through the trees. They followed the path down until there was e
 
 The dock was cold through Percy's jeans. Annabeth sat beside him and leaned against his shoulder.
 
-"What if finding the truth costs us this?" she asked.
+"What if finding the truth costs us this?" she asked, looking across the freshwater lake toward the lit cabin windows. "We already know people here have lives together that we didn't share. I don't want to make a decision about them just because I can remember something they can't."
 
 He knew which parts she meant. Thalia's bunk beside hers. Clarisse's blunt concern. Silena saving him a place at breakfast. Amphitrite asking when he would come home.
 
@@ -1031,7 +1025,7 @@ Annabeth took the copy of their notes from his hand, folded the page to hide the
 He watched her head back into the Big House. Her step was quick, and she held her injured hand close to her jacket to keep it from catching on the notebook. Percy knew she hadn't forgiven the week-long restriction. She was going to comply with it anyway. For the moment, that was as much discipline as either of them could honestly claim.
 
 
-Morning found Zoe Nightshade in the library, surrounded by books and a mug gone cold. Percy had slept for three hours, and Chiron had already copied their observations and asked for Zoe's maintenance ledger. He had questioned them closely about the transcript, and Percy still wished he'd had a better answer for why they'd entered the attic after Chiron had forbidden it. Percy still wished they had a better answer prepared.
+Morning found Zoe Nightshade in the library, surrounded by books and a mug gone cold. Percy had slept for three hours. Chiron had already copied their observations and requested Zoe's maintenance ledger; after answering his questions, Percy still couldn't explain why they'd entered the attic after being forbidden. He wished they had a better answer, but the truth—that they wanted to ask the Oracle before anyone else decided what questions she could hear—wasn't much of a defense.
 
 She looked up when Percy entered.
 
@@ -1045,7 +1039,7 @@ That was an observation. He reminded himself to leave it as one.
 
 "Annabeth's bringing our notes to him," he said. "I wanted to ask you about the mark."
 
-He drew it on a scrap of paper. Zoe moved her mug away before leaning over the drawing.
+He drew it on a scrap of paper. Zoe moved her mug away before leaning over the drawing. Her library table was crowded with separate trays for confirmed work orders, unsourced diagrams, and the sealed materials Chiron had permitted her to examine. Percy noticed the labels because they were precisely the system he and Annabeth kept telling each other they needed. Zoe had been doing it before he arrived, for reasons that belonged to her rather than to his mystery.
 
 "Have you seen it?" he asked.
 

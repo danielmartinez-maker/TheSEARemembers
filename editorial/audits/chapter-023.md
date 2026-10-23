@@ -1,9 +1,13 @@
 # Chapter 023: Sally's Blue
 
-**Status:** Audit complete; manuscript chapter unchanged.  
-**Source:** [Chapter 23](../../chapters/023-sally-s-blue.md)  
-**Approximate body words:** 5,210 (historical existing chapter; not automatically under the newer 10,000-word minimum).  
+**Status:** Prior audit retained; targeted secrecy-boundary repair applied in the October 17 PR #103 continuation.
+**Source:** [Chapter 23](../../chapters/023-sally-s-blue.md)
+**Body words:** 10,005 by the repository whitespace-token method.
 **Criteria:** `FIC_CONTEXT.md`, full chapter, cross-chapter continuity and prose quality.
+
+## October 17 continuity recheck
+
+Percy's proposed letter no longer identifies the cookie activity as coming from a recipe he remembered. He plans to tell Amphitrite only that the group made blue cookies together and that Clarisse nearly burned the first batch. The letter is not shown as sent. This preserves the ordinary family update while keeping Sally's recipe source and Percy's private memory predicament undisclosed. See [Chapter 023 in the cumulative ledger](../../continuity/chapter-ledgers/001-048.md#023-sallys-blue).
 
 ## Findings
 

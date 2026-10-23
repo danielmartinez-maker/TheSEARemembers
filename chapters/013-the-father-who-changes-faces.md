@@ -1,14 +1,8 @@
 ## Chapter 13: The Father Who Changes Faces
 
-Thalia knew her father was coming before anyone told her, because the sky went still in a way that wasn't natural.
+Thalia was trying to coax a bent hinge into place on Cabin One's shutter when she noticed the sky. The canvas above the Hall's broken cornice still moved in the sea breeze, but the clouds had stopped drifting. Chiron had sent word that Zeus would be visiting at noon, and apparently their father intended the entire valley to know it before his daughters had finished breakfast.
 
-It was a Tuesday morning in late winter, still months from the summer-solstice deadline Percy had warned them about, and Camp Half-Blood was doing its best impression of normal. The strawberry fields smelled like sun-warmed sugar. The lake glittered. Somewhere down by the cabins, the Apollo kids were tuning guitars badly enough that even the dryads were wincing.
-
-And overhead, the clouds had stopped moving.
-
-Not gathered. Not stormed. Just — stopped. Like someone had pressed a thumb to the blue and held it there.
-
-Thalia stood on the porch of Cabin One with her teeth clenched and her spear leaning against the railing, and thought, *Oh. It's you.*
+Tuesday in late winter found camp busy repairing the Hall, feeding its campers and recruiting volunteers for the strawberry crews. Two Apollo children tuned badly enough to drive a dryad off the path. Thalia set down her screwdriver. Zeus's last visit had been in a television actor's face, and he'd acted as though no months had passed; she was already rehearsing the expression she'd wear when he tried it again. She checked her spear by habit, then stopped: this was lunch with her father, not a patrol. That she couldn't always tell the difference angered her more than the weather.
 
 "You're glaring at the weather again," Annabeth said from behind her, ducking under the low doorway with a book tucked under her arm and a half-finished braid slipping over her shoulder. She was twelve and barefoot and already had a smudge of charcoal on her cheek from whatever she'd been sketching that morning. "People are going to think you're challenging Ouranos to single combat."
 
@@ -50,7 +44,7 @@ Despite herself, Thalia laughed. It cracked something open in her ribs. She reac
 
 Thalia's throat went tight. Because that was the thing nobody else at camp understood. In this timeline, Thalia had raised Annabeth from the time Annabeth was four and Thalia was eight, two runaways hitching rides and sleeping under overpasses while their father's thunder rumbled far away and never quite came closer. Annabeth remembered being found on the road at seven by a Thalia who was her friend, not her sister. Thalia knew that only because Annabeth had told her. The failed ward had not given either of them the missing years back.
 
-There was one girl beside her now. Her sister. Thalia wanted to protect her without making every unfamiliar moment another test.
+Annabeth was sitting beside her, and Thalia wanted to protect her without treating every unfamiliar moment as evidence that she had lost the little sister she'd raised. Annabeth had already told her selected things about another life; hearing them wasn't the same as remembering them. Their father would use either girl's uncertainty against her if she let him, and Thalia still had to make room for Annabeth to choose her own response.
 
 Their father had been absent through most of the years Thalia remembered. His visits were brief, unpredictable, and never enough to make the years between them disappear. She didn't need another reason to be angry.
 
@@ -368,21 +362,13 @@ She thought of being seventeen, standing on a ship with a boy who chose her agai
 
 She lowered her hand.
 
-"No," Annabeth said.
-
-Every head turned.
-
-Her heart hammered so hard she was sure the glasses on the table were shaking from it and not from her father's storm. "No, I'm not — I'm not doing that this time. Thalia, don't — don't apologize. Dad —" Her voice broke. She forced it steady. "Dad, sit down. Please."
-
-Zeus stared at her. "Annabeth—"
-
-"Please," she said again, quieter. "Just — listen for once. Without a new face. Without the speech."
+"No," Annabeth said, lowering her hand. "I'm not going to smooth this over again. Thalia, don't apologize. Dad, please sit down and listen for once—without a new face or another speech."
 
 Something in her tone got through. Slowly, he sank back into his chair. Thalia remained standing for a beat longer, then sat, hard, like her knees had given out.
 
 Annabeth stayed on her feet. If she sat, she'd fold. She knew herself.
 
-"I love it when you visit," she said. Her hands twisted in her shirt hem. She made herself stop. "I do. I make lists before it. I try to get everything right. I — I pick out shirts. And then you come, and you're someone different, and you tell me I'm good because I'm *agreeable*, and it feels —" She searched for the word. Engineers liked precise words. "It feels like you're praising a trick. Like I'm a dog who learned to sit still while you throw thunder."
+"I love it when you visit," she said, her hands twisting in her shirt hem before she forced them still. "I make lists beforehand and try to get everything right, even picking out shirts. Then you arrive wearing a different face and tell me I'm good because I'm agreeable. It feels like you're praising a trick—like I'm a dog who's learned to sit still while you throw thunder."
 
 "Annabeth," Zeus said, pained. "That's not—"
 

@@ -1,23 +1,26 @@
 # Chapter 020: Cake and Lightning
 
-**Status:** Detailed editorial audit; original chapter unchanged.  
-**Source:** [Chapter 20](../../chapters/020-cake-and-lightning.md)  
-**Approximate body words:** 7,904. Legacy length is descriptive, not an automatic order to pad.  
+**Status:** Prior detailed audit refreshed against the revised source on 2026-10-17; this update reconciles continuity findings only.
+
+**Source:** [Chapter 20](../../chapters/020-cake-and-lightning.md)
+
+**Current body words:** 10,125 (strict manuscript QA).
+
 **Reference:** `FIC_CONTEXT.md` and Chapters 1–21.
 
 ## Findings
 
-### 020-1 · Moderate
+### 020-1 · Resolved in current source (2026-10-17)
 
-**Source:** [L15–25](../../chapters/020-cake-and-lightning.md#L15-L25). The text calls this a 'belated sixteenth party' while later scenes frame it as Thalia's birthday day. She was already sixteen at the opening of the story, so the actual birthday and belated celebration need a date.
+**Current evidence:** [L15–19](../../chapters/020-cake-and-lightning.md#L15-L19) says Thalia is already sixteen and the party is planned for three days later because she turned sixteen without much celebration. At [L1009](../../chapters/020-cake-and-lightning.md#L1009), Thalia jokes about cake from the actual birthday; Percy calls the party “Happy belated sixteen” at [L1019](../../chapters/020-cake-and-lightning.md#L1019).
 
-**Recommended fix:** Distinguish a delayed party for an already-passed birthday from the birthday itself; add a timeline entry.
+**Disposition:** The party is explicitly belated. The exact calendar birthday remains unknown, but the chapter does not require it to resolve this event.
 
-### 020-2 · Moderate
+### 020-2 · No confirmed parentage contradiction; terminology remains a query
 
-**Source:** [L49–73](../../chapters/020-cake-and-lightning.md#L49-L73). The narrator says Silena's leadership makes Percy understand why **Aphrodite** children are followed into battle, and Clarisse's section relies on Ares-related archetypes. The AU explicitly reassigns both to Poseidon.
+**Current evidence:** [L119](../../chapters/020-cake-and-lightning.md#L119) identifies Silena's current siblings with Cabin Three and separately names Drew as a friend from Aphrodite. [L121](../../chapters/020-cake-and-lightning.md#L121) explicitly identifies Poseidon as Clarisse's father, while also using the phrase “Ares training group.”
 
-**Recommended fix:** Keep recognizable old-life comparisons only when Percy consciously recalls them; otherwise describe present-day Poseidon children without implying their old divine parentage is still current.
+**Disposition:** The former audit overread cabin/group comparisons as parentage. The current text explicitly preserves the locked Poseidon parentage. The “Ares training group” phrase may merit a terminology check if it implies current affiliation elsewhere, but this line alone does not establish an Ares parentage claim.
 
 ### 020-3 · Moderate
 
@@ -43,6 +46,6 @@ A surprise birthday party is fully aligned with the fluff-centered premise and l
 
 ## Continuity handoff
 
-Thalia has received her belated sixteenth celebration and gifts. Record the specific objects and their makers, and the date, so subsequent chapters can refer to them accurately.
+Thalia has received her belated sixteenth celebration and gifts. The party is a few days after the actual birthday; its calendar date remains unstated. Record the specific objects and makers when later scenes refer to them.
 
-**Disposition:** Resolve causality and canon before polishing. Keep explicit author choices and documented unresolved questions separate. No prose edits in this pass.
+**Disposition:** The birthday timing is resolved in current prose. No parentage contradiction is confirmed; the Ares-group wording remains a bounded terminology query. The other findings are developmental-editing leads, not verified continuity errors. No prose edits were made in this documentation refresh.

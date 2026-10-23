@@ -1,0 +1,101 @@
+chapter: 196
+title: "What a Map Leaves Out"
+source: "chapters/196-what-a-map-leaves-out.md"
+status: "10,151 body words; arc-level review pending"
+relative_chronology:
+  - "Wednesday after Chapter 195's Tuesday; exact calendar date and year remain unknown"
+  - "Begins in Cabin One in the morning and ends after Wednesday supper"
+pov: "Annabeth Grace, third-person limited"
+location:
+  - "Cabin One"
+  - "Dining pavilion and posted camp map"
+  - "Big House"
+  - "Main paths, north-path split, and route to the boathouse"
+people_knowledge_relationships:
+  annabeth:
+    - "Re-glues the broken Cabin One stool while Percy holds the joint; she tests it once and lets the glue cure longer before regular use"
+    - "Makes a working camp map at Chiron's request; marks verified paths separately from shore ground that still needs checking"
+    - "Shows Leandros the main routes but refuses to interpret Clarisse's feelings or private family history for him"
+    - "Remains an established and affectionate partner to Percy"
+  percy:
+    - "Overexplains Clarisse's reason to Leandros before Clarisse can answer; Annabeth objects that this smooths over the offense and decides Clarisse's meaning for her"
+    - "Names the overstep and apologizes directly; he and Annabeth repair the disagreement without relationship reset"
+    - "Helps with the stool and map only in the roles Annabeth chooses"
+  leandros:
+    - "Is sixteen and a new member of the Camp Three sibling group; his longer-term placement remains unsettled"
+    - "Uses his narrow current-reading knowledge to point out the route and a current that may run against wind"
+    - "Presses to mark low ground as closed before it has been inspected, then accepts Chiron's draft/map boundary"
+    - "Asks Annabeth to explain Clarisse; she refuses. He later asks Clarisse directly whether she will walk him to the boathouse"
+    - "Accepts that Clarisse will not walk him tonight; whether she will tomorrow remains unknown"
+  clarisse:
+    - "Says she remains angry and has not decided whether to walk Leandros to the boathouse"
+    - "Does not offer trust, forgiveness, or authority"
+  silena:
+    - "Says it would matter if Leandros left but does not promise to make him stay or mediate for Clarisse"
+  chiron:
+    - "Approves the camp map as a working draft, marks the shore path for heavy-rain caution, and leaves the low ground for later checking"
+source_anchored_events:
+  - id: C196_A
+    witnesses: ["Annabeth", "Percy", "Chiron"]
+    certainty: confirmed
+    event: "Annabeth creates a corrected working camp map. Chiron approves the draft and distinguishes known paths from unverified shore ground."
+    consequence: "The map is useful but incomplete; the shore note is not a final safety ruling"
+  - id: C196_B
+    witnesses: ["Annabeth", "Percy", "Leandros"]
+    certainty: confirmed
+    event: "Percy overexplains Clarisse's reasons to Leandros; Annabeth tells him to stop. They discuss the specific overstep and repair it directly."
+    consequence: "Percy and Annabeth remain secure; Percy is not established as Leandros's family interpreter"
+  - id: C196_C
+    witnesses: ["Annabeth", "Clarisse", "Leandros", "Silena"]
+    certainty: confirmed
+    event: "Leandros asks Annabeth to explain Clarisse, and Annabeth declines. He later asks Clarisse directly to walk him to the boathouse; she says not tonight and does not commit to tomorrow."
+    consequence: "Clarisse's feelings remain hers to share; Leandros has not earned trust or a guarantee of closeness"
+  - id: C196_D
+    witnesses: ["Annabeth", "Leandros", "Chiron", "younger camper"]
+    certainty: confirmed
+    event: "A younger camper uses the posted working map to choose the checked path to the infirmary; Leandros redirects her from an unverified shore shortcut."
+    consequence: "The map serves a practical need without certifying the unknown route"
+items_promises_injuries:
+  - item_or_event: "Cabin One stool"
+    owner_or_people: ["Annabeth", "Percy"]
+    last_seen_chapter: 196
+    current_status: "joint re-glued; holds in one cautious test; allow more curing time before regular use"
+  - item_or_event: "Camp map / shore route"
+    owner_or_people: ["Annabeth", "Chiron", "Leandros"]
+    last_seen_chapter: 196
+    current_status: "working draft posted; main paths marked; low ground and heavy-rain shore access remain unverified"
+  - item_or_event: "Bent fence"
+    owner_or_people: ["Clarisse", "Percy", "Chiron"]
+    last_seen_chapter: 195
+    current_status: "temporarily braced; inspection pending"
+  - item_or_event: "Torn awning"
+    owner_or_people: ["Clarisse", "Beckendorf"]
+    last_seen_chapter: 195
+    current_status: "inspected; bracket pending weather; still torn"
+  - item_or_event: "Cabin One rail and north-step first-hard-frost recheck"
+    owner_or_people: ["Camp"]
+    last_seen_chapter: 195
+    current_status: "no update shown; both remain open"
+  - item_or_event: "Thalia's left heel"
+    owner_or_people: ["Thalia", "Chiron"]
+    last_seen_chapter: 194
+    current_status: "not revisited in Chapters 195–196; preserve the last recorded care plan and choice"
+unresolved_tensions:
+  - "Leandros's trust with Clarisse and Silena remains unresolved"
+  - "Clarisse is angry; whether she will walk Leandros tomorrow is not known"
+  - "Leandros's longer-term Camp Three placement remains unsettled"
+  - "Clarisse's and Silena's hurt about Poseidon's unequal involvement remains"
+  - "The school-marina monster remains unidentified"
+open_canon_questions:
+  - "No exact calendar date or year has been established"
+  - "Do not infer what Percy remembers of Atlantis beyond the facts he has shared"
+  - "Do not convert the map's dotted shore route into a confirmed hazard or cleared route"
+  - "Ianthe has not appeared through Chapter 196"
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true

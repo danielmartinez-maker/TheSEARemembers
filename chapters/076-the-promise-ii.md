@@ -48,11 +48,11 @@ She nudged him with her knee. "Come on. I want to show you something before dinn
 
 He stood and offered her a hand up, and she took it. His palm was warm and calloused from Riptide and oars and too many summers of holding on too tight to things that tried to pull away. She did not let go right away.
 
-They left the rope in a heap. The rope would survive.
+They left the rope where it lay for the moment; Percy secured the loose end to the cleat so nobody would trip and reminded himself to finish the assigned coils before dinner.
 
 ---
 
-The shrine was tucked into the edge of the woods north of the cabins, where the path to the Oracle's cave branched off and most campers stopped paying attention.
+The older shrine was tucked into the edge of the woods north of the cabins, where the path to the Oracle's cave branched off and most campers stopped paying attention. It was the established offering place, not the new olive-wood poem board that Clarisse had permitted Annabeth to plan earlier that spring. That board still required an inspected fence repair and final approval.
 
 It was small. Annabeth had designed it that way on purpose.
 
@@ -70,7 +70,7 @@ In front of the plaque was a flat stone for offerings. There were already things
 
 Percy crouched down to read the plaque again. He traced the English line with one finger, not touching the bronze, just hovering.
 
-"When did you do this?" he asked quietly.
+"When did you finish the plaque?" he asked quietly.
 
 "The walls took most of last July," Annabeth said. She stood behind him, arms wrapped around herself though it was not cold. "I asked Chiron last June. He said yes before I finished asking. Piper helped with the stone sourcing. Malcolm did the load calculations and pretended he was not emotional about it. I did the design and most of the laying. After Pennsylvania I came back to the plans. Finished the plaque, changed the offering stone. I wanted it to hold the living too."
 
@@ -80,7 +80,135 @@ Percy crouched down to read the plaque again. He traced the English line with on
 
 "It is perfect," he repeated, firmer.
 
-She smiled, but it wobbled. "I kept thinking about — on the quest, after the labyrinth part, when we were not sure we were in the same timeline anymore. Do you remember?"
+Then he looked at the offerings again. The tiny horse stood with its head turned toward the old bead. The worn coin was wedged against a seam in the stone. Somebody had tied a narrow green ribbon around one of the oak's low branches. Percy could not remember the ribbon from his last visit.
+
+"Who left these?" he asked.
+
+"Some of them I know. Some I don't."
+
+"Does Chiron?"
+
+"Not necessarily. We didn't want a sign-in book." Annabeth shifted the strap of the satchel against her shoulder. "People can tell Chiron if an object is important to them and they want it kept safe. Otherwise, the offerings stay until the weather takes them or somebody asks for their own thing back."
+
+Percy looked at the damp leaf around the wrapped ambrosia. "That one's going to be trouble."
+
+"I know. I'm asking the infirmary to help remove it. Someone probably meant well."
+
+"So you built a monument and now you have maintenance duties."
+
+"I built an offering place," she corrected. "The maintenance is the part nobody thinks about when they say how beautiful something will be."
+
+He smiled at the familiarity of her expression. She had spent whole afternoons arguing about drainage and load limits with the Athena cabin and the Hephaestus kids. Even in the life she remembered, when people called her a strategist, it had often meant she was the one who noticed the bridge would collapse if too many heroes rushed across it.
+
+"Is this the same place you're changing for Clarisse's poem?"
+
+"Yes, but not this part." She led him around the left wall toward a length of wooden fence bordering the path. The boards weren't rotten, but one supporting brace had been marked with a small red chalk circle. "That section is where we talked about the removable inscription. Beckendorf checked it after the arena meeting. The loose brace still needs a proper repair, and Chiron wants us to verify cart clearance before anything is mounted."
+
+She crouched and pointed to a narrow rut in the dirt. "See? That wheel track is from the infirmary cart. My first drawing would have blocked it."
+
+Percy put his foot beside the rut. The path looked broad until he imagined somebody trying to move a patient over it with a dozen other campers standing around.
+
+"Can we move the board farther down?"
+
+"We might. I asked Clarisse to approve the wording, not a position. We'll need to show her the final placement. And the little tray for anonymous stones is still only an idea. We have to check how the ground drains."
+
+"She was nervous about people guessing who the poem was for."
+
+"She had a reason." Annabeth stood and brushed grit from her jeans. "If we put somebody's private words where anybody can read them, we don't get to decide later what everybody thought they meant. That's why she gets to choose the part she wants displayed. The rest of the notebook is hers."
+
+Percy considered the folded poems he'd seen Clarisse guarding in the arena. He'd learned so much about her that afternoon, and not because he'd read the pages she kept shut.
+
+"I was proud of her," he said.
+
+"I know."
+
+"Not for the poem. Well, partly for it. I mean how she apologized to that kid and then changed his shield. I wouldn't have expected it a year ago."
+
+Annabeth looked toward the camp, where the distant forge bell had begun to ring for the end of a shift. "Neither would I. But that doesn't make her a different person. She always knew how to protect somebody. She's learning that protection can be quieter."
+
+He thought of how easily he and his sisters insulted one another when they were frightened. Clarisse would be appalled to hear him using the word *quieter* about her. She would probably call it a tactical whisper.
+
+"Are you allowed to change this wall without asking everybody who's left something here?" Percy asked.
+
+"That's what Chiron is working out with the families. Some objects are memorials to people who died. Others are for people who came back. One family might be fine with a general inscription and furious about a name carved under it. We can't assume."
+
+Percy looked back at the plaque. *For those who came back. For those who did not.* He had thought, when he first read it, that the words meant everyone. Annabeth was making him understand that *everyone* was not a group whose wishes could be guessed by the person holding the chisel.
+
+"Do you remember what Zoe said last night?" he asked.
+
+"About the radio?"
+
+"About how she wanted her father to stay her father. Even after a goddess changed what somebody else could remember."
+
+Annabeth nodded. She sat on the low wall, careful not to disturb the offerings. Percy sat beside her, facing the trees.
+
+"I kept thinking about her telling the story to Milo," he said. "He was asking whether you could make somebody safe by making them forget. And she didn't give him a neat answer."
+
+"He needed the question taken seriously."
+
+"Yeah. He was scared his brother would forget him. You know what I wanted to say? That it couldn't happen. That families remember you no matter what."
+
+"You didn't say that."
+
+"Because you and I know a pretty spectacular counterexample."
+
+Annabeth looked at him. "We know people can have memories taken or changed. We don't know who changed ours, or why. I don't want Milo thinking he's next because we have an impossible explanation for our own lives."
+
+"Neither do I." Percy dragged the tip of his sneaker through the dirt. "I hate how much I don't know."
+
+"So do I."
+
+They were quiet. A dryad crossed the path farther up and gave them a small wave. Annabeth waved back. Percy found himself wondering whether the dryad remembered someone who had passed this way in a different history. Then he stopped. The question led nowhere he could verify.
+
+"Zoe kept that broken radio dial," he said. "Not because it could bring her family back."
+
+"Because it reminded her of an ordinary night when her father helped her."
+
+Percy lifted his gaze to the plaque again. "Do you think people will use this place that way? To remember nights that weren't heroic?"
+
+"That's what I want."
+
+"Then maybe it needs a bench."
+
+"It has a bench."
+
+"Another bench?"
+
+"We're not building a stadium for grief, Seaweed Brain."
+
+He grinned, and Annabeth's mouth softened. She nudged him with her shoulder.
+
+"I was going to show you the new plaque letters," she said. "Not make you interview me about construction permits."
+
+"Too late. I have questions about drainage."
+
+"Please don't."
+
+"Is the oak structurally involved? Because I'm pretty sure a tree doesn't want load-bearing responsibilities."
+
+"Percy."
+
+"How many drachmas would it cost to install another bench?"
+
+She laughed, but her eyes were still bright. "I did miss you when you were quiet."
+
+He looked down at their hands. "You don't have to tell me the whole reason for bringing me here yet."
+
+Annabeth rubbed her thumb over the scrape on her knuckle. He could see her gathering words, the way she did before a difficult explanation.
+
+"I want you to know it isn't only about the plaque," she said.
+
+"I figured."
+
+"I kept trying to find a place where something could be remembered without trapping us in it. Where we could leave something behind and still come back the next day."
+
+Percy remembered the way her hands had shaken after Pennsylvania. He remembered his own terror of walking into a room and finding her gone. Neither of them had spoken about the memory trap as much as they should have.
+
+"You were thinking about the farmhouse," he said.
+
+Annabeth nodded. The humor left her face, not all at once but like a cloud moving between the sun and the wall.
+
+"I kept thinking about — on the quest, after the labyrinth part, when we were not sure we were in the same timeline anymore. Do you remember?"
 
 He remembered. Of course he remembered.
 
@@ -110,9 +238,191 @@ Percy had hooked his pinky through hers, bleeding and filthy and crying and laug
 
 The memory trap had shattered. They had woken up on the farmhouse floor with Grover shouting their names and Blackjack circling overhead screaming about traffic.
 
+Grover had made Percy sit on the farmhouse steps before anybody tried to fly home.
+
+"Look at me," Grover said, and Percy immediately looked past him toward Annabeth, who was crouched near the broken doorstep with both hands on the ground. "No. Look at me for a second. Can you tell me where we are?"
+
+"Pennsylvania."
+
+"Which part?"
+
+"Near a road. The house is sinking. Can we go?"
+
+"Not until I know you can stand up without falling over."
+
+Percy started to argue, then discovered the dirt beneath his sneakers was moving. It wasn't moving, he realized after a moment. His body was still expecting the floor of the false archive to split open.
+
+Grover sat beside him without demanding another answer. The farmhouse windows were shattered; the stolen bone lay wrapped in cloth inside a bronze box they'd brought from camp. Grover had recovered it while Percy and Annabeth were trapped. The satyr had heard them calling to one another, but he hadn't followed them into the visions.
+
+"Did you see us disappear?" Percy asked.
+
+"No. You were standing in the front hall. One second you were both reaching for the door, and the next you were staring at the wall and couldn't hear me." Grover rubbed his hands together. "I tried to pull you out. The thing holding the bone pushed me back. I could see you breathing. I couldn't tell whether you were awake."
+
+Percy had a memory of running for hours through an abandoned camp. Grover had been with him in the real farmhouse the entire time.
+
+"What time is it?" he asked.
+
+Grover checked the battered watch strapped above his wrist. "Late afternoon."
+
+"How long?"
+
+"Less than an hour."
+
+Percy stared. Annabeth had told him she spent three days in her own false world. His vision had felt like years compressed into a handful of moments. He could still remember the imagined ditch in New Jersey and a version of himself bleeding alone there. The false memory had the same sharpness as the years he and Annabeth had actually lived before the rewrite. That was the worst part. It was easier to fear a monster you could see than a picture in your own mind that felt true until somebody asked when it happened.
+
+"Percy?" Grover said.
+
+"I'm here."
+
+"Are you hurt?"
+
+"Not the way you think." Percy looked toward Annabeth again. "I need to go to her."
+
+Grover followed his gaze. Annabeth had risen, but she was standing motionless beside the ruined doorway. Her knife was still in her hand, pointed toward the ground. She kept opening and closing her other fist as if testing whether it belonged to her.
+
+Grover stood first. "Then go. Slowly. Don't make me carry both of you."
+
+Percy walked over and stopped at arm's length.
+
+"Wise Girl?"
+
+She turned. Her eyes found him, and for a terrible instant he saw the blank look he'd seen in the trap. Then she blinked twice, took a sharp breath, and reached out.
+
+"Percy."
+
+"Yeah."
+
+"Say something stupid."
+
+He wanted to tell her he loved her, that he was here, that she hadn't lost him. Those were the correct things. They were also the words a false world might have given her in his voice.
+
+"Grover says I have to walk slowly," Percy said. "I'm considering legal action."
+
+She laughed once. It came out broken.
+
+"That is stupid."
+
+"I'm very talented."
+
+She took his hand. Her fingers were cold and scraped. They stood looking at their joined hands longer than either probably needed.
+
+"What do you remember?" he asked.
+
+"Enough." Her jaw tightened. "I don't want to tell you here. Not with the house listening."
+
+The house wasn't listening anymore. It didn't matter. Percy nodded and walked with her to the road where Blackjack waited.
+
+On the flight home, Annabeth kept asking what the actual wind felt like. Percy described it as cold and wet and smelling faintly of the river. He couldn't tell whether she wanted the answer because she didn't trust her senses or because she needed to hear his voice. He gave the answer each time.
+
+When they arrived, Chiron took the bronze box to the Big House. He didn't ask the children to repeat their account in front of everyone. Instead he had Will examine the cuts on their hands and check whether their eyes were focusing. Grover gave his own description of the farmhouse, careful to separate what he'd seen from the parts Percy and Annabeth had only reported afterward.
+
+"Did the bone show you events that might happen?" Chiron asked them when they were alone.
+
+"It showed impossible things," Annabeth said.
+
+"Not the same question," Chiron replied.
+
+Percy looked at her. She was holding a cup of hot chocolate in both hands, though she'd hardly drunk any.
+
+"We can't verify anything it showed us," Percy said. "It felt real. That doesn't make it evidence."
+
+"Good distinction," Chiron said.
+
+Annabeth looked down at the cup. "That's why it's frightening."
+
+Chiron waited rather than telling her she was wrong to be frightened.
+
+"I knew things inside it," she continued. "I knew my way around rooms I'd never seen. I knew the names of people who might not exist. I believed all of it. When I came out, I could remember the belief. I couldn't tell where the belief had come from."
+
+"Then we will record what can be observed," Chiron said. "Grover can give me the location of the house and what he saw. You and Percy can describe the nature of the enchantment. You don't have to disclose every private image for us to remove the danger."
+
+"What happens to the bone?" Percy asked.
+
+"It will be secured until we know how to study it safely. Not passed from hand to hand because it's interesting."
+
+"And the son of Mnemosyne?"
+
+"His involvement will be investigated. We do not know whether he created the enchantment or merely used it. Do not make the mistake of treating one artifact as an explanation for every change in your lives."
+
+Percy had been about to ask whether the young man knew anything about the rewritten years. Chiron's answer stopped him. Percy and Annabeth had a mystery older than this quest. They would not solve it by declaring every creature associated with memory a suspect.
+
+That evening Chiron let them sit on the Big House porch after the others had gone to dinner. Grover left them two mugs of hot chocolate and went to check on Blackjack, who had demanded extra oats as compensation for flying over traffic.
+
+Annabeth set her untouched mug aside. "I want to write down what happened."
+
+"To give Chiron?"
+
+"For us."
+
+"Do we need a report?"
+
+"No." She shook her head. "I need to know which parts belonged to the trap. If I don't write them down, I'm afraid I'll start treating them as memories of our life."
+
+Percy took a scrap of paper from the pencil tin by the porch door. He drew two columns, because he'd seen her do it a thousand times.
+
+"Things we saw after waking," he said, writing across the left side. "Things the trap showed us, on the right."
+
+Annabeth glanced at the paper. "That doesn't cover everything."
+
+"Of course it doesn't. You're the architect. You get to make improvements."
+
+She took the pencil. Beneath the two headings she added a third: *What someone else can confirm.*
+
+Under that she wrote Grover's name, Chiron's, Blackjack's, and the farmhouse location. She did not write that the future had changed again, because they had no evidence it had.
+
+Percy sat beside her as she worked. Sometimes she stopped and stared at the paper. Once she put the pencil down and pressed her palms flat against her knees until they stopped trembling. He didn't ask her to continue until she picked it up herself.
+
+At the end they had two sheets filled with uneven notes. Annabeth folded them and put them in a plain envelope. She wrote *not evidence of another timeline* across the front.
+
+"What do we do with that?" Percy asked.
+
+"Keep it somewhere private. Read it if one of us starts treating the visions like facts."
+
+He looked at the words she'd written on the envelope. "You trust a note more than your own memory?"
+
+"About the false world? Yes. Because we made the note while we were both awake, and Grover can confirm when we came out."
+
+"That's not a bad system."
+
+She gave him a tired look. "Don't sound so surprised."
+
+Percy put his arm around her, waiting until she leaned into him. When she did, he could feel how exhausted she was.
+
+"I remembered a version of myself dying alone," he said. "In the trap."
+
+Annabeth went still.
+
+"I don't know why I told you that. I just didn't want it living in my head like a secret."
+
+She turned toward him. "I remembered a place where you never came."
+
+He closed his eyes.
+
+"That's not this place," he said.
+
+"No."
+
+They sat looking across the dark lawn. A few cabins had begun lighting their windows. Somewhere Thalia was arguing with Jason over an Iris-message; Percy could hear the rise of her voice and the abrupt laughter that followed it. This was a world with people in it, whether or not Percy had a perfect account of their pasts.
+
+Annabeth rested her forehead against his shoulder.
+
+"When you say my name," she said, "I know I can answer."
+
+"Then I'll keep saying it."
+
+"Not every five seconds."
+
+"Reasonable. Every six."
+
+"Percy."
+
+"Annabeth."
+
+She laughed into his shirt, still shaky but real.
+
 Percy remembered the way Annabeth had clung to his wrist even after they were awake, her fingers white-knuckled, as if letting go would drop her back into that empty world. He remembered the way he had kept saying her name over and over on the flight home, just to hear it land in a world where she answered. Annabeth. Annabeth. Annabeth. Each time she had squeezed his arm and said, present. Here. Still here.
 
-They had not talked about the promise since. Not properly. There had been debriefs and infirmary and patrol schedules and Annabeth's shrine revisions and Percy's canoe dock rope duty. Life at Camp filled in around trauma like water filling footprints in sand.
+They had talked about what happened, but they had not repeated the promise itself since. Not properly. There had been debriefs and infirmary and patrol schedules and Annabeth's shrine revisions and Percy's canoe dock rope duty. Life at Camp filled in around trauma like water filling footprints in sand.
 
 Chiron had asked them, gently, if the Mnemosyne boy had shown them their worst memories. Percy had shaken his head. No, he had said. He showed us worlds without each other. That is worse.
 
@@ -158,13 +468,13 @@ There was a long, terrible silence.
 
 Annabeth went bright red from neck to ears. "How long have you been — were you spying —"
 
-"We were tracking," Clarisse said, with great dignity. "There were fresh footprints off the main path. As head of security patrol, I had to investigate. For Camp safety."
+"We were on the marked patrol route," Clarisse said. "Someone reported a loose rail on the memorial approach. We weren't following you. You two stopped right where we needed to inspect."
 
 "You were following us because you are nosy," Percy said.
 
-"We were following you because you abandoned your rope duty," Thalia said. "And because you two have been making goo-goo eyes all week and Clarisse bet me five drachmas you were going to finally have a real conversation instead of flirting by insulting each other over capture the flag strategy."
+"We noticed the rope wasn't finished," Thalia said, "but came down here because Chiron wanted us to check the approach. We can leave if this is private."
 
-"I won," Clarisse said smugly.
+"I didn't make any bets," Clarisse said, then glanced at Thalia. "You owe me five drachmas from yesterday's target drill, though."
 
 "You have not won yet," Thalia said. "That was barely a conversation. That was a whole vow ceremony. I am going to cry. I hate crying. Thanks for that."
 
@@ -186,15 +496,15 @@ Annabeth nodded, eyes bright. "That is partly why I — yeah."
 
 Clarisse swallowed and looked away, blinking fast. Thalia pretended not to notice and gave Clarisse a hard elbow to the ribs, which was Thalia-speak for I love you, do not die.
 
-"So," Thalia said, louder, deliberately light again. "Pinky promise? Whatever timeline, together? That is the deal?"
+"So," Thalia said, louder, deliberately light again. "The two of you made a private promise about the lives you remember. What about the people living beside you now?"
 
 "It is private," Annabeth muttered.
 
-"It is adorable," Thalia corrected. "And you are not getting rid of us now. We witnessed it. That makes us, like, divine witnesses. By ancient law I just made up, that means we get to join."
+"It was private," Thalia acknowledged. "Sorry. We didn't mean to interrupt it. We can talk about the family part another day, if you want."
 
 Percy blinked. "You want to join our pinky promise?"
 
-"No, Seaweed Brain, I want to join your knitting circle. Yes, I want to join your pinky promise." Thalia held out her own pinky, crooked grin daring him to laugh. "Not the romantic part. Gross. The family part. Whatever timeline, we find each other. All of us. Camp or not, quest or not, on land or under the sea or whatever. We are family. We do not leave people behind in weird time houses. Deal?"
+"I'd like a family promise, if you two want one," Thalia said. She held out her own pinky without pushing it toward them. "Not your romantic promise. That's yours. But I want us to keep showing up for one another in this life, wherever we end up. Camp or not, on land or under the sea. Could we make a different one?"
 
 Clarisse hesitated. For all her armor and bluster, there was something raw in her face. "You sure you want me in your little pact? I am not — I am not good at soft stuff."
 
@@ -206,19 +516,117 @@ Clarisse hesitated. For all her armor and bluster, there was something raw in he
 
 "I will kill you."
 
-Thalia laughed and grabbed Clarisse's hand and forced her pinky up. "She is in. Say it, La Rue. Say whatever timeline."
+Thalia held out her hand without touching Clarisse's. "Your call, La Rue. Nobody gets volunteered."
 
-Clarisse scowled, but she did not pull away. "Whatever timeline," she muttered. "Together. Family. And if any of you tell the Ares campers I did something sentimental, I will deny it and shove you into the lake."
+Clarisse hesitated, but then put her hand beside Thalia's of her own accord. "Whatever happens," she muttered. "Together. Family. And if any of you tell the Ares campers I did something sentimental, I will deny it and shove you into the lake."
 
 "Noted," Annabeth said, laughing through tears she was trying not to shed. She linked her pinky with Thalia's, then Clarisse's. Percy did the same, making a tangled knot of hands in the middle.
 
-"Whatever timeline," the four of them said together, uneven and laughing. "Together."
+"Whatever happens," the four of them said together, uneven and laughing. "Together."
+
+Percy looked at the four raised hands and had the uncomfortable thought that promises were easy to make when nobody needed anything from you yet.
+
+"There's a question," he said.
+
+Clarisse lowered her hand. "There usually is when you start thinking."
+
+"What does this actually mean?"
+
+Thalia stared at him. "We just said it."
+
+"I know what we said. What happens when one of us needs something and the others are busy? What happens when you have patrol duty, or Clarisse's got fifty kids in the arena, or Annabeth has a project that can't wait? We're not going to keep the promise by pretending none of us has a life."
+
+Annabeth looked at him with a surprise he could almost feel. A younger version of Percy might have been embarrassed to have interrupted a good sentimental moment. He was embarrassed now too, but not enough to stop.
+
+"It's not a promise to be available every minute," Thalia said.
+
+"Then say that."
+
+Clarisse rubbed her hand over her face. "Are we making camp policy out of a pinky promise?"
+
+"No," Annabeth said. "We're making sure everybody agrees to the same thing."
+
+She took her notebook out of her bag, then stopped. Percy noticed how she looked at Clarisse before opening it. Clarisse had been painfully clear about not wanting her own poems treated as documents for public consumption.
+
+"You don't have to write this down," Clarisse said.
+
+"I know." Annabeth put the notebook away. "I was going to record it because I like being precise. Maybe that's not what we need."
+
+"Maybe you just need to listen," Thalia said.
+
+The words could have been cruel in someone else's voice. Thalia had said something similar to Annabeth at the play, after refusing to explain her fear of playing Zeus in front of the whole cast. Here it sounded like advice she was trying to follow herself.
+
+"All right," Annabeth said. "I am."
+
+Clarisse considered the question. "If you need help, tell somebody what kind of help you need. Don't ask me to guess. And if I can't do it, I can say so without getting called a bad sister."
+
+Percy nodded. "That's fair."
+
+"But," she continued, "if it's an emergency, I drop the stupid thing I'm doing and come. If it's not an emergency, you don't get to create one because you're impatient."
+
+Thalia raised a finger. "That part is about Percy."
+
+"Mostly," Clarisse admitted.
+
+Percy protested. "My emergencies are genuine."
+
+"Last week you called the missing strawberry jam an emergency."
+
+"It had been replaced with grape jam. There were consequences."
+
+Annabeth laughed and leaned against him, then straightened again. "I want to add something. Not everything we think we're entitled to know belongs to us. If Thalia tells me a story about our childhood, it isn't automatically something I can repeat. If Percy talks to his family, I don't need a report. If Clarisse says a poem is private, nobody gets to decide it's for the greater good to share it."
+
+Clarisse gave her a measured look. "You learned that one."
+
+"I did."
+
+Thalia glanced from one to the other. Percy wondered how much she knew about the conversation in the arena and how much Annabeth had told her afterward. Thalia didn't ask.
+
+"I want people to tell me when I mess up," Thalia said. "Preferably before I have time to build an entire plan around it."
+
+"That's ambitious," Percy replied.
+
+"I'm expanding my horizons."
+
+Clarisse shifted her spear from one hand to the other. "You can't make a promise that nobody will ever hurt anybody. People say stupid things. They get scared and say worse things. You can promise to make the next choice differently."
+
+Percy thought of Milo, who had asked not to be pressured back into the arena on his first day. Clarisse didn't know every detail of that conversation. Percy wasn't going to volunteer it without Milo's consent. He had seen her teach a younger camper differently since then, and that told him she was doing more than saying the right words.
+
+"Okay," he said. "Then that's what I mean. We come back and try to repair things."
+
+"What if a repair doesn't work?" Annabeth asked.
+
+"Then we don't pretend it did."
+
+Thalia nodded once. "And people can leave a conversation if they need to. Nobody gets chased just because the rest of us want everything fixed before dinner."
+
+Clarisse looked at her with sudden respect. "You really are getting better at this."
+
+"Careful. Compliments might kill me."
+
+They fell quiet. Percy felt the older, private promise still present between him and Annabeth, but not swallowed by this new one. The two were different. Annabeth was his girlfriend, the person who remembered the life he'd survived. Thalia was her sister, with years of firsthand history Percy and Annabeth could only learn by listening. Clarisse was his sister, with her own loyalties, fears and life outside his. A family vow could include all of them without making every kind of love identical.
+
+Annabeth spoke first.
+
+"I think that is enough of a promise," she said. "Ask what somebody needs. Be allowed to answer. Tell the truth when you can't help. Come back when you can."
+
+"Even if the answer is ugly?" Percy asked.
+
+"Especially then."
+
+Thalia held out her pinky again, but didn't ask anyone to join. The gesture was mostly for herself, Percy thought. It made the decision visible without trapping them inside it.
+
+Clarisse raised her own hand a little. "Fine. But I reserve the right to hate this later."
+
+"Granted," Annabeth said.
+
+Percy touched Annabeth's hand, then let go and looked back at the shrine. Four people had come to the same place by different paths. The words on the plaque didn't make them agree about everything. They didn't need to.
 
 "Seal it?" Thalia asked, echoing Annabeth.
 
 They pressed thumbs, all four, a messy stack. Clarisse pretended to gag. Thalia pretended to wipe a tear. Annabeth leaned her head briefly against Percy's shoulder, and he leaned his against hers, just for a second.
 
-Thalia looked down at their joined hands and shook her head, her voice dropping into something quieter, less performative. "You know, when we were little, I waited. People think I just got angry. I did, but that wasn't all. I listened for Mom coming home, for Dad keeping a promise, for Annabeth breathing in the next room. I heard her crying at night when she thought no one was listening. I heard Luke —" She stopped, jaw working. "I heard a lot of promises people made to us that they did not keep. So I do not do this lightly. If I say whatever timeline, I mean I will climb out of whatever mess we land in to get back to you idiots."
+Thalia looked down at their joined hands and shook her head, her voice dropping into something quieter, less performative. "You know, when we were little, I waited. People think I just got angry. I did, but that wasn't all. I listened for Mom coming home, for Dad keeping a promise, for Annabeth breathing in the next room. I heard her crying at night when she thought no one was listening. I heard Luke —" She stopped, jaw working. "I heard a lot of promises people made to us that they did not keep. So I do not do this lightly. If I make a family promise, I mean I will do my best to get back to you idiots when things go wrong."
 
 Percy stared at her. "Thalia —"
 
@@ -228,7 +636,7 @@ Clarisse was quiet for a long moment, turning her pinky ring around and around w
 
 "My hair is artfully chaotic," Percy protested, eyes wet.
 
-"Your hair is a bird's nest and you know it," Clarisse said, but she squeezed his pinky hard, which from her was practically a hug. "Whatever timeline, I will fight beside you. I will fight for you. Even if I am old and creaky and have to hit people with my walker."
+"Your hair is a bird's nest and you know it," Clarisse said, but she squeezed his pinky hard, which from her was practically a hug. "Whatever happens, I will fight beside you. I will fight for you. Even if I am old and creaky and have to hit people with my walker."
 
 Annabeth laughed, crying openly now. "I will build you a walker with spikes."
 
@@ -252,7 +660,7 @@ He came trotting down the path with his reed pipes in one hand and a bag of tin 
 
 "We were having a private moment," Annabeth said, but she was smiling.
 
-Ella tilted her head, eyes darting from face to face to plaque. "'For those who came back. For those who did not. We remember together,'" she recited, then flapped excitedly. "Ella remembers. Ella remembers promises. 'Whatever timeline, together.' That is a good promise. That is a promise with wings. Can Ella promise too? Ella wants to promise to remember. Even if timelines forget, Ella will remember for them."
+Ella tilted her head, eyes darting from face to face to plaque. "'For those who came back. For those who did not. We remember together,'" she recited, then flapped excitedly. "Ella remembers what you said today. 'Whatever happens, together.' That is a good promise. Can Ella make one too? Ella can remember the words she's heard, without pretending they make her remember lives that aren't hers."
 
 Percy's chest ached. Ella had once been trapped and frightened, repeating phrases from books when her own words would not come. For her to offer to remember — that was everything.
 
@@ -260,15 +668,15 @@ Percy's chest ached. Ella had once been trapped and frightened, repeating phrase
 
 Ella held out a thin, clawed wing-finger solemnly. Percy linked his pinky with it very carefully. Annabeth did the same on the other side.
 
-"Whatever timeline," Ella said clearly, "Ella will remember you. Even if the books burn. Ella will tell the story."
+"Whatever happens," Ella said clearly, "Ella will remember this day. Ella can tell the story she heard, not claim a life she has not lived."
 
-Grover dropped his recycling bag and wiped his eyes on his sleeve. "Okay, now I am crying. Great. Thanks. My empathy is maxed out." He stepped forward and added his own pinky to the pile. "Me too. Whatever timeline, I will find you guys. I will eat tin cans on every version of Earth if I have to. You are my herd. Satyrs do not abandon their herd. Even — even if Pan is gone and the wild is fading and all that. You are my wild."
+Grover dropped his recycling bag and wiped his eyes on his sleeve. "Okay, now I am crying. Great. Thanks. My empathy is maxed out." He stepped forward and added his own pinky to the pile. "Me too. Whatever happens here, I'll look for you. I'll eat tin cans on every road home if I have to. You are my herd. Satyrs do not abandon their herd. Even when the wild is fading, you are part of the place I protect."
 
 "Grover," Percy said thickly. "Dude."
 
 "Do not dude me, I am having a moment."
 
-They resealed it, six pinkies now, human and harpy and satyr, laughing and crying. Ella flapped and recited the promise back word-perfect, which made everyone laugh harder.
+They repeated the new family promise with Grover and Ella beside them, no longer touching everyone's hands at once, laughing and crying. Ella flapped and recited the promise back word-perfect, which made everyone laugh harder.
 
 It was then that Silena arrived, her footsteps soft on the path and a pink shell cupped in one hand.
 
@@ -290,13 +698,13 @@ Grover whispered, "Oh."
 
 Ella cooed softly and bowed her head. "Pretty girl with kind eyes. 'Love is bravery too.' Ella remembers she said that yesterday."
 
-Annabeth knelt in front of the stone, tears finally spilling over. "We lost someone like you. In the life Percy and I remember. We haven't forgotten her."
+Annabeth knelt in front of the stone, tears finally spilling over. "There was someone we lost in the life Percy and I remember. We've told you a little about her before, but that doesn't make her your memory. I'm not asking you to be her."
 
 Silena knelt beside her. She did not pretend to remember. The wind moved through the oak leaves, and a rose-pink petal from the flowers she carried drifted down onto the plaque, right over the word TOGETHER.
 
 "You can tell me," she said, touching Annabeth's shoulder. Percy did not know how to fit a whole war into an afternoon. He told her enough: a friend who had been frightened, made mistakes, and still gone out to save people. Annabeth filled the gaps when his voice failed. Clarisse listened, then sank beside them and touched the shell with one fingertip, gentle as she had never been in battle.
 
-"Hey, Silena," Clarisse whispered, voice breaking. "I don't know that life. I know you. Whatever timeline, okay? Whatever timeline, I want to be a better sister. I promise."
+"Hey, Silena," Clarisse whispered, voice breaking. "I don't know that life. I know you. Whatever happens, okay? I want to be a better sister. I promise."
 
 Thalia knelt too, and Percy, and Grover, and Ella folded her wings. Seven of them around a small stone shrine under an oak, heads bowed, Silena's hand warm in Clarisse's.
 
@@ -317,6 +725,142 @@ Clarisse was crying openly now, not bothering to hide it. Silena put an arm arou
 "Shut up, Thalia," Annabeth said fondly.
 
 "Never."
+
+Silena stayed kneeling beside Clarisse after the others had stood. She had one hand resting on the small pink shell, and Percy could see that she was thinking about more than the words Annabeth had just spoken.
+
+"Can I ask something?" Silena said.
+
+Percy nodded. "Yeah."
+
+"Is that what happens every time you look at me? You see somebody who died?"
+
+The question was too fair to dodge. Percy looked at Annabeth, who was still wiping her cheeks with the edge of her sleeve. Neither of them could answer for the other.
+
+"Sometimes," he admitted. "Not every time."
+
+Silena turned the shell so its pale opening faced the plaque. "I knew there was somebody you missed. You two told us enough when you arrived that I understood there were losses. I don't know what happened to the girl in your memory. And sometimes I think I don't want to know."
+
+"You don't have to," Annabeth said at once.
+
+"I know. But then I hear you talk about her, and I feel like I should be grateful for a life I didn't live." Silena took a breath. "I want to be glad I'm alive. I also want to be allowed to have my own bad days without everybody looking terrified."
+
+Clarisse's head came up. "Have we been doing that?"
+
+"A little. Percy especially."
+
+"Hey," Percy said automatically.
+
+"Percy," Silena replied, gentle but firm. "Last week I cut my finger opening a tin and you followed me to the infirmary even after Will said it was nothing."
+
+"It was bleeding."
+
+"It was a cut. You stood outside until I was finished with the bandage."
+
+He remembered that. He'd told himself he was being useful, that he would do the same for anyone. He hadn't done the same when Sherman nicked his thumb on a practice spear the following morning.
+
+"I'm sorry," he said.
+
+Silena looked surprised by how quickly he said it.
+
+"I'm not sorry I care," he continued. "But I don't want to make your whole life about how scared I am to lose you."
+
+Clarisse set the shell down gently. "I didn't know that was happening."
+
+"Because you were in the arena," Silena said. "And I didn't tell you."
+
+"You can tell me."
+
+"I am now."
+
+Clarisse absorbed that, then glanced at Percy. "You know, Jackson, my sister can take care of herself."
+
+"Our sister," Percy corrected.
+
+Clarisse rolled her eyes, but there was affection in the motion. "Our sister. Very capable. Excellent at making me feel like a villain because I ate the last peach."
+
+"You did eat the last peach," Silena said.
+
+"I was hungry."
+
+"It was labeled."
+
+Percy felt the familiar urge to turn the conversation into a joke. He let the joke sit without adding to it. Silena was still waiting for an answer to the important part.
+
+"When I look at you," he said, "I see you. I remember you making that terrible sea-salt candy. I remember you and Clarisse getting into a fight over the cabin curtains. I remember you helping Tyson with the blue blanket. Those are things I've actually been here for. Sometimes an old memory interrupts. But that isn't your fault, and it shouldn't become your job."
+
+Silena's eyes filled again, although she was smiling now.
+
+"Good," she said. "Because I refuse to be a tragic figure every time I enter a room."
+
+"Too late," Thalia called. "You're terribly tragic about being denied second dessert."
+
+"That was one incident."
+
+"Three incidents," Clarisse said.
+
+Silena gave both of them an offended look. "I'm surrounded by hostile witnesses."
+
+They laughed. Percy was grateful for the laughter, because it belonged entirely to this camp and these people. He wouldn't have known how to reproduce it in the world he'd lost, even if he had been given the chance.
+
+Annabeth crouched beside Silena and touched the edge of the shell.
+
+"Do you want us to stop talking about the other life around you?" she asked.
+
+Silena thought about it carefully. "I don't want you to think it's forbidden. I want you to ask before telling a story that's going to make me feel like I have to answer for somebody else."
+
+"Okay."
+
+"And when we tell you stories from our childhood, don't say 'I remember' if you mean you can imagine it."
+
+Annabeth felt the words. Percy saw it in the way she looked toward Thalia, then back at Silena. They'd both done that, sometimes without noticing: borrowing a memory that had been told so vividly it felt familiar.
+
+"That's fair," Annabeth said. "We can tell the difference."
+
+"Can you always?" Thalia asked.
+
+"No," Annabeth admitted. "Which is why I need you to correct me."
+
+Thalia nodded. It wasn't an accusation. It was the beginning of a better habit.
+
+Silena rose and dusted off her jeans. She looked down at the shell once more.
+
+"I wanted to leave this for the people I've met," she said. "Not for some version of me. For the ones who stood here before we did, and the ones who'll need this place later."
+
+"Then that's what it means," Percy said.
+
+"It means what I choose," Silena corrected, smiling.
+
+He nodded. "Right."
+
+A breeze lifted the corner of the leaf-wrapped ambrosia on the offering stone. Annabeth noticed and made a small note on the back of her folded shrine plan to remind Chiron about safe removal. Percy recognized the impulse. It was an ordinary duty, a small thing that wouldn't be solved by giving a speech.
+
+"We should go," Clarisse said. "I'm on table duty."
+
+"And Percy still has rope," Annabeth added.
+
+Percy groaned. "Why does everybody remember that?"
+
+"Because unlike you," Thalia said, "some of us are excellent at keeping track of chores."
+
+"You once forgot your own patrol whistle."
+
+"It was under my pillow."
+
+"Not an improvement."
+
+Silena caught Percy's sleeve before he could turn toward the path. "One more thing."
+
+"Yeah?"
+
+"I like hearing about Sally sometimes. When you choose to tell me. I'm not asking you to stop remembering her."
+
+He felt his throat tighten. "Thanks."
+
+"I just don't want to be a memorial somebody has to keep alive," she said. "I'm standing right here."
+
+Percy looked at her properly: alive and annoyed and ready for dinner, with green eyes and a faint scar on one knuckle from a cabin project that had gone wrong last winter. He knew the story because he'd helped carry her supplies home afterward.
+
+"Yeah," he said. "You are."
 
 ---
 
@@ -376,13 +920,13 @@ Clarisse released her headlock. "If anyone tells the Ares campers I cried, I wil
 
 Grover raised his pipes. "If anyone tells Pan's grove I cried, I will — actually, they will celebrate. Crying is healthy. Let us go eat."
 
-Ella flapped ahead, singing the promise to the tune of an old prophecy, which made it sound both ominous and joyful: "'Whatever timeline, together! Beware! Be glad! Remember!'"
+Ella flapped ahead, singing the promise to the tune of an old prophecy, which made it sound both ominous and joyful: "'Whatever happens, together! Beware! Be glad! Remember!'"
 
 They walked back together down the path as the light turned gold then rose, seven silhouettes — tall and short, god-born and satyr and harpy — laughing and shoving and wiping eyes and pretending they were not holding pinkies when no one looked.
 
 Behind them, under the oak, the shrine stood quiet.
 
-The bronze plaque caught the last sun. The offerings glowed: bead and horse and arrowhead and shell and bracelet and feather and pearl and twin clay beads reflected in miniature.
+The bronze plaque caught the last sun. The offerings glowed: the old bead and horse and arrowhead, and the new shell and bracelet and feather and pearl. The two new matching clay beads were on Percy and Annabeth's necklaces, not left on the stone.
 
 A rose petal rested over the word TOGETHER and did not blow away, though the wind moved all around it.
 
@@ -390,7 +934,9 @@ For those who came back. For those who did not. We remember together.
 
 And ahead, already bickering about who got extra pizza, the ones who had promised walked on — together, in this timeline, choosing each other again, as they had before and would again, whatever came.
 
-The oak leaves whispered. The lake kept shining. Camp Half-Blood rang its dinner bell, and for once it sounded less like a summons and more like a blessing.
+After dinner Percy returned to the canoe dock with Annabeth and finished the rope coils he had left undone. He checked each cleat and carried the last bundle into storage before asking the cabin counselor to sign off his community-service task. Annabeth held the lantern; she did not do his work for him. On the way back he told her he was glad she'd brought him to the shrine, and she said she was glad he'd finished the rope.
+
+The oak leaves whispered. The lake kept shining. Camp Half-Blood rang its dinner bell earlier that evening, and for once it had sounded less like a summons and more like a blessing.
 
 Hopeful. Stubborn. Human. Home.
 

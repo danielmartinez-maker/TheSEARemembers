@@ -29,7 +29,7 @@ Outside, Camp Half-Blood was white.
 
 She stared.
 
-It wasn't supposed to snow yet. Last week had been crisp autumn, leaves everywhere, the strawberry fields still stubbornly green. Now the whole valley was dusted in soft white. The Big House roof wore a cap of it. The cabins had white outlines. The lake was gray and choppy, but the docks were frosted. Half-bloods were already spilling out of cabins in pajamas and hastily thrown-on coats, shouting, pointing, slipping on the steps.
+It wasn't supposed to snow yet. The week before, the air had been clear and crisp, and the strawberry fields were still stubbornly green. Now the whole valley was dusted in soft white. The Big House roof wore a cap of it. The cabins had white outlines. The lake was gray and choppy, but the docks were frosted. Half-bloods were already spilling out of cabins in pajamas and hastily thrown-on coats, shouting, pointing, slipping on the steps.
 
 "Thalia! Snow!"
 

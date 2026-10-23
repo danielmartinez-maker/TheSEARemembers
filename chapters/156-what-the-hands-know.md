@@ -12,7 +12,7 @@ Percy pushed the boathouse door open with his shoulder and let the smell come ou
 
 The canoe sat on sawhorses in the middle of the floor where they had left it two days ago, after the decisions had been made and written down and put where they belonged.
 
-That was the shape of the week now. Clarisse had seen the panel. Chiron had logged it in his office in his neat hand and put it in the flat drawer where the old surveys lived, where the siblings could get to it if they needed to. Thalia had left before dawn for the boundary line with a sealed note from Annabeth in her pack and four days of trail mix in a sock, which was the Thalia version of packing. Nobody was re-litigating any of it. The panel was where it was. The cove was where it was. Today was for the thing with a beginning and an end.
+That was the shape of the week now. Clarisse had seen the panel. Chiron had logged it in his office in his neat hand and put it in the flat drawer where the old surveys lived, where the siblings could get to it if they needed to. Thalia had left at three the previous afternoon for the boundary line with a sealed note from Annabeth in her pack and four days of trail mix in a sock, which was the Thalia version of packing. Nobody was re-litigating any of it. The panel was where it was. The cove was where it was. Today was for the thing with a beginning and an end.
 
 The canoe was a sixteen-foot canvas green hull they called the pickle, on account of its color and its smell in July, and Tyson loved it with the whole of his enormous heart.
 

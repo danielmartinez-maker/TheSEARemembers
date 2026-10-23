@@ -1,0 +1,164 @@
+chapter: 100
+title: "The Thousandth Campfire"
+source: "chapters/100-the-thousandth-campfire.md"
+status: "revised; 10,190 body words; local QA passed"
+chronology:
+  relative_time: "Morning through late night on the day of the thousandth recorded campfire. Exact date and year remain unknown."
+  sequence: "Cabin Three wake-up; planning and fire-stack preparation; optional art stations; feast; sourced story circle; Grover's speech; timeline scroll; dance; family scene; Percy and Annabeth at Half-Blood Hill."
+  adjacent_gaps: "Chapter 099 ends after a late-August beach gathering; its exact relation to this event is unknown. Chapter 100 ends late at night, and Chapter 101 opens at breakfast the next morning. Exact calendar date and year remain unknown."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Cabin Three"
+  - "Dining pavilion"
+  - "Amphitheater and marked fire lane"
+  - "Camp green"
+  - "Half-Blood Hill"
+participants:
+  primary: ["Percy", "Annabeth", "Thalia", "Clarisse", "Silena", "Tyson", "Grover"]
+  other: ["Ella", "Rachel", "Chiron", "Amphitrite", "Triton", "Mr. D", "Connor", "Travis", "Austin", "Kayla", "Juniper", "campers"]
+  offstage: ["Beryl", "Jason", "Poseidon", "Zeus", "Sally"]
+preceding_scene_verified:
+  chapter: 99
+  locator: "chapters/099-mothers.md, late-night beach gathering and return to Cabin Three"
+  context: "Percy has Amphitrite's blue shawl folded at the foot of his bed. Tyson has left Amphitrite's tools at the forge and remains on forge leave. Thalia keeps Beryl's opened letter; its claims are unverified. Her right palm is wrapped without clearance. The exact relation between the two campfire events is unknown."
+following_scene_verified:
+  chapter: 101
+  locator: "chapters/101-a-name-for-it.md, opening breakfast conversation"
+  context: "Percy and Annabeth remain established partners and discuss what their relationship means in their current life. Chapter 100 ends late at night; Chapter 101 opens at breakfast the next morning."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 100
+    earned_trust_or_conflict:
+      - "They remain established partners and dance together by choice."
+      - "Annabeth chooses the public caption and consents to one photograph; they decline a print unless they ask later."
+      - "Annabeth shares only that she was sick; dream and half-asleep details remain hers."
+    what_each_remembers_firsthand:
+      - "Current campfire planning, stories, dance and closing scene."
+      - "They alone retain autobiographical memories of the erased life; Percy does not disclose his Minotaur memory at the public event."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "No one else receives their autobiographical memory of the erased life."
+    new_change_this_chapter: "Their current-life partnership continues without a status or label change."
+    future_callback_required: "Do not give Amphitrite or another attendee knowledge of the time rewrite or Percy and Annabeth's old-life memories."
+  - pair: "Percy / Clarisse / Silena"
+    last_shared_scene_chapter: 100
+    earned_trust_or_conflict:
+      - "They remain Poseidon's children and Cabin Three siblings. Clarisse directs the fire crew and confirms the camp's witnessed version of Percy's arrival."
+      - "Silena tells Percy the part of her first-night blanket story she chooses, then decides not to tell it publicly."
+    what_each_remembers_firsthand:
+      - "Current planning, preparation and celebration; Clarisse remembers pointing Percy toward Cabin Three when he came from the Sound."
+    what_each_knows_secondhand:
+      - "The Hermes camper's Minotaur version is a rumor; no camp witness confirms it as Percy's arrival story."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "No family status changes or promise of a future public story is made."
+    future_callback_required: "Do not make Clarisse or Silena Ares or Aphrodite's daughter; their father is Poseidon."
+  - pair: "Thalia / Annabeth"
+    last_shared_scene_chapter: 100
+    earned_trust_or_conflict:
+      - "They remain Zeus and Beryl's biological daughters and sisters. Thalia keeps her wrapped right palm out of use."
+      - "Thalia joins Clarisse and Silena at the top steps; her right hand stays out of the hug."
+    what_each_remembers_firsthand:
+      - "Current celebration and their present family interaction."
+    what_each_knows_secondhand:
+      - "Annabeth's illness details are not repeated to the camp; she chooses what to say if asked."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "No injury clearance or change in family relationship is established."
+    future_callback_required: "Keep Thalia's right palm unresolved until a medical check is shown."
+  - pair: "Thalia / Beryl / Jason"
+    last_shared_scene_chapter: 100
+    earned_trust_or_conflict:
+      - "Beryl is absent; Thalia made no visit arrangement and keeps her letter private."
+    what_each_remembers_firsthand:
+      - "Thalia attends the campfire and does not discuss the letter."
+    what_each_knows_secondhand:
+      - "Jason receives no new message. Beryl's location and sobriety remain reported claims from her letter, not independently verified facts."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "No reply, visit, or reconciliation is established."
+    future_callback_required: "Do not say Beryl came to the campfire or that Jason read the letter."
+  - pair: "Percy / Amphitrite"
+    last_shared_scene_chapter: 100
+    earned_trust_or_conflict:
+      - "Amphitrite attends a brief surface visit, sees Percy at the celebration and watches the dance."
+    what_each_remembers_firsthand:
+      - "Amphitrite witnesses the present camp event; Percy knows her current-family care from this timeline."
+    what_each_knows_secondhand:
+      - "Amphitrite hears Percy say no one at this camp witnessed the Minotaur story and hears the current-arrival details from Clarisse."
+    private_facts_not_known_to_other:
+      - "Amphitrite is not told about the erased timeline, Percy's autobiographical memory or his altered-childhood memory gap."
+    new_change_this_chapter: "No new gift, secret disclosure or family status change."
+    future_callback_required: "Keep Amphitrite unaware of Percy's memory predicament."
+  - pair: "Tyson / Ella"
+    last_shared_scene_chapter: 100
+    earned_trust_or_conflict:
+      - "Tyson helps with the fire stack while on forge leave and is later seen asleep beside Ella at the fire."
+    what_each_remembers_firsthand:
+      - "Current event only."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "The hinge and birdhouse remain unfinished; the chapter does not show Tyson returning to Cabin Three."
+    future_callback_required: "Do not infer the forge tools were brought to the fire or that the hinge was completed."
+items_promises_injuries:
+  - item_or_event: "Thalia's right palm"
+    owner_or_people: ["Thalia", "Will"]
+    last_seen_chapter: 100
+    current_status: "Still wrapped; Thalia uses her left hand. No medical check, healing result or clearance is shown."
+  - item_or_event: "Amphitrite's gift tools / Tyson's hinge and birdhouse"
+    owner_or_people: ["Tyson", "Amphitrite"]
+    last_seen_chapter: 100
+    current_status: "Tools remain last known at the forge. No new hinge or birdhouse progress occurs."
+  - item_or_event: "Triton's calling conch"
+    owner_or_people: ["Triton"]
+    last_seen_chapter: 99
+    current_status: "Not used or relocated on-page in Chapter 100."
+  - item_or_event: "Triton's dance photograph"
+    owner_or_people: ["Percy", "Annabeth", "Triton"]
+    last_seen_chapter: 100
+    current_status: "One photograph is taken after Annabeth nods. No print is requested and no distribution is shown."
+  - item_or_event: "Timeline scroll"
+    owner_or_people: ["Ella", "Rachel", "camp"]
+    last_seen_chapter: 100
+    current_status: "Displayed during the celebration with sourced labels and blank gaps. Its storage after the event is unknown."
+  - item_or_event: "Banked campfire"
+    owner_or_people: ["Camp Half-Blood"]
+    last_seen_chapter: 100
+    current_status: "Chiron banks the coals; he says the next fire will be lit from them in the morning."
+  - item_or_event: "Percy's blue shawl"
+    owner_or_people: ["Percy"]
+    last_seen_chapter: 99
+    current_status: "Last seen folded at the foot of Percy's Cabin Three bed; not mentioned or handled in Chapter 100."
+unresolved_tensions:
+  - "Exact date/year and relation between Chapter 099's beach fire and Chapter 100's recorded thousandth fire remain unknown."
+  - "Chapter 101 opens at breakfast the morning after Chapter 100's late-night close; exact hours, date and year are unknown."
+  - "Beryl's current location, sobriety and any future visit remain unverified; Thalia has not replied."
+  - "Thalia's right palm remains uncleared."
+  - "Tyson's working hinge, birdhouse site and return from forge leave remain unresolved."
+  - "The timeline scroll's storage and the photograph's later handling are not shown."
+  - "Chapter 097's flexible dock board and closed north trail remain unresolved; Chapter 100 does not use either."
+open_canon_questions: []
+qa:
+  prior_chapter_close_checked: true
+  following_chapter_open_checked: true
+  character_memory_handoff_written: true
+  original_life_memory_boundary_checked: true
+  witnessed_vs_reported_checked: true
+  gifts_promises_injuries_carried_forward: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true
+  source_anchored_memory_checks: 36
+  chapter_only_duplicate_windows: 1941329
+  chapter_only_duplicate_matches: 0
+  all_markdown_files: 196
+  all_markdown_body_words: 2150186
+  all_markdown_duplicate_windows: 2091881
+  all_markdown_duplicate_matches: 0
+  indexed_chapters: 193
+  ordered_chapters: 193
+  length_passing_chapters: 193
+  short_chapters: 0
+  missing_body_words: 0
+  evidence_index_records: 193
+  python_compile_pass: true
+  whitespace_check_pass: true
+  hosted_actions_status: "Check the current PR head's workflow results"

@@ -6,7 +6,7 @@ Not Chiron. Chiron would never shout through a traffic cone. This was the Stoll 
 
 "HEAR YE, HEAR YE! BIG HOUSE! NINE O'CLOCK SHARP! SINGLE ELIMINATION! BRING YOUR OWN DECK OR CRY!"
 
-Percy sat straight up and smacked his forehead on the low beam above his bunk. Again. The Poseidon cabin had bunks for all three siblings and a visitor, and he still managed to injure himself on every low beam.
+Percy sat straight up and smacked his forehead on the low beam above his bunk. Again. The Poseidon cabin had bunks for all three Cabin Three siblings and a visitor, and he still managed to injure himself on every low beam.
 
 "Percy?" Tyson mumbled from the guest bunk below, one giant eye blinking open. "Is it a monster attack? Should I get a stick?"
 
@@ -34,7 +34,7 @@ Not because he was some natural prodigy. Because he remembered it, and he had be
 
 In his original life — the erased history he and Annabeth both remembered, the one where she was Athena's daughter and their camp family had different parents — Mythomagic had been this dumb little card game that nobody cool admitted to playing. He'd played it in the back of the Big House on rainy days with Beckendorf and Silena and Grover. He'd memorized every stat. Zeus 10/10 God Blast. Poseidon 9/9 Earthquake Churn. Hades 8/8 Death Touch. All the monster modifiers. The weird combo rules about terrain. He knew which common cards were secretly broken. He knew the Harpy Feather + Storm Giant combo could wipe a whole field if timed right. The point scale on these newer cards was different, but a trap was still a trap.
 
-In this life, he was twelve. He hadn't touched a deck in months. But it was all still in there, like riding a bike, if bikes were made of laminated centaurs.
+In this life, he was twelve. He had only been practicing this edition for two weeks, mostly under Annabeth's lessons, while quietly testing which old strategies still worked. The instincts were still there, like riding a bike, if bikes were made of laminated centaurs.
 
 Percy wasn't going to tell Annabeth. She remembered beating him regularly, and thought he was still hopelessly casual. She'd spent two weeks explaining this edition's "basic resource economy" while he pretended not to understand what a tribute cost was. He nodded along and said things like "so the shiny ones are better?" just to watch her eye twitch.
 
@@ -219,11 +219,11 @@ Annabeth stared. He stared back. Behind him, Tyson was indeed playing Malcolm at
 
 "Percy," Annabeth said slowly, "did you net-deck? Did Luke teach you?"
 
-"No! I swear! I just... I've played a lot. Before. You were there for some of it." He stopped. His face did something complicated. Sad, for half a second, then covered with a grin. "Maybe more stuck than you thought."
+"No, I swear. I just... I've played a lot before. You were there for some of it." He stopped, sadness flickering across his face before he covered it with a grin. "Maybe more stuck than you thought."
 
 Oh. The rainy afternoons in their old camp, when Beckendorf had been alive and Silena had still been Aphrodite's daughter. Annabeth remembered those too. She remembered beating Percy often enough to stop checking whether he was improving. If cards had been another thing he kept safe from that life...
 
-Her interrogation face softened. "Okay. I underestimated you. That was — sorry."
+Her interrogation face softened. "Okay, I underestimated you, and I'm sorry."
 
 "No, it's cool. You're scary when you're smart, you know that?"
 
@@ -878,7 +878,7 @@ Percy drew. Looked. Closed his eyes. Opened them. Grinned.
 
 "Annabeth," he said, "remember when you said I do math fast?"
 
-He played *Triton's Gamble*: roll a six-sided die, deal the roll times four hundred to the opponent, take half that damage himself. Grover stared at Percy's life counter. A gamble with three hundred life was less a strategy than a very elaborate farewell.
+He played *Triton's Gamble*: roll a six-sided die, deal the roll times four hundred to the opponent, and take half that damage himself. Percy had only three hundred life left; unless he found a way to trigger *Ocean's Mercy*, any nonzero roll would knock him out. Grover stared at the counter.
 
 "Ella!" Percy shouted. "Number!"
 
@@ -938,9 +938,7 @@ And Annabeth — Annabeth stood, came around the table, and hugged Percy while h
 
 ---
 
-Annabeth lost. By 100 life. By one top-deck. By a boy who shuffled eleven times and ran three copies of a god because "I like fish."
-
-She should have been furious. She had been Athena's daughter in their old life and was Zeus's daughter here. She strategized. She prepared. She lost to luck and heart.
+Annabeth straightened the counters before anyone took the table apart. Rebirth had returned eighteen cards and given Percy eighteen hundred life; Ocean's Mercy had kept him at 100 when Gamble's recoil should have ended the match. On the extra turn, the reshuffled deck gave him Poseidon, whose 2,800 attack beat her remaining 1,900. She wanted to win. She was also proud he'd seen the open lane, and already replaying why she had left it there.
 
 She wasn't furious. She was... fizzy. Like lightning in a bottle.
 

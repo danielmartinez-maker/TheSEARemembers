@@ -1,0 +1,34 @@
+# Chapter 090 — Storm and Sea: scoped continuation and memory handoff
+
+**Source:** `chapters/090-storm-and-sea.md` in PR #103. **Body words:** 6,822 → 10,346 (+3,524 net). Body count excludes the Markdown heading and scene dividers. Mechanical length and duplication checks do not certify prose quality.
+
+## Time, perspective, relationships
+
+- **Time:** Exact date, year, and season remain unknown. The chapter opens in the morning, follows the storm through the fourth hour, and closes after dark in Cabin Three. Do not infer an exact number of days from Chapters 089 or 091.
+- **POV:** Close third person limited to Percy throughout. Annabeth's calculations and others' feelings are reported through what Percy sees, hears, remembers, or infers; no one else gains a private interior narration.
+- **Percy and Annabeth:** They are already established romantic partners. Her map/flag command and his shore decisions remain collaborative; he supports her after the early signal without erasing the cost or treating her as infallible. Their private relationship is visible to the close family group, not newly established here.
+- **Poseidon siblings:** Percy, Clarisse, and Silena act as siblings and coordinate the freshwater runoff. Clarisse sets a no-one-decides-for-the-rest stop rule; Silena independently runs shelter counts, catches a roster mismatch, and later helps resolve it. Silena's shanty is the song she taught in cove drills (Chapter 088), not a dream or parental transmission.
+- **Zeus siblings:** Thalia, Annabeth, and Jason are siblings. Thalia's injury and use of her left hand limit this scene; the storm does not establish reliable lightning mastery. Jason is physically present and works from Half-Blood Hill. The chapter calls his stay an approved exchange visit; it does not establish dates or prove this is the same visit authorized for seven days in Chapter 021/022.
+- **Original-life memory:** Only Percy and Annabeth autobiographically remember the erased life. The reservoir account recalled here is a current-history event witnessed by Percy, Annabeth, Thalia, Clarisse, and Silena. Jason hears the briefing secondhand; it does not give him the memory. Amphitrite is absent and learns nothing about the rewrite or Percy's memory gap.
+
+## Scene and knowledge handoff
+
+- **Opening response:** Percy sees the storm gather over the Sound; Silena reports the doubled border patrol, the Big House meeting, and Thalia's static-related nosebleed. Percy is told Jason is helping ground the charge. These are reports at the opening, not Percy witnessing the earlier symptoms.
+- **Big House briefing:** Annabeth maps the outer salt surge separately from rain and creek runoff inside camp. The group recalls the reservoir response: moving water, an outlet, and timed lightning. Chiron warns the scale is larger and assigns shelter, shoreline, hill, and infirmary roles. Mr. D explicitly accepts responsibility for younger campers and the infirmary. The cause of this storm is not identified.
+- **Evacuation and signals:** Silena runs named shelter counts and asks Percy to compare the roster with Will's infirmary list. Malcolm relays a short flag code from the hill and has an explicit exit rule if visibility fails. The revised rehearsal defines red/white/yellow and strike authorization, plus Thalia's readiness signal. One early, wind-obscured call is still mishandled; Annabeth later owns the early call, and the group adds repeat-and-confirm requirements before a future strike.
+- **Water and field choices:** Freshwater runoff and the canoe lake stay distinct from the Sound's salt surge. Percy diverts runoff through the camp-side channel to the cannon; no seawater is drawn into the lake. Katie chooses to sacrifice the lowest strawberry strip so runoff stays away from cabins and paths; trays are moved, and that strip needs daylight inspection/replanting. No one enters the lake during the storm.
+- **Storm and threats:** The first channel strike is carried out through the moving current. A later misfire breaks a channel wall, knocks Silena backward, and burns Thalia's right palm. The code is corrected; Thalia switches to her left hand and waits for a full confirmation chain. The storm continues for hours. A drakon and storm spirits remain outside the border; there is no confirmed breach and no chase across it. The hill ward is reported at ninety percent, not fully restored.
+- **Aftercare and close:** The infirmary treats one unnamed camper's sprained ankle and Thalia's superficial flash burn. Percy reports tingling in both hands, pauses during the storm, and lets Will check him; no diagnosis is made. He must report a return of tingling or any grip change. Clarisse has a shin bruise; Silena's pruned fingers are not a diagnosed injury. Travis's umbrella impact is a camp joke with no established injury. The soft rescue-line anchor is marked orange for daylight inspection. The creek, lake water, outer ward, lower strawberry strip, and flag code all need follow-up. Chiron says the storm's cause remains unknown.
+
+## Neighboring scenes, props, and obligations
+
+- **Chapter 089 ending:** Percy and Annabeth leave the memorial shrine path undisturbed at night. Clarisse's removable poem board is not mounted; route clearance remains pending. Chapter 090 does not confirm that inspection or installation.
+- **Chapter 091 opening:** At 7 AM, Percy wakes to a Chiron-approved Poseidon-sibling tide-pool trip leaving at 9 AM. Its opening does not mention the storm or establish that daylight inspections occurred. On revision, explicitly account for the water/ward/anchor/field checks, or state which authorized counselors complete them before departure; do not imply they already happened here.
+- **Persistent objects/state:** The rain-damaged map carries the corrected signal rule; Malcolm uses signal cloths; the soft anchor is marked with orange cloth and remains out of service until checked. Thalia's right-palm dressing must stay dry and be checked by Will before sparring. Percy has no diagnosed hand injury. Katie's lowest strawberry strip is damaged. No new gift changes hands.
+- **Sea boundary:** The canoe lake remains freshwater and was not inspected after runoff. The Sound's saltwater stayed beyond the ward. The damaged bank, outer ward, and lake inspection are planned, not complete.
+
+## Mechanical and editorial status
+
+- Final body count: 10,346, above the 10,000-word floor.
+- Check source-anchored regression phrases, chapter order, full-manuscript body totals, and every-offset exact 300-word overlap against all chapters and bonus files.
+- **Still human review:** full prose rhythm and semantic-repetition review, independent scene-level continuity, and confirmation that Chapter 091 accounts for the pending morning work. Do not mark this as full literary signoff.

@@ -4,7 +4,7 @@ Several days after their return from the palace weekend, the second invitation f
 
 "Is it a summons?" Annabeth had a camp map pinned under a bowl of apples. The map curled despite the weight; so far the map was winning. Morning sun slanted across the pavilion table, warming the wood beneath their elbows and gilding the edges of the paper. The air smelled of cut grass and bacon from the braziers, and somewhere behind them a Naiad laughed, bright as water striking stone.
 
-"It's from Triton." Percy turned the shell over, tracing the thin blue light circling its rim. "Mother and Father would like to see us again. No court, no formal dinner, no lecture on which spoon goes with pearlfruit."
+"It's from Triton." Percy turned the shell over, tracing the thin blue light circling its rim. "Mom and Dad would like to see us again. No court, no formal dinner, no lecture on which spoon goes with pearlfruit."
 
 "That last part sounds like a promise he's made before."
 
@@ -510,19 +510,19 @@ Percy was surprised by the question. "I don't."
 
 He looked toward Clarisse, who was arguing with Triton about whether the cracked arch should have been caught at the previous inspection. Silena was taking notes on the courtyard plants. Annabeth had gone ahead with Thalia to measure a narrow step.
 
-"I wish I could remember what it was like here," Percy said.
+"I wish being here felt easier," Percy said.
 
 "I know."
 
-"Sometimes I think if I remembered it, everything would feel easier."
+"Sometimes I think if I knew how to act here without asking, everything would feel easier."
 
-"It might make some things easier," Amphitrite answered. "It would make other things more complicated. But the missing years are not a debt you owe me."
+"It might make some things easier," Amphitrite answered. "There is no performance you owe me. We can take each visit as it comes."
 
 The garden smelled faintly of warm stone and salt. Percy stood beside her, uncertain what to say. He was used to adults trying to fill his silences with reassuring conclusions.
 
 Amphitrite didn't. She waited until he spoke.
 
-"I want to come back," he said. "Not because I have to make up for those years."
+"I want to keep coming back," he said. "I don't want every visit to feel like a test I have to pass."
 
 "Then come when you want to."
 
@@ -931,7 +931,7 @@ Thalia's expression tightened. "They can."
 
 "Good."
 
-Percy took his turn saying goodbye. He hugged Amphitrite, then stepped back. He knew she missed the child she remembered raising, but the goodbye wasn't heavy with an expectation that he should stay to fill the distance.
+Percy took his turn saying goodbye. He hugged Amphitrite, then stepped back. She held him for one more breath and let him go without asking him to stay.
 
 "Will you tell me when the garden repair has passed its next inspection?" he asked.
 

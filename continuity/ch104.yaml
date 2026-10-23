@@ -1,0 +1,108 @@
+chapter: 104
+title: "A Day That Was Theirs"
+source: "chapters/104-a-day-that-was-theirs.md"
+status: "expanded; 10,117 body words; local whitespace check passed"
+chronology:
+  relative_time: "A camp-approved afternoon date at Montauk, followed by dinner at camp. Exact calendar day, date, year, and elapsed time since Chapter 103 remain unknown."
+  sequence: "Breakfast invitation and planning; Chiron approves route, safety boundaries, and return time; camp van driven by Argus; Montauk public beach, boardwalk, food stand, harbor path, and cove; return to camp; dinner."
+  adjacent_gaps: "Chapter 103's updated continuity record says the letter exchange unfolds over subsequent days and Ch. 104 opens at breakfast after that exchange. The exact calendar day and year remain unknown. Chapter 105 opens after dinner with Clarisse inviting the group to the beach; it follows the date evening but does not establish a new calendar date."
+pov: "Percy Jackson, third-person limited. Annabeth's internal state is not narrated as omniscient fact; her choices and feelings are conveyed through her dialogue and observable behavior."
+scene_locations:
+  - "Dining pavilion"
+  - "Big House study and front steps"
+  - "Camp paths and camp van"
+  - "Montauk public beach, posted conditions board, and boardwalk"
+  - "Public food shop and picnic tables"
+  - "Rocky point, public cove, and harbor lookout"
+participants:
+  primary: ["Percy", "Annabeth"]
+  other: ["Thalia", "Clarisse", "Silena", "Chiron", "Argus", "beach visitors", "shop staff"]
+  offstage: ["Amphitrite", "Triton", "Poseidon", "Zeus", "Jason"]
+preceding_scene_verified:
+  chapter: 103
+  locator: "chapters/103-the-things-we-remember.md, final Percy reflection"
+  context: "Annabeth's letter arrives before Percy writes a reply over subsequent days and gives it to her after dinner. She reads it, returns a shrine sketch at dusk, and they share a mutually agreed kiss. Thalia privately recognizes Annabeth's letter but does not read it. Percy keeps Annabeth's letter. Chapter 104 opens at breakfast after this exchange; exact calendar date, year, and day of week remain unstated."
+following_scene_verified:
+  chapter: 105
+  locator: "chapters/105-the-place-at-the-table.md, opening after-dinner scene"
+  context: "After dinner, Clarisse invites Percy, Annabeth, and Silena to the beach and brings four carved wooden figures. Chapter 104's outing ends at dinner; it does not establish that the later evening beach is the same location or activity."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 104
+    earned_trust_or_conflict:
+      - "They remain established partners. Annabeth names this as a date and Percy freely accepts."
+      - "They decide the present outing can be its own shared experience without treating remembered history as a test or obligation."
+      - "They discuss how memories of the former life and new present-day preferences can coexist; Annabeth states she loves Percy now, and Percy reciprocates without asking her to prove it repeatedly."
+      - "They mutually hold hands and kiss during the water lesson; Annabeth confirms the kiss remains welcome."
+    what_each_remembers_firsthand:
+      - "Their current Montauk outing and choices in this chapter."
+      - "Only Percy and Annabeth retain autobiographical memories of their erased future."
+    what_each_knows_secondhand:
+      - "Percy knows details of Annabeth's former Athena cabin from her account; Annabeth knows Percy misses Atlantis from her observation and his comments."
+      - "Percy distinguishes Triton's stories about his altered-life childhood from his own firsthand memories; Annabeth does not acquire those memories."
+    private_facts_not_known_to_other:
+      - "No new erased-life secrets are disclosed to Thalia, Clarisse, Silena, Chiron, or Argus."
+    new_change_this_chapter: "The established relationship gains a first Montauk date in this present timeline; both choose an ordinary afternoon together without making it a rehearsal for a remembered future."
+    future_callback_required: "Preserve the outing as a present-day shared memory. Do not treat it as their first relationship or infer a specific calendar date."
+  - pair: "Thalia / Annabeth"
+    last_shared_scene_chapter: 104
+    earned_trust_or_conflict:
+      - "Thalia expresses practical worry about the coast, weather, and return time. Annabeth acknowledges it and agrees to call if the plan changes."
+      - "Annabeth decides when to share the postcard and details of the outing; Thalia does not accompany or supervise the date."
+    what_each_remembers_firsthand:
+      - "Thalia remembers this chapter's breakfast, preparations, and Annabeth's return from the date. Annabeth remembers the same present-day interactions."
+    what_each_knows_secondhand:
+      - "Thalia hears Annabeth's description of the Montauk outing at dinner; she did not witness its events."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Thalia accepts Annabeth's independent date plan while remaining openly protective; she later asks about the outing."
+    future_callback_required: "Thalia's care remains specific and sometimes anxious; do not imply she attended the date or shared Percy/Annabeth's private conversations."
+  - pair: "Percy / Clarisse / Silena"
+    last_shared_scene_chapter: 104
+    earned_trust_or_conflict:
+      - "Clarisse gives Percy a wrapped bronze knife for the outing and asks him to return it; Percy carries it in his jacket pocket."
+      - "Silena packs sandwiches, apples, and pretzels and says Percy should thank her; Percy writes a brief thank-you note and brings it back."
+      - "Clarisse and Silena watch the couple leave and await their return; dinner plates are saved."
+    what_each_remembers_firsthand:
+      - "Their preparation, Percy and Annabeth's departure and return, and the shared dinner."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Sibling care appears through distinct practical gestures: Clarisse's blunt safety check and Silena's food and explicit thanks."
+    future_callback_required: "No one else joined the Montauk date. Return status of Clarisse's knife is not explicitly shown; do not claim it was returned or damaged."
+items_promises_injuries:
+  - item_or_event: "Montauk outing plan"
+    owner_or_people: ["Percy", "Annabeth", "Chiron", "Argus"]
+    last_seen_chapter: 104
+    current_status: "Approved afternoon visit to public areas; camp van; Argus remains with the van. Return departure time 4:30 PM and camp arrival no later than 5:30 PM. They arrive four minutes past the stated gate time due to the drive."
+  - item_or_event: "Beach and weather limits"
+    owner_or_people: ["Percy", "Annabeth", "Thalia", "Chiron"]
+    last_seen_chapter: 104
+    current_status: "They check posted conditions, stay south of the marked rip-current area and on public paths, do not enter water in rough conditions or after thunder, and leave if conditions worsen. They stop swimming before the weather shifts materially; no storm, injury, or rescue occurs."
+  - item_or_event: "Clarisse's bronze knife"
+    owner_or_people: ["Clarisse", "Percy"]
+    last_seen_chapter: 104
+    current_status: "Clarisse lends it for the date. Percy carries it wrapped in his jacket's inner pocket; no later return is shown."
+  - item_or_event: "Postcards"
+    owner_or_people: ["Percy", "Annabeth"]
+    last_seen_chapter: 104
+    current_status: "They buy harbor, lighthouse, and clam postcards. One is marked 'Montauk, with you'; Annabeth plans to give Thalia a harbor card and ask Chiron about pinning another in the cabin. Whether either happens remains unknown."
+  - item_or_event: "Sandwiches and note"
+    owner_or_people: ["Silena", "Percy", "Annabeth"]
+    last_seen_chapter: 104
+    current_status: "Silena packs sandwiches, apples, and pretzels. Percy and Annabeth eat lunch; Percy leaves Silena a handwritten thank-you note folded around a drachma in the bag."
+unresolved_tensions:
+  - "Exact date, day of week, year, season, and elapsed time after Chapter 103 are unknown."
+  - "The day's weather remains fair enough for shallow-water practice; cloud cover briefly prompts the couple to return toward the main beach. No thunder or formal weather alert occurs."
+  - "The borrowed knife's return, the postcard to Thalia, and permission to post a cabin postcard remain unshown."
+open_canon_questions: []
+qa:
+  prior_chapter_close_checked: true
+  following_chapter_open_checked: true
+  original_life_memory_boundary_checked: true
+  witnessed_vs_reported_checked: true
+  gifts_promises_injuries_carried_forward: true
+  chapter_length_pass: true
+  duplicate_scan_pass: false
+  manuscript_structure_pass: false
+  character_memory_regression_pass: false
+  whitespace_check_pass: true
+  hosted_actions_status: "Not run for this local expansion."

@@ -12,6 +12,104 @@ On the third morning of May, he sat at that basalt desk before first bell with b
 
 He dipped his pen.
 
+The first thing he wrote was *Dear Mom*, then he stopped.
+
+He had meant to write to camp. To Annabeth and his sisters and Grover, perhaps all together, because that seemed easier than choosing which person he missed most. His hand had gone to his mother before he could decide where the letter belonged.
+
+Amphitrite wasn't the mother he remembered making blue pancakes in a Manhattan kitchen. In the changed history, she was the person who raised him in Atlantis after Sally died, and she had behaved like a mother every time Percy had asked her for help since he came to camp. He had begun to call her Mom without having access to the years that made the word ordinary to everyone else.
+
+Now he was back in the palace's world, staying in a student dormitory because the May study block required it. She was only a few corridors away and he was writing as though the sea separated them.
+
+Nerit rolled over in the next bunk. "Are you arguing with your paper?"
+
+"Not yet."
+
+"You have been looking at it for a long time."
+
+"I'm thinking."
+
+"That is what people say when they are arguing with paper."
+
+Percy turned the page around. "I was going to write to Annabeth."
+
+"Then why does it say Dear Mom?"
+
+"That's the problem."
+
+Nerit considered this and sat up. "You can write two letters."
+
+Percy stared at him.
+
+"That's a remarkably annoying solution."
+
+"It's an excellent solution. You can use two sheets, and each person gets their own words."
+
+Percy laughed despite himself. He set aside the sheet with the unfinished greeting and started again. This time he wrote *Dear Camp*, then immediately crossed it out because it sounded like a letter to a building.
+
+Nerit watched with obvious fascination. "Do all surface people write like this?"
+
+"Only the very advanced ones."
+
+At breakfast Percy took the two sheets to the dining hall. Tyson was already there with a plate of kelp toast and an engineering diagram balanced against his cup. His undersea forge shift would start in an hour, and he was using the last part of the morning to work on the troublesome latch of the little box he'd left in Cabin Three.
+
+"Percy," he said. "The spare hinge at the workshop is the wrong size."
+
+"That's tragic."
+
+"It is." Tyson showed him two drawings. "This one works for a larger case. Your case is small."
+
+"Then you can fix it when you visit."
+
+"Yes. You will bring it?"
+
+"If Chiron approves the trip and you ask me in advance."
+
+Tyson grinned. He had become used to Percy insisting that plans be checked, even when the person making them was one of his favorite people.
+
+Percy put the unfinished mother letter beside his breakfast. Tyson read only the greeting because Percy held up the page and asked him what he thought.
+
+"Should I give it to her?" Percy asked.
+
+"Why wouldn't you?"
+
+"Because she's right here. We could talk."
+
+"Then talk. Letters are for things you want people to keep."
+
+Percy looked at the blank space below the two words. He hadn't thought about that. Sometimes a conversation was easier because the other person could ask questions and he didn't have to guess how his words would sound. Sometimes writing meant he could say what he actually meant without his face giving him away.
+
+"You've written to her?" Percy asked.
+
+"Yes."
+
+"What do you say?"
+
+"She asks about the forge. I tell her about the forge. Sometimes I ask whether she is lonely."
+
+Percy looked up. "Is she?"
+
+"Sometimes," Tyson said. "She says sometimes she misses all of us in the same room. She doesn't make us leave work and come home just because she misses us."
+
+Percy thought of the beach gifts she'd sent in April, each one chosen for somebody she knew. The letter he'd been meaning to write all spring was probably not going to tell her anything she didn't already suspect. He still wanted her to have it.
+
+"I'll tell her about camp," he said.
+
+"Good."
+
+"And that I like the palace, even when I don't understand everything."
+
+"Very good."
+
+Tyson returned to his drawing. Percy finished breakfast and went to the small courtyard beside the dormitory, where the current pressed softly against a glass wall. He sat down and wrote a letter to Amphitrite about arriving safely, the friends he had missed at camp, and how strange it was to sleep in a school bed when his family was just across the palace grounds.
+
+He did not disclose the erased timeline or claim to remember afternoons in the nursery wing that belonged to the childhood other people remembered for him. He wrote about last week's visit to the forge, when she had brought food after a late shift and asked whether he wanted company.
+
+At the bottom he added: *Thank you for asking rather than assuming.*
+
+He read the line twice, folded the sheet and wrote her name on the outside.
+
+Only then did he return to the second page, the one for his friends.
+
 He did not start with anything important. He started with the lamp.
 
 ---
@@ -54,6 +152,78 @@ He stared at it before he sealed the edge. A flower that meant I thought of you 
 He shouldered his satchel and ran the letter to the dispatch shells before the bell.
 
 ---
+
+At Camp Half-Blood, the correspondence had a problem before Annabeth even received Percy's first letter.
+
+The dispatch box outside the Big House had filled with letters to people who weren't currently there. Some were addressed to campers away at school, some to satyrs traveling on assignments, and two to relatives who couldn't receive magical post at all. Ella had started sorting them by destination, then discovered several envelopes had no return address or forwarding permission.
+
+Annabeth found her at the library table with the boxes open and a worried expression on her feathered face.
+
+"Too many," Ella said. "Ella knows where most people went. But knowing is not the same as being allowed to send a letter there."
+
+Annabeth sat opposite her. "Who owns the address list?"
+
+"Chiron. Some are private."
+
+"Then we don't copy them into a public forwarding ledger."
+
+Ella's head snapped up. "Yes. That is what Ella said."
+
+Annabeth smiled. "Did someone disagree?"
+
+"Travis offered to make a map with every camper's location. Said he could make the mail faster."
+
+"Of course he did."
+
+"Grover would be on it. Tyson would be on it. Children who don't want their families to know where they live would be on it."
+
+Annabeth felt the significance immediately. A map was useful only if the right person was reading it. She had nearly made the same mistake with the fort behind Cabin Thirteen, trying to build a structure for Nico without checking who would maintain it or what belongings he wanted to keep private. She had learned a similar lesson from Elena's account at the April campfire. Details had owners, even when those details seemed harmless to the person collecting them.
+
+"Can we make a system that doesn't expose where everybody is?" she asked.
+
+Ella looked at the envelopes. "Ella can give each person a private code. The public box has the code. Chiron keeps the address."
+
+"And campers can ask Chiron not to forward something if it isn't safe."
+
+"Yes."
+
+"And no one can infer where a person is from the public box."
+
+Ella considered. "Not unless they recognize the code."
+
+"Then the codes shouldn't be names or cabin numbers."
+
+Ella wrote that down.
+
+They took the proposal to Chiron after breakfast. He read it without smiling, which was how Annabeth knew he was taking it seriously. Then he asked who would check whether an address was current, who would keep returned letters and what would happen if somebody wanted their location removed.
+
+Ella had answers for the first two questions. The third required work.
+
+"If someone asks to remove a forwarding address," Chiron said, "we should stop sending mail there until they give us new instructions. This isn't merely a filing problem."
+
+Annabeth added the rule to the draft. She didn't like that it left some mail waiting. She liked even less the idea of a letter being delivered to the wrong person because somebody cared more about an efficient system than a camper's wishes.
+
+That afternoon an envelope arrived for Milo. The boy was at the stables when Chiron received it; the address on the outside had been copied from an older document. Chiron checked the sender details privately and asked Milo whether he wanted the letter delivered to his cabin or held until he could collect it.
+
+Milo chose to collect it.
+
+Annabeth knew no more than that. She didn't ask what the envelope contained or whether it came from his mortal brother. The boy had been trying to reach his family since he arrived; knowing that made the moment important, but it didn't make the letter hers to read.
+
+Ella labeled the sealed holding box with a neutral number.
+
+"See?" she said. "The system works without knowing what is inside."
+
+"Usually."
+
+"Always if everyone follows the rules."
+
+Annabeth looked at her. "People won't always."
+
+Ella considered this, then added a small space to the ledger for exceptions and mistakes. They were going to need it.
+
+The next day the dispatch box worked better. Chiron remained responsible for protected addresses. Ella tracked dates and delivery attempts, not private family information. Annabeth helped make clear labels that wouldn't tear when the damp weather reached the mail station.
+
+They were still learning when the first Atlantean tube arrived.
 
 At Camp Half-Blood, May arrived straight on.
 
@@ -365,6 +535,76 @@ Tyson framed the label. Or tried. He was very proud.
 
 ---
 
+The first lost letter was not lost at all.
+
+Percy discovered this after spending two days wondering why Silena hadn't replied to the recipe correction he sent her. Ella's ledger said the envelope had left Atlantis. The dormitory mail shell said it had been accepted. The surface receipt confirmed the transfer to Camp Half-Blood. Somewhere between one record and the next, Percy's letter had disappeared.
+
+"Maybe she got it and didn't answer," Nerit suggested.
+
+"She answers."
+
+"Sometimes people are busy."
+
+Percy made a face. He knew Nerit was right in principle. He also knew Silena liked to reply to food experiments. She'd asked Percy to tell her whether the berry powder made the honey cakes too sweet. Not answering that question was unlike her.
+
+At breakfast Tyson listened to the problem, then asked to see the receipt.
+
+"Why?"
+
+"Because one of the forge shipment tickets was marked wrong last month," Tyson explained. "The parcel arrived. The name on the receiving sheet was different."
+
+They went to the mail station together. The attendant showed them the outgoing list, where the envelope had been entered under Percy Jackson. The destination code belonged to Camp Half-Blood's general correspondence, not Silena's private forwarding channel.
+
+"So it went to the camp," Percy said.
+
+"Yes."
+
+"Then where is it?"
+
+The attendant looked at the line. "We can ask the receiver to check. We cannot open someone's mail to verify it ourselves."
+
+Percy stared at him, frustrated. The easiest answer would be to use sea magic to follow the water still clinging to the envelope. He could probably do that over a short distance. He couldn't follow the paper through the entire world without knowing exactly which water had touched it, and trying to access a private mail room with his powers wasn't a reasonable solution to an administrative problem.
+
+"Can you send a correction?" he asked.
+
+"We can send an inquiry."
+
+They did.
+
+Two days later a message came back from Chiron. The letter had been placed in a sorting box with two other unsigned recipe notes. Silena had received it only that morning and was already testing a new batch. Nothing had been destroyed. Nobody had read the contents except the intended recipient.
+
+Percy felt absurdly relieved.
+
+Nerit looked over his shoulder as he read the short message.
+
+"You thought the sea had eaten your mail."
+
+"Maybe a little."
+
+"Did you check whether the sea was hungry?"
+
+"Not funny."
+
+"It's a little funny."
+
+Percy laughed. Then he wrote the attendant a thank-you note and asked whether they could mark private mail codes more clearly on the dispatch slip. The attendant suggested adding the recipient code beside the sender's name rather than writing it only on the outer shell, where the wax could smear.
+
+They tried the change on the next collection.
+
+Percy learned something about the weeks he would spend away from camp. Not every gap in an answer meant someone was frightened, hurt or angry. Sometimes paper went into the wrong tray. Sometimes a friend was busy. The only way to know which was true was to check with the people who actually handled the information.
+
+The correction reminded him of what Grover had said by the lake before leaving. They had agreed not to treat a delayed letter as proof a person was missing. Percy had nodded solemnly and promptly forgotten the advice the first time a letter to his sister came back late.
+
+He wrote an apology to Grover in his next message.
+
+*Turns out I'm bad at my own rules*, he admitted. *I'm still practicing.*
+
+Grover's reply came several days later, forwarded through Chiron.
+
+*Me too. Yesterday I panicked because Juniper didn't answer for a whole afternoon. It turned out she was a tree and had things to do. Don't tell her I put that in a letter.*
+
+Percy read the note twice, smiling, and returned it to its envelope without passing it around the dorm.
+
 By the third week of May, letter season had its own rhythm.
 
 Percy would wake before the bell, check the dispatch shells, and run back with whatever had arrived tucked inside his jacket to keep dry. Nerit would wake to the sound of paper and roll over with a whistle.
@@ -405,6 +645,136 @@ He ended with:
 I keep your oak leaf under coral. I keep Silena's lavender beside it. I keep Thalia's postcards on the wall where I can see mountains. I keep Clarisse's logs under my pillow so her yelling seeps into dreams. I keep you in the pocket over my heart, like your flower case. Cheesy? Probably. Keeping anyway.
 
 ---
+
+The last week of classes gave Percy something he hadn't expected from Atlantis: a problem he couldn't solve by asking Annabeth.
+
+In coastal engineering, his instructor asked each student to make a model of a current barrier for an emergency shelter. The model had to withstand three changes in pressure without trapping the creatures that might swim nearby. Percy's first design was beautiful. It bent water into an arch and kept the inside perfectly still.
+
+It also stopped every little fish from leaving.
+
+"You've protected the shelter," the instructor told him. "From the sea, from motion, and from anything that might want to go home."
+
+Percy frowned at the little model, where three bright fish circled the inside of his barrier.
+
+"I can let them out."
+
+"Then show me how."
+
+He loosened the arch. Two fish swam away. The third stayed near the wall, confused by the altered current. Percy tried again. This time the pressure change washed the whole shelter sideways.
+
+Nerit watched from the next table, where he was building a much uglier barrier out of shell mesh and stone.
+
+"Your model looks like a palace," he observed.
+
+"Thank you."
+
+"Mine looks like a basket."
+
+"Also accurate."
+
+Nerit lowered his model into the test tank. The water ran through it, slowed by the mesh. None of the creatures became trapped. When the instructor increased the pressure, the structure bent and then returned to its original shape.
+
+Percy stared.
+
+"You built a basket that works better than my palace."
+
+"I built a basket because it is supposed to let water through. You're treating water like something you can order not to move."
+
+Percy looked at his hands. He had always had the ability to bend water toward him, lift it, shield someone with it. He'd begun to think of control as the same thing as care. In the life he remembered, that instinct had saved people. In this one it could also become a way to keep them from making choices he couldn't supervise.
+
+He thought of Tyson leaving on the Atlantean boat, with his own forge job and a correctly completed transfer record. He thought of Clarisse and Silena writing from camp, refusing to let him turn each message into a crisis. He thought of Annabeth choosing her own yellow ribbon because she liked it.
+
+"Okay," Percy said. "I'm starting again."
+
+The second design was less elegant. It had wider channels and a flexible membrane that released pressure through openings at the sides. The fish moved where they wanted. The shelter stayed in place for the first two pressure changes.
+
+At the third, a seam split.
+
+"Better," the instructor said.
+
+"Better? It broke."
+
+"It failed at one seam. You know where it failed. You can repair it. Your first design hid the problem until the whole system failed at once."
+
+Percy wanted to argue, but he couldn't. Nerit lent him a small tool for tightening the seam. They repaired it together. Percy tested it again, this time making sure the fish could escape before increasing the pressure.
+
+The model passed.
+
+The next group came to use the same test tank. Percy helped Nerit return the fish to the approved nursery channel, checked that no tools had been left beneath the water and cleaned the cracked pieces of his first barrier from the bottom. The instructor asked whether he wanted to keep the original model as a reminder of his mistakes. Percy considered it, then placed the broken shell frame in the recycling bin. He kept the drawing, which showed both the original design and the revised escape channels.
+
+"Does that mean you're finished with the project?" Nerit asked.
+
+"Finished with this version," Percy said.
+
+"There's another version?"
+
+"There's always another version if people start using it and find out we missed something."
+
+Nerit laughed. "Annabeth really is teaching you to sound like an architect."
+
+"Don't tell her. It'll go straight to her head."
+
+They turned in their assignments together. Percy's grade was good, though not the highest in the class; Nerit's mesh design scored better under changing pressure. Percy congratulated him without pretending he'd secretly wanted to win. He'd learned how to keep an imperfect shelter useful. It was enough.
+
+His instructor signed the assignment and asked Percy to write a reflection explaining which parts he'd changed and why. Percy had expected to be graded on power. He ended up being graded on whether he could explain his mistakes.
+
+That evening he wrote Annabeth a separate page about the experiment.
+
+*I built a perfect palace that trapped all the fish*, he told her. *Nerit built an ugly basket that saved them. Don't get smug. I already know which one you'd have picked.*
+
+He described the seam failure and drew a rough cross-section of the repaired channel. He included the instructor's actual comments, not just his own version of what happened.
+
+Annabeth replied with a full page of notes on drainage and a little drawing of a fish wearing a crown. Underneath she wrote: *You didn't have to stop being good at water. You had to let it do something you hadn't chosen.*
+
+He laughed when he read it.
+
+A few days later Amphitrite called him to a quiet terrace near the academy. She had received the letter he'd written on his first morning of the study block. Percy hadn't expected to hear about it in person, which suddenly made him nervous.
+
+She brought two mugs of warm sea-herb tea. They sat overlooking the palace gardens while a gardener trimmed growth from a stair rail below.
+
+"I liked your letter," she said.
+
+Percy looked down at the mug. "I'm glad."
+
+"You wrote about asking you before making plans."
+
+"Yeah."
+
+"I didn't always do that when you were small."
+
+Percy felt a flash of panic. She was speaking about years he didn't remember. The easiest thing would be to nod as though he could recall the argument she was about to describe.
+
+Instead he waited.
+
+"You were young," Amphitrite continued. "You didn't always have enough words to tell me what you wanted. I thought I knew. Sometimes I did. Sometimes I made your frustration worse because I kept trying to solve it before you could show me."
+
+Percy knew she was telling him her own remembered experience. He could listen without pretending it was his. There was no need to expose the secret of the rewrite to say something true.
+
+"You ask me now," he said.
+
+"More often. Not always."
+
+"Nobody's perfect."
+
+She smiled. "Not even queens."
+
+He told her about the engineering experiment, the fish and the failed seam. She listened carefully, then asked to see the drawing. Percy unfolded it and showed her the little escape channels.
+
+"Did you like the revised version better?" she asked.
+
+"It was less pretty. But it worked."
+
+"Then perhaps it was prettier in the way that mattered."
+
+Percy laughed. "Annabeth said something like that."
+
+"I'm sure she did."
+
+Amphitrite handed back the drawing. She didn't ask for the private letters he'd received from camp. She didn't demand to know exactly why he'd thanked her for asking. She simply offered another mug of tea and wanted to know how his studies were going.
+
+Percy left the terrace carrying a story he had witnessed himself: the afternoon his mother listened to him talk about a failed project and didn't try to make it easier than it had been.
+
+He wrote that one down before the next dispatch, because it was his story now.
 
 Talk of a spring thank-you feast started near the end of the study block, soft as new leaves.
 
@@ -487,6 +857,46 @@ Far above, beyond dome and sea and miles, May lay bright green over Half-Blood H
 She labeled it, neat and sure: COMING. KEEP SEAT WARM.
 
 Mrs. O'Leary sneezed on the ink. Annabeth laughed and kept drawing around the splotch, because some marks were love too.
+
+But before the final dispatch left, Percy made one more stop at the academy office.
+
+He had been carrying a note from Chiron for three days. The centaur wanted Percy to confirm the date of the late-May visit to Camp Jupiter, the contact who would meet them at the Roman gate, and the authorization for Annabeth and Thalia to travel with him. Percy had assumed somebody else would handle the details. Every morning he'd meant to ask, and every morning there had been another class or letter.
+
+The office clerk looked at the note. "You need three separate approvals."
+
+"Why three?"
+
+"You're coming from an undersea school. Your companions are coming from camp. The Romans require confirmation of the actual visitors."
+
+Percy looked at the empty boxes. He could see why he'd put off the question. A promise from a friend felt more solid than a form. But if they arrived at a gate without the right arrangements, it wouldn't be only Percy who stood waiting.
+
+He asked what each approval required. The clerk explained, and he wrote the requirements on separate slips so he could send them to the right people. He didn't enter Annabeth's name on the final passenger list without asking her whether she wanted to go; he sent her an invitation and a clear description of the plan.
+
+She replied two days later.
+
+*Yes, I want to go. I have questions for the Roman architects. I also need to check my school assignments and ask Beryl what she thinks. Don't book the journey until we know.*
+
+Thalia's reply was shorter.
+
+*Ask first, book second. I may need a patrol swap. I'll confirm.*
+
+Percy stared at the notes and realized that not having a final answer was not the same thing as losing the plan. His friends were allowed to have schedules that didn't arrange themselves around him.
+
+He sent the office a preliminary request marked *pending traveler confirmation*. Then he wrote Chiron with the current status, listing the approvals he had and the ones he still needed. Chiron answered that the visit would be confirmed only when every required person had said yes and the Roman hosts agreed to the date.
+
+Percy put the reply beside his engineering assignment. Both had taught him the same thing: an elegant plan that ignored the needs of the people inside it wasn't finished.
+
+When Nerit saw the stack of letters on his desk, he whistled.
+
+"Are all those people coming?"
+
+"Maybe."
+
+"That's not a very satisfying answer."
+
+"It's the honest one."
+
+Percy sealed the latest envelope and carried it to the post station. He had written to the people he loved without pretending they were all in the same room or that any of them could answer immediately. The letters didn't close the distance. They made the distance something he could work with.
 
 And the mail moved on, brave through storms, carrying rooms to everyone who waited.
 

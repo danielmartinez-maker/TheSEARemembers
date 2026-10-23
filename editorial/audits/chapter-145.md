@@ -26,3 +26,9 @@ A lake emergency warrants persistent injury/aftermath and changes to safety deci
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
 **Audit status:** Evidence-linked screening, not an implemented fix.
+
+## Current PR #103 repair note (2026-10-17)
+
+- **Source:** Current working-tree blob `038cd37b47e742872e8be1f48fb806a534c9eef7`; mechanical body count **14,722**.
+- **Repair:** The unsafe structure at the opening is now named as the old west mooring, explicitly separate from the rebuilt canoe dock ([L3](../../chapters/145-the-lake-keeps-what-it-takes.md#L3)). The break is marked and the landing is closed pending Chiron's support check; the group uses another launch ([L189–195](../../chapters/145-the-lake-keeps-what-it-takes.md#L189)).
+- **Handoff:** Chapter 146 checks the crack at the closed west mooring from a skiff ([L131](../../chapters/146-the-long-way-back.md#L131)). This resolves the apparent conflict with the repaired and walk-tested canoe dock in Chapter 143. The ledger preserves the distinction between the two structures.

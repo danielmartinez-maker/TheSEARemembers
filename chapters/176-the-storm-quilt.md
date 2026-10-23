@@ -474,7 +474,7 @@ Percy's handwriting leaned uphill and gave up on the ends of words. There was a 
 
 *For the back cover. Flat. Not loose.*
 
-*Wednesday. Nobody tells you this so I'm telling you. The best nights on this hill are not the big ones. The campfire, the north beach, the last warm night — those were the big ones and I'd take them again tomorrow. But last night was a Wednesday, and there was a storm, and the whole hill came and sat in our kitchen, and eleven kids slept on our floor, and you fell asleep against a wall with a quilt on your shoulders and a pencil in your hair. That's the one I'd keep if I only got to keep one. I don't know why yet. I'm working on it.*
+*Wednesday. Nobody tells you this so I'm telling you. The best nights on this hill are not the big ones. The campfire, the north beach, the last warm night — those were the big ones and I'd take them again tomorrow. But last night was a Wednesday, and there was a storm, and the whole hill came and sat in our kitchen, and the kids slept on our floor, and you fell asleep against a wall with a quilt on your shoulders and a pencil in your hair. That's the one I'd keep if I only got to keep one. I don't know why yet. I'm working on it.*
 
 *Second thing. Saturday. I know you've got the pressure numbers and the wind and the whole arithmetic. I just want to say that whatever the seep does, the day is going to be good, because you'll be up on that ridge with your sister and a rod and a book, and you've been wanting it since August, and I've watched you want things before now, and this is the first one I've seen you let yourself have.*
 

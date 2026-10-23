@@ -1,0 +1,95 @@
+chapter: 96
+title: "Training Together"
+source: "chapters/096-training-together.md"
+status: "revised; 10,144 body words; full local QA passed; hosted Actions pending"
+chronology:
+  relative_time: "At dawn after Chapter 095's lower reading, then an explicit gap of several days, one training day and the next morning. Exact calendar date/year and elapsed days remain unknown."
+  sequence: "Percy hears Silena report what Thalia said she sent to Grover; Annabeth remains ill and uncleared that morning. Several days later, she has chosen Cabin One and Will clears gentle training after the required fever-free interval; the five demigods plan and test separate water and lightning paths. The next morning Will approves one brief beacon exercise. Annabeth chooses her Cabin One bunk that night."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Cabin Three"
+  - "Big House meeting room"
+  - "Camp Half-Blood beach (saltwater)"
+  - "Half-Blood Hill and the beacon"
+  - "Poseidon-cabin porch"
+  - "Path to Cabin One"
+participants:
+  primary: ["Percy", "Annabeth", "Thalia", "Clarisse", "Silena"]
+  other: ["Chiron", "Grover", "Ella", "Will", "Rainbow the hippocampus", "one younger camper at the viewing boundary"]
+preceding_scene_verified:
+  chapter: 95
+  locator: "chapters/095-annabeth-sick.md, final night-watch and dawn scenes"
+  context: "At dawn Will records Annabeth at 99.1°F and says she remains ill. She approves a limited Iris-message to Grover: fever down, staying in Cabin Three today, wants toast. Thalia sends it; no receipt or reply is shown. Thalia's right palm remains tender and wrapped."
+following_scene_verified:
+  chapter: 97
+  locator: "chapters/097-the-map.md, opening"
+  context: "The next morning Annabeth is in Cabin One finishing her personal camp map. Chapter 096 closes with her choosing her own Cabin One bunk and planning to inspect one unfinished corner. The Camp map Chiron used for the exercise is a separate object."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 96
+    earned_trust_or_conflict: ["Established romantic partners; Percy asks whether Annabeth wants to stop and follows her answer. Annabeth chooses her affection, privacy boundary, Cabin One return and morning map time."]
+    what_each_remembers_firsthand: ["Their current training and conversation; each retains only their own autobiographical erased-life memories."]
+    what_each_knows_secondhand: ["No new old-life fact is disclosed between them in this chapter."]
+    private_facts_not_known_to_other: ["Annabeth's dream remains private from camp; Percy does not give its details to Thalia, Grover, Ella or the younger camper."]
+    future_callback_required: "Keep them an established couple. Do not expose the dream or claim a cause for Annabeth's fever."
+  - pair: "Percy / Thalia"
+    last_shared_scene_chapter: 96
+    earned_trust_or_conflict: ["Thalia tells Percy to keep listening when Annabeth calls stop; he agrees. Their relationship remains friendship, not siblinghood."]
+    what_each_remembers_firsthand: ["Percy witnesses Thalia's training choices and her care for Annabeth; Thalia witnesses his participation and his response to Annabeth's stop call."]
+    what_each_knows_secondhand: ["Percy recalls Thalia's earlier report about Annabeth hiding in her bunk during storms; it is not his or Annabeth's autobiographical memory."]
+    private_facts_not_known_to_other: ["No new erased-life memory is shared."]
+    future_callback_required: "Thalia's right palm remains tender and wrapped; she uses her left hand and is not cleared to brace or spar."
+  - pair: "Annabeth / Thalia"
+    last_shared_scene_chapter: 96
+    earned_trust_or_conflict: ["Biological Zeus/Grace sisters. Thalia supports Annabeth's choice to leave for her own bunk; Annabeth controls her illness privacy and any future letter to their mother."]
+    what_each_remembers_firsthand: ["Their current training and conversation; Thalia retains her own altered-history childhood memories, while Annabeth does not gain them automatically."]
+    what_each_knows_secondhand: ["No new childhood memory is reported in this chapter."]
+    private_facts_not_known_to_other: []
+    future_callback_required: "Annabeth's one-night Cabin Three illness stay does not change her Cabin One household."
+items_promises_injuries:
+  - item_or_event: "Annabeth's fever and training clearance"
+    owner_or_people: ["Annabeth", "Will"]
+    last_seen_chapter: 96
+    current_status: "She remains ill and uncleared at the opening dawn after 99.1°F. Several days later she completes the required 24 fever-free hours and Will clears gentle training. The next morning he clears one brief, low-power exercise after no dizziness or symptoms on an ordinary walk. Cause and exact fever-decline time remain unknown."
+  - item_or_event: "Thalia's right-palm burn"
+    owner_or_people: ["Thalia", "Will"]
+    last_seen_chapter: 96
+    current_status: "Wrapped and tender at recheck; no sparring or bracing clearance. Thalia uses her left hand for a small practice spark, then watches the next-day beacon strike."
+  - item_or_event: "Camp beacon"
+    owner_or_people: ["Chiron", "Percy", "Clarisse", "Silena", "Thalia", "Annabeth"]
+    last_seen_chapter: 96
+    current_status: "Lit with a small steady flame after a supervised next-day exercise. Water ends before the receiver; the strike travels through open air; reflection in water does not carry current."
+  - item_or_event: "Stop signal and route plan"
+    owner_or_people: ["Annabeth", "Percy", "Clarisse", "Silena", "Thalia", "Grover", "Ella", "Chiron"]
+    last_seen_chapter: 96
+    current_status: "Anyone may call stop; a visible red card backs up the call; two whistle blasts mean power down and step back. Hold freezes, drop releases. The water return lane stays on the open beach, away from the camp trail."
+  - item_or_event: "Red stop card and training records"
+    owner_or_people: ["Ella", "Annabeth", "Grover"]
+    last_seen_chapter: 96
+    current_status: "The red card comes from Ella's supplies and is used by Annabeth; its final location is unknown. Grover's stopwatch and Ella's tablets record the attempts."
+  - item_or_event: "Letter to the sisters' mother"
+    owner_or_people: ["Annabeth", "Thalia"]
+    last_seen_chapter: 96
+    current_status: "Thalia suggests writing; Annabeth says she will choose the contents. No letter is drafted or sent in this chapter."
+  - item_or_event: "North-trail brace inspection"
+    owner_or_people: ["Annabeth", "Clarisse", "Chiron", "two unnamed counselors"]
+    last_seen_chapter: 95
+    current_status: "Still unresolved; Chapter 096 reports no inspection, measurement verification or reopening."
+unresolved_tensions:
+  - "Exact date/year and elapsed days remain unknown."
+  - "Annabeth's fever cause and exact decline time remain unknown; the message's receipt by Grover is not shown."
+  - "Annabeth's personal map is nearly complete; one corner remains under review at the chapter close."
+  - "The north-trail inspection from Chapter 095 is still pending."
+open_canon_questions: []
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true

@@ -1,6 +1,6 @@
 ## Chapter 8: The Gathering Storm
 
-Percy discovered that the fastest way to lose an argument with Silena was to insist that he was capable of doing two things at once.
+The sealed letter to Amphitrite was already in the canvas bag when Percy came into the stores with a toolbox in one hand and a stack of envelopes in the other. Silena looked up from the dispatch register, took in the tools swinging dangerously close to the paper, and held out her palm for one of them. She had three other messengers to prepare for before noon, and Percy had learned that making work harder for her was a particularly poor way to say thank you.
 
 "You can carry the letters or you can carry the toolbox," she told him. "If you drop the bag in the creek, the post doesn't get to tell Amphitrite that you meant well."
 
@@ -40,7 +40,7 @@ Percy thought of the attic window in the Big House, which had been left loose lo
 
 "Of course. He asked for the original invoice to be sealed while we compare the copies. It's still in the stores office, and this time somebody's actually signed the borrowing register."
 
-She paused at the messenger's desk and deposited the mailbag. Percy watched the satyr open it, count the envelopes and place Amphitrite's letter in a separate pouch for sea delivery. The sight gave him an odd mixture of relief and dread.
+She paused at the messenger's desk and deposited the mailbag. Percy watched the satyr open it, count the envelopes and place Amphitrite's letter in a separate pouch for sea delivery. He watched the satyr enter the pouch number in the register before moving on to the next envelope. Now there was a record that the letter had left his hands. It wasn't evidence that Amphitrite had read it, understood what he'd left unsaid, or felt any less entitled to the childhood memories she believed they shared. Percy copied the pouch number into his notebook, a precaution Silena approved of without teasing him about it.
 
 "She'll write back," Silena said.
 
@@ -88,23 +88,13 @@ Percy looked toward the Big House. "Or they might be connected."
 
 "Exactly. But if we're going to test the connection, we need a reason other than both things frightening us."
 
-He leaned over the notebook. She had drawn three boxes and connected them with dotted lines.
-
-*Hall maintenance.*
-
-*Prophecy transcripts.*
-
-*Oracle silence.*
-
-Under the first she'd written *physical evidence and witnesses*. Under the second, *dated copies, origin uncertain*. Under the third, *Chiron confirms no new prophecy for three weeks*.
+He leaned over the notebook. She had drawn three boxes and connected them with dotted lines: *Hall maintenance*, *prophecy transcripts*, and *Oracle silence*. Beneath them she'd written *physical evidence and witnesses*, *dated copies, origin uncertain*, and *Chiron confirms no new prophecy for three weeks*. Keeping the categories separate would let them test possible connections without treating fear as proof.
 
 "Where do our memories go?" Percy asked.
 
 "On the other page. We know those memories exist, Percy. We don't have to prove them to each other. But Nico can't inspect what we remember. If we ask him for help, we have to give him something he can actually examine."
 
-He looked at the margin. There she'd written a question about the cabin layout, then crossed it out and written *not independent proof*.
-
-She had been doing that more often. A detail from their old lives would occur to her, and she would reach for the easy explanation before remembering that the camp around them held a very different set of records. Percy knew why it frustrated her. She had spent years solving problems by comparing what she knew against what the world told her. Now even that comparison required an argument about which world had been real.
+He looked at the margin, where she'd written a question about the cabin layout, crossed it out, and replaced it with *not independent proof*. She'd been doing that more often: a detail from their old lives would surface, and she'd reach for an easy explanation before remembering that this camp had a different set of records. Percy understood why it frustrated her. She'd spent years comparing what she knew with what the world told her; now even that comparison meant arguing about which world had been real.
 
 "You're going to wear a hole through the paper," he said, pointing to the place where she'd been pressing her pencil.
 
@@ -258,9 +248,7 @@ Nico looked up. "We have old survey drawings from before the Hall was built. We 
 
 Annabeth nodded. "That's still useful. We can compare what the design intended with what the repair team found."
 
-Percy watched them work through the drawings. Annabeth asked about line thickness and orientation. Zoe answered with a careful explanation of how protective inscriptions could look similar without being magically identical. Nico kept interrupting to ask where every measurement had been recorded and whether they could cite the actual page.
-
-It was the sort of conversation Percy normally enjoyed only when he could be somewhere else. Today he listened. They were showing him how to build an answer from things another person could verify.
+Percy watched them work through the drawings: Annabeth asked about line thickness and orientation; Zoe carefully explained how protective inscriptions could look similar without being magically identical, while Nico kept asking where each measurement had been recorded and whether they could cite the page. It was the kind of conversation Percy usually tuned out, but today he listened. They were showing him how to build an answer from evidence another person could verify.
 
 At the end of an hour, Nico had drawn a smaller diagram of the records chain. Zoe had identified three common ward patterns that might be mistaken for one another, and Annabeth had produced a list of questions she wanted to put to the archivist.
 
@@ -383,15 +371,11 @@ She spread the notices on the counter. Each came from a different cabin. Someone
 
 "He's asked me to keep track of them. That doesn't mean camp stops needing everything else." She slid a page toward him. "Look at the quantities. Half these people are guessing because they haven't checked what they already own."
 
-"Maybe you should tell them."
+"Maybe you should tell them," Percy said.
 
 "I have. Three times. Then two counselors told me their requests were special, and a third asked whether I could simply do the inventory for him."
 
-"Could you?"
-
-Silena stared at him until he realized how badly he'd phrased the question.
-
-"I mean, you probably could. I wasn't saying you should."
+"Could you?" Percy asked. Silena stared at him until he realized how badly he'd phrased the question. "I mean, you probably could. I wasn't saying you should."
 
 "Thank you for the distinction."
 
@@ -524,7 +508,7 @@ Annabeth looked up.
 
 "I know. I'm telling you I can hear how frustrated you are without pretending I can solve it."
 
-Annabeth smoothed the edge of a page. The reply was a little different from the ones she'd grown accustomed to hearing from Thalia, and she didn't quite know what to do with it.
+Annabeth smoothed the edge of a page. Annabeth had expected Thalia to tell her to sleep or to forbid another investigation. Instead her sister sat on the floor beside the drawings and identified an actual obstacle: the missing catalog approval. Annabeth disliked how ordinary the suggestion was. Part of her wanted the situation to be large enough that nobody could reasonably ask her to wait; a form signed by an archivist was much harder to resent.
 
 "I asked Chiron for supervised access to the attic," she said. "He said no until the inspections are finished. That could be days."
 
@@ -688,9 +672,7 @@ It made them accountable for the decision, at least to each other.
 ---
 
 
-Past midnight, they climbed for the attic again.
-
-The Big House slept. Pine sap and old wood met them at the same loose window, the same groaning stair, the same attic door swollen with summer humidity.
+Past midnight, they returned to the Big House, despite knowing that Chiron had refused unsupervised access. The side window still stuck at the bottom of its frame. Percy held it while Annabeth worked the latch with her uninjured fingers; afterward he checked that the shaded lamp hadn't caught on her notebook strap. They had rehearsed the route but not a good answer for why they were doing it again. That was the part both of them preferred not to discuss.
 
 Inside, the Oracle's mist had thickened. It banked in the corners and threw back iridescent light that stung Percy's eyes. Ozone prickled his nose. The floorboards seemed to vibrate, the way the dock did before lightning struck the Sound. Somewhere under the wax and dust lay a sour trace, like old pennies left in rainwater, and every breath felt slightly too thick to finish.
 
@@ -828,7 +810,7 @@ Clarisse frowned. "Why?"
 
 "I think she has a reason to care. That isn't the same thing." Clarisse took the bracket from him and held it against the post. "Hold that steady."
 
-Percy obeyed.
+Percy obeyed, holding the bracket while Clarisse lined up the screw holes. She had learned to trust him with simple repairs since the day he'd nearly flooded the cabin drain; he didn't want to lose that trust because she could tell when he was withholding an explanation. The winged panther she'd carved for him rested safely in his trunk. It was easier to remember somebody had made him a gift than to decide what he owed her in return.
 
 "If you're going to ask questions about her, ask Nico what he's found," she added. "And maybe ask Zoe herself. You're good at guessing motives from somebody's face. Doesn't mean you're right."
 

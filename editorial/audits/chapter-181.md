@@ -1,6 +1,6 @@
 # Chapter 181 editorial screening: Whoever Wants to Come
 
-**Source:** [Chapter 181](../../chapters/181-whoever-wants-to-come.md), git blob `8199be406d4e719288a28c917663f48bb859f342`. **Approximate body words:** 10,459. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 181](../../chapters/181-whoever-wants-to-come.md); git blob `8199be406d4e719288a28c917663f48bb859f342` is the earlier screened revision. **Body words:** 10,493 by fresh strict QA. **Status:** Targeted continuity repairs applied; screening only.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -19,6 +19,13 @@ An open invitation should identify who may come, what is optional and whether th
 ## Mechanical and continuity flags
 
 - No flagged constructions were detected by these selected mechanical checks; this **does not** demonstrate the chapter is error-free.
+
+## Current PR #103 continuation (2026-10-17)
+
+- **Arrival timing:** The twelve-person count at 7:15 now precedes Neve, two Apollo campers and the Hermes camper; Annabeth and Thalia arrive afterward. This supports the stated eighteen entries and fifteen present after the two Apollo campers and Hermes camper leave.
+- **Suit continuity:** The four bag suits are separate from Silena's fifth, silk-repaired rack loaner. Neve wears the repaired suit on opening night; Rosie wears it on the second Tuesday. The dialogue no longer claims a third consecutive Tuesday session.
+- **Open count:** Katie's six children versus five reported at nine remains unexplained; no departure is assigned to the unnamed child. The source still supports Clarisse's overall fifteen-person count.
+- **Coverage:** Targeted source review only; this is not developmental or style signoff for the whole chapter.
 
 ## Canon boundaries and follow-through
 

@@ -602,7 +602,7 @@ Silena came to his side, hands clasped behind her back. "I'm glad he might come,
 
 "Neither am I."
 
-A bell sounded somewhere ahead, low and clear. The guests were expected in the hall. Percy walked with his sisters and the Grace girls, none of them wearing a borrowed identity, all of them free to admit if they were uncomfortable. They hadn't solved the problem of having a god for a father, nor had they made Atlantis into a place without rules. They had learned which rules they could question, who would answer, and which doors opened when they asked.
+A bell sounded somewhere ahead, low and clear. The guests were expected in the hall. Percy walked with his Camp Three sisters and the Grace girls, none of them wearing a borrowed identity, all of them free to admit if they were uncomfortable. They hadn't solved the problem of having a god for a father, nor had they made Atlantis into a place without rules. They had learned which rules they could question, who would answer, and which doors opened when they asked.
 
 
 ---
@@ -812,7 +812,7 @@ Silena adjusted the basket handle, then set it down on a side table. The camp ma
 
 The family room opened onto a broad balcony overlooking the city. It was smaller than the formal hall, with a low ceiling and warm light coming from pearl lamps set into the walls. The table was long enough for all of them but not so large they had to shout across it. A blue bowl sat in the center, holding shell fruit and a few pale flowers. The place settings were simple, though there were still more utensils than Percy remembered needing.
 
-Amphitrite waited near the head of the table. Poseidon stood beside her, again with his hands clasped behind his back. He seemed to have been trying to decide where to stand so nobody would think he was making a speech. Triton had chosen the chair at the side, not the one at the far end.
+Amphitrite waited near the head of the table. Poseidon stood beside her, again with his hands clasped behind his back. He seemed to have been trying to decide where to stand so nobody would think he was making a speech. Triton had chosen the chair at the side, not the one at the far end. Rhode and Benthesikyme were there too, already at home in the palace, and looked up when their brother came in.
 
 “Come in,” Amphitrite said. “You don’t need to wait for anyone to announce you.”
 
@@ -850,7 +850,7 @@ Silena chose a seat near Clarisse. Annabeth sat to Percy’s left. Clarisse took
 
 Poseidon chose the chair across from her. He did not comment on the distance.
 
-The seven settled around the table, the room’s current lifting the tablecloth’s edge while the city lights trembled beyond the balcony.
+The nine settled around the table, the room’s current lifting the tablecloth’s edge while the city lights trembled beyond the balcony.
 
 “I brought you something from camp,” Silena said. She stood to retrieve the basket, then placed it between Amphitrite and the center bowl. “It’s strawberry jam. We made it ourselves. The map is from all of us.”
 
@@ -1113,7 +1113,7 @@ Triton took out the household ledger. The revised entries from the earlier garde
 
 "Of course she did."
 
-They worked through the guest list. Clarisse had declined a title. Silena wanted her full name used on correspondence. Annabeth was listed as a guest and cartography student, with no suggestion she belonged to Poseidon's line. Thalia was recorded as Annabeth's older sister and a visitor from camp. Percy kept his family entry, including the note that he had chosen the designation in the present despite not remembering the childhood it described.
+They worked through the guest list. Clarisse had declined a title. Silena wanted her full name used on correspondence. Annabeth was listed as a guest and cartography student, with no suggestion she belonged to Poseidon's line. Thalia was recorded as Annabeth's older sister and a visitor from camp. Rhode and Benthesikyme remained listed among the household, not the visiting guests. Percy kept his family entry, including the note that he had chosen the designation in the present despite not remembering the childhood it described.
 
 "Does it ever bother you?" Percy asked Triton. "That I don't remember the things you remember about us?"
 

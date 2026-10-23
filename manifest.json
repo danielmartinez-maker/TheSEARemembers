@@ -194,7 +194,7 @@
     "chapters/185-apples-in-the-cold.md",
     "chapters/186-the-first-real-words.md",
     "chapters/187-silver-on-the-rings.md",
-    "chapters/188-the-second-tuesday.md",
+    "chapters/188-the-third-tuesday.md",
     "chapters/189-after-the-frost.md",
     "chapters/190-thursday-twice.md",
     "chapters/191-two-hands-of-work.md",
@@ -1142,8 +1142,8 @@
     },
     {
       "number": 188,
-      "title": "The Second Tuesday",
-      "path": "chapters/188-the-second-tuesday.md"
+      "title": "The Third Tuesday",
+      "path": "chapters/188-the-third-tuesday.md"
     },
     {
       "number": 189,

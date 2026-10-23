@@ -198,9 +198,9 @@ He set his duffel down in the pine needles and laid the sailcloth bundle beside 
 
 "Good," he said. "Very good. Who did the ribs?"
 
-"Beckendorf's crew, mostly," Percy said. "And Clarisse did the stern three. The panel's out, by the way. With Chiron now. Logged."
+"Beckendorf's crew, mostly," Percy said. "And Clarisse did the stern three."
 
-"I know," Tyson said gravely. "Thirty-nine marks. You counted correctly. Thirty-nine is a careful number." He knelt and peered up into the hull, tapping each sister rib with a knuckle, listening. "The wood sings true. She will run straight." He looked up at Clarisse. "Your ribs are the straightest. I can tell. They have your temper."
+"I wanted to check the ribs for myself," Tyson said gravely. He knelt and peered up into the hull, tapping each sister rib with a knuckle, listening. "The wood sings true. She will run straight." He looked up at Clarisse. "Your ribs are the straightest. I can tell. They have your temper."
 
 Clarisse folded her arms, ears pink. "They're just ribs."
 
@@ -472,7 +472,7 @@ Tyson took the flat one and turned it so Percy could see. Scratched in blunt, ca
 
 Percy looked at the stones in his hand, at the scratched family on the flat one, at his huge gentle brother. "Tyson. This is —"
 
-"It is nothing big," Tyson said quickly. "Just stones. But they are good stones. And the picture is us. All four. Even when I am at the forge and you are here. Even when —" He hesitated, searching. "Even when the panel has thirty-nine marks and nobody knows who made them. We are still us. Stones do not forget. That is why I brought them."
+"It is nothing big," Tyson said quickly. "Just stones. But they are good stones. And the picture is us. All four. Even when I am at the forge and you are here. Even when —" He hesitated, searching. "Even when we do not know what comes next. We are still us. Stones do not forget. That is why I brought them."
 
 Percy closed his fist around the green stone, cold first and then warm, and felt his eyes burn. Behind Tyson's shoulder Clarisse was very busy with a peach she wasn't eating, and neither of them said a word.
 
@@ -482,7 +482,7 @@ Percy closed his fist around the green stone, cold first and then warm, and felt
 
 ---
 
-Annabeth Chase had mapped the north beach eleven times, in every season and three different scales, and she had never once gotten the light right.
+Annabeth Grace had mapped the north beach eleven times, in every season and three different scales, and she had never once gotten the light right.
 
 She sat on the warm flat rock in the long slant of midafternoon with her vellum weighted against the breeze, brass compass glinting, pencil moving in short sure strokes, and tried again. The problem was not the shape — she knew the shape. The problem was the use. Maps showed where things were. They did not show what they were for. And this beach was not a shoreline. It was a room. Cabin Three's room, with the lake for a floor.
 
@@ -622,7 +622,7 @@ So Percy held the ankle. He stood in the going dark with his brother's hand on h
 
 They walked up in the blue dusk, canoe secured, shoes sandy, Thalia carrying the chair, Annabeth's hand in Percy's, Silena singing with Tyson humming the harmony, Clarisse ahead setting the pace, counting heads at every switchback.
 
-At the cabin door Tyson ducked the lintel without being reminded, and stopped at his bunk, and laid his big hand on the folded blanket, and looked at the three siblings gathered in the doorway — Percy, Silena with thread on her sleeve, Clarisse with salt drying white on her cuffs — and smiled the smile visible from a hundred yards.
+At the cabin door Tyson ducked the lintel without being reminded, and stopped at his bunk, and laid his big hand on the folded blanket, and looked at the three Cabin Three siblings gathered in the doorway — Percy, Silena with thread on her sleeve, Clarisse with salt drying white on her cuffs — and smiled the smile visible from a hundred yards.
 
 "Good night, Cabin Three," he said. "Thank you for inviting me. Today was hugs and work and lake. Tomorrow can be whatever the water decides."
 

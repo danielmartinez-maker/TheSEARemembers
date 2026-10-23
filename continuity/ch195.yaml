@@ -1,0 +1,100 @@
+chapter: 195
+title: "The Rules of Cabin Three"
+source: "chapters/195-the-rules-of-cabin-three.md"
+status: "10,573 body words; arc-level review pending"
+relative_chronology:
+  - "Tuesday immediately after Chapter 194's Monday; exact calendar date and year remain unknown"
+  - "Begins in Cabin Three before breakfast and ends Tuesday night"
+pov: "Clarisse La Rue, third-person limited"
+location:
+  - "Cabin Three"
+  - "Big House green and training area"
+  - "Camp hall awning and tool shed"
+  - "Cabin Three kitchen and table"
+people_knowledge_relationships:
+  clarisse:
+    - "Explains Cabin Three routines and refuses to turn age, gender, skill, or parentage into Leandros’s automatic authority"
+    - "Names Poseidon’s unequal involvement as real; she does not let Leandros use Percy’s Atlantis upbringing or her and Silena’s sibling bond to flatten their different childhoods"
+    - "Admits that she can be wrong and that enforcing a rule can become an order; asks Leandros to listen when people say no"
+    - "Hears Leandros’s specific apology for the sexist remark but does not promise trust or forgiveness"
+  leandros:
+    - "Remains sixteen, a son of Poseidon and a separate mortal mother; no longer-term cabin placement is established"
+    - "Shows a narrow current-reading skill, not broad water mastery"
+    - "Declines a shield orientation at first, then chooses to learn one stance and returns the equipment"
+    - "Offers to help with dinner after asking Silena; makes simple skillet flatcakes, with his first cake overthick and unevenly cooked"
+    - "Meets Annabeth for the first time; no title or automatic authority is claimed in the exchange"
+    - "Admits he used the sexist 'orders from girls' remark because Clarisse told him no; his partial apology does not repair trust"
+    - "Keeps his duffel zipped beneath the Cabin Three cot and does not establish permanent placement"
+  silena:
+    - "Lets Leandros help with dinner after he asks her directly; corrects his cooking without taking the work away"
+    - "States that shared paternity did not give the Camp Three siblings one childhood; her boundary is not a promise to mediate future conflicts"
+  percy:
+    - "Says he had people who took care of him in Atlantis without disclosing his altered-childhood memory gap or erased-future memories"
+    - "Remains affectionate and secure with Annabeth; accepts her preference to handle her stool while he holds it"
+  annabeth:
+    - "Meets Leandros for the first time"
+    - "States her choice about repairing her stool; Percy accepts a supporting role"
+source_anchored_events:
+  - id: C195_A
+    witnesses: ["Clarisse", "Leandros", "Silena", "Percy", "Annabeth"]
+    certainty: confirmed
+    event: "During dinner, Clarisse and Silena explain that shared Poseidon paternity and Cabin Three do not mean the siblings had one childhood. Clarisse acknowledges Poseidon’s unequal involvement and declines to compare Leandros’s relationship with his mother to theirs."
+    consequence: "Leandros’s family hurt is recognized without treating his assumptions as harmless or making the existing siblings responsible for instant closeness"
+  - id: C195_B
+    witnesses: ["Clarisse", "Silena", "Leandros"]
+    certainty: confirmed
+    event: "Leandros asks to help with dinner, prepares simple skillet flatcakes imperfectly, listens to Silena’s practical correction, and asks before using shared equipment"
+    consequence: "A demonstrated skill creates a small point of contact, not broad competence or trust"
+  - id: C195_C
+    witnesses: ["Clarisse", "Leandros"]
+    certainty: confirmed
+    event: "Leandros specifically acknowledges that his sexist remark was meant to reject Clarisse’s correction; Clarisse sets expectations for listening and consent while admitting she also can turn rules into orders"
+    consequence: "The apology is partial; trust, forgiveness, and cabin leadership remain unsettled"
+  - id: C195_D
+    witnesses: ["Clarisse", "Leandros", "Beckendorf"]
+    certainty: confirmed
+    event: "The torn awning is inspected; Beckendorf records measurements and plans to bring a bracket after the wind eases"
+    consequence: "The awning remains torn and unrepaired"
+items_promises_injuries:
+  - item_or_event: "Thalia’s left heel and Tuesday hall choice"
+    owner_or_people: ["Thalia", "Chiron"]
+    last_seen_chapter: 194
+    current_status: "Not revisited in Chapter 195; the painful heel, care plan, and Thalia’s choice remain as last recorded"
+  - item_or_event: "Bent fence"
+    owner_or_people: ["Clarisse", "Percy", "Chiron"]
+    last_seen_chapter: 195
+    current_status: "Still temporarily braced; Chiron wants to inspect the post; no repair is shown"
+  - item_or_event: "Torn awning"
+    owner_or_people: ["Clarisse", "Beckendorf"]
+    last_seen_chapter: 195
+    current_status: "Inspected; bracket pending after wind eases; tear remains"
+  - item_or_event: "Annabeth’s stool"
+    owner_or_people: ["Annabeth", "Percy"]
+    last_seen_chapter: 195
+    current_status: "Still needs repair; Annabeth chooses to work on it and Percy offers to hold pieces"
+  - item_or_event: "Cabin One rail and north-step first-hard-frost recheck"
+    owner_or_people: ["Camp"]
+    last_seen_chapter: 194
+    current_status: "No update shown; both remain open"
+  - item_or_event: "Greenhouse soil banking"
+    owner_or_people: ["Silena"]
+    last_seen_chapter: 194
+    current_status: "Completed for now; not revisited"
+unresolved_tensions:
+  - "Leandros’s trust with Clarisse and Silena remains unsettled after a partial apology"
+  - "His longer-term Cabin Three placement remains unestablished"
+  - "Clarisse’s and Silena’s hurt about Poseidon’s unequal involvement remains"
+  - "Monster identity and whether the school-marina danger continues remain unknown"
+  - "Ianthe has not appeared or been met"
+open_canon_questions:
+  - "No exact calendar date or year has been established"
+  - "Do not infer what Percy remembers of Atlantis beyond the facts he has shared"
+  - "The awning bracket and fence inspection remain pending"
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true

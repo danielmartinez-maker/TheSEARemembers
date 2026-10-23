@@ -1,10 +1,223 @@
 # Full-manuscript 10,000-word expansion tracker
 
 **Scope:** Chapters 001–193 (two bonus interludes are excluded from the 10k narrative-chapter rule).
-**Working source:** `rewrite/chapters-10k-quality-pass` branched from `edit/chapters-001-036-unified` on 2026-10-12.
+**Current working source:** PR #103 head branch `audit/four-phase-continuity-2026-10-13`, updated from local continuation branch `audit/pr103-live-continuation`. Earlier audit tables farther down document historical branches and checkpoints.
 **Rule:** Each chapter must reach **10,000 body words**, preferably 10,200–11,200, *without filler*. A mechanical pass is not editorial approval.
 
-## Chapters 121–160 scoped length and quality checkpoint (2026-10-12)
+## Latest local continuation candidate: all 193 chapters meet the length gate (2026-10-17)
+
+**Source:** This continuation extends PR #103 at source commit `0eb5229`. It includes Chapter 136's bounded Thalia-knowledge repair and Chapter 147's shoulder-recovery follow-through, alongside Chapter 146/151 canon repairs, Chapter 148 copyedit, Chapter 158/159 kinship wording, Chapter 163/165 copyedits, the Chapter 152–160 survey ledger correction, and the Chapter 172/175/180/183/188 and 190/193 follow-ups. It also includes earlier 066–069/118 trims, 132–133 handoff/profile updates, Chapter 175 suit/arrival clarification, Chapter 181 roster/suit repairs, and Chapter 176 count clarification. Fresh strict QA reports **193/193 chapters at or above 10,000 body words**, with zero shortfall. Chapters 025 and 069 contain **10,049** and **10,365** body words. These are mechanical counts, not editorial approval. Current source commit `0eb5229` passed hosted full QA run 546 and character-memory run 269.
+
+| Scope | Latest local result |
+|---|---:|
+| Ordered narrative chapters | **193/193** |
+| At or above 10,000 body words | **193** |
+| Below 10,000 / missing words | **0 / 0** |
+| Chapter-only every-offset 300-word windows | **1,942,663; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,151,520 body words / 2,093,215 windows; 0 exact matches** |
+| Source-anchored memory regression groups | **45 passed** |
+| Structure audit | **193/193 ordered; no reported errors** |
+| Full-scene chapter-ledger coverage | **193/193; 50 selected character timelines with exact-name candidate maps; exhaustive per-character matrix remains incomplete** |
+
+The lexical screen flags an introduction line in Chapter 014, but scene context confirms this is the first in-person meeting after the earlier Iris contact. Chapter 038's Silena age wording is corrected to fourteen, matching the opening baseline and Chapter 041; her exact birthday/date remains unknown. Full semantic continuity and style/developmental review remain open. The 50 profile locator maps are candidate indexes, not all-scene reviews. A repository-wide pass checked 5,132 relative Markdown targets with zero missing paths and zero invalid line-number anchors. Refreshed reports: `editorial/audits/generated-full-manuscript-qa.json`, `generated-full-manuscript-qa.md`, `generated-all-text-300-word-qa.json`, and `generated-chapter-structure.json`.
+
+## Earlier local checkpoint: privacy-boundary repairs before expansion completion (2026-10-17)
+
+**Source:** Working branch `audit/pr103-live-continuation`, based on live PR #103 head `e9d86c2`. Chapter 023 now preserves Amphitrite’s ignorance of Percy’s mismatched memories. Chapter 032 keeps Percy’s missing routines out of Triton’s report; Percy reviews the ordinary training-and-sisters summary and approves what is sent. Chapter 023 recounts at **10,011** body words and Chapter 032 at **10,159**.
+
+| Scope | Latest local result |
+|---|---:|
+| Ordered narrative chapters | **193/193** |
+| At or above 10,000 body words | **177** |
+| Below 10,000 / missing words | **16 / 116,854** |
+| Chapter-only every-offset 300-token windows | **1,821,169; 0 exact cross-chapter matches** |
+| All chapter and bonus Markdown files | **196 files / 2,030,026 body words / 1,971,721 windows; 0 exact matches** |
+| Source-anchored memory regression groups | **35 passed** |
+
+One lexical first-introduction cue remains for human review in Chapter 014. This is mechanical QA plus two focused scene repairs; it does not certify whole-novel semantic continuity or literary quality. Refreshed local outputs: `editorial/audits/generated-full-qa.json`, `generated-all-text-300-word-qa.json`, and `generated-structure-qa.json`.
+
+## Previous current-branch checkpoint: Chapter 101 (2026-10-15; superseded by the Oct. 17 local continuation)
+
+**Source:** PR #103 branch `audit/four-phase-continuity-2026-10-13`, based on published head `50b57891de5482399f2c6a050ebbf2885513958c`. Chapter 101's local QA is being recorded against this candidate; hosted workflow results attach to the pushed PR head.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **177** |
+| Below 10,000 actual body words | **16** |
+| Required additional body words to clear minimum | **116,854** |
+| Chapter-only every-offset 300-word windows | **1,821,045; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,029,902 body words; 1,971,597 windows; 0 exact cross-file matches** |
+| Source-anchored character-memory checks | **33 passed at this historical checkpoint** |
+
+**Chapter 101, A Name for It:** **2,093 → 10,321 body words (+8,228 net).** The Percy-limited revision keeps the existing relationship intact while grounding the present choice, distinguishes Thalia's remembered blocks from Annabeth's missing memory, preserves Thalia's wrapped palm, and adds an earned shelf build, an orange boundary and Clarisse's shield-rack lesson with Noah. See the [Chapter 101 handoff](handoffs/ch101-a-name-for-it.md) and [structured continuity record](../continuity/ch101.yaml).
+
+- **Phase 1:** Adds scene-scoped witnessed/reported/unknown facts and cumulative state entries for Percy, Annabeth, Thalia, Clarisse, Silena and Noah; records next-morning boundaries with Chapters 100 and 102.
+- **Phase 2:** Preserves the exclusive Percy/Annabeth erased-life memory boundary, family relationships, Thalia's injury and schedule status, and the difference between Noah's shield lesson and Chapter 102's spear practice.
+- **Phase 3:** Expands through the present-day relationship choice, measured shelf work and accessibility check, shield-rack repair and coached lesson. Removes repeated reassurance and duplicate book-category debate; replaces a generic line with a specific measurement.
+- **Phase 4:** 193/193 indexed and ordered; 33 memory checks passed at that Chapter 101 checkpoint; chapter-only and bonus-inclusive strict duplicate scans found zero matches. The evidence index writes 193 provisional chapter locators, and the introduction screen leaves one review cue in Chapter 014. Both hosted Actions passed on revision commit `a6b53d8`: [full manuscript QA, run 468](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911797) and [character memory consistency, run 230](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38794911680). This remains a scoped chapter review, not whole-novel semantic or literary signoff.
+
+**Next chronological underlength chapter:** [102 Not a Competition](../chapters/102-not-a-competition.md), **1,538 body words**, needs **8,462**. Preserve the morning-after relationship state and continue the Noah shield/spear lessons as distinct events.
+
+## Superseded candidate checkpoint: Chapter 100 (2026-10-15 local candidate)
+
+**Source:** PR #103 branch `audit/four-phase-continuity-2026-10-13`, based on published head `acb4a8b997e663bb4bce698d5f3bd8ff4cc70f8c`. Local QA passes; hosted workflow results are available on the PR's pushed head.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **176** |
+| Below 10,000 actual body words | **17** |
+| Required additional body words to clear minimum | **124,761** |
+| Chapter-only every-offset 300-word windows | **1,812,817; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,021,674 body words; 1,963,369 windows; 0 exact cross-file matches** |
+| Source-anchored character-memory checks | **32 passed** |
+
+**Chapter 100, The Thousandth Campfire:** **6,707 → 10,190 body words** (+3,483 net). The Percy-limited revision corrects the public Minotaur rumor without exposing Percy or Annabeth's private old-life memories; preserves Beryl's absence, Thalia's uncleared palm, Tyson's forge leave, Annabeth's illness privacy, and the consent limits around the dance photo; and records the campfire count as a count of surviving entries rather than every fire. The feast duplication is removed. See the [Chapter 100 handoff](handoffs/ch100-thousandth-campfire.md) and [structured continuity record](../continuity/ch100.yaml).
+
+- **Phase 1:** Adds witnessed/reported/unknown handoff and scoped cumulative state updates for 18 characters, with the Chapter 099 close and Chapter 101 opening checked. The date links and Tyson leave continuity remain explicitly unknown.
+- **Phase 2:** Keeps the Minotaur memory private while Amphitrite attends, labels the camp rumor as unverified, and preserves sibling parentage, injury, letter and illness boundaries.
+- **Phase 3:** Expands the source from 6,707 to 10,190 through event choices, a fire-stack problem and earned family scenes; removes duplicated feast prose and avoids length padding.
+- **Phase 4:** 193/193 structure; 32 memory checks pass; chapter-only and bonus-inclusive strict duplicate scans find zero matches. The evidence index writes 193 unverified source-cue records. The introduction scan leaves one review cue in Chapter 014. These are mechanical checks and a Chapter 100 scene review, not whole-novel literary certification.
+
+**Next chronological underlength chapter:** [101 A Name for It](../chapters/101-a-name-for-it.md), **2,093 body words**, needs **7,907**. Keep Percy and Annabeth's established relationship intact; Chapter 101's opening asks what label feels right in their current life, without resetting their remembered bond.
+
+## Superseded checkpoint: Chapter 098 (2026-10-15 candidate checkpoint)
+
+**Source revision:** PR commit `1243faf14ef57c0cfa2591b11bfd32488372840`, based on published head `c9ff34393533642b667355c2212cdfadf99af0e3`. Both hosted workflows pass: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006429) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38775006398).
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **174** |
+| Below 10,000 actual body words | **19** |
+| Required additional body words to clear minimum | **132,170** |
+| Chapter-only every-offset 300-word windows | **1,805,052; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,013,909 body words; 1,955,604 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **31 passed** |
+
+**Chapter 098, Fathers' Day (Gods):** **6,261 → 10,121 body words** (**+3,860 net**). The Percy-limited revision keeps the survey public and on trial, preserves the dock and north-trail hazards, lets Clarisse tell Poseidon her firsthand memory of his brief visit, gives Silena and Thalia separate boundaries, and keeps Tyson's hinge work his own. Their fathers' apologies do not resolve long-term neglect. See the [Chapter 098 handoff](handoffs/ch098-fathers-day-gods.md) and [structured continuity record](../continuity/ch098.yaml).
+
+- **Phase 1:** Added a scene-specific handoff and structured continuity record, appended witnessed/reported/unknown facts to the cumulative ledger, and updated ten per-character state files. Chapter 097's map status, Chapter 099's late-August opening, injuries, promises and private memory boundaries remain explicit.
+- **Phase 2:** Corrected unsupported old-life details and private map leakage, kept Zeus unaware of erased-life memories, and did not infer that the approved Amphitrite photo was sent. Clarisse and Silena choose their own contact; Thalia's palm remains wrapped; the map, dock and north-trail issues stay open.
+- **Phase 3:** Added Friday logistics, the public-survey review, Saturday's shared meal and distinct father-child conversations. Scene-level review covers Chapters 098 and adjacent 097/099 boundaries. The expansion is source-specific rather than repeated praise or padding.
+- **Phase 4:** Local and hosted manuscript QA pass: 193/193 indexed and ordered; 174 pass / 19 short; 132,170 words remain; 1,805,052 chapter-only and 1,955,604 bonus-inclusive every-offset 300-word windows found zero exact matches; all 31 source-anchored memory checks pass; the evidence index rebuilds for all 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary consistency.
+
+**Next chronological underlength chapter:** [099 Mothers](../chapters/099-mothers.md), **5,884 body words**, needs **4,116**. Chapter 098 closes after the Saturday meal; Chapter 099 opens in late August, and the exact elapsed time and whether Tyson's forge leave is the same visit remain unknown.
+
+## Latest current-branch continuation: Chapter 099 (2026-10-15 candidate checkpoint)
+
+**Chapter source revision:** PR commit `8b927088fc9c5e6793bec431a7cc0299f7224344`, based on published head `1243faf14ef57c0cfa2591b11bfd32488372840`. Both hosted workflows pass: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701870) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38778701784). The follow-up checkpoint below only records these results and does not change the chapter source.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **175** |
+| Below 10,000 actual body words | **18** |
+| Required additional body words to clear minimum | **128,054** |
+| Chapter-only every-offset 300-word windows | **1,809,334; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,018,191 body words; 1,959,886 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **31 passed** |
+
+**Chapter 099, Mothers:** **5,884 → 10,166 body words** (**+4,282 net**). The Percy-limited revision preserves the unresolved dock hazard, attributes Beryl's claims to her letter, leaves Thalia's palm wrapped and uncleared, and records Amphitrite's gifts and Percy/Annabeth's temporary shawl loan. See the [Chapter 099 handoff](handoffs/ch099-mothers.md) and [structured continuity record](../continuity/ch099.yaml).
+
+- **Phase 1:** Added the scene-level handoff, structured record, cumulative ledger entry, and 15 scoped character-state updates. Recorded witnessed, reported and unknown information separately, including Thalia's letter, the palm injury, gift ownership and the 098/099/100 timeline gaps.
+- **Phase 2:** Removed the Ares parent reference, unsupported Beryl incidents and omniscient claims about Maria. Kept Beryl absent and her letter claims unverified; protected Amphitrite's knowledge boundary; kept the unsafe dock unused; preserved Thalia's unresolved injury.
+- **Phase 3:** Added earned scenes around Percy's Sally memories, Amphitrite's visit, Thalia's decision, Tyson's tool test, Silena's direct report, and the optional lantern gathering. The revised scenes maintain Percy-limited narration and do not make him resolve his siblings' relationships.
+- **Phase 4:** Local and hosted manuscript QA pass: 193/193 indexed and ordered; 175 pass / 18 short; 128,054 words remain; chapter-only and bonus-inclusive scans found zero exact 300-word matches; all 31 memory regression groups pass; the evidence index rebuilds for 193 chapters. Both hosted workflows passed on the Chapter 099 source commit. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary quality.
+
+**Next chronological underlength chapter:** [100 The Thousandth Campfire](../chapters/100-the-thousandth-campfire.md), **6,707 body words**, needs **3,293**. Chapter 099 ends after an evening lantern gathering and beach bonfire. Chapter 100 opens on the morning of the thousandth campfire; the calendar gap and relation between the two events remain unknown. Tyson is on forge leave in both chapters, but whether it is the same leave is not established.
+
+## Superseded checkpoint: Chapter 097 (2026-10-15)
+
+**Source revision:** Chapter 097 is published in PR commit 577ec2a3e93ad2b960d5688e44381ebf77c3e0e9, based on previously verified head 88355d5edcbf525ffb2718ef535d6fc302c497f1. Both hosted workflows pass: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606) and [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790).
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **173** |
+| Below 10,000 actual body words | **20** |
+| Required additional body words to clear minimum | **135,909** |
+| Chapter-only every-offset 300-word windows | **1,801,192; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 2,010,049 body words; 1,951,744 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **30 passed** |
+
+**Chapter 097, The Map:** **6,862 → 10,185 body words** (**+3,323 net**). The revision keeps erased-life map memories private between Percy and Annabeth, corrects an unsafe dock instruction, tests the ramp route with Chiron, and adds forge/infirmary review, a new-camper legend test, participant-approved labels and a one-week display trial. The first edition logs an unresolved north-trail inspection, flexing dock board, wet-furrow alternate path and missing Cabin Six window. See the [Chapter 097 handoff](handoffs/ch097-the-map.md) and [structured continuity record](../continuity/ch097.yaml).
+
+- **Chapter 095, Annabeth Sick:** **6,977 → 10,129 body words** (**+3,152 net**). The Percy-limited revision preserves Annabeth's independent choices during a fever, keeps the fever's cause and relationship to Percy's earlier illness unknown, follows Will's no-training and escalation instructions, and protects her private dream details. See the [Chapter 095 handoff](handoffs/ch095-annabeth-sick.md) and [structured continuity record](../continuity/ch095.yaml).
+- **Chapter 096, Training Together:** **6,878 → 10,144 body words** (**+3,266 net**). The revision adds a signal rehearsal after the surf masks Grover's whistle, clarifies distinct water and air-strike routes, preserves Thalia's tender palm and Annabeth's recovery limits, and resolves her Cabin One choice before Chapter 097. See the [Chapter 096 handoff](handoffs/ch096-training-together.md) and [structured continuity record](../continuity/ch096.yaml).
+
+- **Phase 1:** Added Chapter 097 handoff, structured continuity record and witnessed/reported/unknown state updates for 18 named participants and the offstage sender. Adjacent boundaries preserve the beacon, Thalia's last-known palm restriction, the pending north-trail inspection, and the distinction between Chiron's exercise map and Annabeth's survey.
+- **Phase 2:** Keeps old-life map memories exclusive; preserves Poseidon and Zeus/Grace sibling relationships; removes private routines; corrects the dock instruction; keeps the north trail closed; does not imply a repair, health clearance, photo delivery or new route inspection.
+- **Phase 3:** Chapter 097 reaches **10,185** words with consequential field checks, consent choices, the legend usability test and a first-edition trial rather than repeated praise or padding. Scene-level continuity review covers Chapter 097 and the Chapter 096/098 boundaries, plus the Chapter 148 map callback.
+- **Phase 4:** Local checks pass on this candidate: 193/193 ordered; 173 pass / 20 short; 135,909 words remain; 1,801,192 chapter-only and 1,951,744 bonus-inclusive every-offset 300-word windows found zero exact matches; all 30 source-anchored memory checks pass; the five QA scripts compile; the evidence index rebuilds for 193 chapters. The lexical introduction scan leaves one human-review cue in Chapter 014. These checks do not certify whole-novel semantic or literary consistency. Hosted GitHub Actions pass on commit 577ec2a: [full manuscript QA](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657606), [character memory consistency](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38770657790).
+
+**Next chronological underlength chapter:** [098 Fathers' Day (Gods)](../chapters/098-fathers-day-gods.md), **6,261 body words**, needs **3,739**. Chapter 097 ends with the first map edition in a one-week rec-room trial; the north trail and third dock board remain unresolved. Preserve the approval boundary for the photo to Amphitrite and do not imply it has been sent.
+
+## Superseded checkpoint: Chapter 091 (2026-10-14)
+
+**Branch base:** The candidate tree is built on remote commit `4c592e0fdd04e66a13485e44f60b4e46d8fcfaf1`. The figures below are exact-source local checks on that tree; GitHub Actions results for the published commit are tracked separately in PR #103.
+
+| Scope | Candidate-tree result |
+|---|---:|
+| Numbered narrative chapters present and ordered | **193/193** |
+| At or above 10,000 actual body words | **167** |
+| Below 10,000 actual body words | **26** |
+| Required additional body words to clear minimum | **156,214** |
+| Chapter-only every-offset 300-word windows | **1,780,163; 0 exact cross-chapter matches** |
+| All chapter and bonus files | **196 files; 1,930,715 windows; 0 exact cross-file matches** |
+| Source-anchored memory regression checks | **24 passed** |
+
+**Chapter 091, *Tide Pools*:** **6,788 → 10,050 body words** (+3,262 net). The morning now accounts for the storm's pending lake, ward, anchor, field and signal checks before departure; Grover supervises with a route and count protocol. The tide-pool scenes preserve wildlife, keep the changing route safe, and correct the relationship and reported-memory boundaries. Percy and Thalia receive Will's follow-up, and the chapter keeps every gift and Amphitrite-letter promise in its actual status. See the [Chapter 091 handoff](handoffs/ch091-tide-pools.md).
+
+- **Phase 1:** Added a source-anchored Chapter 091 handoff and cumulative event entries for Percy, Annabeth, Clarisse, Silena, Thalia, Grover, Chiron, Will, Malcolm and Katie; added [a structured ledger](../continuity/ch091.yaml). The earlier gap in systematic Chapters 037–089 memory coverage remains disclosed.
+- **Phase 2:** Repaired the unsafe/inaccurate blue-ring advice and crab handling; clarified Clarisse's separate mother history, the established Percy/Annabeth relationship, the limited Sally/Frederick reports, shell provenance, storm-check status, and Thalia/Percy aftercare.
+- **Phase 3:** Expanded the chapter through a purposeful morning status check, observed intertidal activity, Annabeth's revised field notes, family conversation, and a conditional return plan. The chapter meets the 10,000-word floor; independent prose/developmental signoff remains open.
+- **Phase 4:** Local exact-source checks pass: 193/193 ordered, 167 pass / 26 short, 156,214 words remaining; 1,780,163 chapter-only and 1,930,715 bonus-inclusive every-offset 300-word windows with zero exact matches; 24 anchored memory groups. These are mechanical results, not full-semantic or literary certification.
+
+**Next chronological underlength chapter:** [092 Jealousy II](../chapters/092-jealousy-ii.md), at **6,375** words, needs **3,625** meaningful body words. Preserve Chapter 091's shell, sketch ownership, Thalia's morning injury check, Percy’s cleared symptom report without diagnosis, and the pending storm inspections.
+
+## Superseded checkpoint: Chapter 090
+
+Chapter 090, *Storm and Sea*, was committed at `4c592e0fdd04e66a13485e44f60b4e46d8fcfaf1` after growing **6,822 → 10,346 body words** (+3,524 net). The added scenes give Silena a shelter-count role, make the flag protocol fail in crosswind and get corrected, distinguish freshwater runoff from Sound saltwater, and track Thalia's right-palm burn and Percy's temporary hand tingling through Will's care. The [Chapter 090 handoff](handoffs/ch090-storm-and-sea.md) leaves the lake, ward, anchor and field checks pending for Chapter 091.
+
+## Superseded checkpoint after Chapter 080 (2026-10-14)
+
+**Source:** [GitHub Actions full-manuscript QA run 38611034708](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/38611034708), after the Chapter 080 expansion and handoff. The additional Chapter 080 guard is separately checked at its script-head run. Earlier tables lower in this file are historical and superseded for current totals.
+
+| Scope | Current verified result |
+|---|---:|
+| Numbered narrative chapters audited | **193** |
+| At or above 10,000 actual body words | **156** (CI-verified) |
+| Below 10,000 actual body words | **37** (CI-verified) |
+| Required additional body words to clear minimum | **195,840** (CI-verified) |
+| Exact cross-chapter 300-word duplicates | **0 exact cross-chapter matches across 1,737,367 every-offset 300-word windows** |
+| Source-anchored memory regression checks | **21 checks passed** on corpus-validation head; **22 configured** after adding Chapter 080 guard, with newest guard-head run tracked separately |
+
+**Eighteen chapter expansion results since the 138/55 baseline**:
+
+- [066, Jason's Letter](../chapters/066-jason-s-letter.md): **8,314 → 10,572** words; [memory handoff](../continuity/ch066.yaml).
+- [067, Fishing](../chapters/067-fishing.md): **5,758 → 10,292** words; [memory handoff](../continuity/ch067.yaml).
+- [068, The Storm (Small)](../chapters/068-the-storm-small.md): **5,529 → 10,328** words; [memory handoff](../continuity/ch068.yaml).
+- [070, Clarisse's Poems](../chapters/070-clarisse-s-poems.md): **6,072 → 10,543** body words (**+4,471 net**); [character, prop and permission handoff](handoffs/ch070-clarisses-poems.md). Chapter length passes, but independent semantic/prose signoff is open.
+- [069, Silena's Song](../chapters/069-silena-s-song.md): **6,001 → 10,376** words; [scene handoff](handoffs/ch069-silenas-song.md).
+- [071, Anniversary](../chapters/071-anniversary.md): **5,995 → 10,145** body words; [continuity handoff](handoffs/ch071-anniversary.md).
+- [072, New Kids](../chapters/072-new-kids.md): **5,751 → 10,093** body words; [continuity handoff](handoffs/ch072-new-kids.md).
+- [073, The Play](../chapters/073-the-play.md): **5,604 → 10,245** body words; [continuity handoff](handoffs/ch073-the-play.md).
+- [074, Tyson's Visit](../chapters/074-tyson-s-visit.md): **5,845 → 10,158** body words; [continuity handoff](handoffs/ch074-tysons-visit.md).
+- [075, Zoe's Story](../chapters/075-zoe-s-story.md): **5,558 → 10,087** body words; [continuity handoff](handoffs/ch075-zoes-story.md).
+- [076, The Promise (II)](../chapters/076-the-promise-ii.md): **5,228 → 10,350** body words; [continuity handoff](handoffs/ch076-the-promise-ii.md).
+- [077, Beach Day (Atlantis Style)](../chapters/077-beach-day-atlantis-style.md): **5,706 → 10,236** body words; [continuity handoff](handoffs/ch077-beach-day-atlantis-style.md).
+- [078, Nico's Birthday](../chapters/078-nico-s-birthday.md): **5,987 → 10,471** body words; [memory handoff](handoffs/ch078-nicos-birthday.md).
+- [079, Elena's Tale](../chapters/079-elena-s-tale.md): **5,336 → 10,116** body words; [memory handoff](handoffs/ch079-elenas-tale.md).
+- [080, The Second Dance](../chapters/080-the-second-dance.md): **5,702 → 10,440** body words; [memory handoff](handoffs/ch080-the-second-dance.md).
+- [118, A Message from Amphitrite](../chapters/118-a-message-from-amphitrite.md): **10,323 current body words** by the strict repository counter (an earlier tracker recorded 10,464); [memory handoff](../continuity/ch118.yaml).
+- [132, A Month Beneath the Sea](../chapters/132-a-month-beneath-the-sea.md): **6,296 → 10,243** words; [memory handoff](../continuity/ch132.yaml).
+- [133, Annabeth's Birthday](../chapters/133-annabeth-s-birthday.md): **8,704 → 10,660** words; [memory handoff](../continuity/ch133.yaml).
+
+The first eight changes added **27,150 net body words** and eliminated **21,495 previously required shortfall words**. The seven additional 071–077 expansions remove **30,313 required shortfall words**, giving the previously CI-verified 40-chapter/208,815-word remainder. Chapters 078–079 then removed **8,677 additional required words**, giving the **previously verified 38 chapters / 200,138 words** outstanding. Chapter 080 then removed **4,298 mandatory shortfall words**, giving the **37 chapters / 195,840 words** remaining at that checkpoint. Length overages are not counted toward another short chapter's deficit. At this historical checkpoint, the [expansion queue](handoffs/55-short-chapters-execution-queue.md) started at **081** and also included **131**; the current queue is updated above. A mechanical length pass and absence of exact duplication are not a substitute for independent full semantic, dialogue, character-memory, plot and style review.
+
+## Historical Chapters 121–160 checkpoint (2026-10-12; superseded by current all-chapter count)
 
 **22 / 40 chapters** in this range have at least **10,000 body words**, as of the targeted revisions through commit `b278fc6615e9cc4193dc4c36709e08a95fa5ed9b`. **Every chapter 140–160 (21/21)** meets the mechanical minimum, as does **121 (10,632)**. The **18 remaining short chapters are 122–139**, collectively **94,887 words short** of their individual floors. Do not call the full range finished.
 
@@ -12,13 +225,13 @@ Revised passing counts beyond the existing baseline: **140 10,163; 141 10,030; 1
 
 Chapters 147, 149 and 151 required additional memory-boundary repairs: Clarisse and Thalia cannot remember the erased Ares/Hunter/tree events, and only Percy and Annabeth remember the former timeline. No universal manuscript clearance should be inferred.
 
-Source-specific prose changes, chapter-by-chapter counts, QA limits and open acceptance gates: [full 121–160 inventory](audits/ch121-160-inventory-2026-10-12.md) and [continuity handoff](handoffs/ch121-160-2026-10-12.md). These chapters pass **word count only**, not independent full-chapter literary or cross-range 300-word QA. Continue in order at **122**.
+Source-specific prose changes, chapter-by-chapter counts and QA limits at that date: [full 121–160 inventory](audits/ch121-160-inventory-2026-10-12.md) and [continuity handoff](handoffs/ch121-160-2026-10-12.md). The stated shortfall and “continue at 122” instruction are historical and superseded: the current repository count reports all 193 chapters above the floor. This section does not claim independent full-chapter literary or cross-range semantic review.
 
 ## Chapters 014–044 current 10k-length verification (2026-10-12)
 
 **31 / 31 Chapters 014–044 meet the 10,000-body-word minimum**, each freshly fetched and recounted on this branch. The "first 36 chapters" table farther below records an earlier baseline and is **superseded** for Chapters 014–036. Do not use its old figures to plan subsequent work.
 
-The final 13-chapter closeout (body words): **018 10,001; 019 10,003; 021 10,000; 023 10,014; 027 10,000; 029 10,005; 031 10,005; 032 10,001; 033 10,001; 040 10,005; 041 10,019; 042 10,133; 043 10,052**. The other 18 chapters in 014–044 were also individually fetched and verified at or above 10,000.
+The final 13-chapter closeout (body words): **018 10,001; 019 10,003; 021 10,000; 023 10,011; 027 10,000; 029 10,005; 031 10,005; 032 10,001; 033 10,001; 040 10,005; 041 10,019; 042 10,133; 043 10,052**. The other 18 chapters in 014–044 were also individually fetched and verified at or above 10,000.
 
 Check: **126,352 overlapping 300-word windows** across those final 13 chapters, with zero exact cross-chapter matching sequences, plus single heading and UTF-8 replacement-character checks. This was **not** a full 31-chapter repeat check, a semantic similarity review, a CI run, or a final editorial signoff. Chapters exactly at 10,000 words have no deletion margin.
 

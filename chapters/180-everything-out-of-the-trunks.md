@@ -190,7 +190,7 @@ The sun came round the corner of the roof and put a warm stripe across the botto
 
 "The hoodie is his."
 
-"It's been his since before he was fourteen. I watched him buy it in a shop in Montauk in a life I don't talk about, and it has been on every hook in this camp, and now it's on you, with the shoulders folded under so it looks deliberate." She picked the cider back up. "I'm not telling you to give it back. I'm telling you that you've been caught, by me, on a Monday, and that you should have folded the shoulders the other way."
+"Now it's on you, with the shoulders folded under so it looks deliberate." She picked the cider back up. "I'm not telling you to give it back. I'm telling you that you've been caught, by me, on a Monday, and that you should have folded the shoulders the other way."
 
 Annabeth felt her ears go hot inside the hat that was no longer on her head, and she was not going to give her sister the satisfaction of touching them. "It's warm."
 

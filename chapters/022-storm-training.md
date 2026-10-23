@@ -5,13 +5,9 @@ Annabeth Grace woke up before the conch horn.
 
 That almost never happened. At Camp Half-Blood, mornings belonged to the Apollo kids with their too-loud singing and the Ares kids with their too-loud everything else, and Annabeth usually buried her head under her pillow until the last possible second and then sprinted for breakfast with one sandal on the wrong foot. Athena kids were supposed to be dignified. Zeus kids, apparently, were supposed to be disasters before nine a.m.
 
-She sat up in Cabin One and stared at the ceiling for a moment. The cabin was too big for three people plus a guest cot. Thalia had claimed the bunk by the window and turned the sill into a graveyard of busted electronics — three watches, a transistor radio, a flashlight that only worked when she was in a good mood. Jason, ten and earnest, had arrived the previous afternoon for his first in-person visit since their Iris-message. Camp Jupiter had approved a supervised week, and he had a cot made up beside the door, his blanket tucked so tight around himself he looked like a burrito. And Annabeth had the bunk closest to the door, because she liked to be the first one out if anything happened.
+She sat up in Cabin One, careful not to wake Jason in the cot beside the door. Her ten-year-old brother had arrived the previous afternoon on a newly approved seven-day visit from Camp Jupiter. Chiron had explained the supervision rules, and Thalia had shown Jason where to hang his Roman cloak without asking him to remember a childhood he'd been too little to retain. The guest bed made their huge cabin feel crowded for the first time. Thalia's side still held broken watches and a transistor radio; Jason's blanket was tucked in with a precision Annabeth suspected he'd learned from Roman instructors. Her own bunk was nearest the exit, and she'd already checked twice that Jason was still there, an embarrassed sort of relief she hadn't expected to feel.
 
-She pressed her palm to her chest. Her heart was going fast for no reason. Not nightmare-fast. Storm-fast. That buzzy, restless feeling under her skin that she'd had since arriving in this twelve-year-old body, old memories confronting powers everybody else thought she should know.
-
-In her first life — no. In the other life. The one where she was Annabeth Chase, daughter of Athena, architect, the girl who held up the sky. In that life her hands had been steady. She solved things. She built things. She read blueprints like other kids read comics. Her mind was her weapon and she knew exactly how to use it.
-
-In this life she was Annabeth Grace, daughter of Zeus, and her weapon crackled when she got nervous and made all the metal doors at camp hum.
+She pressed her palm to her chest. Her heart was racing for no reason—not nightmare-fast but storm-fast, the restless buzz under her skin since she'd arrived in this twelve-year-old body with old memories and powers everyone else assumed she already understood. In her first life—no, the other life—she had been Annabeth Chase, daughter of Athena, architect, the girl who held up the sky; her hands had been steady, her mind a weapon she knew how to use. She solved things, built things and read blueprints like other kids read comics. Now, as Annabeth Grace, daughter of Zeus, her power crackled when she got nervous, making the camp's metal doors hum.
 
 She slipped out of bed, pulled on her camp shirt and shorts, laced her sneakers, and shoved her hair back with a headband. Thalia's bunk was empty, blanket thrown back. A note on the pillow in Thalia's slashing handwriting: *Hill. Sunrise. Bring jacket. — T*
 
@@ -61,11 +57,11 @@ They breathed.
 
 The sun crested the water and spilled gold across the Sound. Gulls cried. The mist burned off the fields. Annabeth tried to count and breathe and not think about whether she was doing it wrong, which was itself thinking about doing it wrong, which made her shoulders creep up toward her ears.
 
-"Drop your shoulders," Thalia murmured. "Unclench your jaw. You're doing that Athena thing where you try to solve breathing."
+"Drop your shoulders and unclench your jaw," Thalia murmured. "You're doing that Athena thing where you try to solve breathing."
 
 "I am not—"
 
-"You are. I can hear you thinking. Stop thinking. Feel."
+"You are," Thalia said. "I can hear you counting every breath. Let the numbers go for a moment and feel what's happening."
 
 Annabeth huffed, then tried again. In for four. The air smelled like wet grass and salt and pine resin. Hold for four. Her heartbeat thudded in her ears. Out for six. Slow. Her fingertips tingled.
 
@@ -100,7 +96,7 @@ Annabeth snorted and shoved her. They dissolved into giggles as the sun climbed 
 
 Thalia Grace was a terrible teacher about almost everything.
 
-She knew this about herself. She'd tried to teach Jason to swordfight and nearly cried when he kept dropping his sword because his hands were small. She'd tried to teach cabinmates to play guitar and snapped the high E string on day two. She had no patience for slow. She had no patience for careful. She wanted to run at things headfirst and hope her skull was thicker than the problem.
+She knew this about herself. She'd tried to teach younger campers to hold their shields properly and had to turn away when their arms got tired faster than her patience. Jason had left for Camp Jupiter while he was too small for her to teach him swordplay; pretending otherwise would make one more memory into a demand he couldn't satisfy. She'd tried to teach cabinmates to play guitar and snapped the high E string on day two. She had no patience for slow. She had no patience for careful. She wanted to run at things headfirst and hope her skull was thicker than the problem.
 
 But this — sitting on a hill at dawn teaching her little sister how not to be scared of the storm inside her — this she could do. This she would sit still for.
 
@@ -182,7 +178,7 @@ Annabeth patted her hair down, giggling. "How bad?"
 
 "Like you stuck your finger in a socket. A cute socket." Thalia pulled a rubber band off her wrist. "Here. Double braids won't float as much. Turn around."
 
-She re-braided her sister's hair right there in the chalk circle, fingers quick from years of doing her own and Annabeth's, and now Jason's on his visit. The intimacy of it caught her off guard — the trust of turning your back, the smallness of Annabeth's neck, the way she hummed tunelessly while she waited. Thalia had to swallow hard.
+She re-braided her sister's hair in the chalk circle, fingers practiced from years of doing her own and Annabeth's. Jason, newly arrived with a short Roman haircut, had spent breakfast asking whether all Greek campers used so many hair ties. It had been a relief to answer a question about ordinary camp life instead of the long years she had missed. The intimacy of it caught her off guard — the trust of turning your back, the smallness of Annabeth's neck, the way she hummed tunelessly while she waited. Thalia had to swallow hard.
 
 *Don't get sappy, Grace. You'll short-circuit.*
 
@@ -307,11 +303,7 @@ Annabeth's jaw tightened. Percy recognized that look. That was the other-life An
 
 *CRACK.*
 
-A white-blue arc ripped from her palm, forked midair, and slammed into the nearest large conductive object.
-
-Which was Percy.
-
-Because Percy, son of Poseidon, twelve-year-old boy who was mostly salt water in a camp shirt, was basically a walking lightning rod.
+A white-blue arc ripped from her palm, forked through the air and slammed into the nearest large conductive object: Percy. At twelve, with Poseidon for a father and mostly salt water in a camp shirt, he was practically a walking lightning rod.
 
 "GAH!" Percy yelped as every hair on his head stood straight up. Blue sparks skittered across his shoulders and popped in his ears. He smelled burnt sugar. His teeth buzzed.
 
@@ -581,7 +573,7 @@ When the afternoon training ended, Thalia had expected Annabeth to run straight 
 
 Thalia considered the request. She had spent months worrying that Annabeth would take an uncontrolled burst of lightning as proof she was dangerous, and now her sister was asking to practice the least dramatic part of the power. It seemed worth supporting.
 
-"Put us down for Thursday," she said.
+"Put us down for Thursday," she said. "In pencil. If Chiron thinks it's safe, I'd rather spend half an hour helping you stop a spark than an entire afternoon trying to make a larger one."
 
 "Only if Chiron approves."
 

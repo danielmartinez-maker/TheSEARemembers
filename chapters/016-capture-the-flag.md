@@ -1,8 +1,6 @@
 ## Chapter 16: Capture the Flag
 
-The Poseidon cabin smelled like salt and fresh paint, which was weird because nobody had painted anything in there since approximately the Bronze Age, but Percy had decided not to question it. He was sitting cross-legged on the floor with a bowl of goldfish crackers in his lap, trying very hard to look like a normal twelve-year-old who had not spent the last three years learning how to plan ambushes with his girlfriend.
-
-This was harder than it sounded.
+Percy sat cross-legged on Cabin Three's floor with a bowl of goldfish crackers and a practice map between his knees. The room smelled of cedar, salt and leather conditioner from Clarisse's recently repaired shield. He was trying to look like an ordinary twelve-year-old preparing for capture the flag, not someone who'd spent years planning alongside the girl on the opposing team. Each time Clarisse drew another line on the map, he imagined where Annabeth would disagree; his sister had already learned to recognize the expression, which made hiding it harder than it sounded.
 
 "Okay," Clarisse said, standing in front of the cabin's big map table with a spear she was using as a pointer. She was thirteen, already taller than Percy by a good two inches, with her father's dark hair pulled back in a severe ponytail and an expression that said she had been born ready for war and mildly disappointed by everyone else's lack of readiness. "Standard rules. Two flags, two jails, creek is the boundary. Zeus team has the north woods, we have the south. First team to bring the other flag across wins. No maiming."
 
@@ -72,7 +70,7 @@ Clarisse frowned. "Why would she do that? The ridge is the best defensive positi
 
 Silence.
 
-Silena stared at him. "Percy Jackson. Did you just say 'girls are sneaky' while sitting in a cabin with your two sisters?"
+Silena stared at him. "Percy Jackson. Did you just say 'girls are sneaky' while sitting in a cabin with your two Cabin Three sisters?"
 
 "I misspoke," Percy said quickly. "I meant — tactically unpredictable! Due to — brains. Big brains. Respectfully."
 
@@ -162,11 +160,11 @@ Down by the creek, the two teams were lining up. Chiron stood on the dining pavi
 
 The two lines shuffled forward. Percy, in a blue bandana, ended up facing Annabeth, in a gray bandana. They were three feet apart. They had agreed not to share strategy before the match. By their silent mutual agreement, this was turning out to be harder than it should have been.
 
-"Hi," Percy said quietly, shaking her hand for exactly the regulation-approved length of time.
+"Hi," Percy said quietly, keeping their handshake to exactly the regulation-approved length of time.
 
-"Hi," Annabeth said, squeezing once, quickly, where nobody could see. "Creek bend. Third root tunnel. If you go for our flag."
+"Hi," Annabeth said, squeezing once where nobody could see. "The third root tunnel at the creek bend, if you go for our flag."
 
-"Willow hollow. Mud on the left, dry on the right," Percy murmured, eyes on Chiron. "If you go for ours."
+"Willow hollow," Percy murmured, his eyes still on Chiron. "Mud on the left, dry ground on the right, if you come for ours."
 
 "Percy — " Annabeth breathed. "We're on opposite teams."
 
@@ -414,21 +412,15 @@ Still. She climbed higher, crackling faintly, and scanned the south woods for a 
 
 ---
 
-Clarisse La Rue did not have feelings about capture the flag. Capture the flag was war. War did not involve feelings. War involved spears and shouting and winning.
+Clarisse La Rue did not have feelings about capture the flag. The game was war, and war meant spears, shouting, and winning. Feelings had no place in that list, which made it extremely annoying that she had any.
 
-Which was why it was extremely annoying that she currently had feelings.
-
-She crouched behind the willow curtain with her spear across her knees, watching the hollow where the blue flag hung from a low branch, rippling faintly in the breeze. It should have been a perfect defensive position. Water on two sides, thick mud that sucked at boots, willow fronds that hid everything. Annabeth — whoever she was — had called it exactly, which meant either the new girl was scary smart or someone on Clarisse's team had a big mouth.
+She crouched behind the willow curtain with her spear across her knees, watching the hollow where the blue flag hung from a low branch, rippling faintly in the breeze. It should have been a perfect defensive position. Water on two sides, thick mud that sucked at boots, willow fronds that hid everything. Annabeth had called the position exactly. Clarisse already knew the girl as Thalia's sister, Percy's girlfriend and the one who'd revised the evacuation routes after the storm. That didn't make her a teammate today. It made her an opponent who noticed the paths other campers forgot to guard, and Clarisse had no intention of losing just because Percy liked the way Annabeth drew maps.
 
 Her eyes cut to Percy, who sat beside her, dripping wet from a quick dip in the creek he'd used to "check the water" and whittling a stick with intense focus.
 
-"You're quiet," Clarisse said.
+"You're quiet," Clarisse said. "What are you thinking about?"
 
-"I'm thinking," Percy said.
-
-"About what?"
-
-"About how mud works," Percy said. "And — tactics. And whether Grover's commentary is audible from here, because I swear I just heard him say 'an absolute barn-burner at the creek, folks.'"
+Percy turned the stick between his fingers. "How mud works, mostly. Tactics, too. And whether Grover's commentary carries this far; I swear he just called this an 'absolute barn-burner at the creek.'"
 
 As if on cue, Grover's voice floated through the trees, amplified by his pipes: "AND ZOE NIGHTSHADE INTERCEPTS ANOTHER CROSSING ATTEMPT! THAT'S HER FOURTH INTERCEPTION! THE HUNT IS ON FIRE, FOLKS! ELLA, YOUR THOUGHTS?"
 
@@ -446,7 +438,7 @@ Clarisse watched him turn the color of a boiled shrimp. "Uh-huh."
 
 "It's not like that!" Percy said desperately. "I know her plans because we train together. That should be useful. To us. Our team. Very useful."
 
-"Percy," Clarisse said, and her voice came out gentler than she intended. Which was annoying, because she was supposed to be the scary older sister, not the feelings-having one. "I'm not mad. I'm just — look. You're my little brother. You're new here. Atlantis didn't prepare you for — for camp stuff. Crushes and drama and Thalia Grace glaring at you like you're a stain on her sandal."
+"Percy," Clarisse said, keeping her voice below the other defenders' hearing. "Annabeth's your girlfriend. I know that. Silena knows that. I don't need a lecture on why you like her. I need to know whether you'll guard this flag when she is on the opposite team." Her hand stayed on the worn grip of the spear. "I made you my partner today because you said I could count on you. Don't make me regret believing it."
 
 Percy blinked. "Thalia glares at everyone."
 
@@ -656,11 +648,11 @@ Percy stood beside the creek with mud on his sleeves, looking at Annabeth as tho
 
 The shouting stopped. Nico relinquished his end of the blue flag reluctantly. Annabeth handed over the other end, leaving a muddy print on the cloth. Chiron held up the banner and checked that it was still attached to its pole.
 
-"Neither flag has crossed the opposing team's finish line," he said. "No one has completed the victory condition."
+"Neither flag crossed the opposing team's finish line, so neither team completed the victory condition," he said.
 
 "But she took it," Percy said.
 
-"She did. Then the defense prevented her from leaving the hollow with it. That is an incomplete capture."
+"She did, but the defense stopped her before she could leave the hollow with it. That makes it an incomplete capture."
 
 Annabeth studied the flag, then Percy. "He also deliberately left a gap in the water screen."
 

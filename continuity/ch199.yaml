@@ -1,0 +1,101 @@
+chapter: 199
+title: "A Bed Beside the Window"
+source: "chapters/199-a-bed-beside-the-window.md"
+status: "10,214 body words; scoped arc implementation, continuity review recorded"
+relative_chronology:
+  - "Saturday after Chapter 198's Friday evening; exact date and year unknown"
+  - "Begins in Cabin One in the morning; Annabeth later helps with a Big House blanket move"
+  - "Ends Saturday evening; Ianthe is scheduled to sleep in the Big House guest room again"
+pov: "Annabeth Grace, third-person limited in scenes 1-6; Thalia Grace, third-person limited in scene 7"
+locations:
+  - "Cabin One"
+  - "Big House west storage room and passage"
+  - "Big House porch and hill path"
+people_knowledge_relationships:
+  annabeth:
+    - "Is fourteen and remains Percy's established, affectionate partner"
+    - "Negotiates room privacy and a possible third bed with Ianthe; no bed or long-term placement is agreed"
+    - "Decides she can ask Ianthe to join breakfast the following day; no invitation is delivered in this chapter"
+    - "Keeps the right to answer for herself; Thalia asks before intervening"
+  thalia:
+    - "Stays in Cabin One while Annabeth assists with the Big House blanket move"
+    - "Does not speak for Annabeth when Ianthe asks about the room; asks before offering advice"
+    - "Keeps her heel under the Chapter 193 care plan; no reassessment, recovery, or clearance is shown"
+  ianthe:
+    - "Wants a bed beside Cabin One's window and draws two room plans; neither leads to furniture being moved"
+    - "Her route plan helps the blanket crew move damp bundles without blocking the passage"
+    - "Her commands and assumptions alienate the workers; she does not apologize to them in this chapter"
+    - "Acknowledges she did not account for the cupboard door when measuring the room"
+    - "Wants to call her unnamed living mother; Chiron offers the study phone, but no call or conversation is shown"
+    - "Returns to the Big House guest room because one available cot is broken and the other is too wide for the measured space"
+    - "Has not met Leandros"
+  percy:
+    - "Remains Annabeth's secure, affectionate partner; they share a brief kiss and no relationship reset occurs"
+    - "Helps carry and sort blankets; he does not decide Ianthe's welcome or the room arrangement"
+  chiron:
+    - "Offers Ianthe another night in the Big House guest room and says the room decision needs the residents' agreement"
+    - "Finds one broken cot and another too wide for the measured space; a repair inspection remains pending"
+  eli:
+    - "Is a camper already sorting smaller blankets; Ianthe gives him an order before learning what task he has"
+source_anchored_events:
+  - id: C199_A
+    witnesses: ["Annabeth", "Thalia", "Ianthe", "Chiron"]
+    certainty: confirmed
+    event: "Annabeth and Ianthe discuss a possible third bed in Cabin One. Annabeth will not agree to moving either sister's bed before a suitable cot is found and the residents agree. Ianthe remains in the Big House guest room for another night."
+    consequence: "The room, window-side bed, and long-term placement remain unresolved. Annabeth decides she can ask Ianthe to join breakfast, but does not make that invitation on-page."
+  - id: C199_B
+    witnesses: ["Annabeth", "Ianthe", "Chiron", "Percy", "Eli", "unnamed older camper"]
+    certainty: confirmed
+    event: "Ianthe notices a useful route for moving damp blankets through the Big House west room. Chiron authorizes moving the table; the crew uses Ianthe's route. Ianthe first orders Eli without asking what he is doing, and the workers object to her directing them."
+    consequence: "Ianthe's planning skill is real and useful, but her command style alienates the workers. No apology or trust milestone follows."
+  - id: C199_C
+    witnesses: ["Annabeth", "Percy"]
+    certainty: confirmed
+    event: "Percy and Annabeth share an ordinary affectionate exchange and kiss. Percy follows Annabeth's choice not to involve him in deciding the bed arrangement."
+    consequence: "They remain a secure, established couple; no jealousy, relationship reset, or memory disclosure occurs."
+  - id: C199_D
+    witnesses: ["Annabeth", "Thalia", "Ianthe", "Chiron"]
+    certainty: confirmed
+    event: "Ianthe asks to use the Big House study phone to call her mother. Chiron agrees, but the call and its contents are not shown."
+    consequence: "The mother's identity and private history remain unknown; the call's outcome is unconfirmed."
+items_promises_injuries:
+  - item_or_event: "Thalia's left heel"
+    owner_or_people: ["Thalia"]
+    last_seen: "Still under the Chapter 193 splint and care plan; no examination, recovery, or clearance occurs."
+  - item_or_event: "Cabin One room plan"
+    owner_or_people: ["Annabeth", "Thalia", "Ianthe"]
+    last_seen: "Ianthe's revised bed plan remains on the shelf; no bed, chair, rug, or permanent room arrangement is changed."
+  - item_or_event: "Chiron's cots"
+    owner_or_people: ["Ianthe", "Chiron"]
+    last_seen: "One cot has a broken leg; the other is too wide for the measured space. The carpenter's inspection and repair timing are unknown."
+  - item_or_event: "Ianthe's requested call to her mother"
+    owner_or_people: ["Ianthe", "Ianthe's unnamed mother"]
+    last_seen: "Ianthe says she wants to call and leaves for the Big House study; no call is observed."
+  - item_or_event: "Weather chart and provisional camp map"
+    owner_or_people: ["Ianthe", "Annabeth", "Thalia"]
+    last_seen: "The weather chart and map remain distinct; shoreline marks remain provisional."
+  - item_or_event: "Fence, awning bracket, Cabin One rail, frost recheck, Cabin One stool"
+    owner_or_people: ["Camp", "Annabeth"]
+    last_seen: "No status change is shown; the fence remains braced but unrepaired, the bracket bent, rail and frost recheck open, and stool curing."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; neither memory is disclosed."
+  - "Ianthe and Leandros have not met through Chapter 199."
+  - "Ianthe's mortal mother remains unnamed and separate from Beryl; no private history, address, or contact pattern is established."
+  - "No completed mother-call or information from the call is established."
+  - "Zeus does not appear."
+  - "No maternal title, forgiveness, or trust milestone occurs."
+next_chapter_dependencies:
+  - "Continue after Chapter 199's Saturday evening; do not invent a calendar date or year."
+  - "Annabeth decides she can invite Ianthe to breakfast; no invitation has been delivered yet."
+  - "Ianthe wants the window-side bed; no suitable cot, room arrangement, or authority decision is settled."
+  - "Ianthe is expected to use the Big House guest room again; Chiron's cot inspection remains pending."
+  - "Ianthe intends to call her mother, but the call's completion and contents remain unknown."
+  - "Thalia's heel remains under the Chapter 193 care plan without reassessment or recovery."
+  - "Thalia agreed to ask Annabeth before intervening; keep Annabeth's choices hers."
+  - "Ianthe and Leandros have not met."
+  - "Carry forward the unresolved repairs, stool curing, provisional shoreline map, and Ianthe's weather chart."
+unresolved_canon_questions:
+  - "Ianthe's mother's name, history, location, and regular contact pattern remain unknown."
+  - "Whether Ianthe completes the requested call is not shown."
+  - "The broken cot repair, window-side bed, Cabin One sleeping arrangement, and long-term placement remain unsettled."
+  - "Leandros and Ianthe have not met."

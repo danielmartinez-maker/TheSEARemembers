@@ -164,9 +164,9 @@ At the forge the sawhorses had come out into the open, because a shop that was c
 
 "Chiron's. Mine's stickier." He did not look up, and he was, she noticed, standing where the doorway of Cabin Three was in his line of sight, and there was a woman in that doorway with an apron and a clipboard, and he was checking his work against the sound of her voice. Annabeth put that in the pile, the way she put everything, and went on up the hill.
 
-The greenhouse stood on the north slope with its glass in good repair and its bank still nothing but wet earth, and she stood in front of it for a moment and did not touch it, because it was one of the three lines on a page she did not own. A kid from the Ares cabin went past with a shovel and said, hopefully, "The bank?" and Annabeth said, "Ask Clarisse," and the kid said, "I don't want to ask Clarisse," which was the correct answer, and went on anyway.
+The greenhouse stood on the north slope with its glass in good repair. The north runoff bank they had repaired the day before was holding; the separate earthen banking around the greenhouse was still too wet to work, and Annabeth stood in front of it for a moment and did not touch it, because it was one of the three lines on a page she did not own. A kid from the Ares cabin went past with a shovel and said, hopefully, "The bank?" and Annabeth said, "Ask Clarisse," and the kid said, "I don't want to ask Clarisse," which was the correct answer, and went on anyway.
 
-"Not today," Clarisse said, coming up behind her with two pine branches under one arm, without being asked. "It wants a warm day and a dry soil and this is neither. You bank wet earth and you've built a sponge round the glass, and the sponge freezes, and then you've made the greenhouse worse than it was with its opinions. Ask me in November."
+"Not today," Clarisse said, coming up behind her with two pine branches under one arm, without being asked. "The soil banking wants a warm day and dry ground, and this is neither. You bank wet earth and you've built a sponge round the glass, and the sponge freezes, and then you've made the greenhouse worse than it was with its opinions. Ask me in November."
 
 "You'll say the same thing in November."
 
@@ -518,7 +518,7 @@ PINE — SAWN AND STACKED UNDER THE BRAKE. FENCE FREE. BUTT LENGTH ON THE FENCE 
 
 Clarisse read the line again: the pine was sawed and stacked, but the heavy butt length remained across the sprung fence. That last piece was too wet to move by hand, and the ground beneath it was soft enough to swallow a lever block. She wrote SLEDGE under the morning entry and drew a square round FOUR ARMS so nobody could mistake it for an invitation to work alone.
 
-The greenhouse bank and the torn awning were still on the list. Both would need attention before another storm. She disliked how much there was left, but the list had to describe the work rather than the afternoon she'd wanted to have.
+The greenhouse soil banking and the torn awning were still on the list. Both would need attention before another storm. She disliked how much there was left, but the list had to describe the work rather than the afternoon she'd wanted to have.
 
 Silena came down from the sleeping end of the cabin carrying a blanket that needed mending. She saw the paper in Clarisse's hands.
 

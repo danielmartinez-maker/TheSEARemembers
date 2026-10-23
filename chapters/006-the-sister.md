@@ -1,12 +1,6 @@
 ## Chapter 6: The Sister
 
-Thalia had been awake for most of the night, which was why she knew exactly how much noise a person could make while trying to leave a cabin unnoticed.
-
-Annabeth wasn't particularly good at it. She stopped to find her other shoe beneath the bed, nearly knocked a book off the shelf, and spent an absurd amount of time easing the latch up so it wouldn't click. The latch clicked anyway.
-
-Thalia kept her eyes shut. She heard her sister freeze in the doorway, wait, and finally slip out.
-
-Only then did she sit up.
+Thalia had been awake for most of the night, enough to know exactly how much noise a person could make while trying to leave a cabin unnoticed. Annabeth wasn't particularly good at it: she stopped to find her other shoe beneath the bed, nearly knocked a book off the shelf, and spent an absurd amount of time easing the latch. It clicked anyway. Thalia kept her eyes shut as her sister froze in the doorway, waited, and finally slipped out. Only then did Thalia sit up.
 
 The repaired shutter rattled softly in the wind. Two weeks ago she would have gone after Annabeth without thinking, and she wasn't entirely sure why she stayed put now. Perhaps it was the conversation they'd had after the first forbidden trip to the Big House. Annabeth had promised to tell her where she was going. She hadn't promised to stop going.
 
@@ -26,11 +20,7 @@ She could have offered to help inspect the Hall. She had already offered. Chiron
 
 The insult wasn't the assignment itself. Training children mattered. Thalia knew what happened to children who couldn't defend themselves. The insult was being treated as though she couldn't learn anything useful from a repair order because her father's name appeared on it.
 
-She turned away from the window and began putting away the practice equipment she'd left by the door. Her spear went on its usual hooks. Her gloves, still stiff from yesterday's rain, went over the back of a chair. A chipped mug sat beside Annabeth's bed, empty except for a spoon and a line of honey at the bottom.
-
-There had always been a mug there.
-
-When Annabeth was six, she'd insisted that honey made the tea stronger, although she had meant sweeter. Thalia had corrected her every time, until the day their mother came home furious and Annabeth crawled into Thalia's bed without asking for anything at all. After that, Thalia made the tea however her sister wanted it. The argument hadn't seemed worth having.
+She turned away from the window and began putting away the practice equipment she'd left by the door. Her spear went on its usual hooks. Her gloves, still stiff from yesterday's rain, went over the back of a chair. A chipped mug sat beside Annabeth's bed, empty except for a spoon and a line of honey at the bottom. There had always been one there. When Annabeth was six, she'd insisted honey made the tea stronger, though she meant sweeter. Thalia corrected her every time until the day their mother came home furious and Annabeth crawled into Thalia's bed without asking for anything. After that, Thalia made the tea however her sister wanted; the argument hadn't seemed worth having.
 
 Now Annabeth sometimes looked at the mug as though it belonged to another child.
 
@@ -282,15 +272,15 @@ Thalia looked at the towel. He kept twisting one end around his hand until she w
 
 "You know what questions I have?"
 
-"I think you're worried that whatever happened during her illness hasn't stopped happening. I think every time she forgets something, you feel like you're losing another part of her."
+"I think you're afraid the fever changed her in ways nobody can explain. But I don't know what it feels like for you, and I shouldn't be guessing. I know she's asked me not to speak for her."
 
 Thalia took a step toward him. "Don't tell me how I feel about my sister."
 
-"Then tell me what I got wrong."
+"I shouldn't have tried to explain your feelings. I don't know her childhood the way you do. I can only tell you what she says she's ready for."
 
-The answer stopped her. It was a reasonable request, and she hated having to consider it.
+The apology stopped her. She'd come prepared to argue with somebody certain he understood her sister better than she did; hearing Percy admit he didn't had left her with less convenient anger.
 
-"What you got wrong is thinking this is some new problem you can explain because she's talked to you a few times. I was there when she was little enough to hide behind my legs. I was there when our mother disappeared for days and she pretended she wasn't hungry because she didn't want me to worry. I was there during the fever. I know when she's trying to make herself smaller so somebody else won't be frightened."
+"What bothers me is that you think this is some new problem you can understand because she's talked to you a few times. I was there when she was little enough to hide behind my legs. I was there when our mother disappeared for days and she pretended she wasn't hungry because she didn't want me to worry. I was there during the fever. I know when she's trying to make herself smaller so somebody else won't be frightened."
 
 Percy's expression had changed. He wasn't smiling anymore.
 
@@ -300,7 +290,7 @@ Percy's expression had changed. He wasn't smiling anymore.
 
 He ran a hand through his damp hair, searching for an answer.
 
-"Maybe because I don't know those things. Maybe it's easier to talk to somebody who doesn't expect her to remember every story about being six." He paused. "That doesn't mean she'd rather have me as family."
+"Maybe because I don't ask her to finish stories from when she was six. That doesn't make me more important; it just means I'm not asking a question she can't answer yet." He paused. "That doesn't mean she'd rather have me as family."
 
 Thalia felt the words as a blow, not because they were cruel but because they were almost the thought she'd spent weeks refusing to finish.
 
@@ -314,13 +304,9 @@ Thalia felt the words as a blow, not because they were cruel but because they we
 
 The argument had nowhere easy to go. Thalia had been hoping to catch Percy in a contradiction. He kept giving her answers that left Annabeth in charge of her own choices.
 
-"I don't trust you yet," she said.
+"I don't trust you yet, and I don't like that she sneaks around with you," she said.
 
-"All right. I'm not asking you to."
-
-"I don't like that she sneaks around with you."
-
-"Neither do I. The sneaking part, I mean. We made a bad decision with the attic, and Chiron made that pretty clear. I don't want Annabeth to get hurt because I decide I know better than everybody else."
+"All right. I'm not asking you to trust me. I don't like the sneaking either—the attic was a bad decision, and Chiron made that pretty clear. I don't want Annabeth to get hurt because I decide I know better than everybody else."
 
 Thalia looked sharply at him. "You took things from the attic together?"
 
@@ -454,7 +440,7 @@ She had noticed the gaps. She'd even started keeping a little mental list, tryin
 
 "Annabeth, I was there. I know you cared."
 
-"But I wasn't, in the way you mean. I don't have the memories that prove it to me." Annabeth rubbed the back of her hand, where a faint electrical burn had healed. "When you talk about our mother or the places we lived, it feels as if I'm pretending to belong in my own family."
+"But I can't remember it. I believe you lived those years with me, and I don't want you to stop telling me about them. I just hate feeling that I have to prove I remember every story before I'm allowed to hear the next one." Annabeth rubbed the back of her hand, where a faint electrical burn had healed. "When you talk about our mother or the places we lived, it feels as if I'm pretending to belong in my own family."
 
 Thalia set down her mug. She wanted to correct the phrase, tell Annabeth she couldn't possibly be pretending. But that would answer a question Annabeth hadn't asked, and it wouldn't give back a single lost afternoon.
 
@@ -534,7 +520,7 @@ Annabeth had believed her. Or had been kind enough to pretend.
 
 Thalia could still hear her asking whether the bread would last until their mother came back. She had wanted to say yes with such conviction that she almost convinced herself.
 
-Now she couldn't even tell her sister that the drawings on the desk were safe to keep, because she didn't know where they'd come from. She could protect Annabeth against monsters. She had no idea how to protect somebody against an absence inside their own memory.
+Now she couldn't even tell her sister that the drawings on the desk were safe to keep, because she didn't know where they'd come from. Thalia knew how to stretch one meal across several days and where the safest door was in a building she'd never entered before. She couldn't make Annabeth remember a story simply by telling it more insistently. Next time she might try telling the story without asking for the ending back.
 
 She lay down but didn't sleep. At some point she heard Annabeth shift in the other bed.
 
@@ -760,7 +746,7 @@ They walked the orchard route together before approving it. The fence did come a
 
 The little job gave Thalia time to notice how Annabeth and Clarisse worked together. Clarisse asked whether the plan would hold under real conditions. Annabeth showed her the measurements instead of pretending the question was a personal attack. When Annabeth suggested a route that would put the youngest children near the creek, Clarisse explained why she didn't trust it. They disagreed, changed the drawing and moved on.
 
-Thalia had spent so long worrying about the secrets Annabeth was keeping that she'd almost forgotten what her sister looked like when she was doing something well.
+Thalia had been watching Annabeth for mistakes so closely that she'd almost missed her working with confidence. She could read a dangerous bottleneck without anyone telling her where to look, and Clarisse could accept an objection when the measurements made it useful. Thalia had room to be proud of both of them without demanding another confession.
 
 "How do you want to run the next attempt?" she asked Annabeth.
 
@@ -962,7 +948,7 @@ Annabeth kept his hand for another moment.
 
 She put the notebook under her arm and stood. Percy went down the ladder first and steadied it while Annabeth climbed after him. At the bottom, the window on the side of Cabin One opened. Thalia looked out, took in the ladder, and frowned.
 
-"Next time you inspect the roof, use a safety line," she said. "I don't have the patience to explain to Chiron why two supposedly intelligent campers fell off our cabin."
+"Next time you inspect the roof, use a safety line," she said. "I don't have the patience to explain to Chiron why two supposedly intelligent campers fell off our cabin. The left bracket still shifts when you stand on it, and I refuse to spend another afternoon pretending I wasn't right about the safety line."
 
 Annabeth looked at Percy. He could tell she was trying not to smile.
 

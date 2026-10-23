@@ -1,6 +1,8 @@
 ## Chapter 88: Spear, Song, Sea
 
-In the next week of June, the morning after the war council broke for rest, Percy Jackson woke to someone hammering on the Poseidon cabin door with the butt of a spear.
+The following week in June, after Chiron closed the storm-response review for the day, Percy Jackson woke to someone hammering on the Poseidon cabin door with the butt of a spear.
+
+By the time the training block began, Will had cleared him for ordinary, supervised practice. Sea work stayed inside the marked saltwater area, and Percy was to stop if the dizziness returned; clearance did not include holding back another storm.
 
 He knew, without opening his eyes, exactly who it was.
 
@@ -47,6 +49,56 @@ Silena threw off her blanket. "I'm in. But if Clarisse makes me do push-ups in t
 "I did not cry," Clarisse snapped. "I had seawater in my eyes. From my father. Shut up."
 
 ---
+
+Before the first lesson, Clarisse took the training plan to Chiron.
+
+He read it in the Big House with Percy and his two Camp Three sisters, Clarisse and Silena, sitting across from him. Percy had expected the centaur to approve at once. Clarisse was a skilled fighter, Silena had helped in the infirmary for years, and Percy could call the sea. Surely those were enough credentials.
+
+"What will you do if someone wants to stop?" Chiron asked.
+
+"We stop," Clarisse replied.
+
+"Then write that down."
+
+Clarisse frowned. "It's obvious."
+
+"Things are often obvious until someone is frightened or too proud to say what they need."
+
+She picked up the pencil.
+
+Chiron asked about protective gear. Clarisse wrote that the arena drills would use fitted practice weapons and a counselor would check the equipment. Silena agreed that nobody would practice field dressing on an actual injury just to make the lesson realistic. Percy wrote that his sea session would take place inside a supervised, marked area of the saltwater beach, with no assumption that everyone had identical powers.
+
+Then Chiron asked for a way to test what they learned.
+
+"A spar," Clarisse said.
+
+"Maybe," Chiron replied. "But you could also ask each student to teach back the part they learned. If Percy can explain the limits of Silena's first-aid instruction, that matters as much as whether he can win a round."
+
+Percy made a face. "You're giving us homework?"
+
+"You asked for training."
+
+"Unfortunate distinction."
+
+Silena leaned over the page. "What if we make it a three-part challenge? One part control, one part care, one part communication."
+
+Clarisse looked at her. "Does that mean we don't get to hit each other?"
+
+"It means you don't get to hit people until they've had a chance to learn something."
+
+Percy laughed.
+
+They took the proposal to the arena and showed it to Annabeth and Thalia. Annabeth liked the communication part. Thalia asked who would keep time, and Chiron assigned an Apollo counselor who wasn't competing. None of them could change the rules halfway through the week without telling the people who'd agreed to participate.
+
+Percy looked at Clarisse when they finished.
+
+"Still want to do this?"
+
+She nodded. "Yes. But now I'm going to make you read the whole sheet before I hit you with a practice spear."
+
+"Wonderful."
+
+Silena took a copy for her first-aid lesson. Percy put one with his beach equipment. Chiron retained the approved plan, and the three went to breakfast arguing about whether *stop* needed a second hand signal in case someone couldn't hear over waves.
 
 Clarisse taught first because Clarisse insisted, and no one won arguments with Clarisse before breakfast except Silena, and Silena was too busy braiding Percy's hair to argue.
 
@@ -178,6 +230,98 @@ That night Percy iced Silena's wrist and Clarisse iced Percy's shoulder, and Sil
 
 ---
 
+The first lesson did not end when Percy managed to disarm Clarisse.
+
+On the second morning, Clarisse asked Percy and Silena to help with the younger Ares trainees. One boy, Sherman, had been trying the same shield movement all week and getting angrier each time he failed. He looked at the floor rather than at Clarisse when she gave instructions.
+
+"Again," Clarisse said.
+
+Sherman didn't move.
+
+Percy watched Clarisse's shoulders stiffen. A year earlier she might have shouted. She could still shout when she thought somebody needed to hear her across an arena. But Sherman was only a few paces away, and he was already trembling.
+
+"Take a minute," she said.
+
+The boy looked surprised.
+
+"Water break. Then we figure out why the move isn't working."
+
+Sherman sat on the bench. He didn't ask Percy or Silena to sit beside him, so they stayed near the equipment racks and gave him room.
+
+Clarisse crouched in front of him and asked which part hurt. He said nothing hurt, but he couldn't make the shield rise high enough to cover his face without leaving his sword hand exposed.
+
+"Show me slowly," she said.
+
+He did. Clarisse realized the shield strap was too long for his arm. Every time he raised it the shield slipped outward and pulled his elbow away from his body.
+
+She took the shield off the practice line. "This is an equipment problem. Not a courage problem."
+
+Sherman stared at her. "I've been doing it wrong all week."
+
+"Because the shield doesn't fit. I should have checked it before the drill."
+
+Percy glanced at Silena. She looked almost proud, though she didn't say anything. Clarisse didn't need applause for correcting the mistake.
+
+They found a better shield and adjusted its grip. Sherman repeated the movement slowly, then a little faster. The shield stayed where he needed it.
+
+"Can I try with Percy?" he asked.
+
+Percy nodded. "If Clarisse says you're ready."
+
+Clarisse checked both their practice weapons, explained the stop signal and told Sherman he could end the round whenever he wanted. Percy made no effort to surprise him with a hard strike. He attacked at the pace they had agreed and waited for Sherman to raise the shield.
+
+The boy blocked twice. On the third attempt Percy changed angle, and Sherman needed to move his feet to keep up. He failed, swore and tried again.
+
+"Good," Clarisse said.
+
+"That wasn't good. I missed."
+
+"You noticed why you missed. Now fix the next one."
+
+Sherman adjusted his stance. The following block worked. He grinned despite himself.
+
+After the session he put the borrowed shield back in its marked place and asked whether he could keep using it until the original was repaired. Clarisse said yes and made an entry on the equipment list so nobody would hand him the wrong shield at the next drill.
+
+Percy sat beside her as she finished writing.
+
+"You apologized to him," he said.
+
+"I made a mistake."
+
+"You usually hate admitting it."
+
+"Still do."
+
+"Then why'd you do it?"
+
+Clarisse looked at the arena. "Because I can't ask him to learn something if I'm too proud to learn what I got wrong."
+
+Percy thought of the lessons she'd been teaching him all year, not only with weapons. He had asked his sisters to correct him when he treated them like people he was afraid to lose rather than people he actually knew. Clarisse was doing the same thing with the children in her care.
+
+"Was this part of our training?" he asked.
+
+"Yes."
+
+"You didn't mention it."
+
+"Would you have listened if I called it a lesson about admitting mistakes?"
+
+"Probably not."
+
+"Then I taught you correctly."
+
+Silena came over with clean towels for the equipment. She'd heard only the end of the exchange. Percy didn't repeat Sherman's private frustration to her; Clarisse simply explained that they needed to check the fit of every beginner shield before next week's practice.
+
+Silena agreed to help make a size chart. It was practical, dull and exactly the kind of thing that meant a younger camper could learn to fight without somebody mistaking a bad strap for cowardice.
+
+When they finished, Clarisse asked Percy to demonstrate the disarm again. He got it right once and wrong twice. She corrected his stance and reminded him to keep his left shoulder up, the same habit she'd been writing to him about during his May study block.
+
+He groaned. "You're never going to stop saying that."
+
+"Not while you keep dropping it."
+
+Silena laughed. Percy raised his shield and tried again.
+
 Silena taught second on the third evening, and Silena's classroom was the beach at sunset with a bonfire and a first-aid kit.
 
 "No spears," she announced, spreading a blanket over the sand. "No getting hit. Today we sing."
@@ -220,7 +364,7 @@ Percy, mouth full of burnt marshmallow, raised his stick like a trident. "Togeth
 
 "Don't talk with your mouth full, little brother," both girls said at once, and then stared at each other and burst out laughing while Thalia groaned, "Oh gods, there's three of them now."
 
-Annabeth caught Percy's eye over the fire and mouthed, *You okay?* He nodded, throat tight in a good way. In the life he remembered, he'd spent so many years being the only Poseidon kid, the odd one out, the prophecy boy. Now there were three heartbeats where there'd been one, and a sister who counted cadence and a sister who set the tune.
+Annabeth caught Percy's eye over the fire and mouthed, *You okay?* He nodded, throat tight in a good way. In the life he remembered, he'd spent so many years as the only Poseidon kid at camp, the odd one out, the prophecy boy. Now, at camp, Clarisse and Silena were beside him: sisters, teammates, and the voices that kept the tune.
 
 "Okay," Silena said, setting down the lyre as stars pricked out overhead. "Part two. Poultices."
 
@@ -266,7 +410,7 @@ Theo stopped crying before she tied it off.
 
 "Whoa," he whispered, staring at the three of them. "Are you all doctors now?"
 
-"We're siblings," Silena said simply, ruffling his hair. "Go show Will, get nectar. You're brave."
+"We're siblings," Silena said, asking before touching his hair. "Go show Will. He'll decide what treatment you need. You were brave to ask for help."
 
 As Will led Theo away with praise for the field dressing, Clarisse stared at her blood-stained hands. Silena bumped her shoulder.
 
@@ -283,6 +427,86 @@ Clarisse flushed. "Don't tell Ares."
 That night Percy woke from a nightmare — Luke's smile, cold water closing over his head — to find Silena humming the lullaby in the bunk beside his, half-asleep, and Clarisse's steady breathing from across the room keeping time like a shanty drum. He fell back asleep before the song ended.
 
 ---
+
+After Silena's lesson, Percy discovered that knowing how to wrap a bandage wasn't the same as knowing what to do when someone was frightened.
+
+He had been helping return the first-aid kit to the infirmary when Theo, the boy they'd treated on the beach, came out of Will's room. The bandage was clean and his calf was properly supported. He looked worried.
+
+"Did I do something wrong?" Theo asked.
+
+Percy shook his head. "Why?"
+
+"Clarisse keeps asking how it feels. Silena asked twice. I think I made everyone panic."
+
+"You got hurt," Percy said. "They were checking."
+
+"I know, but I don't want them to treat me like I'm breakable."
+
+Percy had heard a version of that complaint from Silena beside the memorial shrine. He'd spent weeks making her feel as though every scrape could become a tragedy because he remembered a future where she'd died. Theo didn't share that history. He deserved to have his own injury taken seriously without being defined by it.
+
+"Want me to ask them to stop checking?" Percy asked.
+
+Theo considered. "Maybe I want them to ask just once. Then if I need help I can say it."
+
+"Okay."
+
+Percy didn't promise to speak for him immediately. He asked whether Theo wanted to be there when they talked. The boy nodded.
+
+They found Silena and Clarisse washing the practice bandages. Theo explained that Will had given him instructions, that he'd follow them, and that he would tell someone if the swelling got worse. He didn't need the same question from three older campers every hour.
+
+Silena looked embarrassed. "I was worried."
+
+"I know," Theo said. "Thanks for helping. But I'm okay with the plan Will gave me."
+
+Clarisse nodded. "Fair."
+
+After Theo left, Silena sat on the bench with a wet strip of cloth in her hands.
+
+"I thought checking on him was kind," she said.
+
+"It is," Percy replied. "When he wants it."
+
+She looked up. "When did you become so wise?"
+
+"About six minutes ago."
+
+Clarisse snorted. "Temporary condition."
+
+Silena laughed, but the lesson stayed with her. She wrote a small note for the infirmary kit: *Ask whether the camper wants another check. Follow Will's instructions. Don't turn worry into an extra treatment.* She asked Will to review the wording. He approved it, then reminded all three Cabin Three siblings that herbal supplies, nectar and ambrosia were medicines to be used under trained supervision, not snacks or gestures of affection.
+
+Percy felt chastened. He'd once believed handing someone a bottle of nectar was the same as taking care of them. After the storm, when Will had examined his own exhausted hands, he'd begun to understand that care could mean letting a professional decide what was needed.
+
+The next afternoon Silena asked the group to practice an ordinary scenario with no blood and no heroic rescue: a camper who had tripped on the path, was uninjured, but didn't want to be touched.
+
+Percy volunteered to play the camper. Clarisse approached him in her usual direct style.
+
+"Are you hurt?"
+
+"No."
+
+"Can you stand?"
+
+"Yes."
+
+"Then get up."
+
+Percy looked at Silena. "That's not very comforting."
+
+Clarisse folded her arms. "He said he was fine."
+
+Silena asked her to start again. This time Clarisse offered a hand without grabbing Percy. Percy declined it. She stepped back and asked whether he wanted someone to walk with him to the infirmary or would rather report the fall to his counselor.
+
+"I can go to my counselor," Percy said.
+
+"Then go. Don't pretend you didn't fall if something starts hurting."
+
+Silena nodded. "Better."
+
+Clarisse looked pleased with herself in spite of her scowl. Percy pretended to limp all the way to the doorway, earning a towel thrown at his back.
+
+That evening the three Cabin Three siblings cleaned and restocked the kit, checked expiration labels and wrote down which supplies needed replacing. The inventory was less exciting than the singing had been, but the next injured camper would benefit from it.
+
+Percy watched Clarisse sign the list. She had started the week teaching everyone how to avoid getting stabbed. Silena had taught them how to avoid making injury into a performance. They were both forms of protection, and Percy wanted to remember both.
 
 Percy taught last on the fifth morning, and Percy’s classroom was *in* the sea.
 
@@ -310,7 +534,7 @@ It sounded stupid when he said it out loud. Annabeth was scribbling furiously an
 
 He taught them the way his father had coached him in recent dreams: slow exhale through the nose, let the water take the bubbles, inhale *intention*, not air. Feel the current as an extension of blood.
 
-Silena got it first. Of course she did — she sang to the sea every sunset. She slipped under, and Percy felt her heartbeat join the rhythm of the swell, steady and sweet. She stayed down ninety seconds and came up laughing, water streaming from her hair.
+Silena got the guided exercise first. Of course she did — she sang to the sea every sunset. She slipped under while Percy stayed close, keeping a small, steady current beside her. He felt her heartbeat join the rhythm of the swell, steady and sweet. She stayed down ninety seconds with him there and came up laughing, water streaming from her hair.
 
 "I heard it!" she gasped. "Percy, I heard the song down there! It's like — like a choir!"
 
@@ -324,7 +548,7 @@ Clarisse glared at him, salt stinging her eyes. "I don't — I'm not —"
 
 "It's okay to be scared," he said. "I was scared too."
 
-She stared at him. Then she took his hand — actually took it, calluses rough against his — and let him pull her under.
+She stared at him. Then she took his hand — actually took it, calluses rough against his — and let him guide her into the calmer water beside him.
 
 This time Percy stayed with her, forehead almost touching hers in the green gloom, breathing slow and visible, bubbles rising like prayers. *In. Out. Tide in. Tide out.* He projected calm the way he'd learned to project currents, wrapping her in still water.
 
@@ -391,6 +615,76 @@ Annabeth rolled her eyes, but she stood on tiptoes and kissed his cheek, quick a
 Percy walked the rest of the way back to camp floating three inches off the ground, or so Thalia claimed.
 
 ---
+
+Percy's sea lesson almost ended before anyone entered the water.
+
+He'd promised the others they could learn to breathe with the sea, but when Chiron arrived at the beach and asked him to explain the plan, he realized the words *everyone can* went beyond what he had tested himself — and beyond what the earlier guided practice had proved.
+
+"Can Clarisse breathe underwater independently as you do?" Chiron asked.
+
+"I stayed with her for two minutes," Percy said. "She held my hand, and I kept the water calm around us. I don't know whether she could repeat it on her own."
+
+"That distinction matters," Chiron said.
+
+Percy looked at his sister. She was standing beside the saltwater shallows with an impatient expression, though she was listening carefully.
+
+"I haven't tried the full thing on my own," Clarisse admitted. "With Percy there, I could stay under. I don't know what I can do without him."
+
+Silena shook her head. "Neither have I. I could hear the song with him beside me, but I don't know if I can do it alone."
+
+Percy had been assuming that because they shared Poseidon as a father, the sea would respond to them in identical ways. That wasn't true of siblings anywhere else in camp. Thalia and Annabeth didn't use their father's power in precisely the same way, and Tyson's abilities were different from Percy's despite their shared parentage.
+
+"Then we start with something else," Percy said.
+
+He asked Chiron and the shore counselor to mark the practice area with floats. The water was shallow enough that everybody could stand. A lifeguard stayed on the shore with a rescue line. Percy explained that he would demonstrate his own breathing ability but nobody else was required to imitate it, and no one would test their limits by staying underwater until they were dizzy.
+
+Clarisse gave him a skeptical look. "This is less exciting than you advertised."
+
+"Probably. But it's safer."
+
+They began by feeling the movement of waves around their ankles. Percy asked the others to describe what they noticed before he demonstrated anything. Silena spoke about the change in pressure before a wave arrived. Clarisse noticed the way the sand shifted beneath her feet and adjusted her stance automatically.
+
+"Good," Percy said.
+
+"Good what?" Clarisse asked.
+
+"You're both noticing things I didn't tell you."
+
+He waded out only as far as the marked line. When he raised a small curl of water, Clarisse could feel it change direction before it reached her. Silena closed her eyes and counted the intervals between waves, using the rhythm she'd taught them during the sea-shanty lesson.
+
+"This is singing without sound," she said.
+
+Percy smiled. "Sort of."
+
+They tried a simple exercise: Percy moved a narrow current, Clarisse signaled when she felt the pressure change, and Silena kept time. On the first attempt Clarisse called the change too late. On the second, Silena counted a beat differently and Percy's current passed the marker before Clarisse was ready.
+
+"Stop," Clarisse said.
+
+Percy stopped the water immediately.
+
+She looked at him. "Good. You heard me."
+
+He understood the significance. During the storm, Annabeth had told him to stop and he hadn't listened. They had worked out better signals, but the practice mattered more than the paper. The water didn't need to be dangerous for him to demonstrate that he could release control when another person asked.
+
+They rehearsed the emergency gestures with both sisters and the lifeguard. The counselor corrected one of the signs because a raised arm could be confused with a signal to begin swimming. Percy agreed and changed it before anyone moved farther into the water.
+
+Then he demonstrated underwater breathing alone, for a short period, while the others observed from the marked safe area. Clarisse was fascinated, but she didn't ask to try it without understanding whether she had the same capacity.
+
+"Could I learn to do it on my own eventually?" she asked.
+
+"Maybe," Percy said. "We can ask Dad and the Atlantean instructors whether there's a safe way to test it. I can't promise."
+
+Silena smiled. "That might be the most responsible thing you've ever said near an ocean."
+
+"Please don't tell anybody. I have a reputation."
+
+When they returned to shore, Annabeth gave them towels and asked each sibling to describe one skill they wanted to keep practicing. Clarisse chose reading currents without losing her footing. Silena chose giving a clear stop signal while concentrating on rhythm. Percy chose obeying that stop signal on the first call.
+
+None of them chose to swim beyond the markers.
+
+The lesson had taught Percy something about the family he'd been so eager to find. They could love the same sea, share a father and sometimes sense one another nearby without having identical powers or identical childhood memories. The difference didn't make their bond weaker. It meant he had to ask what his sisters knew rather than assume.
+
+They took the equipment back to the shore shed, returned the rescue line properly coiled and signed the practice log. Percy had wanted to give them the sea as a gift. What he could actually give them was time to learn it at their own pace.
 
 The final spar was Thalia's idea. Of course it was.
 
@@ -484,9 +778,113 @@ Percy's arms came around her automatically, sand and sweat and sunlight. "You ch
 
 "Loudest," Annabeth promised, not letting go. "Don't tell the others."
 
-"I heard that!" Silena sang, flopping down on top of them both. Clarisse followed, armor and all, and Thalia piled on with a war cry, until they were a heap of limbs and laughter in the middle of the arena while the whole camp cheered and Chiron pretended to look for his whistle and Mr. D ate popcorn and said, "About time these children learned teamwork."
+"I heard that!" Silena sang, flopping down on top of them both. Clarisse set her armor and spear safely aside before kneeling beside them, and Thalia joined the laughter at the edge of the sand, until they were a loose circle of people congratulating one another in the middle of the arena while the whole camp cheered and Chiron pretended to look for his whistle and Mr. D ate popcorn and said, "About time these children learned teamwork."
 
-Later, after Silena had poulticed every scrape with humming efficiency, after Clarisse had drilled them all — including Annabeth and Thalia — in the cool-down forms until they groaned, after Percy had led them all into the sea to float on their backs and breathe tide-in, tide-out while stars came out, the three siblings sat on the Poseidon cabin steps with salt drying on their skin.
+Chiron asked them to remain in the arena after the spectators left.
+
+Percy expected another speech about how well they had worked together. Instead the centaur put five colored stones on the ground, one for each final touch in the spar.
+
+"Tell me what happened," he said.
+
+"We won," Clarisse replied.
+
+"Nobody won," Annabeth said.
+
+"We didn't lose."
+
+"That is not the same thing."
+
+Chiron waited until they were finished arguing. Then he asked Clarisse to describe the final sequence from her own point of view. She explained how she'd turned her shield to trap Annabeth's dagger. Silena described hearing the movement change through the sand and shifting to protect Percy's exposed side. Percy said he had followed Clarisse's signal and raised his spear before Thalia could turn.
+
+Thalia frowned. "That's not what I saw. Percy raised his spear before Clarisse signaled."
+
+Percy stared at her. "No, I didn't."
+
+"Did you actually see her?" Thalia asked.
+
+He thought about it. In the rush of the last exchange he had been watching Annabeth's feet, because he'd learned she liked to move left before turning right. He had heard Clarisse call something. He hadn't seen the hand signal.
+
+"Maybe I moved first," he admitted.
+
+Chiron nodded. "That is why we review observations separately. The team executed a successful defense, but Percy may have acted on his own prediction. We should not call it communication without checking."
+
+Clarisse looked irritated. "He made the right move."
+
+"He did," Chiron replied. "But a right guess is not always a repeatable procedure."
+
+Percy made a face. He didn't like having a good moment turned into a problem. He liked it even less that Chiron was right.
+
+"How do we fix it?" he asked.
+
+Silena picked up one of the stones. "We can practice a slower version. Each person names what they need before moving. Then we do it faster."
+
+"Without weapons first," Annabeth added. "We can use ropes or flags to mark positions."
+
+Thalia nodded. "That would let me see whether you actually hear the command instead of just predicting it."
+
+Clarisse crossed her arms, considering. "Fine. But I'm not staying here all night."
+
+"Ten minutes," Chiron said.
+
+They rehearsed the final exchange with colored cloth strips. Percy had to wait for Clarisse to give the signal before moving his flag. The first time he went too early. The second time Silena couldn't hear Clarisse because Percy was talking. The third time they got the timing right, and Annabeth and Thalia managed to change their defense instead of freezing in the same positions.
+
+The outcome wasn't a draw. Thalia's team scored the point.
+
+Percy groaned. "So much for perfect teamwork."
+
+"Perfect isn't the goal," Silena said. "Better is."
+
+Clarisse looked at the colored strips and nodded reluctantly. "Again tomorrow."
+
+Chiron lifted a hand. "Only if all five of you want to, and after normal duties."
+
+"Fine."
+
+They collected the flags, put the borrowed weapons in the equipment rack and checked that no one had left a sharpened practice tip in the sand. The arena floor had to be safe for the younger campers arriving later.
+
+Outside, Sherman waited near the water barrel with his refitted shield. He had watched the spar from the bleachers and wanted to know whether Clarisse was angry about the draw.
+
+"Why would I be?" she asked.
+
+"Because you always want to win."
+
+"I still want to win." She looked toward her siblings. "But I learned something I didn't know before."
+
+Sherman considered that. "Can I be on a team next time?"
+
+"After you finish your training block. We don't put beginners into a full spar because they asked during lunch."
+
+"Okay."
+
+"But you can help us time the slow drills if you want."
+
+He brightened. "Yes."
+
+Clarisse asked the counselor to add him to the next session's volunteer list. Percy watched the boy go, then turned to his sister.
+
+"You gave him something to do that mattered."
+
+"He asked."
+
+"You're getting good at listening."
+
+"Shut up."
+
+Percy laughed. The words sounded like Clarisse, but the meaning had changed over the months they'd trained together. She could still be loud and difficult. She could also admit a mistake in front of the camper she taught and ask for a second attempt.
+
+Silena came back carrying the cleaned first-aid kit. Theo had chosen not to attend the spar because his calf wound still needed rest, but he'd asked her to tell him the result. She would, when he was ready, without inventing a story about how the team had conquered an impossible enemy.
+
+"How's your calf?" Percy asked.
+
+"Will says it's healing well. Theo asked me to stop checking it every hour, remember?"
+
+"Right."
+
+She grinned. "I'm learning."
+
+Percy nodded. They weren't suddenly masters of everything Clarisse, Silena and Percy had each taught during the week. They had practiced enough to know what they'd need to practice again.
+
+Later, after Silena had poulticed every scrape with humming efficiency, after Clarisse had drilled them all — including Annabeth and Thalia — in the cool-down forms until they groaned, after Percy had led them to the marked shallow shoreline for a supervised float before dark and they had returned to dry clothes as the stars came out, the three Cabin Three siblings sat on the Poseidon cabin steps with salt drying on their skin.
 
 "Spear," Clarisse said, bumping her shoulder against Silena's.
 
@@ -503,6 +901,40 @@ Family.
 "0700," Clarisse said. "Don't be late, little brother."
 
 "Wouldn't miss it, big sister," Percy said, and Silena, half-asleep between them, smiled like a song resolved.
+
+Before they went inside, Silena lifted her head. "Not everybody at seven, though. We need to ask the others."
+
+Clarisse looked at her. "We already agreed."
+
+"We agreed to this week. Tomorrow I have a morning shift at the infirmary."
+
+Percy smiled. "I have the sign inspection with Annabeth."
+
+"And I have Ares trainees," Clarisse admitted.
+
+They looked at one another for a moment. Then Clarisse laughed. "Fine. We pick another time. The family isn't going to fall apart because we can't fit one extra drill into Tuesday."
+
+Silena leaned back against Percy. "Exactly."
+
+He thought of the small things they'd learned from one another. Clarisse could ask a trainee what was wrong instead of shouting until he complied. Silena could help an injured camper without turning his recovery into a public performance. Percy could make the water release when somebody called stop. The lesson was not a set of movements they could perform once and forget.
+
+"When do you both have time?" he asked.
+
+Silena checked her pocket schedule. "Thursday afternoon, after I return the supplies to Will."
+
+Clarisse nodded. "I can make that work. But not seven in the morning."
+
+Percy groaned in mock disappointment. "What am I supposed to do with all this discipline?"
+
+"Save it for your homework," Silena said.
+
+Clarisse stood and held out a hand to help Percy up. He took it. She didn't let go until he was steady on his feet, though she immediately pretended she had only been checking whether he was still tired from the spar.
+
+They went inside together. Percy put his training notes in the shared cabinet, where his sisters could find the parts that belonged to the group. He kept his private notebook about Sally in the box Tyson had made for him. Different stories had different homes, even among people who loved one another.
+
+Silena hung the borrowed lyre in its case. Clarisse cleaned her spear and set it on the proper rack. Percy opened the window a little so the cabin would dry after their afternoon by the Sound. Their lives were still full of separate work, with a Thursday appointment they might need to move again if something more important came up.
+
+That didn't make the week less real. It meant they were going to keep choosing how to share their time, instead of relying on the idea that being siblings made every decision automatic.
 
 Above them, far out over the Sound, the sea kept time.
 

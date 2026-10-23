@@ -1,0 +1,74 @@
+chapter: 66
+title: "Jason's Letter"
+source: "chapters/066-jason-s-letter.md"
+status: "source-checked handoff; narrative expansion October 13, 2026"
+relative_time: "April, after Chapter 65 training; exact date unverified"
+pov:
+  - "Percy in arrival/letter-opening scene"
+  - "Thalia-centered in added shoreline signal-drill scene"
+locations:
+  - "Big House / Cabin One oak overlook"
+  - "Camp correspondence desk"
+  - "Tempest Hall shoreline and cove on Long Island Sound (saltwater)"
+participants_witnesses:
+  arrival_and_letter:
+    - "Thalia: reads Jason's letter firsthand and chooses what to read aloud"
+    - "Percy, Annabeth, Clarisse, Silena: hear only portions Thalia actually shares"
+    - "Chiron: validates authorized Roman courier without reading private content"
+  added_drill:
+    - "Thalia"
+    - "Percy"
+    - "Annabeth"
+    - "Clarisse"
+    - "Silena"
+ages:
+  percy: "13, consistent with Chapter 64; confirm any intervening age change before revision"
+  annabeth: "not reasserted numerically; birthday later in Chapter 133"
+  thalia: "exact age during this April scene unverified (16 at Chapter 28, 18 by Chapter 133)"
+family_and_secrets:
+  - "Jason is Thalia and Annabeth's younger Zeus/Grace brother, currently living in Roman Camp Jupiter"
+  - "The letter contains Jason's firsthand Roman account as reported knowledge to recipients, not their own experiences"
+  - "Thalia and others do NOT gain erased-future first-person memories"
+  - "Percy and Annabeth retain original-life memories; no disclosure to Amphitrite"
+events_and_relationship_updates:
+  - id: C066_A
+    certainty: confirmed
+    witnessed_by: ["Thalia", "Percy", "Annabeth", "Clarisse", "Silena"]
+    event: "Thalia receives Jason's authorized Roman letter and exercises choice over which passages to share"
+    carry_forward: "Do not make Jason or Thalia act as if this is their first correspondence; private text is still private"
+  - id: C066_B
+    certainty: confirmed
+    witnessed_by: ["Thalia", "Percy", "Annabeth", "Clarisse", "Silena", "Chiron"]
+    event: "Thalia sends reply and separately approved greetings; Chiron receives sealed correspondence for dispatch"
+    carry_forward: "Sending is not proof of Roman receipt; no in-person visit has been arranged"
+  - id: C066_C
+    certainty: confirmed
+    witnessed_by: ["Thalia", "Percy", "Annabeth", "Clarisse", "Silena"]
+    event: "They test cove emergency communications; first signals fail to reach everyone; repeat tests with distinct acknowledgment, three stations and weighted pennants"
+    carry_forward: "All five remember the imperfect first trial and the safer procedure; the protocol awaits testing with more people"
+  - id: C066_D
+    certainty: confirmed
+    witnessed_by: ["Thalia", "Silena"]
+    event: "Silena suggests Thalia tell Jason in a subsequent letter how his Roman drilling changed her thinking"
+    carry_forward: "Thalia commits to discussing it in a later letter, not claiming to have sent it already"
+  - id: C066_E
+    certainty: confirmed
+    witnessed_by: ["Thalia", "Chiron"]
+    event: "Sealed envelope from Beryl addressed to Jason remains unopened in correspondence-desk safekeeping pending Jason's consent"
+    carry_forward: "No character knows its undisclosed contents solely from seeing the envelope"
+props_and_injuries:
+  - "Jason's leather letter tube stays in Thalia's possession"
+  - "Earlier cleaned training rope inspected; test flags receive small sewn-in weighted hem pockets"
+  - "No new injury is introduced in the shoreline drill"
+next_chapter:
+  source: "chapters/067-fishing.md"
+  actual_opening_checked: true
+  handoff: "Chapter 67 begins another April morning on a saltwater Sound dock with Percy and Annabeth investigating currents, joined by Thalia and Grover. The letter is already received and reply dispatched. Do not treat the added drill as proof Triton arrived that day."
+qa:
+  prior_chapter_closing_scene_checked: true
+  next_chapter_opening_checked: true
+  canonical_family_boundaries_checked: true
+  third_person_limited_new_scene_checked: true
+  body_word_floor: "verify from current CI; expected >10000"
+  global_exact_300_word_repeat: "verify from current CI"
+  full_semantic_edit: "not certified"

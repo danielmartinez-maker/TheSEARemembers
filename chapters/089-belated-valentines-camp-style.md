@@ -72,6 +72,86 @@ The day had begun.
 
 ---
 
+The first argument was about the anonymous box.
+
+Drew wanted every unsigned message delivered because mystery was part of romance. Silena disagreed. An unsigned letter could be a sweet surprise, but it could also make a frightened camper wonder who had been watching them or whether they were expected to answer somebody they didn't know.
+
+"People can write anonymously," Silena said. "That doesn't mean we deliver anything they put in a box."
+
+"Then what's the point?" Drew asked.
+
+"The point is that the recipient gets to decide whether they want it."
+
+Mitchell looked up from the sorting table. "How would they decide without reading it?"
+
+"We can tell them they have an unsigned note waiting. If they want it, they can collect it. If they don't, we return or dispose of it without opening it."
+
+Drew considered that. She liked surprises, and she liked a system that made people nervous in a funny way. Silena could see she hadn't considered that an anonymous declaration might not be funny to somebody who already felt watched.
+
+"Fine," Drew said. "But I want a box with a mysterious name."
+
+"Keep the name."
+
+Ella joined them carrying a small clipboard. She had helped reorganize the camp mail after the May dispatch confusion and knew which contacts needed protected routing. This event was different from ordinary correspondence, but the same principle applied.
+
+"Do we have permission to forward letters to people who aren't here?" she asked.
+
+Silena looked at the envelopes addressed to absent campers. "We can ask Chiron to handle those through the private forwarding list. We don't write their locations on the delivery chart."
+
+"And nobody reads the contents," Ella added.
+
+"Exactly."
+
+They drew up a short set of rules for the post office. Volunteers could sort by color and cabin name, but they weren't allowed to open envelopes or pass them around for gossip. Anonymous mail would be held until a recipient chose to collect it. Any message that contained a threat, coercion or a demand for private information could be turned over to Chiron for review without being treated as a harmless joke.
+
+Travis listened with the expression of someone being denied a magnificent prank.
+
+"No exploding confetti hearts?" he asked.
+
+"Not in envelopes," Silena replied.
+
+"What about outside?"
+
+"Not without permission and cleanup."
+
+He sighed dramatically. Connor wrote the rule down, mostly because he was afraid someone else would ruin a perfectly good delivery by setting fire to the post office.
+
+Percy arrived carrying a stack of blank cards for people who had missed the morning distribution. He read the rules and frowned at one line.
+
+"What about someone who doesn't want a valentine at all?"
+
+"Then we don't deliver one," Silena said.
+
+"Even if their friends really want to send it?"
+
+"Especially then. They can ask whether a person wants a note, or save it for another day."
+
+He nodded. He had spent enough of the last few months learning that affection wasn't an unlimited pass into someone else's private life. He still didn't always remember to ask. Silena knew because he'd been the one trying to solve every scrape she got as though he could prevent losing her by supervising every moment.
+
+Milo approached the table holding a gold card. He looked from the color chart to the volunteers and back again.
+
+"Can I send something to my brother?" he asked.
+
+Silena crouched so she could speak to him without making the question public. "Do you already have a contact plan with Chiron?"
+
+"Yes."
+
+"Then bring it to him for forwarding. We shouldn't put a private family address on our open sorting table."
+
+Milo nodded. He kept the card folded in his hand. Percy didn't ask what he'd written. He remembered the letter Milo drafted after Zoe's campfire story, which Chiron had agreed to review privately, and knew the boy's family communication was still his own.
+
+"Can I make a card that just says thank you?" Milo asked.
+
+"Of course," Silena said. "It doesn't have to be romantic."
+
+He smiled, took a blue card as well and went to sit with Lucy near the doorway. Lucy was drawing a pegasus on a note for a stable volunteer who'd helped her repair one of her light-up shoes. She asked Ella whether the card could be delivered without telling the whole camp why she was grateful.
+
+"Yes," Ella replied. "We can keep the route private."
+
+Silena watched the two children work. The new mail system would not be exciting enough for Drew's taste, but it meant more people could participate without feeling exposed.
+
+When the first bag was full, she asked the volunteers to check the seals rather than the messages. Percy helped count, then stepped away to write his own note without letting anybody look over his shoulder.
+
 By nine fifteen, the pavilion was packed shoulder to shoulder.
 
 The Aphrodite cabin had set up three boxes: PINK for romantic, GOLD for friendship, BLUE for family and siblings and cabin love. There was also a small black box in the corner labeled MYSTERY / ANONYMOUS / HARMLESSLY DRAMATIC that Drew guarded with her life.
@@ -390,6 +470,92 @@ She was lying.
 
 ---
 
+Silena had almost forgotten to make a card of her own.
+
+She'd spent the morning sorting envelopes, checking which recipients had consented to anonymous notes, and giving the volunteers a safe way to send private letters through Chiron. She loved the work, but by three o'clock she realized she had written nothing for Clarisse or Percy, and her own note to Beckendorf was still blank.
+
+She sat on the steps of Cabin Three with a pen in her hand and stared at the page.
+
+"What are you doing?" Clarisse asked, coming around the corner with her spear balanced on one shoulder.
+
+"Writing."
+
+"Looks like staring."
+
+"I haven't found the right words."
+
+Clarisse sat beside her. "Then use the wrong ones and fix them later."
+
+Silena looked up. "That's terrible advice."
+
+"It's what you tell me about poems."
+
+Silena smiled despite herself. Clarisse was right. When Clarisse had shared her winter patrol poem at the spring bonfire, she'd done it despite the fear of being misunderstood. The words mattered because she'd chosen them, not because the first draft was perfect.
+
+"I want to thank Beckendorf," Silena said. "But I don't want to write that he fixes everything. He doesn't. And if I say he makes me feel safe all the time, that sounds like I'm asking him never to be afraid."
+
+Clarisse looked out toward the forge. "He's a good man. He gets scared too."
+
+"I know."
+
+"Then tell him what you actually like about him."
+
+Silena thought about the music box he had been working on. It was a beautiful gift, but it wasn't the most important thing she remembered about him. She remembered an afternoon in the forge when the first gear wouldn't turn, and Beckendorf had asked her to tell him whether she wanted him to keep trying or to put it away for another day. She'd told him she wanted to sit with him while he fixed it. They'd spent an hour together, mostly quiet.
+
+She wrote that down.
+
+Then she wrote a note to Percy about the first batch of honey cakes they'd managed to make at Atlantis without setting anything on fire. She thanked him for asking how she wanted to be helped when she was worried, rather than arriving with a solution she hadn't requested.
+
+For Clarisse she wrote about the refitted shield and the way her sister had apologized to a younger trainee when the equipment didn't fit. Silena didn't say Clarisse had become gentle overnight; she said she'd noticed the work Clarisse was doing and wanted her to know it mattered.
+
+She folded the three notes and looked at them. They weren't dramatic.
+
+"They're good," Clarisse said.
+
+"You didn't read them."
+
+"I don't need to."
+
+Silena smiled. "You're getting better at that."
+
+Clarisse leaned her spear against the step. "Can I ask you something?"
+
+"Of course."
+
+"If I write a valentine to somebody and don't want the camp to know who it is, does that make me a coward?"
+
+"No."
+
+"What if I don't know whether I want to send it at all?"
+
+"Then keep it."
+
+Clarisse stared at the ground. She'd been carrying a folded piece of paper in the inside pocket of her jacket all morning. Silena had seen it when they packed the cabin, but hadn't asked.
+
+"You could put it in the box and ask that it stay there until you decide," Silena offered.
+
+"I don't want anybody reading it."
+
+"Then don't put it in the public box. It can stay with you."
+
+Clarisse considered this, then took out the paper and folded it again, smaller. She put it away. Silena didn't ask who the letter was for, and Clarisse didn't offer to tell her.
+
+They sat together for a few minutes. The light was warmer now, falling across the porch boards where the siblings had argued about mail and meals for months. Silena thought of the first time Percy had called Amphitrite Mom during a letter-writing conversation, and of how much easier the word had become for him as he made new memories in the present. She didn't know why some things were still difficult for him. She didn't need to know the secret in order to love her brother.
+
+A boy from the Apollo cabin approached with a blue envelope and asked whether Silena could deliver it to Clarisse. Clarisse immediately held out her hand.
+
+"You can give it to me," she said. "No need to make my sister do it."
+
+The boy gave it to her and left. It was a thank-you note for teaching the beginner spear class. Clarisse read it, looked astonished and tucked it carefully into her pocket beside the unsent paper.
+
+Silena smiled. She had spent the day organizing other people's emotions as though every message required her supervision. This one had reached its recipient without any intervention from her.
+
+"Ready for the evening?" Clarisse asked.
+
+"Almost."
+
+Silena went inside to change, leaving her finished letters on the desk until she was ready to deliver them. She wasn't late to her own life simply because she'd spent the morning making room for everybody else's.
+
 By late afternoon, the whole camp buzzed with anticipation.
 
 The Aphrodite post office closed at four. Silena emerged from the pavilion looking exhausted and triumphant, ink on her fingers and glitter in her hair despite the ban.
@@ -695,6 +861,92 @@ The night softened into dancing.
 
 ---
 
+After the letters, Thalia needed some air.
+
+She went to the covered porch and sat on the steps with Jason's drawing open on her knees. The picture showed the three Grace siblings beneath a pine, but Jason had drawn Annabeth taller than she actually was and given Thalia a sword that looked more like a lightning bolt.
+
+Luke came out carrying two cups of hot chocolate. He offered one and waited for her to take it.
+
+"Want company?" he asked.
+
+"Maybe."
+
+"That's a yes or a no?"
+
+"It's a yes for now."
+
+He sat one step below her, leaving room between them.
+
+Thalia looked at the letter again. Jason had written about school in New Rome and asked whether they could meet before summer's end. He had also mentioned Beryl's invitation to bring the siblings together for a weekend, without assuming Thalia had agreed.
+
+"He's trying," she said.
+
+"Jason?"
+
+"Yeah. He doesn't keep pushing me to say yes to the house."
+
+"That's good."
+
+Thalia folded the letter. "I don't know whether I want to go back to that house. I know Mom means well sometimes. I know other times she doesn't understand why a place can make me feel like I'm eight again."
+
+Luke didn't tell her to forgive Beryl or to stop worrying. He knew the difference between a reunion that belonged to Thalia and a reconciliation other people might demand for their own comfort.
+
+"Could you meet him somewhere else?" he asked.
+
+"That's what I suggested. A walk, maybe. Just us siblings first."
+
+"Sounds sensible."
+
+Thalia looked at him sideways. "Did you just call one of my plans sensible?"
+
+"Don't tell anyone."
+
+She laughed and turned the paper over. On the back Jason had drawn a tiny red truck, one they'd talked about during the Roman visit. It was a firsthand memory for Jason in this history. Thalia had related parts of its story to Annabeth, who could only know the changed-life childhood through what others told her.
+
+"I want to tell Annabeth what I remember about this," Thalia said. "But I don't want to tell her what she's supposed to remember."
+
+"Then tell her your part."
+
+"She might be disappointed."
+
+"She might ask more questions."
+
+"That's worse."
+
+"Not always."
+
+Thalia looked toward the pavilion. Annabeth was sitting with Percy, reading her letter again and smiling. They were the same couple who'd stood beside one another through years Thalia knew only from their limited reports. Her sister was learning to inhabit a family history that felt real to everyone else. Thalia wanted to help. Sometimes that meant telling a story, and sometimes it meant admitting she couldn't give Annabeth a memory she didn't possess.
+
+She put Jason's drawing into the blue envelope.
+
+"What are you going to write back?" Luke asked.
+
+"That I want to see him. I need a location and date that don't make me promise more than I'm ready to."
+
+"And the picture?"
+
+"I'm keeping it."
+
+He nodded.
+
+Thalia looked at the card Luke had written and thanked him for it. She didn't ask him to explain whether the card was more than a gesture of chosen family. He'd been part of her life for years, and she could value the way he showed up without making it into a different kind of relationship.
+
+"I should ask him to send one to Annabeth," she said.
+
+"Why?"
+
+"Because he drew her. If she wants a copy, she should get her own, not have to borrow mine."
+
+"Sounds like you."
+
+She smiled. For once the answer was enough.
+
+They returned to the pavilion together. Silena was finishing the last delivery, and Clarisse had found Percy near the refreshments to argue about whether blue or gold should be the official family color.
+
+Thalia paused at the doorway. She could still hear the music, and she could see Annabeth stand when a slower song began. The evening was going on without her. That was fine. She wasn't required to supervise every relationship at camp.
+
+She tucked the letters safely into her jacket and went to ask Jason for a convenient time to send an Iris-message next week. The evening wasn't a deadline for giving him an answer. It was a reminder she wanted to keep asking.
+
 The dance floor was just the cleared space in front of the stage, with Iris-magic lights swirling overhead in pink and gold.
 
 Juniper dragged Grover up for a slow dance, and he stepped on her feet twice and apologized to her feet. Tyson danced with Ella, very carefully, while she recited the beats — "One-two-three, one-two-three, Tyson is surprisingly graceful for a Cyclops, fact" — and glowed.
@@ -751,7 +1003,85 @@ Percy squeezed Annabeth's hand.
 
 "Happy Valentine's, Seaweed Brain."
 
-And the night, full of letters and songs and poems and polish and dances, held them all gently — a warm, laughing, loving ensemble — until the candles burned low.
+After the final song Percy went with Annabeth to help the volunteer crew clear the pavilion. They weren't required to stay, but they'd volunteered that morning, and Ella needed someone tall enough to take the paper hearts down without tearing them.
+
+Silena was already at the sorting table, checking which letters had been collected and which remained in the sealed holding box. There were only four unsigned envelopes left. She didn't open them or speculate about the intended recipients. She recorded their status and gave the box to Chiron for private follow-up.
+
+Drew watched from the doorway. "You know, this would have been much more dramatic if we'd read them aloud."
+
+"Definitely," Silena said. "And less kind."
+
+Drew considered this, then helped stack the boxes.
+
+Percy found an envelope addressed to Clarisse lying beneath a bench. He picked it up by the edge and carried it to her rather than opening it to see whether it was important.
+
+Clarisse took one look at the handwriting and smiled.
+
+"Who is it from?" Percy asked.
+
+"Someone."
+
+"Very helpful."
+
+"Ask again and I'll give you a lecture about privacy."
+
+He grinned. "You'd have to borrow the lecture from Annabeth."
+
+Clarisse tucked the envelope away, still smiling. Percy noticed the joy but didn't demand its cause. She had shared her winter patrol poem and kept others to herself. A letter wasn't less meaningful because its contents remained private.
+
+Near the door, Nico stood with Bianca holding a gold card from Cecil. He had been invited to play another Mythomagic round the following morning. He wanted to know whether he could put the card in the hidden shelf at the fort beside Bianca's birthday letter.
+
+"It's your shelf," Bianca said. "You choose."
+
+"But the shelf is getting full."
+
+"Then maybe tomorrow you can sort what you want to keep. You don't have to decide tonight."
+
+Nico nodded. He went to get his jacket and returned with the card held carefully between two fingers. He was making a collection of invitations instead of a collection of proof that other people remembered him. Percy liked the difference.
+
+Annabeth helped Ella count the unused cards. Some would be stored for future events; others had gotten damp near the drinks and would be recycled. Percy dried the tables while Silena asked the volunteers which chores they'd agreed to take on and which they'd finished.
+
+There was no miracle in the cleanup. There were empty cups, a tired sound crew and a box of forgotten ribbons. The music box Beckendorf had made was safe in Silena's hands, and she carried it herself instead of asking someone else to protect it from the crowd.
+
+When the last lantern was dimmed, Percy found Annabeth by the path.
+
+"Good evening?" he asked.
+
+"Very."
+
+"Did you like my letter?"
+
+"I did." She smiled. "You said I always ask a better question after you think you've answered the first."
+
+"It's true."
+
+"It is." She squeezed his hand. "And you said you like it."
+
+"I do."
+
+They walked toward the cabins. Percy hadn't learned anything new about how to love Annabeth during the holiday. He'd learned that it still mattered to ask, write and listen, even when the person beside him already knew him better than anyone else.
+
+On the way home they passed the memorial shrine path. The removable board for Clarisse's approved poem lines had still not been mounted. Annabeth stopped to check the temporary fence marker, which was visible only because she'd helped design it. The work crew had signed off the repaired brace, but Chiron still wanted the final route clearance checked before the board was installed.
+
+"You thinking of doing the inspection tomorrow?" Percy asked.
+
+"Not at night. I'll ask the right people in the morning. I don't want to put a poem up just because I know where the screws go."
+
+"Clarisse would probably throw it into the sea."
+
+"She'd have every right to ask us to take it down."
+
+Percy nodded. He remembered the first time he'd heard her read a poem, how surprised he'd been and how quickly that surprise had threatened to become a demand for more. The holiday letters had reminded him that a person's words could be a gift without becoming common property.
+
+Annabeth looked up at the stars. "I think I liked the gold friendship notes best."
+
+"Not my pink note?"
+
+"I liked yours too. But the gold ones were from people who might never say those things in front of an audience."
+
+Percy smiled. The two of them continued down the marked path, leaving the shrine undisturbed until morning.
+
+The night, full of letters and songs and dances, ended with people putting things away so there would be room for another ordinary day.
 
 ---
 

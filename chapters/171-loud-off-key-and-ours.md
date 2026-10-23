@@ -180,13 +180,13 @@ Clarisse went very still.
 
 Silena waited. She had five Septembers of practice at waiting.
 
-"It's not for them." Clarisse's hands were flat on her knees, knuckles up, the way they got when she was holding something. "It's for him. It's — it's about the cabin, and the lake, and how he came in here two years ago talking to the water like it owed him money, and now I can't hear the lake without hearing him. And if I read that out loud in front of forty campers he'll go red, and then he'll be nice about it, because he's nice about everything, and then it'll be weird."
+"It's not for them." Clarisse's hands were flat on her knees, knuckles up, the way they got when she was holding something. "It's for him. It's — it's about the cabin, and the lake, and how he came in here five months ago talking to the water like it owed him money, and now I can't hear the lake without hearing him. And if I read that out loud in front of forty campers he'll go red, and then he'll be nice about it, because he's nice about everything, and then it'll be weird."
 
 "Will it?"
 
 "Yes."
 
-"Percy Jackson has never once been weird with you." Silena picked a thread off her sleeve. "Not when you taught him to keep a spear. Not when you put your jacket over him when he fell asleep on the lake shore. Not when you counted him every single day for a year and then had to stop."
+"Percy Jackson has never once been weird with you." Silena picked a thread off her sleeve. "Not when you taught him to keep a spear. Not when you put your jacket over him when he fell asleep on the lake shore. Not when you counted him every single day and then had to stop."
 
 Clarisse made a sound that was not a word.
 

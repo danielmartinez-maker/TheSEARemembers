@@ -268,7 +268,7 @@ Annabeth Grace had mapped the north beach six times, and the water still surpris
 
 She stood on the flat rock with the sun on her shoulders and her notebook safe on the quilt, pencils capped, boots lined up toes-out beside Percy's sneakers by new habit. She wore her camp shirt, sleeves rolled past the elbows, over her swimsuit — plain dark blue, sturdy straps, made for real swimming — and her olive shorts folded neatly on the rock because Silena had taught her never to swim in pockets. Her hair was rebraided tight for water, graphite still on her left cuff no matter how many times she washed, feet bare and sandy. Below her the shallows ran glassy over white sand, then dropped to green, then to the dark gold of afternoon. Freshwater, every contour verified by wading. Cold three feet down, warm on top where the day had laid its hand. Pine resin and sun-warmed stone and clean green lake. The heron gone from the skiff at last, off waiting somewhere else.
 
-Five of them on the rock. Last full day, ferry tomorrow. Thalia out on the boundary line until Friday with a sealed note in her pack and trail mix in a sock, thinking of them or not thinking, walking stones. The panel locked in Chiron's flat drawer. The tally copy wrapped in oilcloth on the Cabin Three shelf. Background, settled. Today was for floating.
+Five of them on the rock. Last full day, ferry tomorrow. Thalia had come back Friday after three days on the boundary, the sealed note in her pack and trail mix in a sock. The panel locked in Chiron's flat drawer. The tally copy wrapped in oilcloth on the Cabin Three shelf. Background, settled. Today was for floating.
 
 Silena explained the rules for Tyson even though he knew them, because explaining was part of it: one at a time, somebody holds your ankle so the current doesn't take you, when your ears go under you say one true thing, just one, you don't plan it, and when you come up nobody asks. If you explain it, the float is over and you're on dishes for a week. That's most of it. The floating's the point. The true thing's just the ticket price.
 
@@ -326,7 +326,7 @@ Tyson considered. “I have no charcoal. I will remember inside.” He tapped hi
 
 Silena fell into step beside Percy, bumped him, the PCS language. “You okay?” she asked quietly, warm and perceptive, the voice that had kept his arithmetic since June.
 
-Percy thought about it. Morning on the back step with Annabeth's words warm in his pocket. Mid-morning on the dock holding the light in daylight. Midday on the warm rock with peanut butter soft and everybody chewing. Afternoon in the line, holding Tyson's ankle while the giant said his true thing and the water held them twice. The ending coming tomorrow with the ferry, visible as weather. Thalia out on the boundary until Friday. The panel locked, the copy shelved, background. None of it resolved. All of it inhabited.
+Percy thought about it. Morning on the back step with Annabeth's words warm in his pocket. Mid-morning on the dock holding the light in daylight. Midday on the warm rock with peanut butter soft and everybody chewing. Afternoon in the line, holding Tyson's ankle while the giant said his true thing and the water held them twice. The ending coming tomorrow with the ferry, visible as weather. Thalia back from three days on the boundary. The panel locked, the copy shelved, background. None of it resolved. All of it inhabited.
 
 “Yeah,” he said. “I'm in it. I'm not counting. Well. I'm counting a little. But mostly I'm in it.”
 

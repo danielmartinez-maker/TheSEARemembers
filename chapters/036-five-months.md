@@ -4,9 +4,7 @@
 
 ---
 
-Percy woke to the sound of the lake.
-
-That was new. In his first days back in Cabin Three, he had woken to salt in the air, his sisters breathing across the room, and the feeling that the sea itself was holding its breath around him. The familiar family sounds belonged to a childhood he could not remember. Then the lake found him. Not all at once. First it was gulls before breakfast. Then it was the slap of small waves against the canoe dock. Then, after enough mornings of listening, he started waking a half-second before the conch horn, eyes already open, listening to water move against the shore like it was checking on him.
+Percy woke to the canoe lake, though it had taken months for its sounds to become familiar. In his first days back in Cabin Three, salt in the air and his sisters breathing across the room had made the sea feel close; those family sounds belonged to a childhood he could not remember. The lake reached him gradually: gulls before breakfast, small waves against the dock, then the steady lap that began to wake him a half-second before the conch horn.
 
 Today the conch didn't blow right away.
 
@@ -94,13 +92,7 @@ She wrote it down later. She wanted to remember exactly how safe it felt.
 
 ---
 
-The trouble began over a pencil.
-
-Annabeth had borrowed Thalia's black carpenter's pencil to mark the date on a scrap of card. The pencil was blunt, which made it better for the thick lines she wanted, but it belonged to Thalia and had lived in the same pocket of her jacket for almost a year. Thalia found the card when she came back to Cabin One for her shield.
-
-FIVE MONTHS, Annabeth had written.
-
-Beneath it were five little squares. Four had been shaded. She was drawing the fifth when Thalia asked, "What's that supposed to be?"
+The trouble began over a pencil. Annabeth had borrowed Thalia's black carpenter's pencil to mark the date on a scrap of card; its blunt point made thick lines, but it belonged to Thalia and had lived in the same jacket pocket for almost a year. When Thalia came back to Cabin One for her shield, she found the card marked FIVE MONTHS, its first four squares shaded and Annabeth working on the fifth.
 
 Annabeth kept coloring. "A marker."
 
@@ -316,9 +308,9 @@ She set her notebook carefully inside her shoe, rolled her jeans to her knees, a
 
 They floated side by side under the dock's shadow, holding the pilings, kicking lazily. Dragonflies stitched the air above them. A canoe full of Apollo kids drifted past, singing badly. Someone on the far shore was playing a reed pipe, thin and sweet.
 
-"Do you remember what you said after we got here?" Annabeth asked suddenly. "When I was trying to match every new detail to the old camp and we were standing at the lake after the first dinner and you said—"
+"Do you remember what you said after we got here?" Annabeth asked. "I was trying to fit each new detail into what I knew of the old camp. We were standing by the lake after our first dinner when you said—"
 
-"'At least we're lost together,'" Percy supplied. He smiled at the memory. "You said, 'We're not lost, we're on a scenic route to destiny,' and We both said we'd look at the facts before blaming anybody."
+"'At least we're lost together,'" Percy supplied, smiling at the memory. "You said, 'We're not lost; we're on a scenic route to destiny,' and we both agreed to look at the facts before blaming anybody."
 
 Annabeth laughed, water rippling around her shoulders. "I was so sure. I had it all planned. We'd get to camp, we'd train, and then — then the bolt would go missing or somebody would accuse somebody and we'd get a prophecy and go. I had a packing list. I had a *packing list*, Percy."
 
@@ -328,7 +320,7 @@ Annabeth laughed, water rippling around her shoulders. "I was so sure. I had it 
 
 Percy was quiet a moment, water lapping at his chin. "Does it bother you?"
 
-She considered the question with the seriousness it deserved. Annabeth Grace did not lie to Percy Jackson; they had learned the cost of hiding worries from each other in their old life, and had renewed the promise over a stolen bag of marshmallows here. "Yes," she admitted. "And no. Yes, because I studied for a test and now I don't know which questions are still on it. And no, because —" She gestured at the lake, the dock, the camp spread green and gold up the hill. "Because I like Tuesdays. I like knowing Clarisse will steal my toast and Silena will have extra rolls and Grover will be late because he stopped to talk to a tree. I didn't know I could like that. I thought I needed the quest to matter."
+She considered the question with the seriousness it deserved. Annabeth Grace did not lie to Percy Jackson; they had learned the cost of hiding worries from each other in their old life, and had renewed the promise over a stolen bag of marshmallows here. "Yes and no," she admitted. "Yes, because I studied for a test and now I don't know which questions still apply. But I also like Tuesdays." She gestured at the lake, the dock, and camp spread green and gold up the hill. "I like knowing Clarisse will steal my toast, Silena will have extra rolls, and Grover will be late because he stopped to talk to a tree. I didn't know I could like that. I thought I needed the quest to matter."
 
 "You matter without a quest," Percy said. He said it like it was obvious, like it was arithmetic. "You matter on Tuesdays."
 
@@ -378,7 +370,7 @@ Only Percy and Annabeth remembered the old war. Thalia knew the shape they had d
 
 And between all that preparation... Tuesdays. Ordinary ones. Pancakes and patrols and laundry duty and Percy shrieking when the water was cold and Annabeth color-coding the training schedules and Clarisse pretending she didn't care and Silena remembering everyone's birthdays and Grover learning Ella's favorite crackers and Ella learning everyone's names.
 
-Thalia hadn't unclenched all at once. It was slower than that. A loosened finger here. A breath there. A recent morning when she'd woken up and realized she'd slept through the night without her spear in her hand for the first time since she was seven, and she'd cried a little, quietly, so nobody would hear.
+Thalia hadn't unclenched all at once; the change came slowly, a finger loosening here, a breath coming easier there. Only recently had she woken to realize she'd slept through the night without her spear in her hand for the first time since she was seven. She'd cried a little, quietly, so nobody would hear.
 
 "You're thinking loud," Grover said, nudging her ankle with his hoof. "Goat senses."
 
@@ -424,7 +416,7 @@ Silena's needle paused. "Yeah."
 
 "Percy and Annabeth told us about their old solstice. The theft. The war talk. We're not there yet, but I keep waiting for the first sign. I had my bag packed. I was gonna volunteer to go. I was gonna—" Clarisse stopped, jaw working. The grindstone sparked. "I spent three years being the kid who was ready to fight and now there's nothing to fight and I don't know what to do with my hands."
 
-Silena tied off her stitch with a neat knot and bit the thread. She held up the shield strap, inspected it, nodded. "You could do with your hands what you've been doing. Teaching boneheads not to hold swords backwards. Stealing bacon. Braiding Ella's head feathers last week when she asked — don't deny it, I saw the pink ribbon."
+Silena tied off her stitch with a neat knot and bit the thread. She held up the shield strap, inspected it, nodded. "You can use your hands for the things you've been doing all along: teaching boneheads not to hold swords backwards, stealing bacon, and braiding Ella's head feathers when she asked last week. Don't deny it; I saw the pink ribbon."
 
 "It was tactical," Clarisse muttered, ears red. "Camouflage."
 
@@ -764,7 +756,7 @@ They drank. The brazier popped. The stars came out thicker. Somewhere the harpie
 
 No accusation from Olympus reached them that night. No oracle cried out. No war began.
 
-There was only camp, and dinner, and each other — seven kids at the end of a table, laughing, full and safe and together, with all the time in the world stretched gold before them.
+There was only camp, dinner, and each other—seven kids at the end of a table, laughing, full and safe for that evening. The remembered quest still had no date here; tomorrow would bring its own tasks, and none of them had to solve that before dessert.
 
 Percy wanted to believe they could keep building this life without having to sacrifice the one they remembered. He didn't know how. But he knew whom to ask for help.
 

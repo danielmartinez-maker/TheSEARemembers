@@ -1,8 +1,6 @@
 ## Chapter 35: The Letter
 
-The shoebox had lived under Thalia's bunk for three weeks.
-
-She knew exactly how many letters were inside without opening it because she counted them every night before lights-out, like some other kids counted drachmas or arrowheads or the cracks in the cabin ceiling. Seven. Seven letters from Beryl, all in the same slanted, looping handwriting that got messier toward the bottom of the page, like her mom ran out of patience with neatness before she ran out of things to say.
+The shoebox had lived under Thalia's bunk for three weeks, and she knew exactly how many letters it held without opening it. She counted them every night before lights-out, the way some kids counted drachmas, arrowheads, or cracks in the cabin ceiling: seven from Beryl, all written in the same slanted, looping hand that grew messier toward the bottom of each page, as though her mom ran out of patience with neatness before she ran out of things to say.
 
 Thalia hadn't answered any of these seven new letters. They had sent an earlier reply when Beryl first contacted the camp, but that hadn't made the next letters easier.
 
@@ -376,9 +374,7 @@ Annabeth folded the pages with shaking hands and slid them into an envelope. Tha
 
 "One down," Thalia said. "One to go."
 
-The table went quiet.
-
-Because Jason was the warm-up. Everyone knew it. Jason was easy — Jason was lists and aqueducts and *I miss you* scribbled without overthinking. Mom was different.
+The table quieted as the last line disappeared into the envelope. Jason had been the warm-up; everyone knew it. With him, they could write about lists and aqueducts, the catapult and *I miss you*, without explaining the history behind those words. Their mother was different. Every sentence to her seemed to ask them to explain their home, their memories, and how much they were willing to hope.
 
 ---
 
@@ -528,7 +524,7 @@ Grover patted his back. "It's okay to cry, Percy."
 
 Thalia laughed — wet, shaky, real — and picked up the pen to sign her name with a flourish, adding a tiny lightning bolt after the *a*. Annabeth signed underneath, adding a tiny owl.
 
-They sat back and looked at the letter. Three pages, ink-smudged, glittery in one corner where Silena had gotten overenthusiastic, with Percy's diagram on the back and a cookie crumb stuck to page two.
+When they sat back, the letter filled three pages, ink-smudged and glittery at one corner where Silena had gotten overenthusiastic. Percy's diagram covered the back, and a cookie crumb clung to page two.
 
 "It's messy," Annabeth said.
 
@@ -542,9 +538,7 @@ Annabeth could tell because Thalia kept fiddling with the shoebox, flipping the 
 
 "What?" Annabeth asked quietly, so only Thalia could hear. "What's wrong?"
 
-Thalia glanced at the others — Percy was trying to get the cookie crumb off page two without tearing it, Silena was addressing the envelopes in her perfect calligraphy, Clarisse was pretending not to listen while listening intently — and then she pulled something from the very bottom of the shoebox.
-
-A letter. Older than the others. The paper yellowed, the creases worn white, the ink faded to brown.
+Thalia glanced at the others — Percy was trying to get the cookie crumb off page two without tearing it, Silena was addressing the envelopes in her perfect calligraphy, and Clarisse was pretending not to listen while listening intently. Then she reached into the very bottom of the shoebox and drew out a letter older than the rest, its paper yellowed, creases worn white, ink faded to brown.
 
 "What's that?" Annabeth asked. She didn't recognize the envelope. No stamp, and its softened folds looked older than the letters she had received herself. Thalia would have to tell her where it belonged.
 
@@ -564,7 +558,7 @@ Percy had gone still. Silena had stopped writing. Grover set down his stamps. Cl
 
 Thalia looked at the letter for a long time. Her hands trembled.
 
-"I think..." she said. "I think I want to. Because I'm tired of it making me cry. I want to see if — if it sounds different now. With you all here."
+"I think—I think I want to," she said. "I'm tired of the letter making me cry. I want to see if it sounds different with all of you here."
 
 Annabeth moved her chair even closer and put her head on Thalia's shoulder. "Okay," she said. "We're here."
 
@@ -776,17 +770,7 @@ Annabeth thought that was sensible. Thalia was less convinced. She disliked the 
 
 They made the copies. Annabeth put hers in a labeled folder. Thalia folded hers into an envelope and wrote *only open if the original is returned* on the front. Silena did not try to persuade them to use the same system.
 
-At the mail room, Marge checked the address on each envelope and explained which dispatch would carry it. The mortal letter was ready for that afternoon. The Roman request would be forwarded to Chiron's contact, and it might be days or weeks before they knew whether the channel had accepted it.
-
-Thalia listened to the explanation twice. When Marge stamped the receipt, the sound startled her more than it should have. She had wanted to write for so long that actually sending something felt like giving away control of it.
-
-She took the receipt. Annabeth held the copied address list, careful not to smudge the ink. They had made the decisions they could make. The answer, if there was one, would belong to someone else.
-
-
-
----
-
-The walk to the mail room was a parade.
+At the arts-room table, the sealed envelopes rested beside the copies. Thalia checked the routing card once more: Beryl’s letter was addressed to the verified Manhattan address for the afternoon mortal satchel, while Jason’s was a request that Chiron would submit to the authorized Roman intermediary. The intermediary could decide whether to forward it to Camp Jupiter; it had not been accepted or delivered. Annabeth wrote that distinction in their notebook. Thalia kept the small receipt slip blank until Marge could confirm what the post office would take. They gathered the envelopes and set out for the mail room.
 
 Percy carried the Jason letter over his head like an Olympic torch. Clarisse carried the Beryl letter tucked inside her breastplate "for safekeeping," which meant no harpy, god, or idiot would dare touch it. Silena carried the shoebox, because Thalia's hands were shaking and Silena just took it without asking. Grover led the way with his Mail Enforcer badge — a sticky note that said *MAIL ENFORCER* stuck to his shirt — and Annabeth walked next to Thalia, swinging their joined hands.
 
@@ -794,7 +778,7 @@ It was lunchtime and camp was bustling. Kids stared as they marched past the cab
 
 "What's all this?" Beckendorf called from the forge, wiping sweat off his forehead.
 
-"Letter intervention!" Percy shouted back. "We did it! They wrote back!"
+"Letter intervention!" Percy shouted back. "We did it! We’re finally sending the letters!"
 
 Beckendorf whooped. A couple of Hephaestus kids cheered. Someone started chanting "MAIL! MAIL! MAIL!" and by the time they reached the post building, they had a small crowd.
 
@@ -804,7 +788,7 @@ Inside, it was dim and smelled like feathers and old paper. Three harpies perche
 
 Grover stepped forward, suddenly all business. He took the envelopes from Percy and Clarisse and laid them on the counter with a flourish.
 
-"Two outgoing," he said. "One to Camp Jupiter, via mortal post plus divine relay. One to Manhattan, mortal post, priority. Both sealed, stamped, and scented against monster interception." He tapped the small sachets of lavender Silena had tucked into each envelope. "Lavender. Monsters hate lavender."
+"Two dispatches," he said. "The Manhattan letter is addressed to the verified mortal location. Jason’s packet is a sealed request for Chiron’s authorized Roman intermediary. That contact decides whether it can be forwarded to Camp Jupiter; it isn’t a Camp Jupiter delivery yet." He tapped one of the sachets Silena had tucked inside. "She said monsters hate lavender."
 
 Marge examined the envelopes, turning them over with one talon. She sniffed the Jason letter. Sniffed the Beryl letter. Grunted.
 
@@ -812,11 +796,11 @@ Marge examined the envelopes, turning them over with one talon. She sniffed the 
 
 "Yes, ma'am," Thalia said, suddenly nervous.
 
-Marge grunted again. "Your mother writes a lot. Asks about you every time she sends one. Says 'tell my girls the pigeon came back.'" She stamped both envelopes with a heavy *THUNK*. "Good girls, writing back. Mothers worry."
+Marge grunted again. "Your mother writes a lot. Asks about you every time she sends one. Says 'tell my girls the pigeon came back.'" She looked at the addressed Manhattan envelope. "Good girls, writing back. Mothers worry." She stamped that envelope with a heavy *THUNK* and checked the seal on Jason’s request.
 
 Thalia's throat closed. "She — she asks about us? At the post office?"
 
-"Every Tuesday," Marge said. "Brings the letters herself. Wears paint on her hands. Nice lady. Worries too much." She shoved the envelopes into a canvas satchel marked *OUTGOING — MORTAL*. "They'll go out this afternoon. Anything else?"
+"Every Tuesday," Marge said. "Brings the letters herself. Wears paint on her hands. Nice lady. Worries too much." She put the Manhattan letter in a canvas satchel marked *OUTGOING — MORTAL*. She marked Jason’s request for Chiron’s Roman contact and set it aside for forwarding. "The letter goes this afternoon. You’ll hear later whether the request was accepted. Anything else?"
 
 Thalia shook her head, unable to speak. Annabeth stepped forward.
 
@@ -950,6 +934,6 @@ Annabeth wrote the status in their shared correspondence notebook, carefully sep
 
 She agreed. Thalia watched her sister put the notebook away. They had learned something useful without getting the answer they wanted.
 
-By the time they left the pavilion, both had appointments they were supposed to keep. Annabeth went to her model-building lesson; Thalia went to the practice yard. The two letters could travel without requiring the girls to follow them in their minds every minute. Neither had forgotten her family. Both had done what they could for that day.
+Annabeth put the status note away and turned toward her model-building lesson; Thalia checked the time before heading to the practice yard. They had asked for contact and clarified the routes, but no one at camp could make the answer arrive on demand. Neither had forgotten the letters. They simply had the next hour to live before checking the board again.
 
 

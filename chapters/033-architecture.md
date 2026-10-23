@@ -1,8 +1,6 @@
 ## Chapter 33: Architecture
 
-Annabeth Grace woke up with a building in her head.
-
-She had done this for years in the life she remembered. Here, in Cabin One, she still woke with unfinished plans turning over in her head before she was entirely awake, staircases that went nowhere and then, suddenly, somewhere. Usually they faded by breakfast. This one didn't.
+Annabeth Grace woke up with a building in her head, as she had for years in the life she remembered. Here in Cabin One, unfinished plans still turned over in her mind before she was entirely awake, staircases that led nowhere until, suddenly, they led somewhere. They usually faded by breakfast, but this one stayed.
 
 She sat up in her bunk in Cabin One — Zeus's cabin, all high windows and storm-gray blankets and that faint smell of ozone that never quite left, even on sunny days — and grabbed her sketchbook off the nightstand before the image could dissolve.
 
@@ -230,7 +228,7 @@ Silena thought, tapping a shell against her chin. "Somewhere to leave notes," sh
 
 Annabeth wrote that down, underlining it twice: *LEAVING PLACE — niches for notes/offerings.*
 
-Clarisse was quiet for a moment. Then she said, gruffly, "Benches with backs. So old veterans with bad backs can sit. And new kids who're scared can lean. My brother —" she stopped. "Just. Benches with backs. Low ones. So your feet touch the ground."
+Clarisse was quiet for a moment. Then she said gruffly, "Benches with backs, so old veterans with bad backs can sit and new kids who're scared can lean. My brother—" She stopped, then tried again. "Just benches with backs. Low ones, so your feet touch the ground."
 
 Annabeth wrote it down without comment, but she reached over and squeezed Clarisse's wrist briefly. Clarisse squeezed back, hard, then let go and pretended to be very interested in a piece of red tile.
 
@@ -652,7 +650,7 @@ Annabeth raised her pencil high.
 
 "To us," she said quietly, but they heard her, and they cheered, and the sound rang across the hill and into the sky, where clouds gathered white and harmless, and the sun shone down on three olive trees and a circle of stones and a group of kids who, for once, had somewhere that was exactly theirs.
 
-The first real mistake happened before anybody began laying the mosaic.
+The following Saturday, before anybody began laying the mosaic, the first real mistake appeared.
 
 Beckendorf arrived from the forge with a stack of cut cedar lengths for the roof supports. They had been measured from the approved sketch and prepared the day before. He laid them out on the grass and asked Annabeth to check the labels against the work order.
 
@@ -780,7 +778,7 @@ They gathered around her. Outside, rain pattered against the roof. The half-buil
 
 ---
 
-Annabeth went around the half-finished site after the others had gone to wash up. She marked a crooked stone for resetting and moved three tools beneath the tarpaulin so the rain wouldn't rust them.
+Annabeth went around the half-finished site after the others had gone to wash up. She marked a crooked stone for resetting and moved three tools beneath the tarpaulin so the rain wouldn't rust them. This was the second work Saturday; the original plan reserved one final weekend for walls, mosaics, planting and finishing. She would keep that date only if the footing passed inspection and the corrected supports fit.
 
 Thalia appeared with the work schedule under one arm.
 

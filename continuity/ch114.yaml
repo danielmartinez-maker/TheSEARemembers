@@ -1,0 +1,81 @@
+chapter: 114
+title: "The Space Between"
+source: "chapters/114-the-space-between.md"
+status: "expanded to 10,005 body words; independent targeted review complete; final local full-corpus duplicate scan passes; semantic/style review pending"
+chronology:
+  - "Chapter follows the several-day Clarisse recovery sequence in Chapter 113; exact elapsed days are not stated."
+  - "Chapter includes an unspecified rain before Annabeth and Thalia test the Zeus cabin gutter route; no date, season, or year is established."
+  - "Percy's song-sharing scene occurs the day after the gutter-plan scene. The last walk to the cabins is the following evening; no calendar date is given."
+  - "No Atlantis visit, new invitation, or received reply from Amphitrite occurs here. Chapter 112's letter remains sent with receipt/response unknown."
+pov: "Third-person limited across six scenes: Percy in scenes 1, 3, 4, and 6; Annabeth in scenes 2 and 5. Scene changes are marked with standalone dividers."
+scene_locations:
+  - "Camp path between library and lake"
+  - "Dining pavilion"
+  - "Camp library"
+  - "Zeus cabin porch and adjacent garden edge"
+  - "Path under the oak"
+  - "Cabin Three"
+participants:
+  - "Percy"
+  - "Annabeth"
+  - "Thalia"
+  - "Clarisse"
+  - "Silena"
+  - "Katie (briefly, on the garden edge)"
+  - "Chiron (briefly, concerning hose use and the uncompleted gutter repair)"
+directly_witnessed:
+  - "Percy hears Annabeth hum the Atlantean melody and asks where she learned it; she says she does not know and objects to having to prove its source."
+  - "Percy tells Clarisse and Silena that Triton sang the tune on Percy's last actual Atlantis visit and said he used to sing it when Percy was little."
+  - "Silena says she does not remember hearing the song; she does not identify its source. Clarisse challenges Percy for turning Annabeth's answer into a test."
+  - "Percy writes a private note separating the recent visit and Triton's report from what Percy himself remembers; he does not send a new message."
+  - "Annabeth and Thalia inspect the temporary gutter support from Chapter 111, ask Katie about the future herb-bed boundary, and run the short low-flow test Chiron authorizes. He says to tell him before digging; Annabeth proposes showing him their plan first, and Thalia agrees. Permanent digging remains pending."
+  - "Annabeth and Thalia discuss the difference between Thalia's childhood memories and Annabeth's present knowledge; Annabeth does not claim to remember the childhood Thalia describes."
+  - "Percy sings the melody for Annabeth in Atlantean and gives his non-literal understanding of its story. Annabeth asks what the song means to him and chooses to keep it without claiming a childhood memory."
+  - "Percy and Clarisse/Silena discuss the limits of what his note establishes while Silena continues her independent garden-label work. No one conducts a camp-wide song search."
+  - "Annabeth and Percy adjust the final pause together and sing that version briefly on the path. They remain an established romantic couple; their affection is nonsexual."
+reported_facts:
+  - fact: "Triton used to sing the song when Percy was little."
+    source: "Triton told Percy during a later actual visit; Percy does not recall hearing it as a child."
+  - fact: "Thalia remembers Annabeth making small watercourses in dirt when Annabeth was young."
+    source: "Thalia tells Annabeth directly; Annabeth does not claim the memory as firsthand."
+private_or_remembered_facts:
+  - "Percy and Annabeth remain the only characters with memories of the erased future. They do not disclose that fact in this chapter."
+  - "Percy's altered-childhood memories remain inaccessible to him autobiographically; Amphitrite is not told about this predicament."
+  - "Annabeth retains memories of her established relationship with Percy but has no recovered memory of the childhood Triton described."
+relationships:
+  - pair: "Percy / Annabeth"
+    state: "Established partners. Percy recognizes that his questioning felt like a memory test, apologizes through changed behavior, sings when Annabeth asks, and shares the final version by choice."
+  - pair: "Annabeth / Thalia"
+    state: "Zeus/Grace sisters. Thalia shares a childhood account; Annabeth distinguishes hearing it from remembering it. They collaborate on a current cabin task and negotiate autonomy without resolving their whole history."
+  - pair: "Percy / Clarisse / Silena"
+    state: "Poseidon siblings. Clarisse is recovering and remains on gradual practice limits; Silena has her own garden-label project and can define its scope."
+items_promises_injuries:
+  - item_or_event: "Private note about Triton's song report"
+    owner_or_people: ["Percy"]
+    current_status: "kept in Percy's jacket; not sent or shared as a request for evidence"
+  - item_or_event: "Zeus cabin gutter and proposed runnel"
+    owner_or_people: ["Annabeth", "Thalia", "Chiron", "Katie"]
+    current_status: "temporary support remains; low-flow test informs a proposed route; no permanent digging shown; Annabeth and Thalia plan to show Chiron before digging; preserve Katie's marked future herb-bed boundary"
+  - item_or_event: "Clarisse practice recovery"
+    owner_or_people: ["Clarisse", "Percy"]
+    current_status: "Chapter 113's gradual-return status continues; this chapter adds no hard-contact bout or new injury"
+unknowns:
+  - "The song's original author, exact title, full lyrics, and route into Annabeth's awareness are unknown."
+  - "Whether Triton sang directly to Percy in childhood, sang near him, or described a broader habit remains unknown. Percy does not remember such an event."
+  - "Whether Silena, another camper, or any other person previously hummed the melody is unknown; no one is confirmed as its source."
+  - "Chapter date, month, season, year, and exact elapsed time from Chapter 113 are unknown."
+  - "Whether the gutter route passes a longer flow test or receives permanent repair is unknown."
+next_chapter:
+  chapter: 115
+  opening_checked: true
+  locator: "chapters/115-the-old-photograph.md#L1-L25"
+  handoff: "Chapter 115 opens with Annabeth and Thalia working on a Zeus cabin shelf and finding the old photograph. Chapter 114 does not establish a date for that scene or identify the photo."
+qa:
+  body_words: 10005
+  count_method: "scripts/audit_chapter_length.py whitespace-separated body words; Markdown heading and standalone scene dividers excluded"
+  previous_chapter_closing_scene_checked: true
+  next_chapter_opening_checked: true
+  private_memory_boundary_checked: true
+  age_and_date_inference_checked: true
+  exact_300_word_duplicate_check: "Final local QA on 2026-10-17: zero exact matches across 1,941,481 chapter-only windows and 2,092,033 bonus-inclusive windows in 196 files."
+  independent_semantic_and_style_review: "targeted Chapter 113–115/canon review complete; full-manuscript literary signoff pending"

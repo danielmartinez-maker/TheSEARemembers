@@ -8,7 +8,7 @@ Percy smelled it before he opened his eyes.
 
 That was the thing about October: the smell arrived first and the cold arrived second. He lay under his quilt with one arm out and let the cabin tell him the shape of the day without moving. Somebody — Silena, only Silena — had the big bowl on the table already, and the spoon going, and the particular wet slap of a dough that has decided to be a dough happening at intervals of about ten seconds. The two high windows had gone white. Not frosted: fogged, from the inside, which meant the stove was up and the kettle was on and the room had sealed itself against the morning like a hand closing over a match.
 
-He had gone to bed Tuesday night with the hall still in his shoulders — the steam off the water, the lantern hooked on the rail, the long walk up the hill afterward with Annabeth's hand cold in his and then not cold — and woken into a cabin that smelled like a bakery, and for about four seconds he was ten years old in a kitchen he could not have described to anybody without getting the details wrong, and then he was fourteen, in Cabin Three, and the spoon was going again.
+He had gone to bed Tuesday night with the hall still in his shoulders — the steam off the water, the lantern hooked on the rail, the long walk up the hill afterward with Annabeth's hand cold in his and then not cold — and woken into a cabin that smelled like a bakery, and for about four seconds the smell gave him the feeling of being ten in a kitchen, without any detail he could trust, and then he was fourteen, in Cabin Three, and the spoon was going again.
 
 "Nobody's allowed up yet," Silena said, without turning around. "The floor's for me and the dough until it says what it's going to do."
 

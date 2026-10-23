@@ -1,11 +1,7 @@
 ## Chapter 24: The Climbing Wall
 
 
-Percy Jackson woke up knowing two things.
-
-One: today was climbing wall day, which meant the whole camp would gather to watch people get chased by lava and scream in front of their friends.
-
-Two: his left shoe was missing, and Grover was chewing on something that sounded suspiciously like leather.
+On climbing-wall mornings, Percy usually woke before the horn, partly because the forge crew started testing the gears at dawn and partly because Grover's stress-chewing sounded like a tiny carpentry project. The first thing Percy saw was his own sneaker beside Grover's mouth.
 
 "Grover," Percy said, sitting up in his bunk and squinting through the morning light slanting into Cabin Three. "Tell me you're not eating my shoe."
 
@@ -25,7 +21,7 @@ Grover sighed dramatically and handed the shoe back. "My mom says stress-chewing
 
 Beckendorf and the Hephaestus kids had been tuning it since dawn. Percy could hear the clank-clank-clank of metal, and every few minutes a deep WHOOMPH that made the windows rattle.
 
-Camp-wide climbing wall day only happened once a month. Normally you just climbed with your cabin or whoever happened to be free after sword practice. But today was the big one — teams of three, bracketed, single elimination, with Silena Beauregard and Zoe Nightshade doing live commentary from the top tower through Charles Beckendorf's brass speaking trumpet, rigged with wind-nymph amplification so everyone on the hill could hear.
+Camp-wide climbing wall day only happened once a month. Normally you just climbed with your cabin or whoever happened to be free after sword practice. Today the camp had gathered for one featured race between teams of three, with Silena Beauregard and Zoe Nightshade doing live commentary from the top tower through Charles Beckendorf's brass speaking trumpet, rigged with wind-nymph amplification so everyone on the hill could hear.
 
 Percy splashed water on his face from the basin by the door. The water felt good. It always felt good, like the water was happy to see him. He didn't tell people that part because it sounded weird, even for camp.
 
@@ -86,11 +82,7 @@ And now they were on opposite teams on lava day, with the whole camp watching.
 ---
 
 
-Annabeth Grace loved plans the way Percy loved water.
-
-Which was to say, completely, instinctively, and in a way that made other people roll their eyes.
-
-She was sitting on the porch of Cabin One — Zeus's cabin, all white marble and humming ozone and tall ceilings that made thunder sound louder inside — with a wax tablet on her knees and a stylus behind her ear, sketching the climbing wall from memory.
+Annabeth Grace loved plans the way Percy loved water: completely, instinctively, and in a way that made other people roll their eyes. She was sitting on the porch of Cabin One—Zeus's cabin, all white marble and humming ozone and tall ceilings that made thunder sound louder inside—with a wax tablet balanced on her knees and a stylus tucked behind her ear, sketching the climbing wall from memory.
 
 Thalia Grace was braiding her own hair beside her, lightning crackling faintly between her fingertips every time she got bored. Which was every eight seconds.
 
@@ -307,7 +299,7 @@ The climbing wall loomed above them all, a massive shifting cliff of rock and wo
 
 Two bells hung at the top. First team to ring their bell wins.
 
-"Okay, today's first match!" Silena announced, reading from a pink scroll. "On the west face, in blue headbands — Percy Jackson, Grover Underwood, and Ella!"
+"Okay, today's featured race!" Silena announced, reading from a pink scroll. "On the west face, in blue headbands — Percy Jackson, Grover Underwood, and Ella!"
 
 Cheers from Poseidon's supporters (Silena on the tower, Clarisse on the other team, and Percy cheering for himself), the satyrs, and the library harpies, who flapped so hard they made a windstorm.
 
@@ -331,7 +323,7 @@ The cheer was deafening. Zeus cabin (Thalia and Annabeth) thundered, Ares cabin 
 
 "Okay, okay! Chiron, take it away!"
 
-Chiron raised his flag. "Climbers ready? Remember — no weapons, no pushing below the waist, no summoning lightning on the wall —"
+Chiron raised his flag. "Climbers ready? Remember: no weapons, no pushing below the waist, and no using power to move another climber or interfere with the machinery. A stray static snap is not a foul, but keep it away from the holds. A deliberate lightning discharge stops the event. If you hear the emergency horn, freeze and await extraction. Understood?"
 
 He looked pointedly at Thalia and Annabeth.
 
@@ -356,7 +348,7 @@ He loved lots of things — nature, music, enchiladas, juniper nymphs named Juni
 
 "Because you're brave and noble and I promised you extra enchiladas!" Percy called from ten feet above him. Somehow Percy was already ten feet up, moving like water flowing uphill. He didn't seem to climb so much as slosh from hold to hold, always finding the solid one, always shifting his weight a half-second before the rock moved.
 
-"Enchiladas!" Ella chirped beside Grover. She'd fluttered up — technically gliding, technically against the rules, but she only did it in tiny hops and Chiron pretended not to see because she was so earnest. "Ella likes enchiladas. Chapter nine. 'Enchiladas are a traditional Mexican dish.' Ella remembers. Grover, your left hoof is on a stable hold. Your right hoof needs to move up six inches to the blue-speckled rock. That one is bolted. The gray one squeaks."
+"Enchiladas!" Ella chirped beside Grover. Her claws took each hold while her wings flared to steady her. She had memorized the maintenance logs and could point out the safe blue-speckled rock without leaving the wall. "Ella likes enchiladas. Chapter nine. 'Enchiladas are a traditional Mexican dish.' Ella remembers. Grover, your left hoof is on a stable hold. Your right hoof needs to move up six inches. The gray one squeaks."
 
 Grover moved his hoof. The gray one squeaked and dropped three inches. Ella nodded sagely. "Ella told you. Ella is always right about squeaks."
 
@@ -461,11 +453,11 @@ Thalia shook it off, refocused, and took point again. The wall groaned — Annab
 
 She loved that half-second of air, when the rock fell away and it was just her and gravity and the choice to catch the next hold or fall. She caught it, swung, kicked off a lava-slicked panel that was hot through her sneakers, and landed on a narrow chimney crack.
 
-"YEAH!" she shouted, punching the air. Lightning — just a little, just static — snapped off her fist. The crowd went wild.
+"YEAH!" she shouted, punching the air. A tiny static snap jumped from her knuckles, nowhere near the holds. The crowd went wild.
 
-"THALIA! NO LIGHTNING!" Chiron bellowed from below.
+"THALIA, KEEP THE SPARKS CLEAR OF THE GEAR!" Chiron bellowed from below.
 
-"THAT WAS STATIC ELECTRICITY!" Thalia bellowed back. "TOTALLY NATURAL! SCIENCE!"
+"IT'S STATIC, NOT A BOLT!" Thalia bellowed back. "TOTALLY NATURAL! SCIENCE!"
 
 Annabeth sighed so hard Thalia could hear it three holds down. "You're going to get us disqualified."
 
@@ -577,7 +569,7 @@ WHOOMPH. Lava blasted left.
 
 They scrambled up while the vents recharged. Ella fluttered-hop to the next ledge, Grover bleating the whole way, Percy right behind them, finding holds by feel more than sight.
 
-He'd never told anyone how he did it. Not really. It wasn't like Annabeth's counting or Thalia's strength. It was just... the water told him. When the pipes filled, the rock got a tiny bit cooler. When pressure built, the air got damper. His skin prickled. His gut said move.
+Percy had never explained how he did it. It wasn't Annabeth's counting or Thalia's strength; it was the water speaking through small changes in the wall. When the pipes filled, the rock cooled a little. When pressure built, the air grew damper, and his skin prickled before his gut told him to move. He could sense the pattern there without knowing exactly how he knew it.
 
 "You're doing it again," Ella observed, perched beside him, adjusting her glasses. "Your eyes go unfocused. Like you're listening. Page twelve: 'Percy Jackson listens to walls.' Ella wrote that. In Ella's head. Ella's head-book."
 
@@ -640,7 +632,7 @@ Unless he wasn't guessing. Unless he knew she was going to move on twenty-nine, 
 
 Annabeth tried to shove Thalia off the ledge. Thalia dodged, laughing, static making her hair float.
 
-"I'm serious," Annabeth said, but she was watching Percy again. He was helping Grover up, one hand on the satyr's back, the other testing the next hold. He did it without looking — left hand out, fingers spread, catching Ella's wingtip just as she wobbled.
+"I'm serious," Annabeth said, but she was watching Percy again. Percy steadied Grover while Ella tested the next hold. When Ella wobbled, he caught her wingtip without taking his eyes from the route.
 
 Left hand. Always left hand for catches.
 
@@ -713,7 +705,7 @@ Thalia burst out laughing so hard she almost fell off. "OH MY GODS! YOU EVEN YEL
 
 "Annabeth's calling counts! Percy’s moving before she finishes calling them! How does he do that? How does she know he's going to do that? Do they rehearse this? Is there a secret practice wall? Zoe, investigate!"
 
-"I will not investigate their courtship rituals," Zoe said firmly. "I was a Hunter. I remain neutral in matters of the heart. Though..."
+"I will not investigate their courtship rituals," Zoe said firmly. "I prefer to remain neutral in matters of the heart. Though..."
 
 "Though what? Though what? Tell me!"
 
@@ -798,9 +790,7 @@ Clarisse looked between them, then at Thalia. "Are they... doing the thing? The 
 
 Luke liked to tease her about getting soft whenever she let a Poseidon kid off the hook. *Sea and sky don't mix,* he'd said once, laughing over a capture-the-flag map. Thalia had told him to stop drawing tides on her half of the page.
 
-But looking at these two dorks — twelve years old, covered in soot, grinning at each other after nearly getting melted — Thalia couldn't find the anger. It just... wasn't there. Just a tired, fond ache, like a bruise healing.
-
-She laughed. Actually laughed. Threw her head back and laughed so hard lightning danced in her teeth.
+Looking at these two dorks—twelve years old, covered in soot and grinning at each other after nearly getting melted—Thalia couldn't find the anger. Instead, she felt a tired, fond ache, like a bruise healing, and the feeling drew a laugh out of her before she could hide it. She threw her head back, lightning dancing in her teeth.
 
 "You two are idiots," she said, ruffling Annabeth's hair and then, before she could think better of it, ruffling Percy's too. Percy ducked, shocked. Thalia Grace usually made Poseidon kids earn the teasing. This one had earned it. "Adorable, lava-dodging idiots. Come on. Losers buy the winners ice cream?"
 
@@ -1035,18 +1025,10 @@ Above them, the climbing wall stood silent and cooling, lava dimming to embers. 
 
 But today was just lava and lake water and friends shouting your name.
 
-Percy closed his eyes and floated.
-
-Beside him, Annabeth floated too.
-
-And for once, Thalia, watching from the dock with Clarisse, was dripping wet and grinning. She let the moment be.
-
-Thalia watched Percy and Annabeth float until Clarisse splashed her from behind. She caught her friend by the wrist, lost her footing on the wet boards, and pulled them both into the lake.
-
-Percy rolled over to see what the noise was. Annabeth, still floating, didn't even open her eyes.
+Percy closed his eyes and floated beside Annabeth, their shoulders brushing whenever the lake shifted. Thalia watched from the dock until Clarisse crept up behind her and splashed her. Thalia grabbed Clarisse's wrist; both lost their footing and dropped into the water. Percy rolled over at the splash. Annabeth kept her eyes closed.
 
 "Don't help them," she said.
 
 "I wasn't going to."
 
-"Good."
+He stayed beside her while Thalia and Clarisse surfaced, laughing and arguing over who had started it.

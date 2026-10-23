@@ -26,3 +26,9 @@ Weather and sky/sea power development need date and safety notes before the long
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
 **Audit status:** Evidence-linked screening, not an implemented fix.
+
+## Current PR #103 repair note (2026-10-17)
+
+- **Source:** Current working-tree blob `ec6a3b3964053eaa29b286d53f84fef13e1c2f0e`; mechanical body count **10,026**.
+- **Repair:** The post-drill description at [L596](../../chapters/139-storm-season.md#L596) now calls Jason twelve, matching the earlier “twelve-year-old Jason” at [L463](../../chapters/139-storm-season.md#L463). The conflicting thirteen-year-old wording was removed. His exact birth date is not inferred.
+- **Scope:** This resolves the within-chapter age mismatch. The chapter remains covered by the bounded 134–139 ledger, not full-scene editorial signoff.

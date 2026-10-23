@@ -1,0 +1,104 @@
+chapter: 194
+title: "A Place at the Table"
+source: "chapters/194-a-place-at-the-table.md"
+status: "10,887 body words; first installment drafted; arc-level review pending"
+relative_chronology:
+  - "Monday immediately after the Sunday-night close of Chapter 193; exact calendar date and year remain unknown"
+  - "Begins with Cabin Three breakfast and Percy’s promised private apology to Thalia"
+  - "Leandros arrives later that day with satyr escort Callum; he chooses to sleep in Cabin Three that night"
+pov: "Percy Jackson, third-person limited"
+location:
+  - "Cabin Three"
+  - "Cabin One porch and main room"
+  - "North path, bent fence, and repaired granite step"
+  - "Dining pavilion"
+people_knowledge_relationships:
+  percy:
+    - "Privately apologizes to Thalia for pressing her about her heel in public; she appreciates the apology but does not forgive him yet or give a timeline"
+    - "Meets Leandros, age sixteen, and learns he is Poseidon’s son; the trident sign confirms the parentage"
+    - "Leandros asks about Percy’s Atlantis childhood; Percy says it is private and does not disclose his erased-future memory or altered-childhood memory gap"
+    - "Keeps an established, affectionate relationship with Annabeth; they discuss boundaries and the new sibling without a relationship reset"
+  thalia:
+    - "Her left heel still hurts under Chiron’s new splint and rest/modified-shooting plan; she still plans to decide about Tuesday’s hall herself"
+    - "Receives Percy’s private apology; appreciates that he named the public pressure and does not yet forgive him"
+    - "Asks Percy not to send Annabeth to deliver concern or ask repeatedly whether she will swim"
+  clarisse:
+    - "Sets boundaries with Leandros and rejects age, gender, or Poseidon parentage as a claim to cabin authority"
+    - "No new Poseidon visit, apology, or repair of her grievance is established"
+  silena:
+    - "Completes the greenhouse soil banking while the ground is workable"
+    - "Sets a boundary when Leandros dismisses her warm apple dish; he later says it is good and takes another serving, but no apology or trust milestone occurs"
+  annabeth:
+    - "Learns that a new Poseidon son has arrived; she and Percy agree that Percy should not decide Leandros’s welcome or privacy for him"
+    - "The Cabin One stool remains awaiting glue; the loose rail remains assigned to Rhys and his helper"
+  leandros:
+    - "Is sixteen, Poseidon’s son, and a paternal half-brother to Percy, Clarisse, and Silena; he is not an Atlantis resident"
+    - "His mortal mother accompanied him to the bus station and waited until Callum confirmed the trail was safe; he can write home"
+    - "Chooses the Cabin Three cot for tonight after arriving with Callum; longer-term placement is not settled"
+    - "Reports that a monster found him twice at the school marina but withholds its appearance"
+    - "Shows practical current-reading skill; no special mastery of other work is demonstrated"
+    - "Says he will not take orders from girls and assumes age/status should place him over his sisters; Clarisse and Silena set boundaries; he has not apologized"
+source_anchored_events:
+  - id: C194_A
+    witnesses: ["Percy", "Thalia", "Annabeth"]
+    certainty: confirmed
+    event: "Percy privately apologizes for publicly pressuring Thalia at the shooting line and for making her answer for her foot in front of others"
+    consequence: "Thalia appreciates the apology without granting forgiveness or a timeline; her care plan and Tuesday choice remain hers"
+  - id: C194_B
+    witnesses: ["Percy", "Clarisse", "Silena", "Chiron"]
+    certainty: confirmed
+    event: "The bent fence is temporarily braced for Chiron’s inspection; the granite step holds during a dry check; Silena banks the greenhouse soil; the awning, stool, loose rail, and first-hard-frost recheck remain open"
+    consequence: "Do not mark the fence repaired or the step frost-tested"
+  - id: C194_C
+    witnesses: ["Percy", "Clarisse", "Silena", "Chiron", "Callum", "Leandros"]
+    certainty: confirmed
+    event: "Leandros arrives with Callum after a monster has found him twice at his school marina; his mother accompanies him to the bus station and waits for the safe route. A trident sign confirms Poseidon as his father. He chooses the Cabin Three cot for that night."
+    consequence: "Leandros is an approved new Poseidon son and sibling, but the scene grants him no authority or instant trust"
+  - id: C194_D
+    witnesses: ["Percy", "Clarisse", "Silena", "Leandros"]
+    certainty: confirmed
+    event: "Leandros dismisses camp repair work, says he does not take orders from girls, and presses for a cabin leader; Clarisse and Silena answer for themselves and set boundaries"
+    consequence: "No apology or full sibling reconciliation is shown"
+items_promises_injuries:
+  - item_or_event: "Thalia’s left heel and splint"
+    owner_or_people: ["Thalia", "Chiron"]
+    last_seen_chapter: 194
+    current_status: "confirmed painful; rest/modified-shooting plan active; Tuesday hall and swimming remain Thalia’s choice"
+  - item_or_event: "Percy’s private apology to Thalia"
+    owner_or_people: ["Percy", "Thalia"]
+    last_seen_chapter: 194
+    current_status: "delivered; appreciated; forgiveness not given"
+  - item_or_event: "Bent fence"
+    owner_or_people: ["Clarisse", "Percy", "Chiron"]
+    last_seen_chapter: 194
+    current_status: "temporarily braced; inspection and repair pending"
+  - item_or_event: "Greenhouse soil banking"
+    owner_or_people: ["Silena"]
+    last_seen_chapter: 194
+    current_status: "completed for now while soil was workable"
+  - item_or_event: "Torn awning, Annabeth’s stool, Cabin One porch rail"
+    owner_or_people: ["Camp"]
+    last_seen_chapter: 194
+    current_status: "open; awning next planned task; stool and rail still need repair"
+  - item_or_event: "Granite step first-hard-frost recheck"
+    owner_or_people: ["Percy", "Clarisse", "Annabeth"]
+    last_seen_chapter: 194
+    current_status: "held in dry check; frost test still pending"
+unresolved_tensions:
+  - "Thalia’s anger at Percy’s public pressure is not fully resolved"
+  - "Leandros’s arrogance, sexism, and status assumptions have already damaged first impressions"
+  - "Clarisse’s and Silena’s hurt about Poseidon’s unequal involvement remains"
+  - "Leandros’s longer-term cabin placement and trust with each sibling are not established"
+  - "Monster identity and whether the marina danger continues are unknown"
+open_canon_questions:
+  - "No exact calendar date or year has been established"
+  - "Do not infer what Percy remembers of Atlantis beyond the facts he has shared"
+  - "Ianthe has not appeared by the close of Chapter 194"
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true

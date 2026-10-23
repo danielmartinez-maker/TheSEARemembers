@@ -1,0 +1,84 @@
+chapter: 197
+title: "The Room We Keep"
+source: "chapters/197-the-room-we-keep.md"
+status: "10,214 body words; hosted validation and arc-level review pending"
+relative_chronology:
+  - "Thursday after Chapter 196's Wednesday supper; exact calendar date and year remain unknown"
+  - "Opens in Cabin Three, moves to the dining pavilion, and closes after supper"
+pov: "Silena Beauregard, third-person limited"
+location:
+  - "Cabin Three"
+  - "Dining pavilion"
+people_knowledge_relationships:
+  silena:
+    - "Resumes the unfinished color copy of the three-wave sketch from the Chapter 091 tide-pool day"
+    - "The copy was promised for Percy to consider including in a future letter; the picture remains unfinished and no mailing is shown"
+    - "Controls whether the picture is shown or shared, and corrects Leandros when he calls it a gift for Amphitrite"
+    - "Does not become responsible for Leandros's belonging or Clarisse's response"
+    - "Discusses watercolor technique with Amphitrite by choice; no maternal title is chosen"
+  leandros:
+    - "Mistakes Silena's copy as a gift to Amphitrite and publicly speaks for Silena at lunch"
+    - "Later apologizes specifically for misrepresenting her work; his understanding remains partial and no trust milestone follows"
+    - "Repairs a canvas cover for the paddle rack; the task does not grant authority"
+  amphitrite:
+    - "Visits camp at Chiron's invitation; she has heard of Leandros's arrival from Chiron and offers to meet him if he wants"
+    - "Says Poseidon did not tell her about Leandros before Chiron's message; she does not know whether Poseidon knows she is visiting"
+    - "Shows interest in Silena's watercolor process and respects her choice to show only a test swatch"
+    - "Does not request a maternal title and remains unaware of Percy's private memory predicament"
+  clarisse:
+    - "Offers to intervene for Silena and respects her decision to handle Leandros directly"
+    - "No new trust, forgiveness, or maternal-title choice occurs"
+  percy:
+    - "Witnesses Leandros misread Silena's work and asks whether she wants him to accompany her when she leaves"
+    - "Accepts Silena's choice and does not intervene"
+    - "Asks whether Silena wants to show the copy and accepts 'not tonight'; no letter or mailing is confirmed"
+  annabeth:
+    - "Continues work on the provisional shore map with Percy"
+    - "Shares an ordinary affectionate moment with Percy; their relationship remains secure"
+  chiron:
+    - "Invites Amphitrite to visit and offers Leandros the choice to meet her"
+    - "Leaves Silena's art time and hosting choices to her"
+source_anchored_events:
+  - id: C197_A
+    witnesses: ["Silena", "Percy", "Clarisse", "Leandros", "Amphitrite"]
+    certainty: confirmed
+    event: "Leandros describes Silena's unfinished copy of the three-wave sketch as a gift for Amphitrite without Silena's consent."
+    consequence: "Silena corrects him publicly and leaves lunch; the work is not shown, and she later sets her own terms for continuing it."
+  - id: C197_B
+    witnesses: ["Silena", "Amphitrite"]
+    certainty: confirmed
+    event: "Silena voluntarily discusses watercolor technique and shows Amphitrite a test swatch, not the unfinished copy."
+    consequence: "Amphitrite shows interest in Silena's work without claiming it or asking for a maternal title."
+  - id: C197_C
+    witnesses: ["Silena", "Leandros"]
+    certainty: confirmed
+    event: "Leandros apologizes for speaking for Silena and admits he wanted the picture to help Amphitrite see him with the Camp Three siblings."
+    consequence: "Silena does not grant trust, forgiveness, or a promise to make a new family picture."
+items_promises_injuries:
+  - item_or_event: "Chapter 091 three-wave sketch and its color copy"
+    owner_or_people: ["Silena", "Percy", "Clarisse"]
+    last_seen: "Copy remains unfinished and under Silena's control; no letter or mailing is confirmed."
+  - item_or_event: "Paddle-rack canvas cover"
+    owner_or_people: ["Camp"]
+    last_seen: "Leandros completes the patch and returns it for use."
+  - item_or_event: "Fence, awning bracket, Cabin One rail, first-hard-frost recheck, Cabin One stool"
+    owner_or_people: ["Camp", "Annabeth"]
+    last_seen: "Fence remains braced but unrepaired; awning bracket and rail remain open; frost recheck is pending; stool glue needs more curing."
+  - item_or_event: "Thalia's heel"
+    owner_or_people: ["Thalia"]
+    last_seen: "Not revisited; prior care plan and pain status remain unchanged."
+knowledge_boundaries:
+  - "Silena does not know Percy's erased-future autobiographical memories or altered-childhood memory gap."
+  - "Amphitrite remains unaware of Percy's private memory predicament."
+  - "Leandros has not met Ianthe; Ianthe has not arrived."
+next_chapter_dependencies:
+  - "Continue Friday after Thursday supper without inventing an exact date or year."
+  - "Keep Silena's copy unfinished, unmailed, and under her control."
+  - "Leandros has apologized for one overstep but has not earned broad trust or cabin authority."
+  - "Carry the incomplete repairs, provisional shore map, and Thalia heel state forward."
+  - "Ianthe's separate arrival has not occurred; the arc outline places it in Chapter 198."
+unresolved_canon_questions:
+  - "Silena's relationship with Maria remains unresolved."
+  - "Clarisse's relationship with Amphitrite and the eventual maternal-title choice remain unresolved."
+  - "Leandros's longer-term cabin placement, mortal mother's identity, and marina danger remain unresolved."
+  - "The status of any future letter containing the painting remains unknown."

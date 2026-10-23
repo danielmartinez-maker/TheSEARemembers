@@ -1,6 +1,6 @@
 # Chapter 126 editorial screening: The Palace Below
 
-**Source:** [Chapter 126](../../chapters/126-the-palace-below.md), git blob `345084c37800e72cefe4ccfbfc26e55bc27a21aa`. **Approximate body words:** 4,967. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 126](../../chapters/126-the-palace-below.md). **Current body words:** 10,092 by `scripts/audit_chapter_length.py`. **Status:** The scoped memory-boundary correction below has been applied and independently reviewed; the remaining checklist is screening, not chapter-wide editorial certification.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -23,6 +23,6 @@ At the palace, keep the visitors' perspectives distinct from Percy's inaccessibl
 
 ## Canon boundaries and follow-through
 
-Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
+Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter. Make only source-backed changes; this audit does not certify the full chapter.
 
-**Audit status:** Evidence-linked screening, not an implemented fix.
+**Applied correction (current worktree):** Chapter 126, line 25 no longer attributes Percy's recognition of a hallway dip to “a storm long ago.” It now grounds recognition in the visible features and his bodily familiarity with the route, consistent with FIC_CONTEXT.md §2. Chapters 125, 127 and 128 were checked; no sidecar or handoff required an update. This one-line repair does not certify the rest of Chapters 126–128 or the novel-wide continuity state.

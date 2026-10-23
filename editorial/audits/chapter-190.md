@@ -1,6 +1,6 @@
 # Chapter 190 editorial screening: Thursday, Twice
 
-**Source:** [Chapter 190](../../chapters/190-thursday-twice.md), git blob `b9b33aff59e66e58bad4fe603a402624c5a25d79`. **Approximate body words:** 11,221. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 190](../../chapters/190-thursday-twice.md). **Current body words:** 11,485. **Status:** Two evidence-based wording/continuity repairs applied; screening only.
 
 **Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
 
@@ -23,6 +23,10 @@ Duplicated Thursday motifs need differentiated events; check known cross-chapter
 
 ## Canon boundaries and follow-through
 
+**Current PR #103 memory note (2026-10-17):** Annabeth's thought marks the corridor outside Amphitrite's rooms as her inference, not a memory. Percy reported only a sensory association with Atlantis and no scene; the chapter does not transfer his experience to her.
+
 Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
 
-**Audit status:** Evidence-linked screening, not an implemented fix.
+**October 17, 2026 scoped follow-up:** Percy now names Beryl as Annabeth's mother at [line 315](../../chapters/190-thursday-twice.md#L315). The mail-path sentence now places the sack on Clarisse's shoulder rather than implying Thalia's sister's letter is already inside it at [line 449](../../chapters/190-thursday-twice.md#L449). Thalia's letter is last witnessed folded in her back pocket; addition to the outgoing sack and posting are not established, so the 189–193 ledger now records dispatch as unknown. This is a narrow correction, not a full literary revision.
+
+**Audit status:** Focused corrections applied; wider screening and literary review remain open.

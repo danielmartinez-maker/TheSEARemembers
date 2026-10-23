@@ -2,7 +2,7 @@
 ## Canon bible and editorial operating rules
 
 **Status:** Work in progress  
-**Updated:** 2026-10-12  
+**Updated:** 2026-10-22
 **Scope:** Drafting, editing, continuity review, chapter handoffs, and reader-edition assembly  
 **Fandom:** *Percy Jackson and the Olympians*  
 **Primary pairing:** Percy Jackson / Annabeth Grace (established Percabeth)
@@ -21,27 +21,28 @@ When two sources disagree, use this order:
 
 1. **The user's explicit decisions**, with later direct changes superseding earlier instructions on the same point.
 2. **Locked canon in this bible**, insofar as it accurately records those decisions. If it conflicts with a direct user instruction, flag and update it.
-3. **The user's designated canonical chapter sources** in their `TheSeaRemembers/` working directory. Preserve their text unless a revision is authorized.
-4. **The GitHub chapter-by-chapter import**, a versioned editing snapshot that can be reconciled with those canonical sources before it is promoted as authoritative.
-5. **Compiled Markdown, DOCX, and PDF reader editions**, which are outputs, not sources of truth; historical PDFs may be outdated.
+3. **The chapter files in `danielmartinez-maker/TheSEARemembers` on GitHub**, which the user explicitly designated as the source for the 2026-10-13 manuscript pass. Use the pinned `main` commit as the comparison baseline and keep proposed edits on the named review branch.
+4. **Compiled Markdown, DOCX, and PDF reader editions**, which are outputs, not sources of truth; historical editions may be outdated.
 
 **Never resolve a contradiction by silently changing parentage, inventing a memory rule, creating a new time-rewrite event, or treating assistant improvisation as an approved plot decision.** Log the discrepancy and make the smallest coherent proposed fix.
 
-### 1.2 Working files, as of 2026-10-12
+### 1.2 Working files, as of 2026-10-22
 
-- **GitHub:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers). It contains numbered Markdown files for **chapters 1–193** and **two bonus interludes**, plus an index, manifest, and assembly script. The import was verified against the uploaded compiled edition, *TheSeaRemembers_Full.md*.
-- **GitHub filename convention:** `chapters/001-the-weight-of-salt-and-sky.md` through `chapters/193-the-heel.md`. Use the actual filenames in `CHAPTER_INDEX.md`; do not assume the older `chapters/ch02.md` convention still applies in this repository.
-- **Canonical-copy caveat:** The user's earlier choice made their `TheSeaRemembers/` chapter copies canonical. The GitHub import came from a compiled reader edition. A byte-for-byte match to that compilation does **not** establish that every imported chapter includes every later correction to the designated working originals. Reconcile the two before changing this authority decision.
-- **Arc continuity:** The originally planned fourth-arc range was chapters **140–164**, but the story continued through **165–193** without a new declared arc boundary. Treat chapters 140 onward as one continuous developing stretch until the user sets a new boundary.
+- **GitHub source for this pass:** [`danielmartinez-maker/TheSEARemembers`](https://github.com/danielmartinez-maker/TheSEARemembers), with `main` pinned at `63ae90bb6aad31753fcabfd057a1771359594dca` before edits. It contains numbered Markdown files for **chapters 1–198** and **two bonus interludes**, plus an index, manifest, and assembly script.
+- **GitHub filename convention:** `chapters/001-the-weight-of-salt-and-sky.md` through `chapters/198-the-face-of-thunder.md`. Use the actual filenames in `CHAPTER_INDEX.md`; do not assume the older `chapters/ch02.md` convention still applies in this repository.
+- **Authority update:** The user's 2026-10-13 direction to work from the latest GitHub repository supersedes the earlier local-copy precedence for this pass. Historical/deprecated local manuscript copies were not used or reconciled; do not treat them as competing authorities unless the user explicitly re-designates one.
+- **Arc continuity:** The originally planned fourth-arc range was chapters **140–164**, but the story continued through Chapter **193** as one continuous developing stretch. On 2026-10-21 the user set a new boundary after Chapter 193 and authorized a distinct family-first arc for Chapters **194–218**. All twenty-five installments are now drafted at **257,723 body words** by the repository's whitespace-token method; Chapter 218, “Tide, Thunder, Home,” measures **10,488 body words**.
 - **Exports:** Existing PDF/DOCX volumes are historical until rebuilt from selected, corrected sources. Preserve old versions.
 
 ### 1.3 Length status: targets are not completion claims
 
 **User requirement (2026-10-11):** A newly drafted full chapter must have **at least 10,000 body words**, with **10,200–11,200** as the normal working range, and more if its scenes earn the extra length. That floor is not a license for filler.
 
-The planned chapter 140–164 block called for 25 chapters and 250,000 words. In the current compiled import, those chapters **exceed 250,000 words combined**, but **12 of the 25 chapters are below 10,000 body words** by a straightforward whitespace-based recount excluding chapter headings and `---` scene dividers. This is a provisional mechanical count, not evidence that those chapters have passed editorial review. Do not describe the block as satisfying its *per-chapter* minimum.
+**Previous PR #103 continuation checkpoint (October 17, 2026):** source commit `27a41c8ed4ce91c11c97ec9c642aabc473d495bc` continues from fetched PR head `e6ea84f104a5502dbdfc756689ed345f4c271531`. It adds source-grounded repairs in Chapters 004, 038, 102, 118, 132, 133, 136, 145, 146, 167, 177, and 187, refreshes continuity notes, and generates current QA reports. Strict local QA reports **193/193 chapters at or above 10,000 body words**, zero shortfall; the chapter-only scan checked **1,941,320** every-offset 300-token windows with zero exact matches, and the chapter-plus-bonus scan checked **196 files / 2,150,177 body words / 2,091,872 windows**, also with zero exact matches. **42** source-anchored memory regressions pass; all 193 chapter files are ordered. Chapter 004 now uses Annabeth's current name/parentage, retains Percy POV, and treats prophecy-copy provenance as uncertain; Chapter 038's Silena age is fourteen, matching the opening baseline and Chapter 041, without an invented birthday. Chapters 136/145/146 preserve Amphitrite's privacy boundary, Annabeth and Percy's established relationship, and Thalia's lack of erased-tree memory. Chapters 102 and 118 received scoped repetition edits; Chapter 132's pre-dinner consultation now precedes its evening dock scene; Chapter 133's plan discussion no longer implies a physical corridor survey. Chapter 167's autumn wording now matches the late-September sequence, and Chapter 187 explicitly frames the boathouse detail as Percy's remembered-future association. Hosted [manuscript audit](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39066126303) and [character-memory](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39066126334) checks passed on `27a41c8`. Mechanical checks do not certify every scene's continuity or prose quality.
 
-Earlier chapters vary substantially in length. Preserve them as drafted unless the user authorizes an expansion or standardized minimum retroactively. New assignments must state the target and verify the delivered body count.
+**Follow-on PR #103 checkpoint (October 17, 2026; started from `697741f`):** Chapter 142 now shows Clarisse reporting the outer-buoy overrun to Chiron; the location remains unknown pending image review. Chapters 175/181/190 now keep Percy's Atlantis response within sensory/bodily association and mark the corridor as Annabeth's inference. Chapter 175 attendance totals remain unresolved. Local QA after these edits reports 193/193 chapters above 10,000 body words, no shortfall, 1,942,016 chapter-only 300-word windows, and no exact matches; the 196-file bonus-inclusive scan reports 2,150,873 body words, 2,092,568 windows, and no exact matches. All 45 source-anchored character-memory regression checks pass. Hosted [full manuscript QA, run 510](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39070769176) and [character-memory checks, run 251](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39070769240) passed on commit 33fc2d0. These results do not certify full prose quality or all-scene continuity.
+
+The four-phase request explicitly authorized substantive expansion of the chapters below 10,000 words. The current PR source meets that numeric floor; any later discovery of a short chapter should still be expanded with meaningful scenes and verified by body count. The completed mechanical gate does not certify that every expansion has literary approval.
 
 ---
 
@@ -71,25 +72,48 @@ Earlier chapters vary substantially in length. Preserve them as drafted unless t
 
 **Forbidden shortcut:** Do not make Annabeth forget Percy or their romance merely to create a second courtship. Do not reveal Thalia as a hidden time architect or give her complete future memories without a fresh, explicit user decision revising the original premise.
 
+### 2.2 Persistent, character-specific memory (author directive, 2026-10-13)
+
+**Everyone retains a cumulative memory of what they personally experienced in this manuscript.** Chapters cannot quietly reset a friendship, first meeting, chosen family title, romantic milestone, conversation, skill, promise, injury, gift, disagreement, or earned trust just to replay the same emotional beat. A person who met another character in Chapter 30 must not introduce themselves to that person in Chapter 123. Percy’s spoken **Mom** for Amphitrite is established in Chapter 14 and continues in Chapters 99, 127, and 132; he may still use her name or **Mother** in formal writing and other contextually formal uses, but must not subsequently treat her as a stranger. Affection can wax and wane; factual acquaintance does not.
+
+Distinguish four separate categories for each character:
+
+1. **Firsthand current-timeline knowledge:** witnessed events, personal conversations, gifts, promises, names used and repeated interactions. These persist unless a **specific, approved** forgetting mechanism occurs on the page.
+2. **Secondhand current-timeline knowledge:** information received in a letter, retelling, overheard exchange, or report. Record who supplied it, what was said, and whether it was trusted. Do not write the recipient as if they witnessed the event.
+3. **Remembered prior-life knowledge:** Percy and Annabeth alone possess autobiographical memories from their original future. Others can learn selected facts if explicitly told; being told is not the same as sharing those memories.
+4. **Altered-childhood history without autobiographical recall:** people like Amphitrite, Thalia and Triton have firsthand memories of raising or knowing the altered-history Percy and Annabeth. Percy and Annabeth do not automatically gain those memories. They can learn family stories, accumulate **new** memories of these people, and form genuine affection without suddenly recalling an unexperienced childhood.
+
+**Knowledge is per character, not global.** Verify whether a character was present, what they actually heard, and whether a secret was shared before writing informed dialogue. In particular, Amphitrite remembers raising Percy but does **not** know he remembers a different timeline or cannot recall his Atlantean childhood. His affection for her and his chosen address "Mom" never, by themselves, authorize such a revelation.
+
+Use **continuity/CHARACTER_MEMORY_LEDGER.md** as a source-anchored index and **continuity/CHAPTER_MEMORY_HANDOFF.md** for each chapter's new facts. Before repeating a first meeting, name, nickname, emotional disclosure, family argument, gift, or callback, locate the original scene and check what each person knows. Add a new ledger event when a chapter changes a relationship; do not erase earlier events. If an established fact conflicts with a later passage, flag it as an error and make a bounded scene-level repair, not a global retcon.
+
 ---
 
 ## 3. Locked families and households
 
-### 3.1 Poseidon's household: PCS
 
-**PCS = Percy, Clarisse, Silena**; Percy is the youngest of these three half-siblings. The altered-history cabin is **Cabin Three**.
+**Historical continuation state at Chapter 201 (superseded by the current arc handoff):** The day after Chapter 200; exact date/year unknown. Annabeth keeps her camp map separate from Ianthe's weather chart and proposed work schedule. Ianthe's wind timing is useful, but she writes workers' names before asking; Clarisse refuses an unasked assignment, Beckendorf declines ladder work while the wind shifts and the correct strap is unavailable, and Eli completes one confirmed west-path sweep. Ianthe revises the list to record tasks, conditions, whether people were asked, and stated availability, but her urge to direct persists. She tells Thalia where to stand because of the heel; Thalia states she is following her own plan, and there is no reassessment or recovery. The awning remains bent and the fence remains braced pending safe conditions; the Cabin One rail still needs its heavy-rain recheck, the north step waits for first frost, the greenhouse bank remains complete for now, and the stool is curing. Ianthe remains expected in the Big House guest room; her mother-call, cot inspection, window-side bed, and long-term placement are unresolved. Leandros and Ianthe have met twice but have no immediate bond; Leandros has no authority or broad trust. Percy and Annabeth stay secure, no future-memory disclosure occurs, and no maternal title, forgiveness, or divine visit occurs. Continue from Chapter 201; future outlines remain plans, not facts.
+
+### 3.1 Poseidon's family and the Camp Three siblings
+
+**PCS = Percy, Clarisse, Silena** is the Camp Three sibling group; Percy is the youngest of these three half-siblings. This shorthand does **not** name every child of Poseidon. Rhode and Benthesikyme are Percy’s Atlantis-resident sisters from Chapter 001. The altered-history camp cabin is **Cabin Three**.
 
 | Person | Canon relationship | Story consequences |
 |---|---|---|
-| **Percy Jackson** | Son of Poseidon and Sally Jackson; younger half-brother of Clarisse and Silena. | Raised in Atlantis in the changed past, but lacks that childhood's full memories. Has a particular relationship with royal status and privilege. |
+| **Percy Jackson** | Son of Poseidon and Sally Jackson; younger half-brother of Clarisse and Silena, and brother of Atlantis residents Rhode and Benthesikyme. | Raised in Atlantis in the changed past, but lacks that childhood's full memories. Has a particular relationship with royal status and privilege. |
 | **Clarisse La Rue** | Daughter of **Poseidon**, not Ares in the present altered timeline; Percy's and Silena's half-sister. | Competitive, blunt, formidable, loyal; do not turn her into a duplicate of Thalia or transfer Thalia's history to her. |
-| **Silena Beauregard** | Daughter of **Poseidon**, not Aphrodite in the present altered timeline; Percy's and Clarisse's half-sister. | Socially perceptive, creative, warm, and capable of dissent; she needs her own desires and limits beyond caretaking. |
-| **Amphitrite** | Poseidon's wife and Percy's mother in practice after Sally's death in the altered history. | Percy can love her without replacing Sally. She is **unaware of Percy's remembered prior life or missing altered-childhood memories**, as explicitly directed for Chapter 1, and his unusual behavior reads to her as ordinary anxiety about leaving home. Her relationship with Clarisse and Silena grows independently and is not automatically maternal. |
+| **Silena Beauregard** | Daughter of **Poseidon**, not Aphrodite in the present altered timeline; Percy's and Clarisse's Camp Three half-sister. | Socially perceptive, creative, warm, and capable of dissent; she needs her own desires and limits beyond caretaking. |
+| **Rhode** | Daughter of Poseidon; Percy’s sister and an Atlantis resident from Chapter 001. | Shared Poseidon paternity and sisterhood are established. Exact age, mother/other parentage, powers, and relationship with Amphitrite are unspecified. She is not a Camp Three camper. |
+| **Benthesikyme** | Daughter of Poseidon; Percy’s sister and an Atlantis resident from Chapter 001. | Shared Poseidon paternity and sisterhood are established. Exact age, mother/other parentage, powers, and relationship with Amphitrite are unspecified. She is not a Camp Three camper. |
+| **Amphitrite** | Poseidon's wife and Percy's mother in practice after Sally's death in the altered history. | Percy can love her without replacing Sally. She is **unaware of Percy's remembered prior life or missing altered-childhood memories**, as explicitly directed for Chapter 1, and his unusual behavior reads to her as ordinary anxiety about leaving home. Her relationship with Clarisse and Silena grows on separate paths; do not presume a maternal bond or demand a title before they choose it. No maternal relationship with Rhode or Benthesikyme is established. Their future chosen-mother arc is recorded below. |
 | **Triton** | Son of Poseidon and Amphitrite; Percy's older half-brother. | Older Atlantean family member, mentor, and teasing rival, not an ordinary camp teenager. |
 | **Tyson** | Poseidon's Cyclops son, where present. | His visits need established logistics. Do not relocate him permanently to camp by implication. |
-| **Poseidon** | Shared divine father of the above acknowledged children. | A more present father to Percy in the altered history, but unequal childhood experiences and privilege may strain sibling relationships. |
+| **Leandros** | Author-approved new son of Poseidon and a separate mortal mother; age **16** at introduction in Chapter 194. He is a paternal half-brother to Percy, Clarisse, and Silena and is not an Atlantis resident. | A working member of Camp Three from Chapter 194 onward. His current-reading skill is real but narrow; age and parentage do not grant cabin authority. His mortal mother remains his own parent and is not a villain by default. |
+| **Poseidon** | Shared divine father of Percy, Clarisse, Silena, Rhode, Benthesikyme, Triton, Tyson, and the author-approved Leandros. | A more present father to Percy in the altered history. Unequal childhood experiences and attention remain consequential; Leandros’s introduction does not erase Clarisse’s and Silena’s grievance. |
 
-No invented replacement Poseidon sisters, including Marina, Coral, Tess, or Delphine. Any new child of Poseidon needs explicit approval and a deliberate role. Do not say Triton or Tyson is biologically unrelated to other children sharing Poseidon as father; distinguish their mothers, ages, and households instead.
+**Chosen-mother arc (no new title through Chapter 202):** Amphitrite's relationship with Silena and Clarisse develops gradually into a maternal bond through sustained care for each as an individual. In Chapter 202, Silena chooses to join part of Amphitrite's multi-day visit, shares a watercolor practice table, offers her one small sample, and accepts a brief hug after Amphitrite asks. Silena does not call Amphitrite “Mom”; Clarisse's path remains separate, and she declines one invitation to walk. Silena's later title choice remains private and earned; Clarisse's choice comes later, only after her own relationship and hurt about Poseidon's unequal involvement have been addressed. Amphitrite never asks for the title. This bond does not replace either sister's own mother, resolve Silena's relationship with Maria, or forgive Poseidon on Clarisse's behalf. Amphitrite never asks for the title. This bond does not replace either sister's own mother, resolve Silena's relationship with Maria, or forgive Poseidon on Clarisse's behalf.
+
+Author-approved family canon (2026-10-21): Rhode and Benthesikyme are Percy’s sisters and live in Atlantis from Chapter 001. Preserve that placement. The user has now explicitly approved one additional Poseidon son, Leandros (age 16, introduced from Chapter 194); this is a specific exception, not permission to invent further Poseidon children. Leandros has a separate mortal mother and is not an Atlantis resident. Do not say Triton or Tyson is biologically unrelated to other children sharing Poseidon as father; distinguish known relationships, mothers, ages, and households, and leave unspecified details open.
 
 ### 3.2 Grace household
 
@@ -98,7 +122,8 @@ No invented replacement Poseidon sisters, including Marina, Coral, Tess, or Delp
 | **Thalia Grace** | Daughter of Zeus and Beryl; Annabeth's older biological sister and Jason's older sister; Cabin One. | Helped raise Annabeth. In this altered history she did **not** become a pine tree or join the Hunters. |
 | **Annabeth Grace** | Daughter of Zeus and Beryl; Thalia's younger sister, Jason's older sister; Cabin One. | **Grace, not Jackson.** Her intelligence and architecture interests survive the parentage change. She loves Percy romantically, not as family. |
 | **Jason Grace** | Younger brother of Thalia and Annabeth. | Raised at Camp Jupiter after being taken away young. Any presence at Camp Half-Blood needs a specific, plausible visit or communication arrangement. |
-| **Zeus** | Father of the three Grace siblings. | Absent, inconsistent, volatile. Uses a different appearance at every visit to his daughters. See §4. |
+| **Ianthe** | Daughter of Zeus and a separate mortal mother; age **15** at her Chapter 198 introduction. She is Thalia’s, Annabeth’s, and Jason’s paternal half-sister, but is not a Beryl Grace child. | Wants a bed beside the Cabin One window but remains in the Big House guest room; cot inspection and placement are unresolved. Her weather-aware Chapter 201 schedule is useful, but writing names before asking alienates workers. She revises the sheet after correction while retaining her urge to direct; no trust milestone or mother-call is shown. |
+| **Zeus** | Father of Thalia, Annabeth, Jason, and the author-approved Ianthe. | Absent, inconsistent, volatile. Uses a different appearance at every visit to his daughters. His intermittent attention to Ianthe does not erase his history with the Grace siblings. See §4. |
 | **Beryl Grace** | Mortal mother of the Grace siblings. | Addiction, instability, and childhood fear affect Thalia and Annabeth's altered history. Establish and track her current address and contact pattern. |
 
 **Cross-family boundaries:** Clarisse and Silena are Annabeth's friends, not her biological sisters. Thalia is Percy's friend and his girlfriend's older sister, not PCS. Chosen-family terms can be affectionate but must not falsify biological relationships or cabin assignments. Percy and Annabeth are **never siblings**; do not introduce distracting incest/cousin framing to explain divine genealogy.
@@ -184,6 +209,8 @@ Favor **specific, reciprocal** teasing over recurring stock jokes: shared chores
 | Silena | 14 | 16 |
 | Rhys | Not yet introduced | 19 in his late-arc appearances |
 
+**Source-verified early age cross-check:** Thalia is sixteen by Chapters 16, 20 and 24, and is still sixteen in the revised Chapter 28 (not fifteen). Chapter 133 portrays her as eighteen. Preserve intermediate birthdays only where the intervening narrative actually supports them.
+
 **Working baseline, not an automatic age override:** Track explicit birthdays and elapsed time. From chapter 140, Percy and Annabeth should be fourteen unless a **later dated birthday** justifies a change. Do not silently revert them to thirteen. Check Thalia's legal adulthood and Rhys's nineteen-year-old status at the point of every mature interlude.
 
 Before writing a chapter, make a timeline row with its date or season, elapsed days since prior chapter, ages, locations, arrivals/departures, current injuries, objects or gifts in use, and commitments due next. If the source does not establish the month or day, mark **unknown** rather than inventing one.
@@ -194,9 +221,11 @@ Before writing a chapter, make a timeline row with its date or season, elapsed d
 
 ## 7. Plot priorities and pending threads
 
+**Current arc handoff (Chapter 218, October 22, 2026):** The 25-chapter family-first arc ends its current movement at **257,723 body words**; all chapters 194–218 have individual continuity records and the cumulative [194–218 ledger](continuity/chapter-ledgers/194-218.md). Chapter 218 is Annabeth-limited, with no exact date or year established. Percy proposes a seasonal meal for the seven siblings without assigning it a larger meaning. Clarisse, Silena, Leandros, Thalia, and Ianthe choose whether to attend and what to contribute. Chiron provides the side room and stew but does not sit with them. The siblings choose not to invite Poseidon or Zeus to this meal; no one carries a message, and the choice is not framed as punishment. During the meal and later lantern work, they share tasks with negotiated boundaries. Clarisse refuses the conversation-organizer role and challenges Ianthe's attempts to set serving and craft rules. Leandros says he wants Clarisse to ask before deciding he needs correction. Ianthe makes a dismissive remark that no one expects Leandros to have the answer; she apologizes specifically, and he acknowledges hearing her without granting forgiveness or trust. Ianthe asks whether Thalia might speak with her about Zeus later. Thalia says she may ask directly, with no date or memory shared. Silena chooses to bring a rosemary flat loaf and does not serve or manage the meal. Percy and Annabeth remain affectionate and secure; Annabeth catches herself before taking responsibility for everyone's conflict, and Percy does not act as messenger or interpreter. No private Amphitrite title is discussed: Clarisse's “Mom” choice remains only between her and Amphitrite; Silena's separate choice remains only between her and Amphitrite. Leandros still waits for Poseidon's possible letter, with no date or follow-up. Ianthe remains in the Big House guest room and her broader weather notes remain unverified. The two coils remain damp in their centers, the rack loop remains untested, and lower-cut/fence work remains open. Thalia receives no new symptom report, examination, activity decision, or clearance; Chapter 214's plan remains active. Only Percy and Annabeth retain erased-future autobiographical memories; Amphitrite remains unaware of Percy's memory predicament.
+
 - **Early camp material:** Family adjustment, warmth, training, changed household dynamics, and an established romantic bond. The time-rewrite mystery remains present but does not crowd out camp life.
 - **Lightning Thief divergence:** The master-bolt theft, suspicion of Poseidon, the solstice deadline, and an adapted quest belong in the work. Percy and Annabeth may know what happened before but must test assumptions against changed circumstances. A familiar event is not proof that the time-rewrite antagonist is the same person.
-- **Extended chapter 140+ progression:** Continued sibling bonding, lake scenes, projects, camp duties, adult slow-burn developments, and daily routines. There is **no newly declared arc break** at 164, 172, 178, or 193.
+- **Extended chapter 140–193 progression:** Continued sibling bonding, lake scenes, projects, camp duties, adult slow-burn developments, and daily routines. The user set a new boundary after Chapter 193 and approved a distinct Chapters 194–218 family-first arc; see [the arc design](docs/superpowers/specs/2026-10-21-table-between-sea-and-sky-arc-design.md).
 - **Outstanding mythology/mystery seeds:** Track Poseidon's early warnings about old gods and sacred sites, the actual mechanism of the altered history, and the architect's identity. Do not pay them off or discard them without a user-approved outline decision.
 
 **Novel-scale principle:** Emotional continuity matters more than incident count. A chapter may remain gentle, but something from it should carry into the next chapter: a choice, obligation, worry, developing attraction, earned competence, new trust, unresolved resentment, changed schedule, or physical reminder.
@@ -232,7 +261,7 @@ Provide all of these:
 - This bible, plus explicit overrides or unresolved questions.
 - The **actual final scene** of the preceding canonical chapter, not only a plot summary.
 - Current chapter number, title (if fixed), date/season, POV, and intended scene sequence.
-- A compact continuity handoff: ages, households, injuries, active gifts/props, romantic status, unfinished arguments, arrivals, promises, and mystery threads.
+- A compact continuity handoff: ages, households, injuries, active gifts/props, romantic status, unfinished arguments, arrivals, promises, and mystery threads, **plus the last confirmed shared scene, existing forms of address, and knowledge provenance for every major character in the next scene**.
 - Body-word minimum and the requested emotional centerpiece, Percabeth beat, and sibling beat.
 
 Subagents may help, but they receive the same bounded sources and must not invent changes to locked canon.
@@ -243,6 +272,7 @@ Subagents may help, but they receive the same bounded sources and must not inven
 |---|---|---|
 | **Canon** | Names, parentage, siblings, cabins, memory rules, ages, power ownership | No unexplained conflicts with locked rules |
 | **Continuity** | Date, elapsed time, weather, travel, props, clothing, injuries, known facts, promises | Events follow coherently from preceding chapters |
+| **Character memory** | Prior meetings, titles/nicknames, disclosures, promises, objects, trust changes and who personally witnessed each event | No relationship reset or knowledge leak; a callback follows the character-specific ledger |
 | **POV** | Knowledge and perception within each scene | One clearly identifiable focal character per scene |
 | **Character** | Voice, desires, mistakes, realistic boundaries, unforced resolutions | Conflict and affection are specific, not interchangeable |
 | **Scene purpose** | Unique centerpiece, Percabeth development, sibling development | Beats are earned and change something |
@@ -278,17 +308,17 @@ For consistency, count whitespace-separated words from **chapter body text**, ex
 | Issue | Required direction | Disposition |
 |---|---|---|
 | Thalia becomes the rewrite architect or an eclipse restores Athena parentage | Maintain unknown architect and Annabeth's Zeus parentage unless user changes canon | **Audit** historical material and current relevant chapters |
-| Thalia gains complete memories of the erased life | Only Percy and Annabeth know that remembered life by default | **Audit** and flag deliberate exceptions for approval |
+| Thalia gains complete memories of the erased life | Only Percy and Annabeth retain firsthand erased-life memories; other characters retain only what they explicitly heard or witnessed | **Audit** and flag deliberate exceptions for approval |
 | Annabeth loses Percy, their romance, or Tartarus memories | She retains them from the opening | **Audit** early and mid-story scenes |
-| Clarisse/Silena revert to Ares/Aphrodite, or new Poseidon sisters appear | PCS parentage and membership remain fixed | **Audit** names and cabin affiliations |
+| Clarisse/Silena revert to Ares/Aphrodite, or unapproved Poseidon children are added | PCS remains Percy, Clarisse, and Silena; Rhode and Benthesikyme remain Atlantis residents | **Audit** names and cabin affiliations |
 | Annabeth is called Jackson or related to Percy as a sibling | Annabeth Grace, Zeus daughter, Percy's partner | **Audit** and correct only proven mistakes |
 | Sally's death appears in Percy's remembered original childhood | Sally died at age two **only in altered history** | **Audit** recalled memories and grief scenes |
 | Ages, seasons, returning visitors, gifts, injuries, and powers jump | Maintain a dated continuity ledger | **Audit** transitions and new drafts |
-| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **Unverified on this import** |
-| Ch. 140–164 per-chapter word minimum | User requested 10,000 body words each | **12 currently under the floor** by provisional count; editorial expansion pending |
-| Older PDFs or root chapter files differ from corrected sources | Respect canonical-copy decision and rebuild exports | **Reconciliation needed** before declaring files identical |
+| Reused long passages and mismatched chapter handoffs | Whole-manuscript 300-word window check; scene-level repair | **October 17 PR #103 follow-up after starting from 697741f:** 1,942,016 chapter-only and 2,092,568 bonus-inclusive every-offset 300-word windows across 196 chapter/bonus files; 0 exact matches in either scan. Scene ledgers cover all 193 chapters; cumulative semantic reconciliation remains in progress |
+| Per-chapter word minimum | User requested 10,000 body words each | **October 17 PR #103 follow-up:** 193/193 chapters meet the minimum, with zero shortfall. This does not certify prose quality or literary approval. Hosted checks passed on commit `33fc2d0` |
+| Older PDFs or root chapter files differ from corrected sources | Respect the GitHub source selected for this pass and rebuild exports from the reviewed branch | **Not reconciled**; do not claim historical editions match this source |
 
-**Historical export note:** A chapter 20–21 sibling/cabin correction was reportedly made to `Vol1_CampArc_250k_SiblingFix.pdf` and source files on 2026-10-09. That was a bounded correction, **not** evidence of a complete all-chapter sibling audit. Do not assume the current imported chapter 20–21 files contain the same correction until compared.
+**Historical export note:** A chapter 20–21 sibling/cabin correction was reportedly made to `Vol1_CampArc_250k_SiblingFix.pdf` and source files on 2026-10-09. That was a bounded correction, **not** evidence of a complete all-chapter sibling audit. Chapter 20 has now received scoped Cabin Three/identity clarification on the 2026-10-13 audit branch; Chapter 28's erroneous fifteen-year-old Thalia and incorrect 'Chase' address were also corrected. The old PDF's exact text still has not been reconciled.
 
 **PDF production:** Retain UTF-8; repair mojibake from a verified source rather than deleting replacement glyphs. Use clear chapter starts, readable spacing, page numbering, correct markdown conversion, and text inspection of actual rendered pages, not just file size or the `%PDF-` header. The user's prior export destination was `C:\Users\dmcfu\OneDrive\Documents\Default Project\TheSeaRemembers\`; access to this path depends on the user's connected machine.
 
@@ -310,6 +340,12 @@ opening_location: unknown
 ending_location: unknown
 characters_and_ages: []
 active_relationship_tensions: []
+last_shared_scenes_and_chapters: []
+forms_of_address_and_existing_intimacy: []
+firsthand_events_remembered: []
+secondhand_knowledge_and_source: []
+secrets_unknown_to_each_character: []
+prior_life_memories_percy_annabeth_only: []
 injuries_and_care: []
 objects_gifts_and_projects: []
 new_knowledge_or_promises: []

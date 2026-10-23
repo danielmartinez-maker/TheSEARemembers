@@ -134,7 +134,7 @@ Percy looked at the three of them: Clarisse with her clipboard and her scarred k
 
 He sat. He ate the honey cake standing over the table because sitting sounded like an event. It was warm and dense and tasted like the inside of a good week. On the shelf above him the corner bunk sat made up tight, the round white rock centered on the pillow, and he touched it once on his way past, one finger, the way you check a pulse.
 
-"Tyson's letter's still not here," Clarisse said, from the doorway.
+"Tyson's next letter still isn't here," Clarisse said, from the doorway.
 
 "Comes next week," Percy said. "Maybe Thursday."
 
@@ -226,7 +226,7 @@ She pressed the fleece blanket into Annabeth's arms — heavy fleece, warm even 
 
 Silena waved with her whole hand. Annabeth saw it out of the corner of her eye and felt it land in her chest like a small warm stone, and then Clarisse coughed loudly on the dock and said that she had never in her life seen so much sentimentality before nine in the morning, and the moment passed the way these moments did in Cabin Three, quickly, like something handed over and already put away.
 
-Percy came down the path at half past with the satchel on his shoulder and the fleece under his arm, and the three sisters froze in their various stages of operation, and he stopped on the ramp and looked at all of it — the staged canoe, the loaded satchel, the clipboard behind Clarisse's back, the absolute sham of the whole morning — and grinned.
+Percy came down the path at half past with the satchel on his shoulder and the fleece under his arm, and Clarisse, Silena, and Annabeth froze in their various stages of operation, and he stopped on the ramp and looked at all of it — the staged canoe, the loaded satchel, the clipboard behind Clarisse's back, the absolute sham of the whole morning — and grinned.
 
 "Morning," he said.
 

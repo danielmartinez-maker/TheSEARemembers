@@ -194,6 +194,356 @@ Ella wrote dutifully, "'Moral victory: Clarisse La Rue. Fish: victorious. Rematc
 
 ---
 
+Clarisse was still arguing that a fish striking her in the face counted as a catch when Ella noticed something under the dock.
+
+"String," she said.
+
+Percy looked down. "What?"
+
+"Not string. Thin string. Shiny. There."
+
+At first he saw only a patch of green water between two pilings. Then the tide pulled back, and something flashed against the barnacles. It was fishing line, almost invisible, stretched tight from a rusty hook caught in the timber to a little clump of weed floating under the boards.
+
+A fish bumped the weed and veered away.
+
+Percy stopped laughing.
+
+"Don't touch it," he told Ella as she leaned forward.
+
+"Ella wasn't going to touch. Ella observes."
+
+"Good. Everyone else stay back a second."
+
+Clarisse looked offended. "I don't need you to tell me not to swallow a hook."
+
+"No, but I need someone to hold the dock steady if I reach for it."
+
+"The dock's attached to the shore, idiot."
+
+"Then you have an easy job."
+
+Annabeth knelt beside him. She could see the line now, a faint diagonal scratch across the shifting water. One end disappeared beneath the dock. The other had worked around a post at about the height where a swimmer's hand would naturally reach for support.
+
+"That wasn't here yesterday," she said.
+
+"Or we didn't notice it."
+
+She studied the arrangement. "Don't pull from this side. The hook will come free and swing toward you."
+
+Percy had been about to do exactly that.
+
+"You're welcome," she added.
+
+He glanced at her. "I hadn't said anything."
+
+"You were reaching for it."
+
+"Apparently I have an extremely readable face."
+
+"You do."
+
+Clarisse took off her spear and laid it safely behind her, clear of the damp boards. "I've got pliers in my pack. We can cut the line."
+
+"Not before we know what the other end's attached to," Annabeth said.
+
+Grover peered over the edge. "Is a fish trapped?"
+
+"Not that I can see," Percy answered.
+
+"Are you certain?"
+
+"No."
+
+Grover knelt without another question. The water wasn't his place, and he didn't pretend it was, but he had a gift for noticing the small, agitated movements of living things. He closed his eyes for a few seconds while the rest waited.
+
+"Something's frightened," he said at last. "Small. Could be a crab. Could be the fish. I can't tell from here."
+
+"Then don't guess," Silena said. "We can look."
+
+She collected the empty keeper bucket and handed it to Thalia. "Can you hold this over the side? If Percy finds anything tangled, at least he won't have to carry it all the way up while he climbs."
+
+Thalia accepted the bucket. "I thought I was here to win a fishing competition."
+
+"Congratulations. You've been promoted to equipment."
+
+"Do I get a badge?"
+
+"A very wet one."
+
+Percy eased back into the Sound, keeping clear of the hooked end. Saltwater closed around his waist; he could feel the current running under the boards and the resistance of the line where it cut across the flow. He wanted to call the water toward him and lift the whole problem out. That would also yank the hook from the piling. Annabeth's warning kept him from trying.
+
+Instead he ducked beneath the dock.
+
+The underside smelled of algae and wet wood. Light came in broken green bars between the planks. A crab was clinging to the hanging weed, one leg caught in a loose loop of monofilament. It moved when Percy approached, tightening the strand around itself.
+
+"There's a crab," he called up. "One leg trapped. No fish."
+
+Grover made a sound of relief that turned into immediate worry. "Can you help it?"
+
+"I can try."
+
+Percy touched the wood beside the hook and let the current ease, just enough to stop the line sawing back and forth. He hadn't needed to move the entire sea. A little stillness gave him room to work. The crab raised its free claw. He respected the warning and kept his fingers outside its reach.
+
+"Clarisse, pliers, please. The small ones."
+
+A moment later the tool was lowered on a spare cord. Clarisse had tied a knot Percy recognized from the training after Triton's lesson, quick and reliable. He caught the handle, tested the cord once, and cut the strand nearest the crab. The loop slackened. The animal scuttled out of it and vanished beneath a mussel-covered rock.
+
+"He's free," Percy called.
+
+"She," Ella corrected from overhead. "Ella thinks it was a she."
+
+"All right. She's free."
+
+"Did you check?"
+
+"I didn't ask for identification."
+
+Ella made a note anyway.
+
+The hard part was getting the rest of the line without dropping more plastic into the water. Annabeth suggested wrapping the free section around a smooth piece of driftwood so it could be pulled up in one coil. Clarisse offered to secure the rusty hook with the pliers. Silena held the bucket beneath the work, ready to catch anything that broke away.
+
+Percy worked slowly. Twice the line caught against the timber. Once the tide pushed him close enough that he scraped a shoulder. He stopped, backed away, and began again rather than wrenching the hook free. Above him Clarisse grumbled that he was taking forever, but she didn't rush him.
+
+When the final length came clear, the entire thing looked absurdly small: a coil of transparent thread, a hook, and a handful of wet weeds. It would have been easy to swim past it. It had almost been invisible from the dock.
+
+Percy climbed back up, dripping seawater onto Clarisse's boots.
+
+"Next time," she said, "tell me before you decide to fight a fishing line."
+
+"I wasn't fighting it."
+
+"You took longer than you did against Triton."
+
+"Because the line was winning."
+
+She put the pliers away before he could see her smile.
+
+Annabeth held out a towel, then hesitated. "Your shoulder."
+
+He looked down. A narrow scrape crossed his upper arm, more annoyance than injury. Salt stung when the breeze reached it.
+
+"Fine."
+
+"I didn't ask whether you could survive it. I asked to see it."
+
+Percy showed her. She checked that no hook had touched him and rinsed the scrape with clean water from her canteen. He didn't protest. Grover took the coil and the hook to the rubbish container near the path, both hands careful around the sharp end.
+
+"We should tell the canoe staff," Annabeth said. "If one line can catch there, others can."
+
+"We should check the other pilings," Percy agreed.
+
+"Not by making you swim under all of them. The instructors have a maintenance routine."
+
+Clarisse lifted her chin toward the path. "I can report it. Might as well find out why somebody left tackle there."
+
+"Could've washed in on the tide," Silena said. "We don't know who did it."
+
+"Then I'll ask, not accuse."
+
+That, more than the fishing line, seemed to surprise Annabeth.
+
+Clarisse gave her a look. "Don't make a thing out of it."
+
+"I wasn't going to."
+
+"You absolutely were."
+
+Annabeth folded her towel with exaggerated innocence.
+
+Ella announced the category she'd added to the morning's records: WATER HAZARD REMOVED. She left the space for responsible person blank.
+
+"Why no name?" Thalia asked.
+
+"Lots of people," Ella said. "Percy swims. Annabeth thinks. Clarisse has pliers. Silena catches loose pieces. Thalia holds bucket. Grover takes trash. Ella documents. Names don't fit one line."
+
+"Write all of them," Silena suggested.
+
+Ella did, on the back of the page. Then she drew a small crab in the margin, its freed leg raised like a banner.
+
+Percy sat at the end of the dock to dry his feet. The competition started again around him, but he found himself watching the water beneath the pilings more carefully. A lesson about asking the sea for something had led to discovering what had been left in it. He suspected Triton would consider the second discovery more important.
+
+Clarisse splashed him with a handful of water.
+
+"Stop brooding, little brother. I'm still winning."
+
+"You got slapped by a bass."
+
+"It was a tactical exchange."
+
+"With a fish?"
+
+"An exceptionally rude fish."
+
+Percy splashed her back. The hook was safely on its way to the waste shed. The crab had somewhere to go. He could afford to laugh again.
+
+---
+
+A little later Clarisse returned from the canoe shed with an instructor named Mara and a short board of handwritten notes.
+
+"Don't give me that look," Clarisse told Percy. "I said I'd report it."
+
+"I wasn't giving you a look."
+
+"Your face does it on its own."
+
+Mara had been supervising the morning canoe checks. She was older than most of the campers and had a habit of pausing before answering a question, as though she wanted to be sure it was the question actually being asked.
+
+"Where was the hook?" she said.
+
+Percy showed her the piling, keeping his feet on the dock this time.
+
+Mara knelt, studied the underside, and nodded. "That corner's hard to see at low tide. I'll add it to the inspection route."
+
+"It could have been washed in," Silena offered. "Nobody saw anyone leave it."
+
+"Exactly," Mara said. "Which means I won't begin by accusing anybody. We want to make sure there's no more line hidden against the boards."
+
+Percy looked down. "I can check the whole dock if you want."
+
+"You can help point out where the current runs," Mara said. "But you aren't going back under there alone. We have a procedure for maintenance work in the water."
+
+"I can breathe down there."
+
+"Can your friend?"
+
+Percy looked at Annabeth. "No."
+
+"Then the procedure has to work for everyone who uses the dock, not only for you. We aren't building safety around one person who happens to have an unusual advantage."
+
+The words stung more than he expected. He wanted to explain that he hadn't been trying to take over. He'd only wanted to make sure no other animal got caught. But Mara was right about the reason the work needed a procedure. Percy could rescue one crab. That wasn't the same as making the dock safe.
+
+Annabeth sat on a clean plank with her notebook open. "I can mark the pilings we can see from shore. Would that help?"
+
+"It would," Mara said. "A diagram with the current direction is even better."
+
+"Then give me five minutes."
+
+Clarisse leaned against the rail. "She'll do it in three."
+
+"Don't put a clock on her," Silena said.
+
+Annabeth didn't look up. "Two minutes if you stop talking."
+
+Everyone stopped for exactly six seconds. Then Thalia began telling Grover that a gull had stolen a piece of bread from her breakfast, and Grover objected to the implication that all birds were criminals.
+
+Percy leaned over Annabeth's drawing. She'd marked the bend in the beach, the shallow strip of sand and the two posts where the tide forced debris into a narrow channel.
+
+"I can see why the hook caught there," he said.
+
+"Because the current curls toward the wood," she answered. "That doesn't mean every piece of litter ends up in the same place. We should note where you actually found this one, not turn it into a rule."
+
+Mara approved the sketch and added three points she wanted checked by the maintenance crew. She gave Percy the list and asked him to identify whether those places would be accessible on an ordinary morning, without using his powers.
+
+"The first one's dry at a low tide," Percy said. "Second is shallow enough to see in clear weather. The third's under the outer edge."
+
+"Good. Then we'll arrange a visual inspection with two people and proper equipment. We aren't sending kids swimming under an active dock."
+
+Clarisse seemed disappointed at the absence of a heroic assignment.
+
+"Could I help with the ropes?" she asked.
+
+"After lunch. Come by the shed. We'll need to make sure they're stowed correctly."
+
+"Fine."
+
+Silena took the damp board from Mara and held it flat while Ella copied the list into her own records. Ella included the distinction between FOUND and POSSIBLE. Percy was impressed. It was the kind of thing Annabeth usually had to remind people to do.
+
+Mara closed her notebook.
+
+"One other thing. The line and hook go in the sharps container, not a normal rubbish bin. Did somebody put them somewhere safe?"
+
+Grover froze.
+
+"I wrapped the hook," he said. "It's in the container by the path."
+
+"Then I'll collect it with gloves."
+
+He nodded, looking dismayed. "I didn't realize there was a special one."
+
+"You didn't leave it loose. You did the important thing first. Now you know where it belongs next time."
+
+Grover relaxed. Percy noticed how much difference the second sentence made. Mara hadn't pretended the first choice was perfect, but she hadn't turned an honest mistake into an excuse to shame somebody.
+
+When Mara left, Annabeth tore the sketch from her notebook and handed a clean copy to Clarisse for the maintenance shed.
+
+"Keep this," she said. "Someone else might need it."
+
+Clarisse folded the sheet, careful not to crease the labels.
+
+"I'll give it to the instructor."
+
+"Not to your personal trophy shelf?"
+
+"I don't have a trophy shelf."
+
+"You have a shelf for spears."
+
+"That's different."
+
+Percy watched her go up the path. He thought about the small hook, the impossible-to-see line, and the way he had wanted to solve every inch of the dock himself. Some dangers could be reached with a pair of pliers and a steady hand. Others required a good drawing, a clear report and people willing to do the boring work after the excitement ended.
+
+He returned to the bucket and looked at the fish they'd kept. It was time to think just as carefully about what happened after catching them.
+
+Silena came back from the path with a clean strip of cloth and three small labels Ella had torn from the back of a page.
+
+"What are those?" Percy asked.
+
+"One for what we're cooking. One for what's going back. One for things we still need to check."
+
+"We're labeling fish now?"
+
+"We're labeling decisions. The fish can remain themselves."
+
+Clarisse followed her, looking faintly annoyed. "Mara wants to know how many campers are using the dock this afternoon. Apparently someone's been borrowing the spare safety rope without signing it out."
+
+Percy looked at the coil they'd used to lower the pliers. It had been returned to the gear basket, but he hadn't signed anything. Neither had Clarisse.
+
+"Was that us?" he asked.
+
+"Probably," Clarisse said.
+
+"Then tell her."
+
+"I already did."
+
+He stared at her.
+
+"What? You thought I'd hide a piece of rope because it was embarrassing?"
+
+"I thought you might consider it beneath your dignity."
+
+"My dignity survived a fish hitting me in the face. It can survive paperwork."
+
+Silena laughed, then pressed one of the labels into Percy's hand. "We can let this morning count as practice. Next time we check out the equipment before we start."
+
+"Next time we're going fishing again?" he asked.
+
+Clarisse looked at him as though he'd questioned the existence of the sun. "Obviously. I have a score to settle."
+
+"With the bass?"
+
+"With the entire ocean."
+
+Percy folded the label between his fingers and looked at the words Silena had written: KEEP ONLY WHAT WE CAN USE. She had made the letters large enough that anyone could read them over the handle of the bucket. He didn't think it would stop Clarisse from turning the next outing into a competition. It might help all of them remember to decide what the catch was for before they began.
+
+He took the pencil from Silena and wrote a second instruction under hers: ASK BEFORE BORROWING GEAR.
+
+"You're becoming a rule-maker," Clarisse said.
+
+"Two rules. I'm exhausted."
+
+"Good. Don't make a third."
+
+Annabeth returned carrying her notebook and caught the last of the exchange. She read the labels without comment, then took the pencil and added a place for the date.
+
+"So we know which day we worked it out," she said.
+
+Silena nodded. "That's useful."
+
+The three labels would go with Ella's records after the meal. They were small things, not medals, and no one needed to applaud when they were finished. Percy tucked them into the dry pocket of the supply bag and checked the lid once before moving away.
+
+---
+
 By nine o'clock the sun had burned off the mist and the dock was crowded with buckets and towels and Ella's growing stack of notes.
 
 Thalia had caught a small flounder by sheer archer patience. She had named the crab that climbed onto her wrist General Shrimp and released him with full military honors. Grover had finally lowered one hand into the water and had immediately burst into tears because he felt how cold the fish were and Percy had to explain that fish liked being cold while Grover apologized to each one individually.
@@ -239,6 +589,132 @@ Percy looked around at his sisters — blood sisters Clarisse and Silena, jostli
 In Atlantis, fishing was work. It was tide schedules and quota stones and palace kitchens. Here it was this. Sun on water. Sisters arguing about crabs. Annabeth's wet hand finding his again when she thought no one was looking.
 
 "Okay," he said, standing and hauling the keeper bucket up. Water sloshed. "Lesson two. Cooking what you catch."
+
+---
+
+Before Percy could carry the bucket up the beach, Grover stopped him.
+
+"How many?"
+
+Percy glanced inside. "Fish?"
+
+"Obviously fish. How many people are going to eat them?"
+
+Silena was drying Ella's notebook with the corner of a towel. "We have enough for a few plates. Tyson said he might join us, so I brought bread."
+
+"Are we taking the catch to the pavilion?" Grover asked.
+
+"Beach fire," Thalia replied. "Chiron approved the old pit. I asked."
+
+"Good. And how many more are you going to catch after this?"
+
+"We're done," Percy said.
+
+He answered too quickly. A moment earlier he'd been considering one more round to give Clarisse a chance at a proper catch. It would be easy. Everybody was better at the technique now, and a second contest would be fun. He looked at the bucket. The fish still inside were alive, moving slowly against the side.
+
+Annabeth saw his expression. "You were thinking about catching more."
+
+"I was thinking about making sure everybody had enough."
+
+"We can bring vegetables and bread," Silena said. "And those mussels Tyson promised, if he actually brings them."
+
+"What if he doesn't?"
+
+"Then we eat less fish. It'll be fine."
+
+Clarisse wiped saltwater off her forehead. "I didn't spend a morning getting humiliated by marine life for half a plate."
+
+"That's between you and the marine life," Thalia said.
+
+"Can we please decide something without making it a contest?" Grover asked.
+
+Ella opened her notebook to the catch records. A thin leaf of paper had stuck to the damp page. She lifted it with such care that everyone stopped talking for a moment.
+
+"Ella has the count," she said. "But count is not purpose. No one wrote purpose."
+
+Annabeth crouched beside her. "You mean whether a fish was caught to eat or only to observe?"
+
+"Yes. Good distinction. Important distinction."
+
+The morning's entries included release notes, measurements, the extraordinary incident of Clarisse being hit in the face, and several fish that had been named by Ella before being returned to the water. The keepers were listed separately, but the reason for keeping them was an untidy collection of notes: BIG, SILENA CHOSE, THALIA WANTS LUNCH, and a question mark beside a porgy.
+
+Percy swallowed a grin at Thalia's expense.
+
+"That question mark is me," Silena said. "I wasn't sure the last one was large enough for a useful portion."
+
+"Then why keep it?" Grover asked.
+
+"I wanted Ella to check the species in the guide. We should've released it after that."
+
+The porgy was still moving. Percy knelt by the bucket and looked at the fish, not as something that had helped Silena win but as an animal he had borrowed from the Sound while they argued.
+
+"Then we can return it now," he said.
+
+Clarisse folded her arms. "If we start giving back all the fish, what was the point?"
+
+"We learned the technique," Annabeth said. "That's a point."
+
+"Easy for someone who caught four and kept none."
+
+"Yes. It was."
+
+Clarisse regarded her for a long second, then let out an unwilling laugh. "I hate it when you're right about something so obvious."
+
+Percy eased the bucket toward the dock's edge. He tipped it until the water reached the lip, then waited for the porgy to swim out of its own accord. The fish hesitated, turned, and slipped into the deeper channel. He kept the bucket level long enough to make sure it was clear.
+
+"There," he said.
+
+Grover looked relieved. Silena made an entry in Ella's notebook, recording the release and the reason. Thalia took the responsibility for carrying their bread and extra vegetables to the fire. Clarisse volunteered to collect driftwood, with the important qualification that nobody was to use the good spear as a poker.
+
+"That was directed at Percy," she said.
+
+"Why would I use your spear as a poker?"
+
+"You've never seen an unattended object you didn't want to turn into a tool."
+
+"You're going to need evidence."
+
+"I have years of evidence."
+
+They moved the remaining catch into shade while Silena checked the water and Ella packed her scrolls. Percy helped Thalia lift a basket that had grown unexpectedly heavy once the food and equipment were put in the same place.
+
+"You were going to catch more," Thalia said quietly.
+
+"Maybe."
+
+"You changed your mind."
+
+"Grover asked a question."
+
+"He does that."
+
+"I don't think he expected an answer."
+
+Thalia glanced toward Grover, who was negotiating with Ella about whether the apples counted toward the category of sustainable harvest. "Sometimes it's nice when somebody surprises you."
+
+Percy shifted the basket against his hip. He'd spent a long time looking at responsibility as the thing that arrived after something went wrong. It was strange to recognize it before there was a mistake to apologize for. The fish they'd released didn't make the day less successful. Nor did leaving enough in the Sound for other creatures and another morning.
+
+Ella ran ahead and called back her new category.
+
+"BEST QUESTION!"
+
+"Who won?" Clarisse shouted.
+
+"Grover! Grover asked about purpose!"
+
+Grover looked scandalized. "I wasn't competing."
+
+"Winning without competing," Ella declared, "is statistically interesting."
+
+Clarisse looked at Percy. "The judge is corrupt."
+
+"Then appeal."
+
+"To whom?"
+
+"The crab. General Shrimp has an office somewhere."
+
+Thalia nearly dropped the basket laughing.
 
 ---
 
@@ -324,6 +800,140 @@ Thalia, who missed nothing despite appearing to be asleep in the sun with her pl
 
 ---
 
+The group was packing up the meal when two younger campers approached with an empty bucket and a notebook.
+
+"Chiron said we could ask you something," the girl with the bucket said to Percy.
+
+"What about?"
+
+"Fishing without hooks. My friend thinks you just ask the fish."
+
+The boy beside her opened the notebook. In the margin he'd drawn a fish suspended above a bucket, with an arrow pointing upward.
+
+Percy looked at the dry bucket. "What were you planning to put in there?"
+
+"A fish," the boy said.
+
+"Right. I gathered that. Then what?"
+
+"Study it. Maybe show it at dinner."
+
+"Then how would you get it back into the water?"
+
+The boy hesitated. He hadn't thought about that part.
+
+Grover set down his plate. "You could study the fish while they're still swimming. Fish do their best work in water."
+
+"We can't see them from far away."
+
+"Then find a safe place to watch," Annabeth said. "Start with what you can observe before deciding what you need to collect."
+
+The girl examined the bucket. "Can we use this for something else?"
+
+"We could use it for practice," Percy offered. "But you'd need permission from the canoe instructor if you're doing anything at the dock."
+
+"Even if there aren't any fish in it?"
+
+"Especially then," Annabeth said. "An empty bucket is still a heavy thing if it falls on someone's foot."
+
+Clarisse came over. "And you don't want a loose handle. That's a good way to lose the bucket."
+
+The girl held up a piece of cord. "I thought I'd tie it here."
+
+Clarisse studied the cord. "That'll slip."
+
+"How do you know?"
+
+"Because I can see how it's tied."
+
+"Can you show me?"
+
+Clarisse glanced at Percy, as though she suspected he'd somehow arranged the question. But the girl was already sitting in the sand, the bucket between her knees. Clarisse crouched to show her how to secure the handle. She made the girl repeat the steps until she could explain what each turn of the cord was doing.
+
+"Now try lifting it," Clarisse said.
+
+The girl did. The handle stayed secure.
+
+"Put some stones in and try again."
+
+She added stones from the beach. The bucket rose a few inches. Nothing spilled.
+
+"There. You can use it to carry things. Doesn't mean you're allowed to lower it from a dock without anyone watching," Clarisse said.
+
+"I know."
+
+"Good."
+
+Thalia inspected the cord. "You've made another instructor."
+
+"Nobody asked you," Clarisse answered.
+
+The boy had been studying Annabeth's notes. "What's this diagram?"
+
+"Water moving around a piling."
+
+"It goes backward?"
+
+"Part of it does. That's called an eddy. Come over here and I'll show you what I mean."
+
+Annabeth led him to a shallow inlet well away from the remaining embers. She floated a small leaf in the water. It traveled toward a rock, turned in a slow circle, then moved out along the edge of the current.
+
+"Percy didn't make that happen," she told him. "The water does it on its own."
+
+"Could he make it go the other way?"
+
+"Sometimes," Percy said. "But if we're studying the actual current, I shouldn't interfere."
+
+The boy watched the leaf complete a second turn. "Can I draw it?"
+
+"That's an experiment," Annabeth said, handing him a pencil.
+
+Ella brought her field guide and compared the birds and small creatures they could see from shore with illustrations on its pages. Grover suggested counting how many animals they could identify without disturbing a single one. It began to sound less like a performance Percy had to provide and more like a lesson the children could actually run themselves.
+
+The girl came back with her bucket and saw a crab beside a wet rock.
+
+"Can I get close enough to count the legs?"
+
+"From this side," Percy said. He showed her an easier place to stand. "That rock's slippery."
+
+She crouched behind the line he'd indicated. "Eight."
+
+"Ten, if you count the claws," Ella corrected. "Crustaceans. Ella loves crustaceans."
+
+"Are you sure?"
+
+Ella opened the guide and showed her. The girl counted again, slower this time.
+
+"Ten," she agreed.
+
+She wrote it down in large, unsteady letters. Percy was glad she'd asked instead of trusting the first answer she heard, even though Ella was almost always right about the things she loved.
+
+Chiron arrived while they were putting the books away. He examined the pages of sketches, the practice bucket, and the unused patch of beach where the children had worked.
+
+"An observation lesson?" he asked.
+
+"We changed our plan," the boy said. "We thought we wanted to catch something. We mostly wanted to know how to identify it."
+
+"That is a useful distinction."
+
+"Can we do it at the canoe lake?"
+
+"Bring me a written proposal first. Then the canoe instructors can tell you which areas are safe and what activities are permitted."
+
+The boy looked unhappy about the delay, but the girl nodded. "We can do that. We have drawings now."
+
+"Good. Don't make the drawings into promises about what you'll see. Water and wildlife don't read your plans."
+
+After he left, the children packed their materials. They thanked Ella for the field guide, Annabeth for the diagrams and Clarisse for showing them how to secure the bucket. Percy received a thank-you for declining to put a fish inside it.
+
+"That's a strange thing to thank me for," he said.
+
+"It was the right thing," the girl replied.
+
+They walked away toward the cabins, the bucket still empty, with a notebook full of questions neither had known to ask when they came.
+
+---
+
 The afternoon wound down golden and slow.
 
 The fire burned to embers. Tyson took the buckets to wash them in the surf. Ella fell asleep on her scrolls in the sun, Silena's blanket tucked around her wings. Grover fell asleep beside her with his head on his pack.
@@ -354,7 +964,7 @@ They sat with their feet in the water, shoulders touching, hands linked on the d
 
 "This morning," Annabeth said after a while, swinging her feet slowly, making little ripples that caught the light, "when that first little bass came into my hands— I wasn't thinking about charts. I was just— still. I've never been still like that. Not even when I draw. My brain is always going. But with my hands in the water, listening— it went quiet. In a good way."
 
-Percy nodded. He knew that quiet. It was the sea's gift. "That's what Atlantis feels like when it's right. When Triton isn't lecturing and Dad isn't—" Poseidon was complicated too, deep and distant and suddenly present in the form of two sisters and a palace full of expectations. "When it's just water. It holds you still."
+Percy nodded. He knew that quiet. It was the sea's gift. "That's what Atlantis feels like when it's right. When Triton isn't lecturing and Dad isn't—" Poseidon was complicated too, deep and distant and suddenly present in the form of his two Camp Three sisters and a palace full of expectations. "When it's just water. It holds you still."
 
 Annabeth leaned her head on his shoulder. Percy tucked a damp strand of hair back, his fingers lingering.
 

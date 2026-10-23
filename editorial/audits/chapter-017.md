@@ -1,8 +1,11 @@
 # Chapter 017: Lake Day
 
-**Status:** Detailed editorial audit; original chapter unchanged.  
-**Source:** [Chapter 17](../../chapters/017-lake-day.md)  
-**Approximate body words:** 6,172. Legacy length is descriptive, not an automatic order to pad.  
+**Status:** Prior detailed audit refreshed against the revised source on 2026-10-17; this update reconciles continuity findings only.
+
+**Source:** [Chapter 17](../../chapters/017-lake-day.md)
+
+**Current body words:** 10,050 (strict manuscript QA).
+
 **Reference:** `FIC_CONTEXT.md` and Chapters 1–18.
 
 ## Findings
@@ -13,23 +16,23 @@
 
 **Recommended fix:** Let Zoe's reaction inform their future competitive relationship and define why Percy feels obliged to hide expertise.
 
-### 017-2 · High
+### 017-2 · Resolved in current source (2026-10-17)
 
-**Source:** [L31–33](../../chapters/017-lake-day.md#L31-L33). Percy's internal account and Clarisse's account of his habitual Atlantean games read like autobiographical knowledge of a childhood his conscious mind does not remember.
+**Current evidence:** [L26–27](../../chapters/017-lake-day.md#L26-L27) attributes Percy’s renewed deep-water movements to recent lessons from Triton and identifies Amphitrite’s form-change account as something Percy does not remember. [L195](../../chapters/017-lake-day.md#L195) again says he describes what he has been taught since arriving at the palace. Clarisse’s childhood-game recollections at [L501](../../chapters/017-lake-day.md#L501) are explicitly hers.
 
-**Recommended fix:** Attribute specifics to Triton's recent lessons or relatives' stories and keep Percy uncertain about what the altered child actually experienced.
+**Disposition:** The current wording distinguishes Percy’s recent instruction from Clarisse’s firsthand memories. No continuity repair is indicated; preserve that boundary in later callbacks.
 
-### 017-3 · Moderate
+### 017-3 · Superseded in part; editorial review still open
 
-**Source:** [L97–239](../../chapters/017-lake-day.md#L97-L239). The chapter shifts to Grover and Clarisse POVs under explicit named headers rather than the required unlabeled third-person-limited scene transitions, and expands beyond the three primary lenses.
+The current chapter has no named POV headings; the earlier note about explicit POV labels is stale. The chapter still contains focal changes, so a separate voice/perspective review would need to read the scene transitions in context before making a style finding.
 
-**Recommended fix:** Keep the most valuable alternative POV scenes but remove POV headers and use a strong scene-opening focal anchor.
+**Disposition:** Do not remove or add headings based on the old audit. Perspective compliance has not been re-certified in this continuity refresh.
 
-### 017-4 · Moderate
+### 017-4 · Resolved in current source (2026-10-17)
 
-**Source:** [L344–374](../../chapters/017-lake-day.md#L344-L374). The Grace-sister sandcastle scene includes Thalia discussing Annabeth's remembered-life Thalia as if she knows detailed events she did not live.
+**Current evidence:** [L776–778](../../chapters/017-lake-day.md#L776-L778). Thalia explicitly says Annabeth told her about the other life and that she cannot remember it herself; Annabeth responds in the present.
 
-**Recommended fix:** Make clear what Annabeth has told Thalia and what Thalia is imagining, never grant her actual erased-life memory.
+**Disposition:** The current dialogue preserves report versus firsthand memory. No repair is indicated.
 
 ### 017-5 · Low
 
@@ -45,4 +48,4 @@ A playful swimming day creates distinct actual jobs for Clarisse (teaching canno
 
 Public camp knows Percabeth are close after capture-the-flag. Percy is learning surface swimming games while he lacks verified autobiographical Atlantis memories. Thalia and Annabeth share an active ordinary-day ritual.
 
-**Disposition:** Resolve causality and canon before polishing. Keep explicit author choices and documented unresolved questions separate. No prose edits in this pass.
+**Disposition:** The two cited memory concerns are resolved in current prose. The remaining notes are editorial leads rather than confirmed continuity contradictions. No prose edits were made in this documentation refresh.

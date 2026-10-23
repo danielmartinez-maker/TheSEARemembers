@@ -18,11 +18,11 @@ Percy glanced at Annabeth. She glanced back. Her hand found his sleeve and tugge
 
 "Three days indoors," she whispered. "We're going to kill each other by Thursday."
 
-"We will not," Percy whispered back. "We're excellent at indoors. We're indoor kids."
+"We won't," Percy whispered back. "We'll find things to do, and we're perfectly capable of staying inside."
 
 "We are absolutely not indoor kids."
 
-"We can learn."
+"Then we can learn," Percy said. "We have three days to get the hang of it."
 
 The run to the Big House was a stampede of squealing twelve-year-olds and older teenagers trying to save their dignity and failing. Water stood ankle-deep in the dips of the path. Percy's sneakers squelched. Grover yelped as mud sucked one sandal clean off his hoof, and Ella, the little rust-feathered harpy who followed Grover around like a lost duckling, swooped down squawking and retrieved it in her talons, dropping it back into his hands with a proud chirp.
 
@@ -88,9 +88,7 @@ Annabeth bumped her shoulder into his. "Talk to me on day three when Connor has 
 
 "Okay, fair."
 
-Outside, the rain kept falling. Steady. Patient. Unbothered by twelve-year-olds or schedules or plans. Percy watched it stripe the windows and felt, for the first time in weeks, his shoulders come down from around his ears. No quests. No prophecies. No training dummies. Just cards and soup and Annabeth's knee warm against his.
-
-He could do three days of this.
+Outside, the rain kept falling, steady and patient, unbothered by twelve-year-olds or schedules or plans. Percy watched it stripe the windows and felt, for the first time in weeks, his shoulders come down from around his ears. There were no quests, prophecies, or training dummies to worry about—just cards, soup, and Annabeth's knee warm against his. He could do three days of this.
 
 
 ---
@@ -108,15 +106,13 @@ A knock banged on the door.
 
 Everyone froze. Nobody knocked on the Aphrodite cabin in the rain unless it was important or stupid.
 
-Lacy opened it. Standing on the step, soaked to the skin, mud up to her knees, spear in hand like she'd marched through enemy territory, was Clarisse La Rue.
+Lacy opened the door. Clarisse La Rue stood on the step, soaked to the skin, mud up to her knees, her spear in hand as if she'd marched through enemy territory.
 
 "I got bored," Clarisse announced.
 
-The whole cabin stared.
+The whole cabin stared. Clarisse, who called them perfume princesses and once said blush was for people who didn't know how to bleed properly, stood dripping on their heart-shaped welcome mat.
 
-Clarisse, who called them perfume princesses. Clarisse, who once said blush was for people who didn't know how to bleed properly. Clarisse, dripping on their heart-shaped welcome mat.
-
-Silena recovered first. She always recovered first. That was her job. "Oh, thank the gods. Come in, you're freezing. Lacy, towels! Drew, move your stuff off the good chair!"
+Silena recovered first. She always recovered first; it was her job to move when everyone else froze. "Oh, thank the gods. Come in, you're freezing. Lacy, towels! Drew, move your stuff off the good chair!"
 
 "I don't need—" Clarisse started.
 
@@ -190,7 +186,7 @@ Annabeth perked up instantly. "Is this the one Mom—"
 
 "Yeah," Thalia said, softer. "Yeah, this one."
 
-The Zeus cabin in the rain was the best place in camp, Thalia thought, even if she was biased. White marble went silver in storm light. The tall windows rattled pleasantly. The bronze braziers in the corners threw warm gold over everything. It smelled like rain and electricity and lemon polish. The spare bunk was neatly made, ready if Jason could ever visit from the Roman camp, lucky punk missing the flood, and Thalia's bunk was a disaster of blankets, and Annabeth's corner was impossibly tidy: books stacked by size, dagger sheath hung straight, a little framed childhood photo of her with Zeus at the Grand Canyon, his face in it identified for her by Thalia that Thalia pretended not to have stared at.
+The Zeus cabin in the rain was the best place in camp, Thalia thought, even if she was biased. White marble went silver in storm light. The tall windows rattled pleasantly. The bronze braziers in the corners threw warm gold over everything. The air smelled like rain and electricity and lemon polish. The spare bunk was neatly made, ready if Jason visited Camp Half-Blood again. Lucky punk, he'd missed the flood. Thalia's bunk was a disaster of blankets. Annabeth's corner was impossibly tidy: books stacked by size, dagger sheath hung straight, and a little framed childhood photo of her with Zeus at the Grand Canyon. Thalia had identified the man in it for Annabeth, though she pretended not to have stared at the picture.
 
 They sat on the floor around the low table, rain lashing the windows. Thalia produced a battered tin box. Inside was a deck of regular mortal playing cards, edges soft with age, the backs printed with faded airplanes. TWA. The box smelled like cigarettes and hairspray and old leather, even after all these years.
 
@@ -894,6 +890,4 @@ But for now: drizzle, gray light, his hand in hers, the whole camp breathing out
 
 Annabeth leaned her head on Percy's shoulder. He leaned his head on top of hers, damp hair tickling her forehead. They watched the rain.
 
-Behind them, inside Cabin One, Thalia started dealing another round of Spite and Malice and calling for them to come back in before they caught colds. They ignored her for one more minute. Just one more.
-
-Percy moved his hand nearer to Annabeth's. She took it without looking away from the rain. For another minute they listened to Thalia deal cards inside, comfortable enough not to answer her yet.
+Behind them, inside Cabin One, Thalia started dealing another round of Spite and Malice and calling for them to come back in before they caught colds. Percy shifted aside to leave the dry strip of doorway clear, then sat beside Annabeth again. They could hear Thalia deal the next hand while the drizzle worked through the gutters. When Thalia called that she was saving them a place, Annabeth answered that they were coming and kept hold of Percy's hand as they crossed the threshold.

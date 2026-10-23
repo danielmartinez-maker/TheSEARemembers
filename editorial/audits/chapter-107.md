@@ -1,28 +1,24 @@
-# Chapter 107 editorial screening: The Words We Choose
+# Chapter 107 editorial audit: The Words We Choose
 
-**Source:** [Chapter 107](../../chapters/107-the-words-we-choose.md), git blob `40e13d958dadce9c56b9835d92389fd0a00daaac`. **Approximate body words:** 1,514. **Status:** Screening only; manuscript unchanged.
+**Source:** [Chapter 107](../../chapters/107-the-words-we-choose.md). **Current body count:** 10,085 whitespace-delimited words, counted by `scripts/audit_chapter_length.py` (PASS). **Status:** focused quality repair complete; not literary signoff.
 
-**Review standard:** FIC_CONTEXT.md. Full text scanned for the checks below; representative scenes used for editorial checkpoints. Not a certification of exhaustive close reading.
+## Scope
 
-## Chapter-specific focus
+This pass checked the full Chapter 107 text and its transition against the finalized Chapter 106 close and Chapter 108 opening. It also checked the current `FIC_CONTEXT.md`, Chapter 107 continuity record, and chapter-drafting/scene-engineering/canon-guardian/continuity guidance. The revision was limited to the chapter and its own YAML, handoff, and audit.
 
-Track exact words or promises chosen and show consequences rather than reiterating consent/relationship lessons.
+## Findings and repairs
 
-## Source passages for scene-level review
+- Consolidated the chapter into one dinner and one post-dinner walk/farewell. Removed the replayed toast, handhold, and repeated declaration reassurance.
+- Removed the duplicated plank rehearsals that had interrupted the arena drill and repeated the later shrine move. The arena now runs continuously; one staging sequence follows lunch and ends with the plank parallel to the path.
+- Reduced repeated explanations of present-focused love. The declaration remains intact; each friend’s support is limited to a concise advice beat.
+- Reduced the Cabin Three card game to one hand. Silena goes out and wins; Clarisse has one three-point card remaining, while Percy’s two cards total four. The prose and continuity sidecar now agree.
+- Added practical work around the shrine staging area: Percy and Clarisse rehearse calls and a stop rule, inspect the turning clearance, preserve a safe passing lane, and place the plank parallel to the path. The approach lane stays clear while the plank itself occupies the marked staging patch pending maintenance.
+- The drainage inspection remains observational. Debris is recorded and left in place; no flow test, stone movement, or repair occurs. Cause of the debris and inconsistent level endpoints remains unresolved.
 
-1. **Opening development:** Which present objective, social friction or physical constraint gives the activity stakes beyond established belonging? **[Line 11](../../chapters/107-the-words-we-choose.md#L11):** “It followed him through training, where he missed three easy blocks. It followed him to the dining pavilion, where he forgot to take his plate to the fire. It followed him through the first half of Annabeth explaining an improveme…”
+## Continuity boundaries
 
-2. **Middle development:** Does the event change someone's knowledge, choice or behavior, or merely restate a feeling already established? **[Line 107](../../chapters/107-the-words-we-choose.md#L107):** “Annabeth had been waiting near the shrine when Percy returned. She was sitting on the low wall, sketchbook open on her knees, pretending to work while watching the path.”
+Percy POV remains third-person limited. Only Percy and Annabeth remember erased-future autobiographical events; friends do not receive that knowledge, and Amphitrite is not told about Percy’s memory gap. The chapter adds no calendar date, age, season, or new gift. The plank remains staged; Silena’s vial remains undecided; the drainage work and crew test remain pending. Chapter 108’s dawn training and cowrie gift remain in the following chapter.
 
-3. **Closing handoff:** Identify what concretely persists: promise, new boundary, object, visit, recovery, project milestone or unresolved conflict. **[Line 175](../../chapters/107-the-words-we-choose.md#L175):** “They clinked cups. Percy felt Annabeth's hand find his beneath the table. He squeezed it once.”
+## Remaining QA limits
 
-## Mechanical and continuity flags
-
-- **Confirmed structural seam:** Chapter 107 is only 1,514 body words; Chapters 101–114 are much shorter than adjacent volumes. Decide whether to retain as a titled interlude, join with an adjacent scene, or expand meaningfully.
-- **Continuity names:** Zeus ([L181](../../chapters/107-the-words-we-choose.md#L181)). A mention does not prove physical presence; verify travel, communication or recollection in the local scene.
-
-## Canon boundaries and follow-through
-
-Percy/Clarisse/Silena are Poseidon half-siblings; Thalia/Annabeth Grace are Zeus daughters and sisters. Only Percy and Annabeth remember the displaced future. Percy and Annabeth's younger relationship remains nonsexual. Later Thalia/Rhys scenes concern two adults. Keep the rewrite architect unknown. Track dates, injuries, visitors and gifts with the surrounding chapter, and preserve original text until an authorized revision.
-
-**Audit status:** Evidence-linked screening, not an implemented fix.
+The body-word count passes by 85 words. The final local manuscript QA passes 193/193 length and structure gates, finds zero exact 300-word matches across 1,941,481 chapter windows and 2,092,033 bonus-inclusive windows, and passes 36 source-anchored memory checks. This focused chapter review does not establish the maintenance crew’s schedule or eventual findings, and it is not independent literary signoff. Earlier hosted Actions passed on PR commit `b9140dd` (hosted validation of this continuation is pending): [full manuscript QA, run 472](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802694) and [character memory consistency, run 232](https://github.com/danielmartinez-maker/TheSEARemembers/actions/runs/39049802683). Semantic repetition and independent literary/style signoff remain open.

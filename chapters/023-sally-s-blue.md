@@ -1,11 +1,9 @@
 ## Chapter 23: Sally's Blue
 
 
-Percy didn't remember deciding to do it.
+At breakfast, Percy meant to tell the Poseidon table that Sally had made blue chocolate-chip cookies in the life he remembered. He had not meant to propose baking them. Tyson — his Cyclops half-brother, visiting from the undersea forges on a day visit Chiron had approved, all one eye and elbows and earnestness — heard him and shouted, "MAKE THEM?" Half the pavilion turned. Percy could not take the idea back without explaining why he had offered it in the first place.
 
-That was how most bad ideas at Camp Half-Blood started, in his experience. You didn't decide. You just opened your mouth at breakfast while the mist was still hanging low over the strawberry fields and said, "My mom made blue chocolate chip cookies in the life I remember," and then Tyson — his Cyclops half-brother, visiting from the undersea forges, all one eye and elbows and earnest — said, "MAKE THEM?" so loud that half the dining pavilion turned around, and then it was too late to take it back.
-
-By lunch, it had mutated. Tyson told Grover. Grover told Ella. Ella told approximately everyone she'd ever screeched at, which was everyone. Annabeth raised one eyebrow at him across the Poseidon table — because she still sat with him half the time even though she had her own cabin now, the Zeus cabin, all sharp marble and storm-static air — and said, "You know how to bake?"
+Before lunch, Tyson had repeated the idea to Grover, Grover had told Ella, and Ella had announced it to every camper within earshot. Annabeth raised one eyebrow at Percy across the Poseidon table — she still sat with him half the time even though she had her own cabin now, the Zeus cabin, all sharp marble and storm-static air — and asked, "You know how to bake?"
 
 "Kind of," Percy said.
 
@@ -35,7 +33,7 @@ Silena pressed a hand to her chest. "I love her. I've never met her and I love h
 
 "Yeah," Percy said quietly. "Me too."
 
-Talking about her still caught him by surprise. He had told them about Sally for the cake, but saying her name could close his throat without warning, and then he had to go swim until his chest stopped hurting. To everyone else she had died ten years ago. To him her chipped mug and off-key humming were near enough to touch. He could feel Annabeth looking at him, not staring, just — noticing. She didn't write anything in her notebook.
+Talking about Sally still caught Percy by surprise. He had told them about Sally while they made the cake, but saying her name could close his throat without warning, and then he had to swim until his chest stopped hurting. To everyone else, she had died ten years ago. To him, her chipped mug and off-key humming felt near enough to touch. He noticed Annabeth watching without staring or writing anything down, giving him room to say only what he wanted.
 
 "Okay," he said, clapping his hands together too hard. Flour puffed up from his palms. "Okay. Step one. Butter and sugars. Mom always says room-temp butter, not melted, or the cookies go flat. She leaves it out on the counter while she hums. She hums off-key."
 
@@ -427,11 +425,11 @@ Thalia Grace had stolen many things in her sixteen years of life.
 
 She'd stolen food from convenience stores when she ran away at eight. She'd stolen a shield from a Cyclops (long story). Someone had once accused her of stealing something she had never even seen, an accusation she was still irritated by. It did not count as theft, however impressive she found her survival of the argument.
 
-She had never stolen cookie dough quite so blatantly, quite so often, in front of quite so many witnesses, as she did that afternoon.
+She had never stolen chocolate chips quite so blatantly, quite so often, in front of quite so many witnesses, as she did that afternoon.
 
 "It's quality control," she told Annabeth, mouth full, when Annabeth tried to smack her hand with a notebook. "I'm ensuring hero safety."
 
-"You're ensuring you get salmonella," Annabeth said, but she was smiling. Thalia and Annabeth had a weird sister thing — full sisters with Zeus and Beryl for parents, both prickly and proud, both terrified of needing anyone. Thalia was older by four years, and made sure Annabeth knew it, all black hair and eyeliner and leather bracelets she wasn't supposed to wear in the kitchen. Annabeth was all plans and angles. They circled each other like twin storms.
+"You're ensuring the batch has enough chocolate," Annabeth said, but she was smiling. Thalia and Annabeth had a weird sister thing — full sisters with Zeus and Beryl for parents, both prickly and proud, both terrified of needing anyone. Thalia was older by four years, and made sure Annabeth knew it, all black hair and eyeliner and leather bracelets she wasn't supposed to wear in the kitchen. Annabeth was all plans and angles. They circled each other like twin storms.
 
 But today the storm was quiet. Thalia watched Annabeth measure and Percy laugh and felt something unfamiliar and soft settle in her chest.
 
@@ -737,14 +735,14 @@ Tyson fell asleep in a flour drift by the hearth, a half-eaten cookie on his che
 
 Percy sat on the railing, cookie in hand, watching the sky go pink over the Sound. He thought about Sally's tiny apartment kitchen in his original childhood, the chipped blue mug, the off-key humming. He thought about Gabe's shouting and the rain on the fire escape and the way Sally always saved him the biggest cookie even when there wasn't enough.
 
-He missed her so much it should have hurt. And it did — a little. A dull ache under his ribs. But it didn't swallow him. It sat beside him, like a friend.
+He missed her enough for it to hurt, a dull ache beneath his ribs, but it didn't swallow him whole. The ache sat beside him like a friend, present and familiar, without pulling him under.
 
 Annabeth climbed up to sit next to him, swinging her legs. She offered him her notebook. On the last page, under the recipe, she'd written in careful letters:
 
-*SALLY'S BLUE (Standardized, Camp Half-Blood Edition)*
+*SALLY'S BLUE (First Camp Test; provisional)*
 *Butter, sugars, eggs, joy. Salt = remember. Vanilla = extra. Blue = on purpose.*
-*Result: tastes like home. Replicable wherever love is present.*
-*Verified by: Annabeth Grace, Architect.*
+*Result: Percy says the first batch tasted like home. Measures and oven timing need another test before this can be called repeatable.*
+*Recorded by Annabeth Grace; not a copy of Sally Jackson's exact recipe.*
 
 "For your mom," she said. "So you don't forget. And so we can make them again."
 
@@ -838,13 +836,13 @@ They sat together without trying to answer the impossible question of why histor
 
 "Would that hurt her?"
 
-Silena considered. Amphitrite knew Percy had arrived with memories that didn't match his life in Atlantis. She had made room for his uncertainty when she visited and tried not to question him about it constantly. Silena could not know how the queen would feel about an account of another mother.
+Silena considered. Amphitrite had visited the camp and tried to be kind to Percy. But Silena could not know how the queen would feel about an account of another mother, or what she would want to hear in a letter.
 
 "She might have feelings about it," Silena said. "But the fact that you loved Sally doesn't mean you're doing something wrong by loving Amphitrite too. You can decide how much you want to explain."
 
 Percy thought about the letter. He wanted Amphitrite to know he'd enjoyed the day with his sisters. He wasn't ready to describe Sally's kitchen in detail, or ask his family in Atlantis to understand what it felt like to remember a woman they knew had died before he could remember her.
 
-"I can say we made blue cookies because of a recipe I remembered," he said. "Then tell her about Clarisse nearly burning the first batch."
+"I can tell her we made blue cookies together," he said. "And that Clarisse nearly burned the first batch."
 
 "She'll find that funny."
 

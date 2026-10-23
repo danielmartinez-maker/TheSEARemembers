@@ -116,7 +116,7 @@ Percy took the heel in both hands. It was warm. It was warm in the specific way 
 
 "I'm not saying you don't know where it is. I'm saying the frost went and came back in two days, and you've written the bank on a list for eleven days, and the bank can't read."
 
-Clarisse put her pencil down. "The bank can't read," she repeated, in the tone of a woman confirming a finding. "Correct. The bank has never been able to read. The bank is a pile of glass and bad screws and it has been a pile of glass and bad screws since August, and when I take it down I would like to take it down once, with a bar, into hard ground, and not twice into a thaw."
+Clarisse put her pencil down. "The bank can't read," she repeated, in the tone of a woman confirming a finding. "Correct. The bank has never been able to read. It has a runoff scar and wet soil; when I shore it up, I want to do it once on firm ground, not twice in a thaw."
 
 "So you're letting it wait."
 
@@ -186,7 +186,7 @@ Her own page was the wrong length. She had cut it square because square was what
 
 Beryl Grace had asked for the corner of the roof.
 
-The corridor outside her mother's rooms in the deep palace — no. That was Percy's memory, not hers. Annabeth put her pen down and looked at the window a moment, because there had been a winter when she had known the shape of every roof on a hill that was not this one, and she still could not always tell the difference between a thing she remembered and a thing she had been told. The hall, though, the hall she had. Four months of it. The tile, the brick, the barrel ceiling, the skylight in the long curve, the north corner where the rain lay on the glass in a storm and went on lying there after it stopped, the warm mineral smell coming up off the water in the dark.
+The corridor outside Amphitrite's rooms in the deep palace — no. Percy had told her only that the warm mineral smell pulled him toward Atlantis; the corridor was her guess, not something he could remember. The association belonged to him, not her. Annabeth put her pen down and looked at the window a moment, because there had been a winter when she had known the shape of every roof on a hill that was not this one, and she still could not always tell the difference between a thing she remembered and a thing she had been told. The hall, though, the hall she had. Four months of it. The tile, the brick, the barrel ceiling, the skylight in the long curve, the north corner where the rain lay on the glass in a storm and went on lying there after it stopped, the warm mineral smell coming up off the water in the dark.
 
 She wrote:
 
@@ -312,7 +312,7 @@ He read the last four lines out loud, without being asked, in the voice he used 
 
 "The rule says the writer decides. It doesn't say the writer has to be an idiot about it." She turned her own page a quarter round, which was a thing she did when she was deciding something, and squared it to the edge of the blotter, and then, when she thought nobody was looking at her, which was a calculation she had always made badly with him in the room, let her eyes go once to the window and the road beyond it that ran up toward the forge.
 
-Percy ate bread and said nothing about the window, and the nothing he said about it was a large and deliberate nothing, and he filled it with the next four lines of the letter instead: that the hall had a pump and a heater and a man who came up the path on Thursdays with a ladder, and that if the ladder was for the roof corner then Annabeth had written to their mother about the roof corner, which meant the whole hill was now in correspondence about one leak.
+Percy ate bread and said nothing about the window, and the nothing he said about it was a large and deliberate nothing, and he filled it with the next four lines of the letter instead: that the hall had a pump and a heater and a man who came up the path on Thursdays with a ladder, and that if the ladder was for the roof corner then Annabeth had written to Beryl about the roof corner, which meant the whole hill was now in correspondence about one leak.
 
 "Whose ladder?" Clarisse said.
 
@@ -446,7 +446,7 @@ Thalia was not on the hill at all. Annabeth had gone up at six to find her, and 
 
 "I know it's Thursday. I wrote the letter." Thalia had put the boot back on and stood up in one motion and taken the bad weight on the flat of her foot, as always. "Go on. I'm right behind you."
 
-She was not right behind them. That was the thing Annabeth thought about on the way down the west path, past the dark fourth lamp and the seventh, with her sister's letter in a sack on her elder sister's shoulder. Thalia came down the path ten minutes later, alone, and did not limp, and arrived at the Big House with her hood up and her hands in her pockets, and said, "Right. Where's the sack?"
+She was not right behind them. That was the thing Annabeth thought about on the way down the west path, past the dark fourth lamp and the seventh, with the mail sack over Clarisse's shoulder. Thalia came down the path ten minutes later, alone, and did not limp, and arrived at the Big House with her hood up and her hands in her pockets, and said, "Right. Where's the sack?"
 
 "It's got a head start," Clarisse said. "And you're late."
 

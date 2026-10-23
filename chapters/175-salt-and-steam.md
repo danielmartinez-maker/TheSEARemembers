@@ -38,11 +38,11 @@ It was older than the cabin and it did not look like the cabin at all. Black til
 
 Percy stopped three steps in.
 
-The smell hit him before the water did. Salt. Not sea salt, not the Atlantic, not the lake, which smelled of pine roots and cold mud and reeds. This was the other thing: clean mineral salt in warm air, the exact smell of the corridor outside his mother's rooms in the deep palace, where the water was kept warm in winter and the pools were lit from below and everything in the world was the temperature of a held breath.
+The smell hit him before the water did. Salt. Not sea salt, not the Atlantic, not the lake, which smelled of pine roots and cold mud and reeds. This was the other thing: warm mineral salt, and with it a tug of familiarity he associated with the deep palace. The association offered no room or event, only an ache of wanting he could not quite place.
 
-He stood there in a camp hall in October and was nine years old, and the wanting came up under his ribs so fast and so hard that he had to look at the far wall for a second and read the patched brick like a sentence.
+He stood there in a camp hall in October, and the smell of warm saltwater brought up a wanting under his ribs, so fast and hard that he had to look at the far wall for a second and read the patched brick like a sentence.
 
-The smell was not the memory. That was the part he had learned this year and kept learning. The smell was a smell. The palace was somewhere he had put his things, and the warm salt water in a black room was a Tuesday, and both of those things could be true at once without either of them being false.
+The smell was not a memory. That was the distinction he had been learning to keep this year. The smell was a smell; what came with it was a wanting without a scene attached. The palace was part of his life even when the details would not come, and the warm saltwater in this camp hall belonged to Tuesday. Both could be true without the smell supplying a memory he did not have.
 
 "You've gone somewhere," Annabeth said, at his elbow.
 
@@ -104,7 +104,7 @@ Olive Nakamura got there one minute in. She climbed down the ladder with her gog
 
 "It keeps being true."
 
-Silena had four extra suits in a bag, exactly as advertised, and by ten past seven every one of them was in use, on Olive and two of the Apollo kids who had heard the door and come down out of pure nosiness, and a small girl from the Demeter cabin who had been told there was warm water and had run the whole way.
+Silena had four extra suits in the blue bag, exactly as advertised, and by ten past seven every one of them was in use, on Olive, two Apollo kids who had heard the door and come down out of pure nosiness, and Rosie, a small girl from Demeter who had run down after hearing there was warm water.
 
 "That's seven," Clarisse said.
 
@@ -118,9 +118,9 @@ Clarisse looked at him the way she looked at a spear she had decided not to chec
 
 "Wouldn't dream of it."
 
-The small ones arrived in a heap at about ten past seven.
+The rest of Katie's group arrived in a heap at about ten past seven; Rosie was already at the pool.
 
-Katie Gardner brought six of them down the hill in one line, all in coats over whatever they had, and the smallest was a Demeter girl named Rosie who was seven and had been told there was warm water and had run the last fifty feet. They stopped in the doorway in a clump, because a black-tiled hall full of steam at night is a large thing when you are seven, and stood there breathing it in with their eyes wide, and nobody in the whole room said a word about it out loud, because everybody in the whole room was quietly doing the arithmetic on how long it had been since they had felt warm in October.
+Katie Gardner brought the other five down the hill in one line, all in coats over whatever they had. Rosie, the smallest of the six, was seven and had run the last fifty feet ahead of them; she was already in her borrowed suit at the water's edge. The five stopped in the doorway in a clump, because a black-tiled hall full of steam at night is a large thing when you are seven, and stood there breathing it in with their eyes wide, and nobody in the whole room said a word about it out loud, because everybody in the whole room was quietly doing the arithmetic on how long it had been since they had felt warm in October.
 
 "Suits," Silena said, from the dressing room, in the flat busy voice of a quartermaster. "Adults' rack on the right, kids' on the left, and the bag of smalls is the blue one. No, you can't wear your own shorts in it, they go transparent, ask me how I know."
 
@@ -128,7 +128,7 @@ Katie Gardner brought six of them down the hill in one line, all in coats over w
 
 "Don't ask me how I know."
 
-So the four spare suits came out of the bag and went onto three of Katie's kids and a Hermes boy who had come down out of pure nosiness and was now, very obviously, staying. Neve from the forge got one with a silk repair in the left shoulder, done in small even stitches, which nobody said anything about. Silena handed out goggles from a jar and took back two pairs that were cracked and put them in her pocket to fix, which was a thing she did without appearing to look at anybody while she did it, which was the closest thing Cabin Three had to a public service.
+The first four had used the blue-bag suits for one turn. While Katie's five newcomers waited, Olive, the two Apollo campers, and Rosie climbed out, rinsed the suits, and handed them back to Silena; she checked each one before passing it on. The four bag suits went onto three of Katie's six, Rosie among them, and a Hermes boy who had come down out of pure nosiness and was now, very obviously, staying. Neve from the forge got the separate fifth loaner, the repaired suit Silena kept on the rack beside the bag, its left shoulder reinforced with small even silk stitches; nobody said anything about it. Silena handed out goggles from a jar and took back two pairs that were cracked and put them in her pocket to fix, which was a thing she did without appearing to look at anybody while she did it, which was the closest thing Cabin Three had to a public service.
 
 Then they all got in, in the slow scared way people get into a strange pool, and the room changed character completely.
 
@@ -204,7 +204,7 @@ After that they did the statue game.
 
 It was Clarisse's invention, which meant it had rules and no name, and it went like this: shallow end, bottom of the water, sitting, whoever stayed down longest without moving wins. No pushing off. No surfacing. Thalia, who had competitive opinions about everything, went first and stayed under for fifty-one seconds with her arms folded and her hair floating around her head like smoke, and came up furious about a number that nobody had asked her for. Marcus, who had come back for his goggles, went under for thirty and came up laughing. Clarisse did forty-four, without hurrying, and got out and said "Fifty-one's nothing, she was on a ridge for four days," which was her way of admitting defeat.
 
-Percy went under last and stayed at the bottom of the shallow end with his eyes open, watching the light come through the skylight and flatten into a soft gold coin on the tiles above him, and it was easy, and that was the whole trouble with it: the warm salt water and the light made an old room of his head for a moment, a room with a lit pool and a voice calling him in for dinner, and he had to choose, down there, deliberately, to come up.
+Percy went under last and stayed at the bottom of the shallow end with his eyes open, watching the light come through the skylight and flatten into a soft gold coin on the tiles above him, and it was easy, and that was the whole trouble with it: the warm saltwater and the light stirred a wish to stay somewhere he could not picture. It was only a bodily tug, not a memory he could follow; he had to choose, down there, deliberately, to come up.
 
 He chose. He came up with his ears roaring and the steam on his face and took a breath that was all November-cold by comparison, and there was Annabeth on the edge with her field book closed, watching him, and the look on her face was the look of somebody who had counted the whole thing and had already been worried and had decided in advance not to say so.
 
@@ -218,7 +218,7 @@ He chose. He came up with his ears roaring and the steam on his face and took a 
 
 "It's in the book," Annabeth said, and it was: he saw it later, in the margin next to the tile plan, in her small upright hand, no context, no explanation: P. under: 62. good lungs. bad habit. Nobody else at camp would ever be able to read it and know what it meant, and he was going to think about those two lines for a week.
 
-The others went up to the cabin in the wet dark with their towels and their suits and the sound of nine people's worth of arguing going ahead of them, and Annabeth did not go with them, and neither did Percy, and neither of them said anything about staying, which was how it had been decided.
+The others began going up to the cabin in the wet dark with their towels and their suits and the sound of nine people's worth of arguing going ahead of them. Silena stayed behind to collect the towels; Annabeth did not go with the others, and neither did Percy, and neither of them said anything about staying, which was how it had been decided.
 
 The hall at the end of the night was the best it ever got. The heater ticked as it cooled. Steam stood in the ceiling's curve in one long flat sheet and did not move. The skylight had gone black with rain on it, and the black tile held the lamplight in the shallow end in a slow green shine, and there was nobody in the whole room except the two of them, and the water made the only sound there was, which was a small patient lapping against the ladder.
 
@@ -238,7 +238,7 @@ It was slow. It was the kind of slow that has no clock in it. He had both hands 
 
 ---
 
-Silena stayed behind to do the towels, because Silena always stayed behind to do the towels, and because there were eleven of them now instead of the four that had gone down, which meant eleven people had swum in a room that had been locked for a year, which meant somebody had done something right on a Monday and nobody had said a word about it.
+Silena stayed behind to do the towels, because Silena always stayed behind to do the towels, and because there were eleven of them now instead of the four that had gone down, which meant eleven people had swum in a room that had been locked for a year, which meant somebody had done something right the day before and nobody had said a word about it.
 
 She went along the edge with the flat basket and collected them, wet and warm, and hung them on the racks in the little dressing room, and stood in the doorway a minute in her suit with her own towel around her shoulders and listened to the hall behind her.
 
@@ -314,17 +314,19 @@ There was a long moment in the steam in which Silena Beauregard, who could talk 
 
 "I wrote it down Monday," he said, and went out of the door into the cold, and pulled it to behind him, and the room was the room again, warm and empty and full of somebody's absence, and Silena stood there a good while longer than she needed to with a lantern in her hand.
 
-The heater ticked. The water held still. She looked down at the tile where the amber panel had been, and there was nothing there, no mark, no crumb, nothing at all, and she stood in the middle of a black-tiled hall on the second of October and understood the whole shape of it at once, the way you understand the shape of a chair in the dark.
+The heater ticked. The water held still. She looked down at the tile where the amber panel had been, and there was nothing there, no mark, no crumb, nothing at all, and she stood in the middle of a black-tiled hall on the third of October and understood the whole shape of it at once, the way you understand the shape of a chair in the dark.
 
-Then she blew out the lantern, and hung it up, and gathered eleven towels, and went up to bed.
+Then she blew out the lantern and hung it up.
 
 She did not go up to bed.
 
 She went into the dressing room instead and did the thing she always did at the end of a day like that, which was to take inventory of the kindness people had not noticed. Eleven towels on the racks, warm and going cold. The blue bag in the corner with the four spare suits rolled the way she rolled them, smallest at the top. The jar of goggles, minus two cracked pairs, in her pocket, to be fixed on Thursday with the needle and the silk thread and the strip of rubber from the repair kit under her bunk. Three kids from the Demeter cabin, one Hermes boy, one forge girl, all of them in warm water for the first time since August, none of them asked for anything, none of them thanked her, which was not the same as not being grateful and was not the same as not needing it.
 
-The suit with the silk repair was on the left end of the rack, and she took it down and looked at the shoulder in the lamplight for a while. Four stitches and a knot. Left shoulder, where a strap takes weight, where a suit gives out first. She had done that repair in August on a suit belonging to a girl who had outgrown it, and the girl had no idea, and the suit had gone in the bag, and tonight it had been on Neve from the forge.
+The suit with the silk repair was on the left end of the rack, and she took it down and looked at the shoulder in the lamplight for a while. Four stitches and a knot. Left shoulder, where a strap takes weight, where a suit gives out first. She had done that repair in August on a suit belonging to a girl who had outgrown it, and the girl had no idea. Afterward Silena kept it on the rack beside the blue bag, separate from the four bag suits; tonight it had been on Neve from the forge.
 
-There was going to be a fifth spare before the frost came. She decided it there, in the steam-smelling dark, with the towel basket on her hip, the way she decided everything: not out loud, not at a meeting, just filed, and then done, and then never spoken of.
+She put the repaired suit back on the left end of the rack.
+
+There was going to be a fifth suit in the blue bag before the frost came. She decided it there, in the steam-smelling dark, with the towel basket on her hip, the way she decided everything: not out loud, not at a meeting, just filed, and then done, and then never spoken of.
 
 Then she gathered the eleven towels, and went up to bed.
 
@@ -332,7 +334,7 @@ Then she gathered the eleven towels, and went up to bed.
 
 Clarisse La Rue was still on the bench by the door at ten, with her jacket on over her suit and the winter list flat on her knee, doing the arithmetic of a good evening, which is harder than the arithmetic of a bad one.
 
-Nine at the count. Eleven towels. Four kids who did not live in this cabin and had no business knowing the hall existed and were going to be back on Thursday, because that is what happens when you leave a door open and put a rule about it on a slate where people can read it.
+Nine at the count. Eleven towels. Five kids who did not live in this cabin and had no business knowing the hall existed and were going to be back on Thursday, because that is what happens when you leave a door open and put a rule about it on a slate where people can read it.
 
 She wrote *9* at the bottom of the page, and then, because the number was a lie without the rest of it, she wrote under it: *and 4 borrowed. and 1 who can't swim who floated. and O'Fee's opinion pending.*
 
@@ -462,7 +464,7 @@ He was one of the younger ones, eleven or twelve, in a coat two sizes too big, a
 
 "That's us."
 
-"Nothing for you. Two for the cabin, went in the box." He hitched the satchel. "But the news is that we've got a returner, so they said tell the tables. Calder's back Friday. Rhys Calder. Apollo. He's been gone a year at a school in Maine the whole time, and he's coming back for the winter."
+"Nothing for you. Two for the cabin, went in the box." He hitched the satchel. "But the news is that we've got a returner, so they said tell the tables. Calder's expected back Friday. Rhys Calder. Apollo. He's been gone a year at a school in Maine the whole time, and he's coming back for the winter."
 
 Thalia took a drink of her cocoa and said, in a voice of absolutely no interest whatsoever, "Who cares."
 
@@ -488,7 +490,7 @@ Annabeth did not say anything for a full minute, which was generous, and then sa
 
 Thalia put her mug down on the rail and pulled her feet in and let her head go back against the wall, and looked up at the porch roof, and then past it, where the sky was clear for the first time in two days and the stars were doing their early-October business over the pines.
 
-"I've spent my whole life being the one who arrives," she said, in a flatter register than the porch had been using. "At every house, at every school, in every room. I'm the one that shows up and stands in the door and does the count and figures out where the exits are and what the grown-ups want to hear. He's going to walk in here Friday and he's going to be somebody who *gets back*, which is a thing I've never once been, and everybody's going to look at him like he did something."
+"I've spent my whole life being the one who arrives," she said, in a flatter register than the porch had been using. "At every house, at every school, in every room. I'm the one that shows up and stands in the door and does the count and figures out where the exits are and what the grown-ups want to hear. He's supposed to walk in here Friday and he's going to be somebody who *gets back*, which is a thing I've never once been, and everybody's going to look at him like he did something."
 
 "He went to school."
 
@@ -506,7 +508,7 @@ Thalia was quiet a while.
 
 "Two days," she said at last. "I'll be asleep tonight."
 
-"See that you are." Annabeth stood and gathered the cups, then stopped in the doorway with her hand on the door and said, without looking back, "Also, mail day's Thursday. If he's back for the winter, then he wrote to somebody before he came, and it comes up the hill in a bag with everybody else's, and you'll be standing right there when the Hermes kid reads his name out. Plan for that instead — he's coming back on the Friday and the letter will already be a day old by then."
+"See that you are." Annabeth stood and gathered the cups, then stopped in the doorway with her hand on the door and said, without looking back, "Also, mail day's Thursday. If he's back for the winter, then he wrote to somebody before he came, and it comes up the hill in a bag with everybody else's, and you'll be standing right there when the Hermes kid reads his name out. Plan for that instead — if he's back on Friday, the letter will already be a day old by then."
 
 "You're a menace."
 
@@ -516,11 +518,11 @@ Thalia was quiet a while.
 
 Percy woke at three in the morning because the cabin was warm, which the cabin had never once been in the middle of the night since June.
 
-He lay in his bunk a while with his eyes open, listening to it. There was the soft tick of the heater through the tile in the passage, going on and off in slow long intervals. There was the sound of water moving very slightly, which was a sound this cabin had never made at three in the morning, and which he had last heard through a wall in a palace at the bottom of the sea, in a room where he was nine, when somebody he loved was awake on the other side of it.
+He lay in his bunk a while with his eyes open, listening to it. There was the soft tick of the heater through the tile in the passage, going on and off in slow long intervals. There was the sound of water moving very slightly, which was a sound this cabin had never made at three in the morning, and which pulled up a feeling he associated with the deep palace: stone holding warmth, water nearby, the impulse to listen. It gave him no age, room, or person on the other side of a wall.
 
 He got up, because there was no version of him that lay there listening.
 
-The passage was warm. The iron door was warm. He stood in front of it with one hand flat on the iron, which was a thing he had done in the deep palace, exactly this, the flat palm on the warm door, listening.
+The passage was warm. The iron door was warm. He stood in front of it with one hand flat on the iron. The gesture felt familiar in the muscles of his palm, but it gave him no scene to set it in.
 
 He did not open it. He didn't need to. Behind it the hall was holding the whole evening in the dark: nine kids, four borrowed, one who couldn't swim who floated, a girl with a rake in October, a boy with two rivets in a pan and nine lanterns yet to hang, an elevator of wrong numbers climbing a tile wall that somebody was going to fix in the winter with a plumb line.
 

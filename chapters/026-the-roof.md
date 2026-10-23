@@ -1,13 +1,9 @@
 ## Chapter 26: The Roof
 
 
-Annabeth Grace knew seven ways out of the Zeus cabin after curfew without creaking a single bunk.
+Annabeth Grace knew seven ways out of the Zeus cabin after curfew without creaking a single bunk. She'd counted them on her first night in Cabin One, back when the hunters' moon was still high and Thalia was snoring in the bunk across from hers with one arm thrown over her eyes and sparks crawling faintly along her bracelet.
 
-She'd counted them on her first night in Cabin One, back when the hunters' moon was still high and Thalia was snoring in the bunk across from hers with one arm thrown over her eyes and sparks crawling faintly along her bracelet. Annabeth had lain awake listening to the unfamiliar thunder-hum that lived in the walls now — different from the low owl-quiet of the Athena cabin she still dreamed about — and she'd mapped exits the way other kids counted sheep.
-
-Window latch. Back corner where the wall boards didn't quite meet the foundation. Front door if you lifted before you pulled. She'd tested all of them by the end of the first week. Not to break rules. Just to know.
-
-Tonight she used the window.
+Annabeth had lain awake listening to the unfamiliar thunder-hum that lived in the walls now, so different from the low owl-quiet of the Athena cabin she still dreamed about, and she'd mapped exits the way other kids counted sheep: the window latch, the back corner where the wall boards didn't quite meet the foundation, and the front door if you lifted before you pulled. She'd tested all seven by the end of the first week, not to break rules, just to know. Tonight, she used the window.
 
 Percy was waiting behind the tool shed where she'd told him to meet her, exactly where she'd drawn an X on the little map she'd slipped into his copy of *The Odyssey* at dinner. He was wearing his camp hoodie over pajamas, his hair sticking up in the back, his sneakers untied. When he saw her, his whole face did that brightening thing it did, like someone had turned a lamp on inside him.
 
@@ -102,7 +98,7 @@ None of them felt like this. High and hidden and quiet, with Annabeth's head on 
 
 Annabeth was quiet for a beat too long.
 
-"Yeah," she said finally. "It was. Is." She pulled the thin blanket over their legs. "In — before. In the other memory. The Athena cabin has — had — this perfect flat roof. You could get to it from the library window if you were skinny enough and didn't mind splinters. I found it when I was seven. First week at camp. I couldn't sleep because everything smelled wrong — like cedar and old books instead of home — and I climbed out the window and just... sat up there. I could see the whole camp. It made it smaller. Easier to understand. Like a model."
+"Yeah," she said finally. "It was. Is, I guess." She pulled the thin blanket over their legs. "Back in that other memory, the Athena cabin had this perfect flat roof. You could reach it from the library window if you were skinny enough and didn't mind the splinters. I found it during my first week at camp, when I was seven. I couldn't sleep because everything smelled wrong, like cedar and old books instead of home, so I climbed out the window and just sat up there. From the roof, I could see the whole camp spread out below me, and it made everything feel smaller, easier to understand. Like a model."
 
 Percy wrapped an arm around her shoulders, careful, giving her room to move away if she wanted. She didn't. She settled closer.
 
@@ -355,7 +351,7 @@ Percy went pink with pleasure and tried to hide it by drinking cocoa. Annabeth r
 
 "The thing is," Annabeth said, wiping her eyes, "I feel disloyal. When I'm happy that Zeus is my dad here — sometimes loud and proud and embarrassing — I feel like I'm betraying her. Athena. Like I'm saying she wasn't enough. But she *was*. She was everything. She taught me to think. To build. To see the world as something I could fix." She looked up at the sky. "And then I feel disloyal the other way. When I miss her, when I draw owls in the margins and reach for books on weaving, I feel like I'm telling Dad he's just a replacement. But he's not. He's my dad. Both of them are — were — real."
 
-Thalia was quiet for a moment. Then she said, "You know what I think? I think hearts are bigger than cabins. You don't have to pick one parent and delete the other. You're Annabeth. You're smart because Athena taught you to be, and you've learned to be brave even when Zeus makes it harder, and you're *you* because you remember Sally giving Percy extra pancakes, and you help him make them here so he can share them with you."
+Thalia was quiet. She picked at the paper cup's rim. “You can miss her. You don't have to apologize to me for drawing owls.” She glanced at the wind-up owl Annabeth had described. “I wasn't there for the life you remember, and I can't give those years back. But you don't have to pretend Dad's easy either. He embarrasses me at solstice too.” She nudged Annabeth's knee. “You're my sister. I don't need you to erase Athena to prove it.”
 
 Percy blinked. "Wait, how did I get in this philosophy?"
 
@@ -448,17 +444,15 @@ Annabeth walked Percy halfway to the Poseidon cabin, both of them yawning, shoul
 
 "Sweet dreams, Wise Girl."
 
-Percy watched her climb through the window — Thalia's hand reaching out to haul her in at the last second — and then turned toward his cabin where Clarisse and Silena were asleep, toward the fountain and the seashells and the bunk that smelled like salt.
+Percy watched Annabeth climb through the window, Thalia's hand reaching out to haul her in, then headed toward Cabin Three with Annabeth's spare blanket under one arm. He stopped at the trellis and lowered the hidden ladder flat beside the wall; no one could climb it again before Thalia put it away. Dew silvered the grass, and a pegasus stirred near the Big House. The route had been a bad idea, and for another night like this Annabeth needed an approved way up.
 
-Percy stood on the last step of Cabin One and checked that the ladder was still where they'd hidden it. Thalia had promised to put it away before anyone noticed, although she hadn't said which of them would have to explain the scratched paint.
+From the open window, Annabeth called, “Breakfast later?”
 
-"Breakfast later?" Annabeth asked from the doorway.
+“If you're awake.”
 
-"If you're awake."
+“I’ll be awake.”
 
-"I'll be awake."
-
-He took the gravel path toward Cabin Three, carrying her spare blanket under one arm. He would have to return it before Thalia added it to the list of things Percy borrowed without asking.
+Percy lifted a hand, then continued to Cabin Three. He would tell Thalia the ladder was down before the morning horn.
 
 ---
 
@@ -474,7 +468,7 @@ Annabeth found this out when she came to the workshop with a sketch of the balco
 
 "Somebody added those when they wanted to climb to the roof. Nobody made them to support people. I'm surprised half of them are still attached."
 
-Annabeth looked at the cross-section she'd sketched. The old trellis had a sound frame under the vines, but the thin slats had been nailed through places that were never designed to bear weight. She had used them as a ladder because they'd looked like a ladder. That was exactly the kind of assumption she normally criticized when another student made it.
+Annabeth looked at the cross-section she'd sketched. The old trellis had a sound frame under the vines, but the thin slats had been nailed through places that were never designed to bear weight. She had used them as a ladder because they'd looked like a ladder. That was exactly the kind of assumption she normally criticized when another student made it. She crossed out the label on her drawing and marked the slats untested; a familiar shape was not proof that they could hold her weight.
 
 "Could we replace the slats with a proper access ladder?" she asked.
 

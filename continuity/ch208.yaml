@@ -1,0 +1,63 @@
+chapter: 208
+title: "The Work Nobody Sees"
+source: "chapters/208-the-work-nobody-sees.md"
+status: "10,025 body words; scoped continuity review recorded"
+relative_chronology:
+  - "Begins after Chapter 207's following-morning close; no exact calendar date or year is established"
+  - "Continues through Amphitrite's final morning at camp and into the afternoon"
+pov: "Silena, third-person limited"
+locations:
+  - "Cabin Three"
+  - "Lower equipment shed and drying rack"
+  - "Big House table and pavilion"
+  - "Path by the lower fence"
+people_knowledge_relationships:
+  silena:
+    - "Tells Leandros directly she will not translate Clarisse's anger or report his work. Her anger remains her own, and his apology receives no forgiveness milestone."
+    - "Chooses watercolor company with Amphitrite, sets limits on when her page is seen or discussed, shares a finished study, and declines a goodbye hug. She says she likes Amphitrite's company while acknowledging she does not know her well yet."
+    - "Continues the inventory work she agreed to do without becoming the automatic messenger or caretaker. Her rosemary recipe and private letter to Maria remain hers."
+  leandros:
+    - "Continues the canvas repair under Beckendorf's instructions. The storm-damaged seam passes the fiber check and is stored dry pending use."
+    - "Asks Silena to translate his sisters' anger and report his work. She refuses. He still wants answers and recognition; no forgiveness, broad trust, or authority follows."
+    - "Receives permission from Chiron to prepare brace stock only after Beckendorf confirms measurements; the soft ground still prevents a board reset."
+    - "Begins a splice repair on a separate drying-rack cover loop after the cover is supported on the bench. He says Beckendorf approved it. Silena sees the work, but it is not inspected or load-tested."
+  amphitrite:
+    - "Asks before sitting with Silena, holding the page, offering comments, or giving a goodbye hug. Silena declines the hug; Amphitrite accepts without pressure."
+    - "Leaves after breakfast. No later visit date or maternal title is established; she remains unaware of Percy's memory predicament."
+  clarisse:
+    - "Asks about the coils and delayed board. Silena reports the checked canvas seam and damp coils; Clarisse does not learn about the untested rack-loop splice."
+    - "Her response to Leandros and her relationship with Amphitrite remain distinct and unresolved."
+  beckendorf:
+    - "Completes the fiber check on the storm-damaged canvas seam and records the repair as passing. He keeps the canvas dry pending future use."
+    - "Keeps the damp coils on their spacers and the rack cover supported while its separate loop is to be repaired; he has not inspected the new splice."
+  chiron:
+    - "Tells Silena Amphitrite will remain through the following morning."
+    - "Allows brace preparation only after Beckendorf confirms measurements; inspection finds the ground still yields, so the board remains in place."
+  percy:
+    - "Shares inspection information with Silena and remains secure with Annabeth. No memory disclosure occurs."
+  annabeth:
+    - "Appears with Percy during the morning routine; their established affection remains secure."
+  thalia:
+    - "Does not appear; no new heel exam, activity decision, or clearance occurs."
+work_and_health_states:
+  - item_or_event: "Storm-damaged canvas"
+    last_seen: "Fiber check passes; the repaired seam is stored dry and must be inspected before use."
+  - item_or_event: "Drying-rack cover loop"
+    last_seen: "Leandros starts a splice on the separate stretched loop with the cover supported. Beckendorf has not inspected or load-tested the repair; it remains out of service."
+  - item_or_event: "Two wet coils"
+    last_seen: "Their centers remain damp; the coils stay on their spacers for another check."
+  - item_or_event: "Three replacement tags"
+    last_seen: "Checked and in order."
+  - item_or_event: "Fence drainage and temporary board"
+    last_seen: "The ground still yields; the board and fence remain in place pending Chiron and Beckendorf's inspection."
+  - item_or_event: "Other camp repairs"
+    last_seen: "The awning bracket, Cabin One rail, north-step frost check, Cabin Three blanket pin, and other listed repairs remain open."
+  - item_or_event: "Thalia's heel"
+    last_seen: "No exam or health update occurs. Carry forward the existing care plan; do not infer clearance."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; this chapter discloses none."
+  - "Amphitrite remains unaware of Percy's erased-future memories and altered-childhood memory gap."
+  - "Silena does not hear the details of Percy's private Chapter 207 conversation with Leandros."
+  - "Clarisse does not learn about Leandros's rack-loop splice in this chapter."
+  - "The chapter does not assign private thoughts beyond what Silena observes or what characters say."
+  - "Thalia is absent and receives no new information or health outcome."

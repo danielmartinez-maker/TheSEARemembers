@@ -200,7 +200,7 @@ Grover's whistle cut through the wind, bright and absurdly cheerful.
 
 "Ella marks ten oh four," Ella said, stylus poised over blue wax. "Sky gray layering. Wind east-southeast fresh. Sea choppy but friendly. Hippocampus absent. Harpy dry so far. Satyr professional."
 
-The three Poseidon siblings waded in to their ankles and then their knees, the cold spring water biting through water shoes. Percy took center automatically, Clarisse to his right, Silena to his left. They joined hands for a second, instinct, skin cold and familiar.
+The three Camp Three siblings waded in to their ankles and then their knees, the cold spring water biting through water shoes. Percy took center automatically, Clarisse to his right, Silena to his left. They joined hands for a second, instinct, skin cold and familiar.
 
 Percy felt them settle alongside him in the water-sense the way he always did, Clarisse like iron wrapped in heat, Silena like silk over steel. His own power sat deep and bright in his chest, eager after a winter of indoor pools and controlled fountains. The sea reached for him, chirpy and restless with storm coming, and he reached back with pressure and intent. Not words. Promise. This way. We'll give you somewhere to go.
 
@@ -593,7 +593,7 @@ Thalia walked beside Jason toward the observation post. She'd checked his coat t
 
 "Then stop touching my collar."
 
-She pulled her hands back. Percy saw the effort it cost her. Thalia could command the clouds, and she could not command this particular thirteen-year-old boy to enjoy being fussed over.
+She pulled her hands back. Percy saw the effort it cost her. Thalia could command the clouds, and she could not command this particular twelve-year-old boy to enjoy being fussed over.
 
 "You did good work today," she said.
 
@@ -905,7 +905,7 @@ Thalia winked, her own eyes already drooping. She curled back into the armchair,
 
 Outside the Sound lapped gently against the shore. The borders hummed, steady and strong. Peleus snored somewhere on the hill, smoke curling from his nostrils in peaceful rhythm. Summer rain ticked softly against the windows, no longer arguing, just talking.
 
-Inside Cabin Three, with fire low and chocolate cooling, the Poseidon siblings and the Grace sisters breathing in sync around it, the sea finally rested.
+Inside Cabin Three, with fire low and chocolate cooling, the Camp Three siblings and the Grace sisters breathing in sync around it, the sea finally rested.
 
 And so did they.
 

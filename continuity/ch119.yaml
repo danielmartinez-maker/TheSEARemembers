@@ -1,0 +1,69 @@
+chapter: 119
+title: "Sisters' Errand"
+source: "chapters/119-sisters-errand.md"
+status: "expanded to 10,179 body words; semantic style signoff pending"
+chronology:
+  - "Follows Chapter 118 in manuscript order; exact elapsed time, date, season, and storm onset/cause are unknown."
+  - "Cabin One repair work occupies the afternoon into later daylight; no travel to Atlantis begins."
+  - "Annabeth's exact age is not established in this chapter. The chronology relationship between Chapter 122's fourteen-year-old reference and Chapter 133's fourteenth-birthday scene remains unresolved; do not infer an age or date here."
+pov: "Annabeth Grace, third-person limited throughout"
+scene_locations:
+  - "Cabin One porch and worktable under the oak"
+  - "Camp main path, pavilion edge, and forge"
+participants:
+  - "Annabeth"
+  - "Thalia"
+  - "Percy, briefly at the closing porch scene"
+  - "Chiron, for the task and fastening check"
+  - "Unnamed campers sorting storm-damaged stakes and fixing an awning"
+repair_outcomes:
+  - "The torn blue-and-silver Cabin One banner is mended with an interior backing patch and rehung; its seam remains visible on close inspection."
+  - "The damaged sunburst is repaired with a new metal support strap, bronze ring, short chains, smoothed blue-glass pieces, bells, and a removable hook/lower catch. The chime sounds quietly in a breeze."
+  - "Chiron checks the attachment, calls it sound for its light decoration, and advises taking it down after strong wind and inspecting the strap before rehanging."
+  - "Unused metal is returned to the forge; the repair assignment is marked complete."
+relationship_memory:
+  - pair: "Annabeth / Thalia"
+    new_current_timeline_events:
+      - "They negotiate tool roles: Annabeth makes design decisions and uses tools; Thalia may offer ideas, carry, hold, or help when asked. Annabeth may ask for a correction without Thalia taking over."
+      - "Thalia apologizes for taking over and promises to listen when Annabeth says she has crossed a boundary, without arguing that Annabeth did not mean it."
+      - "They repair Cabin One decorations together; Thalia asks before assisting at several moments."
+      - "Thalia tells Annabeth she repaired a green jacket for her in their altered-history childhood and recalls Annabeth liked its hooks. Annabeth did not remember this until told; this is a reported childhood story, not recovered autobiographical memory."
+      - "Annabeth tells Thalia about remembering Thalia's return after the fleece in the erased future. Thalia receives it as Annabeth's report and does not remember that life firsthand."
+    future_callback_required: "Keep the two childhood histories separate. Chapter 121's later formal promise can build on this bounded repair without resetting their relationship."
+  - pair: "Annabeth / Percy"
+    new_current_timeline_events:
+      - "Percy brings snacks to the porch after the repair and leaves them with Annabeth and Thalia."
+      - "No new romance milestone or travel commitment is made."
+  - pair: "Thalia / Percy"
+    new_current_timeline_events:
+      - "Percy makes a brief snack delivery; he does not join the repair or gain new private memory information."
+items_promises_injuries:
+  - item_or_event: "Cabin One storm-damaged banner"
+    owner_or_people: ["Annabeth", "Thalia"]
+    current_status: "repaired and rehung"
+  - item_or_event: "Cabin One sunburst/chime"
+    owner_or_people: ["Annabeth", "Thalia"]
+    current_status: "installed; remove after strong wind and inspect support strap before rehanging"
+  - item_or_event: "Atlantis invitation, tentative party, and unfinished map from Chapter 118"
+    owner_or_people: ["Percy", "Annabeth", "Clarisse", "Silena", "Thalia", "Chiron"]
+    current_status: "still unbooked and unresolved; this chapter adds no trip date or traveler confirmation"
+open_threads:
+  - "Chapter 120 receives Amphitrite's written invitation; it must not turn the invitation into a scheduled visit."
+  - "The Atlantis trip route, timing, weapons policy, guest arrangements, and final party remain unsettled."
+  - "Amphitrite remains unaware of Percy's erased-future memories and altered-childhood autobiographical gap."
+next_chapter:
+  chapter: 120
+  opening_checked: true
+  locator: "chapters/120-a-letter-from-the-sea.md#L3-L8"
+  handoff: "Chapter 119 ends later in daylight on the Cabin One porch after Percy leaves snacks; Annabeth chooses an apple slice first, Thalia takes a honey cake, and they listen to the repaired chime. Chapter 120 opens with Percy and his sisters carrying apples near the shore, where Amphitrite's letter arrives. Do not assign an exact elapsed interval beyond the source."
+qa:
+  body_words: 10179
+  previous_chapter_closing_scene_checked: true
+  next_chapter_opening_checked: true
+  prior_life_memory_boundary_checked: true
+  dates_and_travel_boundaries_checked: true
+  exact_age_not_established_here: true
+  chapter_122_133_age_ordering_ambiguity_recorded: true
+  gifts_promises_injuries_carried_forward: true
+  exact_300_word_cross_chapter_check: "Final local QA on 2026-10-17 after the age-line edit: zero matches across 1,941,481 chapter-only windows and 2,092,033 bonus-inclusive windows in 196 files."
+  independent_scene_semantic_and_style_review: "pending"

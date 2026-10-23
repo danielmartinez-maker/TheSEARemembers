@@ -1,54 +1,58 @@
 ## Chapter 4: The Hall of Gods
 
-The Hall of the Gods stood at the center of Camp Half-Blood like a marble accusation.
+The Hall of the Gods occupied a stretch of open ground where Percy remembered long folding tables, badly tied festival banners, and campers attempting to carry more food than they could eat beneath a summer sky. The alteration was complete enough that he could almost persuade himself he had confused two different corners of camp. Twelve columns rose from a broad platform of pale stone, each crowned by a carved capital worked with the symbols of an Olympian deity, and their shadows crossed the steps in dark, regular bands. Above them the roofline followed the restrained proportions of a temple, though the builders had allowed themselves more ornament than a strict imitation of the ancient Greeks would have required. Bronze lamps hung beneath the eaves. Between the columns, shallow panels showed ships, vineyards, mountain passes, and the creatures that lived at the margins of mortal stories. The building was neither ruin nor miracle. Its newly cut edges remained sharp, and the mortar at the eastern corner was several shades lighter than the stone it joined.
 
-It was beautiful — there was no denying that. Twelve columns of white stone supported a roof carved with scenes from the Trojan War, and the floor was a mosaic of Olympus itself, each tile placed with impossible precision. But to Percy, who remembered the original camp's simpler layout, the building felt like an intrusion. A reminder that the divine had stamped its authority on this place in a way it never had before.
+Percy stopped at the bottom of the steps, unable to decide which detail troubled him most. He had come here intending to find out what the camp had built and why, but he had not expected an entirely new piece of its daily geography to feel like an accusation. In his remembered life this part of the grounds had belonged to temporary things: tables that collapsed badly, lanterns that needed mending after storms, the arguments that arose whenever Dionysus decided the camp ought to celebrate something. Now the place announced a permanent purpose. Somebody had surveyed the ground, brought stone up through the valley, paid craftsmen, and persuaded a camp that spent much of its time preparing for monsters that a formal hall was worth building. The labor behind those decisions interested Percy as much as the polished columns. Magic might raise walls, but it did not explain the small scratches where a cart axle had grazed the northern entrance or the shallow groove made by generations of heavy lamps being carried around the mosaic.
 
-Cold marble leaching through his shoes, he stood at the entrance, staring up at the carved lintel while wind hissed pine-cold off the hill. The inscription read: *Know Thyself, Know Thy Father, Know Thy Fate.*
+The carved words over the doorway were clean enough to have been scrubbed that morning: *Know Thyself, Know Thy Father, Know Thy Fate.* He read them twice. The first sounded like advice Annabeth might give him, the second like an instruction from a god with an inconvenient interest in obedience, and the third like a threat somebody had disguised as wisdom. Percy had spent enough years struggling against prophecies to distrust declarations about fate. He would have asked who had chosen the inscription, had there been anyone standing nearby who looked interested in explaining it.
 
-"Noble, isn't it?"
+“It's a very impressive way to remind people that gods enjoy hearing themselves talked about, isn't it?” said a voice behind him. The girl who had spoken stood a little below the steps, one shoulder resting against the low wall as though she had been there long enough to watch him decide whether to go inside. She looked about fifteen, with close-cropped hair, dark skin, and a necklace so crowded with camp beads that Percy wondered how much of her life they recorded. Her expression suggested amusement rather than hostility, but the steady attention of her eyes made him feel he had already taken part in a conversation whose first question he had missed.
 
-Percy turned. A girl stood behind him — maybe fifteen, with dark skin and close-cropped hair, wearing a camp necklace with more beads than seemed possible. She was smiling, but her eyes were assessing.
+“It's new,” Percy answered, because that was the one observation he could make without giving away how much had changed for him. He shifted his gaze toward the columns. “At least, it's newer than the rest of camp. The stone hasn't had time to weather like the steps at the Big House.”
 
-"It's new," Percy said carefully.
+“Three years,” she said. “About three years, if we're being honest about the construction reports. Parts were finished later, and the people who argue about the dedication date never seem to agree which work counts as finished.” She came up one step and held out a hand without ceremony. “I'm Zoe. Hecate's cabin. You're Percy, which I suppose makes us even on introductions, except that I know a little more about you than you do about me.”
 
-"Three years old. I'm Zoe. Daughter of Hecate. And I'm telling you this because I think you're going to figure it out eventually anyway: the camp isn't what it seems. The rules are different here. The gods are closer. And there are things happening that nobody talks about."
+He shook her hand. Her fingers were stained with charcoal near the nails, and one cuff of her jacket smelled faintly of lamp oil. The details made her less like a mysterious messenger and more like someone who had been doing a morning's work before deciding to interfere with his. “You know I got here recently. That's about all the interesting information anybody's been telling people.”
 
-"Like what?"
+“I know your father, or at least I know what people expect from his son. I also know you've been walking around looking at the new paths as though they moved while you weren't watching.” She released his hand. “It's not a crime. A lot of newcomers do that. You happen to look annoyed rather than lost.”
 
-Zoe glanced around, then lowered her voice. "Like the fact that three years ago, someone broke into the Big House and stole a prophecy from the attic. Nobody was ever caught. Chiron won't even talk about it."
+Percy decided not to mention that the paths had, from his perspective, moved while he was not watching. “I'm trying to learn what belongs where. The Hall wasn't here the last time I saw the grounds.”
 
-Percy's blood ran cold. "A prophecy?"
+Zoe's smile sharpened with interest. “Then you're asking the right sort of question, though you might want to be careful about the answers people offer. There's been a story going around for years about the Big House and a missing prophecy. Everyone tells it as though they were present, and hardly anyone can say where the story started.”
 
-"A big one. The kind that makes the gods nervous. I don't know what it said. But the building approvals, new cabin rules and increased divine visits all appear in records from roughly the same period. People argue about which happened first." She met his eyes. "Something happened here, Percy. Something big. And I don't think it's over."
+A breeze came down the steps between them, carrying the scent of cut stone and the bitter smoke of a brazier that somebody was lighting inside. Percy watched a worker guide a narrow trolley past the far column and wondered why the mention of a prophecy could still chill him so quickly. He had seen too many ordinary days redirected by words uttered centuries before anyone alive could question them. He did not like the prospect that one had vanished in the middle of a camp whose records already seemed unreliable. “What exactly was supposed to have happened?” he asked. “And do you know it happened, or is that the part everybody has been repeating?”
 
-Percy took two steps after her.
+“I know there was a report of a break-in,” Zoe said. Her tone changed a little, becoming more careful now that he had pressed her. “Three years ago, around the time people were beginning to approve work on this Hall, somebody was said to have taken a prophecy from the attic. The story is that nobody was caught. Chiron doesn't discuss it in public, which of course convinces half the camp that every other strange thing must be connected.”
 
-"Wait. How do you know a prophecy was taken?"
+“Was there an actual prophecy missing, or just a story that there was?” Percy persisted. It sounded pedantic, even to him, but he had learned what happened when frightened people joined separate facts into one explanation merely because the explanation was dramatic. “If the Big House was broken into, somebody ought to have written it down. If something was stolen, there should be a record of what was kept there before.”
 
-Zoe stopped, but her expression changed at the question. The smile she had worn while introducing herself slipped away.
+“That's precisely where the records become interesting,” Zoe replied. “The building approvals, changes to some of the cabin rules, and reports of more divine visits are all dated to roughly the same period. I can't tell you whether one caused another, and I wouldn't trust anyone who claimed to know without checking. But there are missing details in the paperwork, and people have been using those gaps to tell whichever story they already believe.” She glanced toward the entrance. “I could show you the parts that are public. They're not especially glamorous, but at least you'll have something more useful than an account of a thief nobody saw.”
 
-"Why?"
+Percy looked up at the motto again. “You're offering to show me incomplete records about a stolen prophecy in a building that tells people to know their fate. Is this how you greet every new camper?”
 
-"Because if somebody actually stole one, there should be an incident report. Or a replacement record. Or somebody who saw the thief. You said nobody was caught."
+“Only the ones who stop to count the repair seams instead of admiring the columns.” Zoe began to climb the steps, then noticed that he had not followed her. “What's wrong?”
 
-"You're asking the right question, at least."
+“Nothing's wrong. I just want to know why you're telling me all this when we've been talking for five minutes.” It was the kind of question Annabeth would have asked, and he felt the distance between the two of them sharply as he said it. “If you're looking for somebody to believe a story about missing prophecies without checking it, you've chosen badly.”
 
-"That's not an answer."
+Zoe stopped beneath the inscription, her hand resting on the doorframe where long scratches showed the passage of equipment. She considered him with an expression more complicated than her earlier smile. “I'm asking because I'm tired of being the person everybody tells to stop asking,” she said. “You aren't obliged to agree with me. I was hoping you might be willing to look at what we actually have, and tell me if I've been missing something obvious. If you decide I'm wasting your time, you'll still have seen a building worth seeing.”
 
-"No." She looked toward the Hall. "Come inside."
+That answer was considerably more convincing than any warning about secrets. Percy climbed the remaining steps, feeling the change in temperature beneath the shadow of the roof. Around the columns little accumulations of dust had gathered in the joints, and the entrances bore narrow grooves where years of traffic had worn the finish away. The Hall was about three years old, as Zoe had said, but its inhabitants were already turning it into a place with habits. Two younger campers carried a brass lamp on a wooden stand between them. Their arms strained against the weight, and when they noticed Zoe they shifted toward the edge of the floor, not from alarm but because they appeared to know she would care where they placed it.
 
-The interior was cooler than the steps, and so clean Percy could smell the polish on the benches. Sunlight fell through the upper windows in twelve narrow bars, crossing the enormous mosaic on the floor. Two campers were carrying a brass lamp from one side of the room to the other. They looked at Zoe and then quickly away.
+Inside, the light fell from windows high along the walls into twelve pale shafts, revealing a great mosaic whose figures were worked in blue, gold, and dark red stone. Percy smelled polish on the benches and the dry mineral tang of recently repaired mortar. The room held a different sort of silence from a temple abandoned to the centuries; it was the attentive quiet of a place where somebody still expected to be responsible for whatever broke. He followed Zoe past a low table of folded cloths and noticed that one of the lamp bearers kept his eyes on the floor rather than the way ahead.
 
-"Did they see something?" Percy asked.
+“Do they know something about the theft?” Percy asked softly, nodding toward the two campers before he could stop himself from sounding as though he had already decided there was a conspiracy.
 
-"They're on maintenance duty."
+“They're on maintenance duty,” Zoe said. She sounded genuinely puzzled that he had made the connection. “I don't know whether they've even heard the story in any detail. Why would you ask?”
 
-"That wasn't what I asked."
+“Because they looked nervous when they saw you. I thought maybe you were checking something they hadn't finished.”
 
-"You'll discover I find people who repeat my words less interesting than people who examine them."
+“It's possible they're nervous because they were told not to drag heavy equipment across the mosaic, and they're carrying a lamp heavy enough that they'd rather put it down.” Zoe gave him a measured look. “You wanted to distinguish evidence from guesses outside. I'd prefer we kept doing that once we're indoors.”
 
-She led him around the edge of the mosaic, avoiding the central image of Zeus. Up close, Percy could see lines scratched into the stone at the joins between tiles. They formed circles around the standing places for twelve Olympians. The marks looked decorative until a camper rolled a lamp stand across one.
+Percy acknowledged the correction. He had been so ready to search for an explanation of the larger mystery that he was beginning to recruit every uneasy glance as support for it. Annabeth would have recognized the habit at once. “You're right. I haven't asked them anything, so I don't know what they're worried about. Let's see the repair you were talking about.”
+
+Zoe nodded, apparently satisfied that he had not taken the correction as an insult, and turned toward the great ring of figures laid into the center of the floor.
+
+ Up close, Percy could see lines scratched into the stone at the joins between tiles. They formed circles around the standing places for twelve Olympians. The marks looked decorative until a camper rolled a lamp stand across one.
 
 Zoe caught the stand before its foot crossed the line.
 
@@ -56,29 +60,25 @@ Zoe caught the stand before its foot crossed the line.
 
 The camper muttered an apology. The boy beside him hurried to lift the other end, and together they carried the lamp around the room.
 
-"Why?" Percy asked when they'd gone.
+"Why stop them?" Percy asked once the lamp was safely around the room.
 
-"Because it weighs too much. The tile joints weren't designed for equipment carts."
+"Because it's too heavy for the tile joints; they weren't built to take equipment carts." Zoe crouched near the join. "The floor needs protecting for that ordinary reason, whether or not there's something else going on."
 
-"That's all?"
+Percy studied the marks around the Olympians. "And the lines in the mosaic?"
 
-"That's a good enough reason to protect the floor." Zoe crouched near the join. "There may be others, but I won't pretend I have one."
+"There may be another purpose, but I don't have evidence for one."
 
 She ran a finger an inch above the stone without touching it. A faint prickle passed along Percy's arms. Not a wave. Not the deep pressure of sea magic. Something dry and humming, almost like standing under a power line.
 
-"Did you feel that?" she asked.
+"Did you feel that?" Zoe asked.
 
-"Yes."
+Percy looked at his arms, where the prickling had risen and fallen with the dry hum. "Yes. It felt like static—or maybe a ward."
 
-"What did it feel like?"
+"Those are different explanations."
 
-"Static. Or a ward."
+"I know. I haven't ruled either out."
 
-"Those are different answers."
-
-"I haven't ruled either out."
-
-She smiled briefly. "Better."
+Her smile appeared briefly. "Better."
 
 Zoe gestured toward the base of a northern column. Between the polished sections lay one narrow patch of rougher stone. The mortar around it was newer, and a little brass pin had been driven beside the seam.
 
@@ -190,41 +190,61 @@ He could start there.
 
 ---
 
-With dust and brine thick in the still air, he found her in the library — or rather, in the small building that passed for a library, which was more of a study hall with delusions of grandeur. She was surrounded by books, her brow furrowed in concentration, and she didn't notice him until he sat down across from her.
+The library stood at the edge of the central green in a building that had begun life as a study hall and had acquired the habits of a library without ever quite finding room for them. Shelves had been fitted into every available recess. Maps lay in shallow drawers beneath a long central table, and books whose bindings had failed were stacked on a bench awaiting repair. A pair of narrow windows admitted the afternoon light, though most of the work still required lamps. Percy found Annabeth beneath one of them with several volumes open around her and a ruler laid across a sheet of figures. Someone had left a cup of tea beside her elbow, and she had already forgotten it was there. The sight relieved him more than he expected. In a camp whose paths and buildings did not entirely belong to his memories, Annabeth's concentration was one of the few things that looked just as it ought to.
 
-"Hey," he said.
+He stood at the end of the table for a moment before speaking. Her pencil moved rapidly along the page, stopped, and began again after she measured a distance with the edge of her ruler. She was younger here, and every time he saw her bent over a problem he had to resist the temptation to imagine that her hands and face had never changed. It was the movement of her mind he recognized most readily, the way a question seemed to pull her attention toward it until the rest of the room became part of the background. She would know at once that he had found something alarming. Whether she would like the way he had approached it was another matter.
 
-She looked up. "Hey. What's wrong?"
+“Can I interrupt you for a minute?” he asked, taking the empty chair across from her only after she looked up. “I went to see that new Hall, and I met somebody from Hecate's cabin who thinks there are several things about it worth investigating. The problem is that one of them involves the word 'prophecy,' and I'm having trouble deciding how seriously to take it.”
 
-"Everything. But specifically — did you know someone stole a prophecy from the Big House three years ago?"
+Annabeth set down her pencil. She had been working on the placement of the cabin paths, judging from the lines Percy could see beneath her hand, and a corner of the map was marked with little dots where the ground had apparently not been surveyed. Her expression did not change dramatically at the word prophecy. Her attention changed. She glanced toward the other side of the room, where two younger campers were copying Latin vocabulary, then lowered her voice. “Start with who told you and what they actually know. I don't want to spend another afternoon chasing a story because somebody used a word that makes everybody nervous.”
 
-Annabeth's expression went statue-still. "No."
+“Zoe, daughter of Hecate. She said there was a reported break-in at the Big House three years ago and that people believe a prophecy disappeared from the attic. She also showed me a repair in the Hall's northern column, and she said the building approvals were made around the same period. But she was careful to say she hadn't proved the theft was connected to the building. She's seen some records; I haven't.”
 
-"A daughter of Hecate told me. She said it was a big one — the kind that makes gods nervous. And she said it changed things. The camp, the rules about big three kids, the divine visitations — all of it happened after this prophecy was stolen."
+Annabeth drew a fresh sheet of paper from beneath her map and wrote Zoe's name at the top. Below it she made two columns, marking one for what Zoe had seen and one for what Zoe had heard. Percy watched her write, recognizing the method they had begun using to separate this new world's evidence from the things people assumed they remembered. It felt reassuring to see their problem made ordinary enough for a pencil and paper. “So Zoe says Chiron confirmed that something was taken from the attic,” Annabeth said after a moment. “Did he tell her it was a prophecy, or is that what the camp decided to call it because it came from the Oracle's records?”
 
-"Percy, that's..." Annabeth trailed off, her mind working. "If someone stole a prophecy, they knew what it said. They knew what was coming. And they used that knowledge to prepare — to change things in advance."
+Percy hesitated. He had been so struck by the report of a theft that he had almost forgotten the distinction Zoe herself had made. “She said he acknowledged something had been removed, but wouldn't specify which record. I think the prophecy part is a conclusion people are drawing. I don't want to write it down as a fact.”
 
-"That's what I'm thinking. The question is: who? And why?"
+“Good, because if someone took an old repair account or a visitor list, it would mean something quite different.” Annabeth leaned back and rubbed the bridge of her nose. The gesture was so familiar that Percy had to look away for a breath. “What about the Hall? Is there evidence beyond its being new?”
 
-"Someone with access to the Big House. Someone who could get past Chiron and Mr. D. Someone who understands prophecies well enough to know which one to take."
+“There's a patched column and a little brass pin near the repair seam. I copied the markings because Zoe said somebody ought to ask the mason what they're for. She works on some of the Hecate protections and says repairs can reveal how a building was intended to function.” He unfolded the small drawing from his pocket, flattened it beside her notes, and explained what he had seen without giving the humming mosaic more significance than he could justify. The lines in the stone were real. The prickling sensation near them had been real. Neither proved that the Hall had anything to do with a missing prophecy.
 
-"That's not a short list."
+Annabeth moved the page closer. “This is a useful sketch, Seaweed Brain, but I want you to tell me whether you touched the pin, or whether you only looked at it. You remember how the last magical object we picked up without checking worked out for us.”
 
-"No. It's not."
+“I didn't touch anything. Zoe gave me paper before I could even draw in the dirt. She's apparently more interested in keeping her floor clean than encouraging a conspiracy.”
 
-They stared at each other while cold lamplight pooled on the table, the mystery pressing around them like deep water.
+“That makes me like her already.” Annabeth studied the little hooked marks before adding, “There may be a maker's number or a placement code here. If the Hall was built in stages, the repair ledger could tell us whether the pin belongs to the original plan or to something added later. But I don't want to assume every new structure was built for the same reason. Somebody might have wanted a roof over a mosaic, Percy. People are allowed to build things without hiding a prophecy under them.”
 
-"We need to talk to Chiron," Annabeth said, checking the path behind them. "Carefully. We can't just ask him about a stolen prophecy — that would raise too many questions."
+“I'm aware of that. The trouble is that I woke up in a palace where everybody remembers me growing up, and almost everything I see on the surface is different from what I remember. It's hard not to think those changes belong to one answer.” Percy folded his hands beneath the table, conscious that the admission would sound irrational to anyone else in the room. “I know that's not evidence. I just keep hoping that one of these things will explain the others, and then we'll know whether it can happen again.”
 
-"Agreed. But there might be another way. The attic of the Big House — if the prophecy was taken, there might be records. Notes. Something."
+Annabeth's expression softened. She reached across the papers and touched the back of his hand, a small, deliberate gesture made without glancing to see whether anybody was watching. “I want that too. I want to know why Thalia remembers raising me, why Sally is gone in this history, and whether anything we do can make those memories disappear again. But we've been frightened since we woke up, and being frightened makes a story with a single cause look attractive. We have to be careful not to choose our explanation before we've asked the first questions.”
 
-"You want to break into the Big House."
+Percy covered her hand with his. She was twelve in this world and carried the same history he did; sometimes the contradiction made him feel as though the age of their bodies were an argument against everything they had survived. In moments like this, when she looked at him with a mixture of affection and impatience, he recognized the person he had loved in New Rome more clearly than he recognized his own reflection. “I went to the Hall because I thought I could find something useful to bring you,” he said. “I don't particularly want to go back and tell Zoe I found a secret because a column had a scratch on it.”
 
-"I want to *investigate* the Big House. Breaking in is just a method."
+“Then don't. Ask about the repair records first. We could speak to Chiron together and ask who approved the Hall. It might be easier than asking him why the attic was broken into three years ago.”
 
-Annabeth smiled — small and conspiratorial. "When?"
+Percy considered the suggestion and glanced toward the windows. The light had begun to shift, drawing the shadows of the shelves across the floor. There were things he feared Chiron knew and was choosing not to say, though he had no grounds yet to accuse him of it. Asking straightforward questions was the better method. It was also the method that required him to trust that the adults would give him answers. “We should talk to him,” he agreed. “But if he refuses to show us the records, there might still be something in the attic that would tell us which story everybody's repeating. I don't mean we should grab whatever we can find. I mean somebody ought to know what went missing before we decide whether it matters.”
 
-"Tonight."
+Annabeth looked at him for a long moment. “You're thinking about going into the Big House when nobody's there.”
+
+“I'm considering several terrible ideas, and that is one of them.” He managed a smile. “I can hear how stupid it sounds now that I've said it aloud. I still want to know whether there are records upstairs, though.”
+
+“I know you do.” She withdrew her hand only because she needed to turn the page and write down the questions he had raised. “If we did anything like that, we'd need to understand the risk to everybody else, not just whether we could get caught. Chiron keeps old things in the attic because some of them aren't safe. We don't know what was taken or what protections remain. And the camp has people responsible for those rooms.”
+
+Percy nodded, chastened by the fact that she had not simply rejected the idea. He knew her well enough to see curiosity working against caution. Their old habits had saved them more than once, but some of those habits had also nearly killed them. The thought of a secret lying unguarded a short walk from the library was intoxicating, particularly when he could imagine asking Annabeth to solve it with him and feeling, for a little while, like the two people they had been before the world changed.
+
+They remained at the table until the lamplight overtook the afternoon sun, setting down what they knew and marking the questions they could not yet answer. Zoe's report was hearsay until checked. The damaged column was real but unexplained. The changed cabin arrangement was not proof of anything beyond the fact that someone had chosen a different arrangement. When Percy finally asked what Annabeth thought they should do next, she looked at the list, then at him, and admitted that she wanted to see the attic herself. She disliked the confession; he could tell from the way she pressed her pencil too hard into the paper. Neither of them claimed that wanting to investigate made the decision wise.
+
+“Tonight?” Percy asked quietly, after they had argued through more reasons to wait than he had expected.
+
+Annabeth glanced toward the window and drew the sheets into a neat stack. “If we're really going to consider it, we'd better decide what we're looking for and what would make us turn back. I'm not interested in getting caught because we couldn't resist opening something shiny.”
+
+“Agreed. Though for the record, I usually get caught because somebody else decides the shiny thing belongs in a trap.”
+
+“You also tend to touch it while you're explaining why it's probably a trap.” She tucked the folded notes inside her book and gave him a look that contained both amusement and warning. “Meet me after dark, and don't bring anything you couldn't explain to Chiron if we have to.”
+
+Percy promised to come with a plan, or at least with fewer terrible ideas than he had brought to the library. He could see that she did not entirely believe him. For the first time since leaving the Hall, the uncertainty about the prophecy felt manageable, not because they had solved it but because they had agreed to treat their fear as one fact among others rather than as proof of the explanation they wanted.
+
+
 
 ---
 
@@ -442,7 +462,7 @@ She pointed to the crossed-out lines beneath the new version. Percy squinted, tr
 
 The differences were subtle but significant. "Prince" instead of "son." "Three thrones" instead of "one." "Two sisters" instead of "one sister." And the final line had been changed from "darkness and fear" to "blood and fire."
 
-"Someone altered a prophecy," Annabeth said, her voice barely above a whisper. "They rewrote it."
+"Someone changed the wording on this page," Annabeth said. "That's different from changing a prophecy. We need to know who wrote each version and whether either is the Oracle's actual words."
 
 "But how? You can't just rewrite a prophecy — they're divine utterances. They come from the Oracle. They're—"
 
@@ -450,7 +470,7 @@ The differences were subtle but significant. "Prince" instead of "son." "Three t
 
 Percy's stomach turned. "Who would have that kind of power?"
 
-"I don't know. But whoever it's, they've been planning this for years. The changes to the camp, the altered rules, the increased number of big three kids — it's all connected to this prophecy. To whatever it says."
+"I don't know. Somebody altered a document, but that doesn't tell us which version was spoken, whether an error was corrected, or even whether the page is authentic. We need another source before we connect this to the families or the Hall."
 
 "And we're in it," Percy said, reading the lines again. "The prince of seas. That's me."
 
@@ -458,7 +478,7 @@ Percy's stomach turned. "Who would have that kind of power?"
 
 "Or maybe it's literal, and someone's trying to make it come true."
 
-They stared at each other in the darkness, the altered prophecy hanging between them like a blade.
+They copied the crossed-out words as carefully as the visible lines. Percy held the light while Annabeth noted each blot, correction and uncertain reading. Neither liked how little the document established, but an accurate copy could be checked against another record. A theory built on missing details could not.
 
 "We need to take this," Annabeth said, checking the path behind them.
 
@@ -654,47 +674,47 @@ Somebody had dug a ditch and built a useful thing. The work was on a map, and th
 
 ---
 
-The next day, Percy was summoned to Chiron's office.
+The following afternoon Chiron sent word that he wished to see Percy at the Big House, and Percy spent the walk uphill wondering how much the centaur knew about the attic. He had slept badly after their first visit and worse after discovering that the document they had taken was less conclusive than he had wanted it to be. By morning he had begun to suspect that every counselor who paused to look at him was trying to decide whether to ask what he had done. His imagination supplied a whole system of surveillance where there might have been nothing more suspicious than a twelve-year-old boy looking miserable at breakfast. It would have been easier, Percy thought, if the gods had simply announced when they were angry instead of allowing people to spend an afternoon guessing.
 
-He found the centaur in his wheelchair form, but his expression was grave. Beside him, Mr. D stood with his arms crossed, looking even more irritated than usual.
+The Big House looked almost welcoming in the fading light. The porch boards had been swept, a coil of garden hose lay neatly beside the steps, and somewhere inside someone was baking something with cinnamon. An older camper was fixing a loose hinge on a cupboard just beyond the open door. He glanced at Percy without any particular interest and went back to his work. Percy disliked being reminded that the building was not a fortress of secrets for his personal investigation. It was Chiron's office, Mr. D's unwilling home, and the place where people came to ask for supplies or permission to change their duties. Whatever had happened in its attic, the rooms below were occupied by people doing ordinary things.
 
-"Percy," Chiron said. "Thank you for coming."
+Chiron was in his wheelchair disguise behind the desk, examining a set of papers weighted at one corner with a smooth gray stone. Mr. D stood beside the window with his arms crossed and a cup of something dark in his hand, looking as though the whole afternoon had been a personal insult. Percy knew that expression from the older life. He had been relieved, once, to discover that Dionysus could be genuinely worried about campers without ceasing to complain about them. He was not sure whether this younger Percy had given the god reason to think well of him, and he did not intend to assume the relationship was unchanged.
 
-"Of course. What is it?"
+“Thank you for coming promptly,” Chiron said, motioning toward the chair in front of the desk. “We've had questions about the Hall of the Gods, and Zoe mentioned that you were interested in the repair records. There is nothing wrong with curiosity about a place you haven't used before, but I would prefer you ask the people responsible for the work instead of collecting rumors at the edges of the training grounds.”
 
-Mr. D answered before Chiron could. "You've been asking questions. The daughter of Hecate told me you've been poking around the Hall of the Gods, asking about the changes. Asking about the prophecy."
+Percy sat, unsure whether the opening was an invitation or a warning. “Zoe said there was a later repair that didn't appear on the original building list. I wanted to know what it was for. The Hall wasn't here the last time I saw camp, and I don't know much about who built it.”
 
-Percy kept his expression neutral. "I was curious."
+Mr. D lifted his cup. “An excellent question. I would also like to know why anyone needed a marble hall in which to discuss the gods. They could have saved everyone considerable trouble by discussing me in the dining pavilion, where there are chairs and something drinkable within reach.”
 
-"Curiosity gets people killed." Mr. D's voice was sharp. "Especially curiosity about things they shouldn't know about."
+Chiron did not smile, but Percy saw the smallest change in the lines around his eyes. “The Hall serves several purposes, and the council approved it over several stages. The repairs Zoe mentioned were made after the original dedication. That is not unusual for a building used by several cabins.”
 
-"I don't think I'm the only one who's noticed the changes," Percy said carefully. "The camp is different. The rules are different. People have been talking about it."
+“Then why are parts of the authorization records missing from the public copies?” Percy asked. He could have made the question sound casual, but after the last several days he was tired of pretending not to care about answers. “If people are supposed to learn how the building works, you'd think they'd be able to see who paid for the work and when it was done.”
 
-"People talk too much." Mr. D's eyes were hard. "And people who talk too much tend to have accidents."
+“Some records contain information about wards and security arrangements,” Chiron replied. “Those are not placed in the public library, because a map showing how to protect a building also shows someone how to damage it. Other records are incomplete because the work was completed over time and the clerks did not always file their copies as carefully as they should have. It is fair to ask whether something is missing. It is less fair to decide, before asking, that someone must have hidden it for a sinister purpose.”
 
-"Mr. D," Chiron said quietly. "Perhaps that's enough."
+Percy thought of the pages in his bag and looked toward the window. A shadow moved across the porch as the camper outside carried his tools to a different room. He had been looking for a conspiracy because the missing years of his life demanded an explanation. Chiron's account made the gaps sound irritating, ordinary, and entirely human, which did not make it less plausible. “I don't think every missing page is a secret,” Percy said. “I suppose I wanted the dates to line up so I could tell what changed first.”
 
-The god of wine — who looked nothing like a god of wine, with sharp eyes and an even sharper tongue — studied Percy for a long moment. Then he said, "I don't like this one, Chiron. Too much curiosity. Too much backbone. He'll get himself killed, or worse, get someone else killed."
+Mr. D gave him a long look. “And what exactly do you imagine changed? The color of the walls? The number of campers complaining about their chores? Things change every year, Jackson. The unfortunate nature of the world is that people keep having ideas, and a certain percentage of them insist on putting those ideas into practice.”
 
-"With respect, Mr. D," Percy said, "I've been at camp for two weeks. I've been nothing but polite. I've done everything I've been asked to do. Why would I get myself killed?"
+Percy let the question pass rather than risk an answer he could not safely give. He was not prepared to tell either of them that the childhood they believed he had lived was missing from his own memory, or that Annabeth remembered a mother who was no longer hers in this history. The room felt crowded with that knowledge even though nobody else had spoken it. He reached for the safer part of the truth. “People keep talking about a prophecy that was taken from the attic three years ago. Zoe said she had heard the story from older campers. Does it have anything to do with the Hall?”
 
-"Because you're a child of the Big Three in a time when the Big Three are very important. That makes you either very useful or very dangerous. Depending on who's doing the asking." Mr. D turned away. "Watch yourself, Jackson. Some questions aren't worth the answers."
+The silence after the question was longer than he expected. Mr. D set down his cup, and Chiron regarded Percy with the weary patience of someone who had heard a dangerous rumor repeated often enough to know that dismissing it would not make it vanish. “There were concerns about the security of our records during that period,” Chiron said at last. “The details are not mine to discuss with every camper who hears a story, particularly when some of those records are bound up with the Oracle's duties. I can tell you that a rumor about a theft is not evidence that the Hall, its builders, and every family at camp have been drawn into a single design.”
 
-He swept out of the office, leaving the air heavy with unspoken warnings.
+“That's not what I was saying,” Percy answered, though he knew how close the suspicion had come to his own thoughts. “I wanted to know whether there was an incident report. If somebody reported a theft, that would be one date we could compare to the building records.”
 
-Chiron watched him go, then turned back to Percy with an expression that seemed almost... apologetic.
+“It would also be a record maintained for a reason,” Mr. D said. His voice had lost some of its theatrical irritation. “You have not been given the responsibility for guarding the Oracle, and I would suggest you refrain from volunteering yourself. A child of one of the great gods attracts enough attention without climbing after every tale he hears. You may find that curiosity makes you interesting to exactly the wrong sort of people.”
 
-"He's not always so harsh," the centaur said.
+Percy met his gaze. “I understand that there's a risk. I just don't like being told to ignore a question because it might have an ugly answer.”
 
-"I know. He's worried."
+“Then learn to tell the difference between a question worth asking and a dare you've given yourself,” Mr. D replied. He moved toward the door, stopped to look back at Chiron, and added, “If he's going to continue wandering through the records, at least make him useful. There are still cabinets nobody has organized since last spring.” The door closed after him without a slam. Percy could not decide whether that counted as a concession or a punishment.
 
-"More worried than usual. Something is coming, Percy. Something that has the gods on edge and my old friend Dionysus reaching for his thyrsus before noon." Chiron leaned forward. "I don't know what it is. But I know that the answers to some questions are more dangerous than the questions themselves. And I think you need to decide, very carefully, which ones you're willing to die for."
+Chiron waited until the footsteps had moved down the hall. “Dionysus speaks more sharply when he is concerned, although that does not always make his advice pleasant. We have had to increase our caution about certain records. That is not a reason to treat you as a criminal for asking about them.” He straightened a page on his desk. “If you want to understand the Hall's construction, I can arrange for you to inspect the public work logs and speak with the people who repaired it. Zoe has already volunteered to help with the comparison. I would rather have curious campers learn how to handle evidence properly than force them to make do with rumors.”
 
-Percy met the centaur's ancient eyes. "I'm already willing to die for the answers. The question is whether I'm willing to let other people die because I don't have them yet."
+Percy was tempted to accept without qualification. He wanted to work through the records with Annabeth at his side, and the offer sounded almost exactly like the route she had suggested before he talked her into the attic. Yet the knowledge of the stolen page made it difficult to answer as though he had done nothing more than ask a question. He had not been caught, as far as he could tell. That did not erase the choice. “I think I'd like that,” he said. “And I need to think about whether I've already made some decisions I should have talked to you about first.”
 
-Chiron was quiet for a long moment. Then he said, "That's the question, isn't it? And I don't have an answer for you. I'm sorry."
+Chiron studied him for a moment. Percy wondered whether the centaur understood more than he was prepared to say, but the expression told him nothing certain. “Then think carefully, Percy. You are allowed to be frightened of what you do not understand. You are also responsible for how you act when you're frightened. There are other children here whose safety depends on the records and protections you're asking about, and their interests do not disappear because your questions feel urgent.”
 
-Percy stood and walked out of the office, and behind him, Chiron watched with eyes that had seen too much and understood too little and could do nothing to change what was coming.
+Percy got up, thanked him, and took the steps down from the porch with less certainty than he had carried into the office. Nothing he had heard proved who had written the altered prophecy, why the Hall had been built, or what had happened to the two lives only he and Annabeth could remember. Chiron had offered a practical way to learn some of those things without stealing anything. Percy would have to tell Annabeth about the conversation, and he suspected she would be pleased about the offer and furious that he had made it necessary. It was a less dramatic prospect than confronting a hidden enemy, and considerably harder to avoid.
 
 ---
 
@@ -723,7 +743,7 @@ She showed him. The second version was different from both the original and the 
 
 "Three versions," Percy said, checking the path behind them. "Three different prophecies?"
 
-"Or three different recordings of the same prophecy. Or three different attempts to capture what the Oracle actually said." Annabeth's eyes were bright with the thrill of discovery, even in this moment of danger. "Whoever altered the original didn't destroy it. They layered over it. And underneath, the older versions are still there."
+"Or three different recordings of the same prophecy. Or three different attempts to capture what the Oracle actually said." Annabeth's eyes were bright with the thrill of discovery, even in this moment of danger. "We can't tell from these alone which version came first, or whether any copy changed after the Oracle spoke. But someone kept separate versions. If the attic has more, comparing them might show where the differences entered the record."
 
 "Can we find more?"
 
@@ -739,63 +759,61 @@ Percy looked at her. This girl — this fierce, brilliant, reckless girl — was
 
 ---
 
-The second trip to the attic was harder. They'd added security — new wards on the windows, a tripwire across the back entrance, something that hummed in the air near the front door like a low, constant note.
+The second trip to the Big House began badly, which Percy considered a sign that they ought to have listened to their own advice and waited until morning. A gust had come through the valley after sunset and pushed a belt of cloud over the hills, covering the stars that Annabeth had been using to judge the open ground between the cabins and Chiron's porch. The path was not truly dark. Small lamps burned in sheltered recesses near the infirmary and the training sheds, and beyond the fields the distant sea gave back a pale band of light beneath the clouds. What troubled Percy was how ordinary everything appeared. Somewhere a counselor was finishing a late inventory; a pair of campers were carrying folded blankets toward the pavilion. The people they were sneaking past had spent their day keeping camp alive, and Percy could not decide whether his curiosity justified treating their work as an obstacle.
 
-Percy felt it first. The hum was a pressure against his skin, a warning that made the hair on his arms stand up.
+Annabeth stopped beside a stone trough and drew him back before he stepped into the light from a second-floor window. “If we're going to do this,” she murmured, “I need you looking where I point, not where you think somebody might be watching. I know you're worried about Chiron, but we're much more likely to be caught by a person taking a shortcut than by a god waiting dramatically behind a curtain.”
 
-"New ward," he whispered. "Someone reinforced it after last time."
+“I wasn't expecting a god behind a curtain,” Percy whispered. He glanced toward the porch, where a lamp cast narrow shadows across the rail. “A god drinking diet soda beside a curtain, maybe. That feels more likely.”
 
-"Then we use the old entrance. The vent by the kitchen."
+She did not laugh immediately. Instead she rested two fingers on his sleeve and watched a figure cross the upstairs window. When the shadow had passed, she said, “Fine. You can be funny after we get back. Right now I need to know whether you felt anything different near the front door.”
 
-"There is no vent by the kitchen."
+Percy had. The closer they came to the porch, the more an unfamiliar pressure gathered along his skin, dry and steady rather than tidal, like the sensation before a lightning storm that refused to break. He had learned to recognize certain wards without understanding their design. Some announced themselves as a change in the air; others seemed invisible until a person crossed them and discovered how sharply magic could object to trespass. He did not pretend he could identify this one from the faint hum alone. “There's something active near the doorway. It might be part of the ordinary protections, but it wasn't so strong when we came here before.”
 
-"There's always a vent. Every building has ventilation. Chiron's is just better hidden than most." Annabeth's smile was thin. "I spent two days mapping the airflow patterns in this building. I know where every gap is."
+“Then we're not testing it,” Annabeth said. She glanced toward the side windows, where two newly fixed strips of pale metal caught the light, and shook her head. “Those were probably reinforced as well. Somebody has been repairing the building, and I'd rather not find out which of the changes were meant to keep monsters out and which were meant to catch curious campers.”
 
-Of course she did.
+They moved away from the main entrance, following the line of the foundation until it passed beneath the kitchen wall. The smell of last night's fire lingered near the low windows, mixed with the sweet dampness of cut wood stored beneath the eaves. Annabeth had spent two afternoons studying how the Big House carried heat out of the rooms, not because she believed every building concealed a secret passage but because an old building usually betrayed its alterations through the things necessary to keep people comfortable. A vent on her sketch did not lead directly from kitchen to attic as Percy had first imagined. It fed a narrow service chase behind a storage cupboard, and that chase joined the roof space where older flues had been boarded over. Whether a twelve-year-old could climb it without making a noise was a question she had not been able to test.
 
-They moved through the shadows, following Annabeth's map, and twenty minutes later they were in the attic again. The Oracle's mist swirled around them, thicker than before, as if responding to their presence.
+“There's a maintenance panel around the corner,” she told him. “I saw a worker carry a brush and a bag of soot out of it yesterday. That suggests somebody uses the passage, which is more reassuring than a tunnel nobody has opened in fifty years. It doesn't tell us whether the boards will hold.”
 
-"Records," Annabeth said, already moving. "Prophecy transcripts. Look for anything dated three years ago or earlier."
+Percy studied the panel, a plain rectangle of dark-painted wood set low in the wall. “You mapped all of that while I was trying to decide whether Zoe was hiding something from us?”
 
-Percy searched the desk, the shelves, the boxes stacked in the corners. He found old journals, training logs, camp rosters. He found a folder of campers' writing exercises, including poems signed in handwriting he didn't recognize.
+“I mapped the parts that could be seen from public rooms. You were busy trying to make a brass pin confess to a conspiracy.” Her tone was dry, but he heard the edge of anxiety beneath it. She crouched and ran one fingertip along the panel's latch without lifting it. “I'm not saying this is a good plan. I'm saying it's the plan we've got, and we stop if the route is unsafe.”
 
-But nothing about prophecies. Nothing dated three years ago.
+It took several attempts to ease the panel free without scraping it against the stone. Inside lay a narrow service space smelling of dust, cooled brick, and old ash. Percy found a timber crosspiece that seemed solid under his weight, then helped Annabeth fit the lantern they had brought through the opening. She kept its light shaded with her palm. They climbed slowly, pausing wherever the wood creaked, and more than once Percy had to remind himself that the body climbing this passage was smaller than the one he remembered from the wars. The awkwardness helped them in the narrow turns, but it made lifting his weight from one crosspiece to the next harder. Above them a muted draft moved toward the roof. It carried a trace of dry paper, and Annabeth nodded when she recognized the passage from her sketch.
 
-"Annabeth," he said. "I can't find anything."
+They emerged behind a stack of old boxes in the attic, close enough to the familiar writing desk to see it without crossing the room. Percy remained crouched while Annabeth listened for movement below. The Oracle's chamber occupied the far part of the roof space, where the air always seemed to have forgotten which season belonged outside; faint green vapor rested along the ceiling and withdrew from the lamplight when she adjusted the shade. Annabeth had forbidden him to approach it, and this time he was grateful for the rule. The attic already contained more unsettling things than he could understand, among them piles of papers whose labels had faded, a cracked frame propped against a chair, and a row of sealed storage boxes tied with twine that nobody appeared to have disturbed for years.
 
-"Keep looking. The alteration would have been done carefully — they wouldn't leave notes about it. But there might be traces. Ink differences. Paper age. Something."
+“Start with the ledgers,” Annabeth said after they had listened long enough to be reasonably sure the floor below was quiet. “I want documents dated near the first construction approval, and I want to know where each one was filed. If we start pulling out anything that looks mysterious, we'll never be able to put it back in the right order.”
 
-They searched for another twenty minutes. Then Annabeth found it.
+Percy set the lantern where it would not spill onto the papers and moved toward the desk. He found rosters, work logs, and a folder of poems written by campers whose names he didn't recognize. Some pages were marked in the same cramped hand; others had been recopied after water damage, their ink darker than the records around them. He began placing what he inspected back in the order he found it. It was slow work, and he disliked the way his imagination kept leaping ahead to a discovery that would explain his childhood, Annabeth's new parentage, and the disturbing line in Poseidon's warning. Each time he caught himself doing it, he returned to the date at the top of the page, the kind of paper, and the name written beneath the entry. He could not afford to mistake a wish for evidence.
 
-A piece of parchment, tucked between two old journals. It was covered in handwriting that Percy didn't recognize — cramped, precise, the letters cramped together like they were trying not to take up too much space.
+Annabeth worked along a shelf that held journals from several different years. She checked their covers and the narrow strips of paper used to mark important entries, growing visibly frustrated when one journal had been wedged upside down between two unrelated ledgers. “Whoever organized this didn't even keep the volumes together,” she muttered. “If there was a system, nobody has been maintaining it.”
 
-"It's a note," Annabeth said, scanning it. "Dated three years ago. It says—" She stopped. Her face went pale.
+“Maybe they had somebody like me doing the filing,” Percy replied. “I'm excellent at putting books where I remember they belong, which usually isn't where anybody else expects to find them.”
 
-"What? What does it say?"
+“I've seen your trunk. I'd believe that.” She was smiling when she lifted the next journal, but the smile faded as a folded piece of parchment slipped from between its pages and landed against her wrist. She caught it before it reached the floor and held it in the lantern's half-light. It was not sealed. Its edges bore the faint grime of something handled often enough to be read, yet stored where a person would have to know to look.
 
-"It says: 'First change successful. The prince's thread adjusted. The sisters bound as predicted. Next: establish the Hall of the Gods. —A.'"
+Percy moved beside her. The handwriting on the parchment was fine and cramped, with letters set close enough that the writer seemed unwilling to spare another sheet. At the top stood a date from three years earlier. Below it was a short entry: *First change successful. The prince's thread adjusted. The sisters bound as predicted. Next: establish the Hall of the Gods. —A.*
 
-The words hung in the air like smoke.
+Neither spoke for several moments. Percy read the line again, testing the words against what he actually knew. There were too many pieces that seemed to fit: a prince, two sisters, an altered history, a Hall built at approximately the right time. The neatness of it made him want to believe they had found the center of the mystery, and he mistrusted that desire almost as soon as he felt it.
 
-"Someone wanted a reader to believe the changes were intentional," Percy said. "And signed it with a single letter."
+“It sounds like somebody is describing us,” he said at last, keeping his voice low. “Or describing people whoever wrote this expected a reader to connect to us. I don't know which is worse.”
 
-"One letter," Annabeth said. "It might be an initial. Or whoever wrote it wanted us to think it was."
+Annabeth turned the parchment over without bending it. The reverse side was blank, and there was no seal, no full signature, not even a record number that would establish where the note had come from. “We know this page exists and that somebody wrote those words. We don't know when the words were written, whether the date is accurate, or who this 'A' is supposed to be.” She looked at him. “I want it to mean we have an answer, Percy. That's exactly why we need to be more careful with it than we were with the transcript.”
 
-"It's enough to know we're on the right track."
+Percy considered the single letter at the bottom of the note. It could have belonged to any number of people in a world crowded with gods, mortals, and servants who knew more than they ever said. It could also have been chosen deliberately to direct suspicion toward a particular name. “It tells us somebody wanted to make a claim. The question is who they expected to read it, if they hid it here.”
 
-"Percy, it gives us something to investigate. It isn't proof of who did anything." She folded the note carefully. "We're taking this too. Everything we find, we're taking."
+“And why a claim about the Hall ended up in a journal that isn't even labeled as construction business,” Annabeth said. She copied the text into her notebook with its spelling and line breaks intact, then marked the place between the two journals from which the paper had fallen. “We have enough to ask better questions. We don't have enough to accuse anyone.”
 
-They left the attic the way they'd come, slipping through the vent and dropping into the shadows. They didn't speak until they were back at the lake, their prize secured.
+They should have left the original in its place. Percy knew that before Annabeth folded the parchment and passed it to him, and the look she gave him suggested she knew it too. Yet both had learned how easily records could disappear, and neither trusted that a copy alone would allow them to examine the ink or paper later. Annabeth insisted they keep the sheet flat between two clean pages rather than crumpling it into a pocket, and Percy complied. He felt neither proud nor clever as they returned the journals, lowered the lantern shade, and crawled back toward the service passage. In the narrow descent his foot slipped from one crosspiece; Annabeth caught his sleeve without speaking, and he waited until his weight was secure again before moving. The small accident frightened him more than the dramatic discoveries he had expected from the night. They were two children climbing inside a dark building, and being right about a prophecy would not make them invulnerable to a fall.
 
-"A," Percy said. "A single letter and a claim about changing the prince's thread. What does that even mean?"
+By the time they reached the lake, the clouds had lifted enough for a few stars to show between their ragged edges. Annabeth opened her notebook beneath the shelter of a pine and read back the copied words while Percy held the original steady. She sounded out each uncertain part, arguing briefly with herself about whether the last stroke of the letter had been formed in one movement or two. It was an odd, wonderfully familiar thing to watch her work, a girl who could be frightened of the future and irritated by a bad penmanship sample in the same breath.
 
-"Someone who knows the prophecy, or wants us to believe they do. We can't assume the rest." Annabeth's eyes were fierce. "We're going to find them, Percy. And we're going to stop them."
+“Are we going to tell Chiron?” Percy asked. “Not the whole reason we're looking, but that we found a note somebody had no reason to leave in a private journal?”
 
-"Together."
+“We're going to have to tell him we were in the attic eventually,” Annabeth answered. “I'd rather we do it before he discovers the papers are missing. I don't want us to spend so much time protecting our secret that we become people who think everybody else's trust is disposable.” She closed the notebook and looked down the path toward Cabin One. “But right now I need to get back before Thalia comes looking. She's already worried I don't sleep.”
 
-"Together."
-
-And somewhere above them, the storm gathered — patient and dark and inevitable.
+Percy handed the copy back to her and secured the original between two dry sheets in his bag. He wanted to insist that the note proved someone had rewritten their lives. Annabeth would have reminded him that it proved only that someone had written a sentence about doing so. He did not need her to say it a third time. They parted near the cabins with a plan to compare the handwriting and the record dates, while somewhere above the ridge the low weather continued moving east. For the moment the mystery had acquired another piece of paper, and the two of them had acquired another difficult choice about what to do with it.
 
 ---
 
@@ -1001,7 +1019,7 @@ The next morning, Clarisse found Percy at the training grounds.
 
 Percy's heart stopped. "How long have you been following me?"
 
-"Since the night you snuck into the Big House the first time. You're not as subtle as you think, Jackson." She was smiling, but her eyes were serious. "I followed you to the attic. Saw what you and the Athena girl were doing up there. Didn't interfere because I wanted to know what you were after."
+"Since the night you snuck into the Big House the first time. You're not as subtle as you think, Jackson." She was smiling, but her eyes were serious. "I followed you to the attic. Saw what you and Annabeth were doing up there. Didn't interfere because I wanted to know what you were after."
 
 "And now you know."
 
@@ -1025,7 +1043,7 @@ Not simply them. Other Big Three kids. Other investigations. Other people who ha
 
 He wasn't alone.
 
-Percy had never been less alone in his life.
+He wasn't alone in asking questions, which wasn't the same as already knowing these people. Nico had a ledger and his own suspicions; Silena had years of cabin work Percy had only begun to appreciate; Clarisse was still measuring his reliability one kept promise at a time. Percy made himself listen before deciding their reasons matched his.
 
 ---
 

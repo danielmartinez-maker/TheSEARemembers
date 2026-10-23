@@ -1,118 +1,93 @@
 ## Chapter 1: The Weight of Salt and Sky
 
-Percy Jackson woke up underwater.
+Percy Jackson woke beneath a ceiling he knew his hands had touched and his mind had never seen, with the peculiar certainty that something was wrong long before he could have said what it was. The light was wrong for a bedroom: it came from everywhere and nowhere, softened into wavering bands that travelled across carved stone and slipped into the hollows of the bedposts. The curtains scarcely moved, though they were not hanging in air. Their pale fabric leaned in a slow current, the hems lifting and settling like fronds in a tide pool. Beyond a lattice of living coral a school of silver fish altered course with such perfect accord that for an instant they resembled a single bright creature turning in its sleep. He heard water moving through passages beyond the walls, a muted, continuous sound whose changes he somehow understood as distances and directions. Nothing pressed against his chest. His lungs worked as easily as they had in his mother's apartment in New York. It was only when he noticed that ordinary fact, and understood how impossible it should have been, that fear reached him.
 
-Not drowning. Not dreaming. *Underwater.* The pressure rested against his chest without frightening him; his body seemed to know the room before he did. Faint blue-green light filtered through coral windows he could not remember seeing before.
+He remained beneath the coverlet for a long moment, feeling for the familiar outline of a room that was no longer there. He expected Annabeth to be asleep beside him with a book face-down on the pillow and a dozen university pamphlets scattered across the floor. They had spent the previous evening arguing cheerfully about apartments in New Rome, and Percy had insisted that a respectable kitchen ought to have room for a pizza oven while Annabeth maintained that a building should be selected for its foundations, its windows, and the likelihood that its roof would remain where the architect intended. She had been seventeen, warm and exasperated and alive, and the sound of her laughter had outlasted nearly every other impression of the night. He could remember the shape of the letters on the pamphlets, the cold water in the glass beside their bed, and the little crease that appeared between Annabeth's brows whenever she had an argument ready but was trying to make him finish his first. Those memories possessed the rough, ordinary weight of things that had actually happened. The strange room above him possessed the same weight, and that was more terrifying than a dream would have been.
 
-He opened his eyes. The ceiling was vaulted stone carved with scenes of naval battles, the mother-of-pearl inlay catching light that shouldn't exist this deep. His hand lifted toward an engraved trireme before he stopped it. The gesture felt practiced. He had no memory of practicing it, or of any morning beneath this ceiling.
+The ceiling formed a shallow vault crossed by ribs of blue stone, each worked with a line of shell no wider than his finger. Between the ribs sailed ships of mother-of-pearl and dark amber, triremes with bronze rams and square sails, pursued by dolphins or preceded by narrow streams of foam. Near the far wall one ship had a chipped oar. Percy lifted his hand before he knew why, reaching instinctively toward the flaw as though it were something he had worried over many times. His fingers stopped short in the clear water. The gesture belonged to a child who had lain beneath this ceiling and traced its imperfections through years of mornings. Percy remembered neither the habit nor the child. He knew the palace of Atlantis from visits made in another life, when its royal galleries had seemed imposing and faintly uncomfortable, and when every greeting had reminded him that his father's family extended far beyond the people he understood. This bedchamber was not one of those remembered places. It appeared to have been his home for years.
 
-For a moment, he couldn't tell what was wrong.
+He sat up and let the coverlet slide from his shoulders. At the end of the bed lay a folded blue tunic embroidered with a small silver trident, its cuffs worn smooth where a child's hands would have tugged at them. Sandals waited beneath a wooden stool. A practice sword rested in a rack between a shelf of shells and a pile of books with corners softened by use, while a row of little stones had been arranged along the sill according to a rule that made sense to nobody but the person who had placed them there. Percy looked at the stones for a long time. Someone had chosen each of them from the floor of an immeasurably large sea, carried them into this room, and kept them when there was no reason to do so except affection. He could not say whether that someone had been himself. On the stool's seat lay a half-finished knot worked in green cord, made with a neatness his present hands recognized before his mind did. He had the sickening impression of walking into the life of a boy who had stepped out for a moment and might return to find a stranger among his belongings.
 
-Then the memories arrived.
+The mirror beside the wardrobe was beaten bronze, framed in dark wood whose grain shimmered when the current passed over it. Percy crossed the floor on feet that were disconcertingly small, and a twelve-year-old looked back at him. The dark hair and green eyes were his, but his jaw had not lengthened, his shoulders lacked the hard shape of seventeen, and the scar he expected near one knuckle had gone missing. Fine webbing stretched between his fingers when he held his hands apart. Other calluses remained, placed differently from the ones he remembered acquiring with Riptide. He turned his wrists and watched his reflection follow, testing the absurd hope that the stranger would move a fraction too late. The boy in the mirror kept exact time. There was no explanation waiting in the glass, only a body that could breathe beneath the sea and seemed to have practised doing so until the act was less remarkable than blinking.
 
-Not the memories of this childhood. The *other* one. The one that was his, that had to be his, because too many of its details were still clear to mistake it for a dream.
+He tried to assemble the past in the order Annabeth would have insisted upon, beginning with what he knew rather than what he feared. He remembered Sally standing at their kitchen counter, cutting the burnt edges off blue cookies while pretending they had come out perfectly. He remembered Grover and Yancy, the Minotaur and the long, furious road into a war the gods had nearly lost through their own pride. He remembered Annabeth's hand in his when the two of them fell into Tartarus, and he remembered the years after, when surviving had slowly ceased to feel like a task they performed every morning. Those memories did not fray under examination. Yet he could find nothing between them that explained the bedchamber, the trident stitched into the clothes, or the affectionate scuffs beneath the writing desk. He had no recollection of servants who might know his preferences or of sisters who might expect him at breakfast. Even the sound of the tide passing through the upper galleries was familiar to some unremembering part of him, and that familiarity felt like a betrayal.
 
-Sally's apartment. The smell of blue chocolate chip cookies. Yancy Academy. The Mythomagic board game. The Minotaur's breath on his neck, hot and rancid, its claws tangled in his hair. Chiron's kind eyes behind half-moons. Annabeth.
+He went to the window, though he had no idea what he expected to find. Beyond the coral lattice the palace extended in descending terraces, its arches rooted in the reef and its towers joined by bridges of white stone. Lamps burned in little guarded niches where the ocean grew dark, and gardeners moved among broad-leaved plants that leaned toward the light instead of the sun. Farther away, beyond the defensive walls, the sea opened into a vast blue plain whose upper reaches glimmered with morning. A distant procession of workers guided a freight net between two towers, steadying its load against a crossing current. Life proceeded here with the assurance of a city that expected to be here tomorrow. Percy had walked through ruins enough to know that no palace was permanent, but the ordinary labor of the people outside his window made the place feel stubbornly real. Somewhere among those towers were kitchens preparing food, guards changing watches, and people remembering yesterday. He was the only one in sight who could not remember what yesterday had been.
 
-*Annabeth.*
+“Annabeth,” he said aloud, and the name came out in the lighter voice of a child. He spoke it once more, not because he expected an answer from the corridor but because he wanted to hear something that unquestionably belonged to him. For a moment he thought of calling for his mother, and the image that answered was Sally's tired smile over a mug of coffee. He did not know where she was in this new history. He was afraid that asking would make the absence permanent, and more afraid that the palace would supply an answer with which everyone else had long ago made peace. He placed his palm against the cool wood of the window frame and remained there until he could trust his face to look merely tired.
 
-Percy sat up so fast his head spun. He looked down at his hands. They were smaller. Twelve-year-old hands. Smooth, uncalloused, the fingers slightly webbed in a way that spoke of years spent in the water.
+The door opened before he could decide what to do next.
 
-"This isn't..." he started, and his voice cracked on the second syllable. A child's voice. A stranger's voice.
+"Percy, you'll be late for breakfast. Rhode and Benthesikyme have been asking when you'll join them." Amphitrite halted on the threshold. She wore sea-green robes with a dark border worked in tiny shells, and one pearl had come loose from the comb holding back her hair. She noticed his bare feet, the rumpled bedding, and then his face. "What's wrong, *agapi mou*? Was it the nightmare again?"
 
-He was in a palace beneath the sea, twelve years old and remembering seventeen. He remembered Tartarus, the ash, the screams, the way Annabeth's hand had felt in his, like the only solid thing in a collapsing world. He remembered the Giant War, the pages of the prophecy, the taste of ambrosia on his tongue. He remembered New Rome, the university pamphlets, the apartment they'd circled in a real estate listing, the three recommendation letters that stood between him and a normal life.
+He didn't know which nightmare she meant. She spoke with the ease of someone who had come to this room on hundreds of ordinary mornings, perhaps on mornings when he had been ill, or frightened, or simply unwilling to get out of bed. She had memories of him that he couldn't supply.
 
-He remembered the last quiet evening with Annabeth, university pamphlets spread across their bed as they argued about a secondhand sofa for an apartment they couldn't afford yet. That had been their biggest problem. For once.
+A dozen answers occurred to him. None could be said to her. Sally had been alive all through the childhood he remembered; this woman had apparently been raising him for years. Explaining why he knew one mother and not the other would mean admitting that the son she loved was, in some essential way, a stranger to his own life.
 
-And now he was here.
+"Just a weird dream," he said. "I'm okay."
 
-Percy threw off the covers. The sheets, heavy as sea-silk, fell around his bare feet on the cold stone floor. He caught his reflection in the polished bronze mirror across the room.
+Amphitrite came close enough to check his forehead. Her palm was cool; the pressure of it, practiced and unceremonious, reminded him of the way Sally had used to check for fevers before school. Percy held still. Amphitrite's tenderness wasn't an illusion just because he couldn't remember earning it.
 
-A boy stared back. Dark hair, longer than he remembered, curling at the nape of his neck. His green eyes were the same. Leaner than his original twelve-year-old frame, more accustomed to swimming than running. He was wearing a sleep-shirt that fell past his knees, and there was a faint luminescence to his skin, the way all Atlanteans had, as though the ocean lived just beneath the surface.
+"You're not warm." She smoothed the hair out of his eyes, noticed him watching her, and took her hand away. "Is this about the surface? You've been campaigning to go to camp for so long that I thought you'd be unbearable once the day arrived."
 
-He looked like himself. He looked like a stranger.
+Camp Half-Blood. There it was, a destination he recognized for entirely the wrong reasons. He had no memory of these arguments about being allowed to go, but he could hear their residue in her affectionate complaint.
 
-"Annabeth," he said out loud, and the name felt like a rope thrown into darkness. Was she here? Was she somewhere else, equally displaced? Was she ...
+"Maybe a little," he said.
 
-The door opened.
+"Your father has spoken to Chiron. Grover will be at the port, and I believe he is looking forward to meeting you. You're allowed to be nervous, Percy. Just don't skip breakfast on my account."
 
-"Percy, you're going to be late for..." Amphitrite paused in the doorway, her brow furrowing. She was wearing robes of deep sea-green, her dark hair crowned with coral and pearl, and she looked at him with affection so familiar to her that his failure to recognize it hurt. "What's wrong, *agapi mou*? Did you have the nightmare again?"
+Grover. Percy gripped the edge of the wardrobe to keep his face ordinary. The satyr who had stood beside him through years of disasters was here, alive, and preparing to meet a boy he had never known. It was something to hold on to, even if it hurt.
 
-The nightmare. Percy didn't know what nightmare she meant, and the not-knowing was a cold stone in his stomach.
+"I should get dressed," Percy managed.
 
-"I..." he started, and stopped. He remembered Sally Jackson making blue cookies in their Manhattan kitchen, lying to monsters to protect him, and waiting for him to come home. Amphitrite remembered a different childhood for him, one he couldn't reach. He couldn't explain either memory without exposing the other.
+"Yes, you should." Amphitrite's gaze strayed to the pile of clothes beside the bed. "And you should put away whatever you decide not to take. I refuse to let you travel with four ceremonial cloaks."
 
-He couldn't tell her. She knew the boy who had lived here for twelve years. Whether she believed him or not, the truth could cost him his chance to reach camp.
+"Four? Are we invading somewhere?"
 
-"I'm fine," he said. "Just a weird dream."
+She gave him a look he couldn't interpret, then laughed. "You can make that argument to your father. Breakfast in twenty minutes. He wants to see you before training."
 
-Amphitrite crossed the room and sat on the edge of his bed, reaching up to press her palm against his forehead. Her hands were cool and smooth, and the gesture was so achingly maternal that Percy's throat closed.
-
-"You're not warm," she said, more to herself than to him. "Are you nervous about the surface trip? You've been talking about it for weeks."
-
-The surface trip. Amphitrite spoke as if they had planned it together. Percy listened for something he could use: Camp Half-Blood, Chiron's training, other demigods his own age. Apparently he had been asking to go for years. He knew the destination from his original life, but none of these underwater preparations.
-
-In his original timeline, he'd already been to camp. He'd already done everything this version of him was still anticipating.
-
-But this Amphitrite didn't know that. This Poseidon didn't know that. To them, he was a sheltered twelve-year-old who'd spent his whole life under the sea.
-
-"Okay," Percy said slowly. "Yeah. I'm nervous."
-
-Amphitrite smiled, and the smile transformed her face from divine to maternal in a way that made Percy's chest hurt. "You'll be fine. Your father has spoken to Chiron. Grover will be there to meet you, and apparently he's already excited about it."
-
-Grover. The name sent a jolt through Percy's system. In his original timeline, Grover had been his best friend for years. His protector. His brother in everything but blood. This Grover, the one who existed in this altered life, had never met him. Wouldn't know him. Would see a strange, sheltered prince from the sea instead of the partner-in-mayhem Percy remembered.
-
-But at least Grover existed. At least that was one thing the change hadn't taken away.
-
-"I should get dressed," Percy said, looking away.
-
-Amphitrite kissed his forehead. "Breakfast in twenty minutes. Your father wants to speak with you this morning."
-
-She left. Percy sat on the edge of the bed for another thirty seconds, breathing carefully, and then went to find clothes.
+She kissed his forehead and left. Percy waited until the sound of her sandals had faded down the corridor before opening the wardrobe. He knew how to reach Camp Half-Blood. Getting through one more morning as the boy everyone expected him to be was proving harder.
 
 ---
 
-The corridors outside his bedroom were a problem. Percy had visited Atlantis in the life he remembered, but not as a boy who had grown up in this palace. He recognized the living coral, the garden currents, and the way light broke through the crystal ceiling. He didn't know which turn led to breakfast. His feet seemed to know something his mind didn't, carrying him past two intersections before he stopped and asked a guard for the way to his father's study.
+Outside his room, two attendants were rearranging a floating basket of folded linens so that it would fit through an arched passage. Percy stepped aside, and both greeted him without hesitating over his title. He gave the sort of nod a prince might give and continued down the corridor, hoping no one noticed that he had no idea where breakfast was served.
 
-He recognized the sea. He didn't recognize the route to his father's study.
+Atlantis was recognizable in pieces. He remembered its coral buttresses and the way the garden currents made certain halls warmer than others, but he had visited this palace in another life, not grown up finding his way through it. His body took two turns without asking him. At the third, he stopped beside a painted map that showed ceremonial routes instead of the household corridors he needed.
 
-The guard directed him to an eastern tower where an open obsidian doorway led into a study overlooking the darker water beyond the palace. Poseidon stood at the great window. Percy recognized his father instantly, though the robes and the certainty with which he occupied this room belonged to a history Percy hadn't lived.
+A guard sent him to the eastern tower. Percy thanked him a little too fervently and followed the sound of hammering from a distant repair gallery until it gave way to the quiet of Poseidon's study.
 
-Poseidon turned. He had broad shoulders, sea-green eyes, and a tired, familiar smile. For a moment Percy wanted to ask him everything at once. Instead he waited to be greeted.
+His father stood beside an immense window, reading a narrow scroll while the dark water beyond the palace moved past like weather. There was a shallow nick in the stone of his desk and a stack of petitions weighted with an ordinary fishing sinker. Percy found himself staring at the sinker. It was the sort of object Sally might have saved in a kitchen drawer, a small reminder that the sea god still cared about things made by hand.
 
-"Come here, boy."
+Poseidon set the scroll aside when he saw him. "Come here, boy."
 
-Percy crossed the room. Poseidon engulfed him in a hug that smelled like salt and deep water, cold iron and kelp, warm from sun on the surface, and Percy, who had not been hugged by Poseidon in the original timeline in years, not since the wars, not since he'd learned to stand on his own, had to bite the inside of his cheek to keep his face steady.
+Percy went into the embrace without quite knowing how to prepare for it. His father had hugged him in his remembered life, but rarely with the casual familiarity of a man greeting a child before breakfast. The room smelled of salt, iron, and the strong tea sitting forgotten on the desk.
 
-"I've been thinking," Poseidon said, releasing him but keeping a hand on his shoulder. "About this camp business."
+"Your mother says you've barely slept." Poseidon held him at arm's length. "I'm reconsidering this camp business."
 
-"Dad, we've talked about it..."
+"Dad, we've talked about it."
 
-"I know. I know." Poseidon rubbed the back of his neck. "It's just that Amphitrite worries. I worry. You've never been to the surface. Never been around mortals your own age. If anything happened to you..."
+"For years, apparently, according to Amphitrite." The god rubbed his face. "She worries about the surface, and so do I. You've never had to manage mortals your own age. At least down here people understand what you are."
 
-"Nothing's going to happen to me," Percy said, and the words came out more confidently than he felt, because in his original timeline, he had faced down gods and Titans and the literal underworld, and the idea of Camp Half-Blood being *dangerous* was almost funny.
+Percy thought of the things he had done on land in his old life: fighting monsters in places with no water, losing friends, coming home with injuries he could never have explained to Sally. None of that made the prospect of camp simple. It made the gulf between what he knew and what his father believed almost impossible to cross.
 
-Almost.
+"I want to go," he said. "I'm not asking you to stop worrying."
 
-Poseidon studied him. "Something's different about you today," he said quietly. "You're looking at me as though we've never met."
+Poseidon studied him long enough that Percy had to look away. "You seem older this morning. Or perhaps it's just the nerves. You've been looking at me as if you're waiting for permission to speak."
 
-Percy's heart hammered. "I'm just... excited about the trip. Nervous. You know."
+Percy searched for something a sheltered twelve-year-old would say. "I wasn't sure you were finished."
 
-"Hmm." Poseidon didn't look convinced. "Well. The arrangements are made. Chiron expects you in a week. Grover will meet you at the port. And Percy..." He gripped his son's shoulder tighter. "You are a prince of Atlantis. Never forget that. The surface world will try to make you smaller. Don't let it."
+"I'm never finished when it comes to worrying about my children." Poseidon looked almost embarrassed by the admission. "But the arrangements are made. Chiron expects you in a week. Grover will meet you at the port."
 
-"I won't," Percy said, and meant it with every fiber of his seventeen-year-old soul.
+He picked up the fishing sinker and rolled it once between his fingers. "You're a prince of Atlantis, Percy. Don't let the surface make you ashamed of that. But don't let the title persuade you that people owe you kindness, either. You'll have to discover what sort of boy you are when nobody is required to bow."
 
-Poseidon studied him for another moment, and Percy had the uncomfortable feeling that his father was looking for something, some sign that his son was still a child, still the boy who used to chase minotaurs through the palace corridors and ask when he could visit the surface. Whatever his father was searching for, Percy didn't know how to give it to him.
+Percy hadn't expected the second half. "That's fair."
 
-"Your mother and I will miss you," Poseidon said finally. "We'll talk every day, yes?"
+"It isn't always." Poseidon put the sinker down. "Clarisse and Silena have had to discover that the hard way."
 
-"Every day."
+The casual reference to sisters caught Percy unprepared, but his father was already drawing him toward the door. "Your mother and I will miss you. Call us every day if you can, and tell us if anything goes wrong. Don't make us rely on Chiron's reports."
 
-"And if you need anything, anything at all, you'll tell us."
+"I will." That promise, at least, required no borrowed memory.
 
-"I will."
-
-"Good boy." Poseidon kissed his forehead, and Percy felt the warmth of divine affection, and the guilt of not deserving it settled into his bones.
 Poseidon walked him to the door of the study, and then stopped. Percy had never seen his father hesitate before, not about anything. It was such a strange expression on that broad, weathered face that it took Percy a moment to understand what he was seeing.
 
 "Percy." His father's voice was careful, controlled. "I need to tell you something. Amphitrite doesn't think I should."
@@ -153,23 +128,33 @@ After his father left, Percy stayed in the corridor. He couldn't decide whether 
 
 ---
 
-Over the following days, Percy tried to learn the household's routines without making his ignorance obvious. The departure was still a week away, but every ordinary task had become a test.
+In the days that followed, Percy tried to learn the routines of the Atlantean household without making his ignorance too obvious, and discovered that there was a difference between knowing the arrangement of a palace and understanding how a family lived inside it. The residence had ceremonial galleries where visitors waited beneath painted ceilings and guards announced names in voices polished by years of practice, but most of its life unfolded in smaller passages behind the great rooms. Breakfast trays travelled from the kitchens along a route that avoided the audience chamber. Servants carried household linens through a narrow arcade where the current ran steadily enough to keep the baskets from brushing against the walls. A gardener arrived each morning with cuttings for the anemone beds, and one of the cooks argued with a stablehand about whose turn it was to collect a broken lamp from the western corridor. Percy had seen great underwater cities in the life he remembered, but he had rarely paid attention to the labor that made their magnificence feel ordinary to the people who lived there. Now every detail was a clue about the childhood everyone believed he had spent here.
 
-At sword practice, Triton ruffled his hair and told him not to let any satyrs give him trouble. "You know how they get," Triton said, grinning. "Six of them surrounding a kid and calling it a lesson. Don't fall for it."
+He followed the sound of voices to the smaller breakfast room whenever he was uncertain which route to take. Rhode and Benthesikyme were sometimes there before him, speaking with the ease of sisters who had already been arguing since sunrise, and he learned to recognize the way each of them looked toward the door when he entered. They knew his habits too well for him to imitate them reliably. One would laugh when he reached for something he apparently disliked, while the other seemed puzzled that he hesitated before answering an ordinary question about yesterday's training. Percy learned to ask for the details he could reasonably have forgotten, and to say he was distracted when he had nothing better to offer. There was affection in their teasing, and sometimes it caught him so unexpectedly that he nearly forgot to be frightened. He wanted to remember the days that had made them familiar to him. Wanting did not produce a single one of those memories.
 
-"I've faced worse," Percy said, looking away.
+The training court lay in a protected basin beneath the eastern galleries, its floor paved in dark stone that had been worn smooth by generations of weapons and bare feet. Columns supported the roof at broad intervals, leaving enough room for currents to pass through without gathering dangerously around the fighting lanes. Triton preferred the far end of the court, where a line of open arches overlooked the outer reef. He said the changing light there made it harder to judge a moving opponent by shadow alone, which was a useful inconvenience for anyone who expected to train beneath the sea and fight someday on land. Percy had worked with him several times since waking, and the exercises were beginning to form a genuine recent memory rather than another tale somebody told about him. He knew which blade Triton favored for a demonstration, which loose tile to avoid near the boundary line, and how the older god's patience thinned when a student paid more attention to an elegant flourish than to keeping his feet beneath him.
 
-Triton's grin faded. "Have you?" he asked, and his voice had changed, lower, more serious. "Percy, you're still young. Whatever you think you've faced, whatever you think you know..."
+On the third morning Triton caught him watching the open water instead of the angle of his practice sword. He lowered his own weapon and gave Percy a rueful smile that made him look less like a prince of the sea and more like an elder brother faced with an especially familiar irritation. “If you're planning to look toward the surface all through our lesson, you might as well tell me now. I'd rather not spend an hour pretending I'm about to surprise you when your mind has already gone to camp.”
 
-"I know what I know," Percy said, cutting him off. It came out harder than he intended. Triton looked at him for a long moment, then tossed Percy a practice blade and made him start the drill again.
+Percy turned the wooden hilt in his hand, embarrassed to discover that he had stopped listening halfway through the previous exercise. “I was thinking about whether Grover will know what he's doing when he meets me. Dad says he's good at his work, but I've never gone anywhere with a satyr before.” That much, at least, was a lie only in its tense; Grover had accompanied him through danger too often in the remembered life to make a casual prediction seem fair.
 
-Percy spent extra time with Amphitrite. She found reasons to visit the training court or ask him to sit with her in the afternoons, and he didn't mind. They played *Tessera*, a strategy game she expected him to know. He concealed his ignorance behind jokes and lost six games before he began to understand the currents.
+“Oh, Grover will know what he's doing. Whether you'll enjoy having somebody remind you when to eat and which path to take is another matter.” Triton came closer and nudged the angle of Percy's sword until its wooden point no longer threatened the instructor's knee. “You know how they get when they think a child is their responsibility. Six of them could surround you and call it a lesson. Just don't confuse being annoyed with being in danger.”
 
-He packed bags he wouldn't need, practiced being twelve years old, and tried not to think about Annabeth with a desperation that bordered on panic.
+Percy gave the blade an experimental turn. “I've faced worse than an annoying lesson.”
 
-Where was she? Was she at camp? Was she even on land? Had she woken up in this altered world the same way he had, disoriented and displaced and wondering where he was? Or was she somewhere else entirely, in some other corner of this rewritten history, equally alone?
+Triton stopped smiling. For several seconds he regarded Percy with an attention the younger boy had begun to dread, because it suggested that his family could sense some of the older life without understanding what they were noticing. “Have you? I'm not saying you haven't had your share of difficult days. But you talk sometimes as though you've been somewhere none of us knows about. If there's something worrying you, you can say so without making a grand declaration.”
 
-He couldn't know. He couldn't reach her. He could only go to camp and hope.
+Percy wanted to tell him. In another history they had fought beside one another, argued over responsibilities neither of them had asked for, and learned how complicated their father's affection could be. This Triton had evidently spent years watching a little brother grow up. The two histories could not be joined by a sentence spoken in a training court. “I know what I know,” Percy said, too sharply, and regretted it as soon as he saw the change in Triton's expression.
+
+“All right,” Triton replied after a moment. He did not press the point or pretend the answer had satisfied him. Instead he held out his hand for Percy's practice blade, examined its worn grip, and passed it back hilt first. “Then show me what you know about the distance between your feet. You've nearly tripped over your own stance twice, and I would prefer to keep our argument from becoming an injury report.”
+
+They resumed the drill, but Triton made it slower than before. He stood just beyond Percy's reach and moved only when Percy shifted his weight correctly, forcing him to attend to what his younger body could actually do instead of relying on movements he remembered performing with a longer arm and heavier sword. It was a humiliating lesson until Percy recognized the kindness within it. Triton had given him a problem small enough to solve. They spent the final quarter hour repeating a simple turn until Percy could accomplish it without thinking of the person he had once been. At the end Triton returned the wooden blade to the rack and told him, without looking up, that he could come to the court whenever he wished during the remaining days before his journey.
+
+Outside the court, the palace was already preparing for his departure. A pair of attendants argued politely over which trunk would travel most safely in the royal chariot, and somebody had laid out four ceremonial cloaks on a bench as though Percy intended to attend a diplomatic reception instead of joining a summer camp. He told the steward he could manage with one cloak and received a look of such patient disbelief that he felt like an unusually troublesome foreign dignitary. Later, when he tried to sort the contents of his wardrobe, he discovered bundles of cords tied in knots his hands understood, a collection of small stones whose histories nobody had written down, and a wooden box filled with notes from people who apparently expected him to read their handwriting at a glance. He packed slowly, not because he wanted to take everything but because each object asked him a question he could not answer.
+
+Amphitrite came to see him in the afternoons, sometimes with practical instructions about the journey and sometimes with no better excuse than an unfinished game of *Tessera*. The shell board was worked with channels that let players redirect small pieces by opening narrow sluices, and she expected him to recognize strategies he had apparently practiced for years. He lost repeatedly, attempted to disguise his ignorance with jokes, and discovered that his mother was less interested in easy victories than in making him explain why he moved each piece. The game gave them a way to talk about choices without asking about his nightmares. Sometimes she would correct his placement and continue her own move; sometimes she would leave a mistake unchallenged long enough for him to discover it himself. He did not know whether she had always taught him this way. He knew he was beginning to enjoy the time.
+
+By the last days of the week, the thought of Annabeth had become the one anxiety he could neither practice nor organize away. He could not send a letter without knowing where she was, and he could not ask for information about a girl who was supposedly a stranger to him without inviting questions he was unprepared to answer. Perhaps she had woken at camp and already discovered that her family, too, had changed. Perhaps she had been forced to navigate these new memories alone, surrounded by people who loved a version of her neither of them remembered. He tried to think through the possibilities in the methodical way she would have preferred, but there were too many, and his fear would not let him assign any of them a reasonable weight. All he could do was reach the surface, find Camp Half-Blood, and hope that somewhere beyond those grounds Annabeth was still Annabeth.
 
 ---
 
@@ -219,111 +204,65 @@ His mind went back to the portrait in Poseidon's study.
 
 Amphitrite had seen him looking at it the previous morning. A dark-haired woman stood on a beach in an ordinary white shirt, wind pushing hair across her face. He'd known it was Sally even before finding the small inscription beneath the frame. She was younger than the woman he remembered, but her smile had been exactly right.
 
-"Can I ask you something about my mom?"
+“Can I ask you something about my mom?” Percy asked at last, though the words were scarcely louder than the movement of water among the anemones.
 
-Amphitrite put down the stylus. "Which one?"
+Amphitrite set down her stylus. She had been working through the packing list with the patient concentration of someone trying to keep a household moving while one of its members contrived to make leaving it an elaborate undertaking. At his question, her gaze moved from the scroll to him, and she did not immediately answer. Percy had the impression that she was deciding which memory he wanted to discuss, a distinction he had never had to make before. “Of course you can, darling. Are you asking about me or about Sally?”
 
-It was an ordinary question to her. Percy hadn't been prepared for it.
+It was an ordinary question for her, asked without injury or hesitation, and that made it harder for Percy to speak. In his first life there had been only one mother who belonged to the day-to-day fabric of his childhood. Sally had been the person who showed up when school called, who knew the names of teachers she disliked, who smiled when she was exhausted and made him dinner even on evenings when she should have asked him to make it. His love for her had never been something he needed to choose. The woman beside him knew a different child, one who had apparently called her mother for ten years. Percy looked at Amphitrite's hands, the ink drying on the side of one finger, and hated that he could recognize how much affection they held without remembering any of the years that had taught him to trust them.
 
-"Sally."
+“Sally,” he said. “I saw her picture in Dad's study yesterday, and I realized I don't know how much he's told me about her. Not really.”
 
-She nodded toward the empty space on the bench. He was already sitting there, but he moved closer. "What would you like to know?"
+Amphitrite drew the scroll aside and turned toward him. Beyond the edge of the bench, purple anemones opened and closed against the stone as the warm current travelled through the garden. She took her time arranging her answer. “Your father has spoken about her often, though perhaps not in the way a child would want. He remembers the things that impressed him. I imagine you would want to know what she was like when there wasn't a god in the room.”
 
-He nearly said, *Is she really dead?* The words pressed against his teeth. He'd seen her alive so recently that asking would sound less like curiosity and more like an accusation.
+Percy smiled before he could help it. “Yeah. That sounds right. The photograph makes her look as though she's about to tell somebody off for tracking mud into the house.”
 
-"I saw her picture in Dad's study," he said. "What was she like?"
+“She probably was.” Amphitrite's mouth softened. “He told me she once stood in the room with that dreadful shell throne, the one that took him a year to have made, and asked whether he had invited every creature in the Atlantic to decorate a different part of his palace. He was quite offended for several minutes, until he realized she'd been laughing at him.”
 
-Amphitrite considered that. "Very direct. She once told your father his palace looked as though every sea creature in the Atlantic had been allowed to decorate a different room."
+Percy laughed, the sound slipping out of him with such force that he had to lower his head. The story fitted Sally exactly. He could picture her standing in her ordinary white shirt before the monumental throne, unawed by the size of it and not afraid of being thought rude by a god. He remembered her turning down gifts that would have made their apartment feel less like theirs, and he remembered the pride with which she had spoken of the small things they had managed together. He could not say any of that. To Amphitrite, a twelve-year-old boy asking about a mother who had died when he was two was searching for an image he had never possessed. Percy had the image already, and the knowledge made his throat ache.
 
-"She wasn't wrong."
+“Did you ever meet her?” he asked, choosing a question that might belong to the boy Amphitrite knew.
 
-"She was standing in the room with the enormous shell throne. He had spent a year commissioning it."
+“No. I knew of her, and I knew what she meant to your father, but there was no occasion when our lives met. I sometimes wondered whether I would have liked her. I think I would have, although it is easy to admire somebody when you have never had to disagree with them about anything important.” Amphitrite folded her hands over the list. “Your father was different when he spoke about her. He could describe a dangerous current for an hour and never admit it had frightened him. With Sally, he would remember whether she had eaten lunch or slept through the night, as though those ordinary details had become his responsibility.”
 
-Percy laughed. He could picture Sally saying it. He could picture Poseidon's expression, too.
+Percy looked toward the garden where a line of pale shell marked the edge of the path. It was difficult to imagine Poseidon asking somebody whether she had eaten, yet he knew his father had tried in clumsy ways to care for Sally in the world he remembered. The god's tenderness could be genuine and still arrive too seldom. Clarisse and Silena, whose names he had heard but whose actual lives he was only beginning to understand, had likely learned that lesson from another direction. Percy wanted to ask everything at once, and the effort of deciding what he could reasonably ask became exhausting.
 
-"Did you know her well?"
+“Was it strange for you when Dad brought me here?” he asked. “I mean, there was this whole family and a child who wasn't yours, and everybody must have had an opinion about what was supposed to happen.”
 
-"Not personally. Your father spoke about her often, especially toward the end. She had a way of refusing to be impressed by a title. I think that was one of the things he liked about her."
+Amphitrite considered him, her expression losing the easy humor of the throne story. “It was strange for everyone, Percy. Your father made arrangements because he thought he knew what you would need. Some of them were sensible, and some assumed the rest of us would simply adjust ourselves around his decisions. I had to decide what place I was willing to take in your life, and I had to decide it for myself. I didn't want you to be a duty assigned to me by a king, however much I loved the king.”
 
-"Did she like you?"
+“And you decided to stay,” Percy said, hating that the simple fact felt like a discovery.
 
-"We never had the chance to find out."
+“I decided to raise you,” she answered. “Those were not quite the same decision. Staying would have meant sharing a palace with you. Raising you meant being the person who came when you were frightened and making you apologize when you were rude and learning which foods you refused to eat for no reason I could understand. It meant telling you no when your father would rather have given you whatever you asked for. It also meant making room for Sally's name, because she did not stop being your mother when I became one of the people responsible for you.”
 
-Percy looked at the anemones. He had expected a rivalry, or at least the sort of silence that meant he shouldn't bring Sally up again. He wasn't sure what to do with a woman who answered his questions without trying to make his birth mother smaller.
+Percy kept his eyes on the anemones. He knew the tenderness in her voice was meant for someone who remembered being cared for; he could not return that history to her. Still, the care itself was present now. He could accept it without letting the new life erase the one he had lost. “What happened to her?” he asked after a while, unable to postpone the question any longer.
 
-"Was it weird? When Dad brought me here?"
+“She was ill,” Amphitrite said, her voice quiet and unhurried. “Your father sought help as soon as he understood how serious it had become, but there were limits to what the healers could do. By the end Sally knew that she was dying. You were two years old when she died.”
 
-"For everyone," Amphitrite said. "There were decisions I had to make about your place in this family. Your father didn't make those decisions for me."
+The number settled into the space between them. Percy had known from the moment he woke that this world's childhood was not his remembered one, but knowledge held at a distance was easier to bear than the plain statement of what it required. Here Sally had never taken him to Yancy. She had never watched him come home from the first camp summer older and more frightened than a child should be. There had been no blue food on his birthdays, no late-night talks in a small apartment while the city moved outside the windows, no weary jokes shared across a kitchen counter. The world had continued without those moments, and the people who belonged to it had grieved a loss he could only imagine from the other side of a stolen decade.
 
-"And you stayed?"
+“Did she know she was dying?” he managed.
 
-"I did."
+“Near the end she did, yes. Your father was there, and he took you to her whenever the healers thought you could visit safely. He told me she made him promise something before she died: he was not to keep you hidden from the mortal world forever. She wanted you to know that part of your inheritance too.” Amphitrite glanced at the scroll bearing Camp Half-Blood's seal. “I think that promise is part of why he finally agreed to send you to camp, although I suspect he would tell you it was entirely his own decision.”
 
-He wanted to ask what she had felt when she'd first seen him. He didn't want an answer he would then have to pretend to remember. So he picked up the scroll again and looked at the unfinished list.
+Percy could have said that Sally would have liked a place where he could learn how to live among mortals and other demigods. He could have said she never wanted him to become smaller because his father was powerful. Instead he asked whether there were things of hers still in the palace. Amphitrite told him about photographs and letters, and a scarf that Poseidon might have put away with the other keepsakes. She did not ask why he wanted to see them now or imply that wanting them meant he had failed to love her enough. When he asked if they could look for the box together before he left, she agreed without making the offer seem generous.
 
-"What happened to her?" he asked.
+“You don't need permission to ask about Sally,” she said. “I may not have the answer you're looking for, but I won't be angry because you want to know her. And if the picture upset you, you can tell me that without having to make it into something smaller.”
 
-Her answer came without hesitation. "She was ill. Your father arranged for healers, but by the time he knew how serious it was, there was little they could do. You were two when she died."
+He picked at a loose thread in his sleeve. It would have been easy to tell her everything then: that Sally's death had happened only in this altered history, that he remembered her alive, that he was afraid every question would expose him as a stranger wearing a beloved child's face. The relief of confession beckoned him more strongly than it had in the morning. But Amphitrite had done nothing to deserve the weight of a secret he and Annabeth had not begun to understand. He could not know whether telling her would help her or only make her doubt the son she had spent years loving. “I'm upset about leaving too,” he said, giving her one of the truths he was able to offer. “I'll be older than Sally ever got to see me, and going up there makes it feel more real.”
 
-Two.
+“Yes,” Amphitrite replied. She did not pretend to know how to make that less painful. She only sat beside him until he could breathe comfortably again, while the garden current stirred the purple flowers and somebody in the passage beyond the arch called for a basket to be brought down to the kitchens.
 
-Percy knew that was how this world's history must work. Hearing the number from someone who had been there was different. The woman who had helped him survive elementary school, Yancy, Gabe, and the first terrifying months of camp had been gone for a decade here.
+After a while Amphitrite turned the packing list toward him. “Your father has suggested you take three ceremonial cloaks to camp. I have tried to explain that Chiron has no intention of receiving a delegation from Atlantis every time you come to dinner, but he seems unwilling to believe me.”
 
-He forced his breathing to stay even.
+Percy looked at the list, grateful for a problem that could be solved without rewriting a childhood. “Three cloaks? Are we planning to open a branch of the royal court in the dining pavilion? I was hoping to fit everything I own into a bag I can carry myself.”
 
-"Did she know?"
+“I told him that, though I used fewer theatrical expressions.” Her smile returned. “He says you might be invited to formal occasions.”
 
-"That she was dying? Near the end, yes."
+“By Chiron? I've seen him teach children how to hold a sword. I'm pretty sure he'd prefer I showed up in clean clothes and didn't knock over the table.”
 
-"Did she get to say goodbye?"
+“Then perhaps you should be the person who explains it to your father. He tells me he takes your arguments seriously, although he usually says it after you've left the room.”
 
-Amphitrite glanced at him, more attentive now. "Your father was with her. He brought you to see her as often as the healers thought safe. Sally made him promise not to hide you from the mortal world forever."
-
-Percy looked at the Camp Half-Blood seal on the scroll. Perhaps that promise explained more than his parents had told him.
-
-"Does he still have things of hers?"
-
-"Some photographs. A box of letters. I believe there's a scarf she used to wear, though your father may have moved it."
-
-"Could I see them sometime?"
-
-"Of course. You never need my permission to ask about Sally."
-
-The simple answer nearly undid him. He was twelve here. He was supposed to be a boy asking questions about a mother he'd barely known, not someone who could recall her hands and her voice and the smell of her kitchen better than he could remember the room where he'd woken that morning.
-
-Amphitrite closed one of the scrolls.
-
-"Did the picture upset you?" she asked.
-
-Percy picked at a loose thread on his sleeve. "A little."
-
-"Because you're leaving?"
-
-He could use that. "I guess. I'll be older than she ever got to see me."
-
-"Yes," Amphitrite said.
-
-She didn't try to make it better. After a moment she turned the half-written packing list toward him.
-
-"Your father suggested you should bring three ceremonial cloaks."
-
-"Three?"
-
-"He claims you'll need them for official occasions."
-
-"At camp?"
-
-"I said the same thing."
-
-"What did he say?"
-
-"That Chiron might invite you to dinner."
-
-Percy looked down at the list. "I'm going to be the only kid there whose luggage needs its own chariot."
-
-"Not if I have anything to say about it."
-
-He leaned over the scroll and crossed out *ceremonial cloaks*. Amphitrite took the stylus away before he could cross out *spare sandals*, which apparently was not negotiable.
+Percy took the stylus and drew a line through the ceremonial cloaks, and Amphitrite let him have the victory before rescuing the spare sandals from the same fate. They bent together over the scroll, negotiating the weight of the luggage and the practical inconveniences of the surface world. The subject changed, but the conversation about Sally did not vanish. It remained beneath the ordinary business of packing, something neither of them had to force into a declaration before the morning could continue.
 
 They spent the next twenty minutes arguing over what counted as essential. Percy managed to eliminate two belts, a decorative sword, and something called a formal sea mantle. Amphitrite insisted on a dry change of clothes and a written address for Chiron, even though Percy pointed out that a satyr would be escorting him.
 
@@ -331,7 +270,7 @@ When she started writing again, Percy watched her hand. It was an ordinary hand,
 
 He had lied by omission through most of the conversation. He knew he would keep doing it. He didn't enjoy that, but he could not risk telling her that the twelve years she remembered raising him were missing from his mind.
 
-"Amphitrite?" he said.
+"Mom?" he said.
 
 "Hm?"
 
@@ -347,55 +286,35 @@ Percy took the scroll and left before she could add anything to it.
 
 ---
 
-On their fourth afternoon of *Tessera*, Percy discovered that the game was an efficient way to expose everything he didn't know about being the son Amphitrite remembered.
+On their fourth afternoon of *Tessera*, Percy lost two coral pieces in the same whirlpool he had blundered into the day before. The circular shell board contained nine channels, and the little gates along its rim made water behave like an opponent with ideas of its own. He could feel every current, yet he still didn't understand the rules Amphitrite had been teaching him.
 
-The board was a circle of polished shell, crossed by nine narrow channels. Water ran through them in small, controlled currents. Coral pieces moved when players opened the sluices along the rim. Percy had assumed the object was to reach the opposite bank.
+"Ambitious," she said, retrieving his last piece from the catch basin.
 
-His latest piece drifted into a painted whirlpool and disappeared.
+"That was sabotage by the board."
 
-Amphitrite looked up from her side of the table. "That was ambitious."
+"If you'd like to file a complaint, I can arrange for it to be heard at court."
 
-"That was sabotage."
+"Do the judges usually side with furniture?"
 
-"By whom?"
+"Only when the furniture has a better argument." She laid the piece in his palm instead of placing it for him. "Try again. Tell me what the gate does before you open it."
 
-"The board."
+Percy inspected the channel he had missed. "It takes the water around the outside. Unless you close that other one."
 
-"Shall I summon it to explain itself?"
+"Good. Now look at mine."
 
-"Only if I'm allowed to question it."
+He followed the blue pieces to the far edge of the board and realized why she hadn't bothered defending the center. "You were waiting for me to rush you."
 
-She retrieved his piece from the shallow pool under the board. Percy saw the move he'd missed a second too late. A gate on the far side had been open from the start. When he touched the nearest one, it had redirected his own current against him.
+"Since breakfast, more or less."
 
-He was supposed to know this game. He knew that because a servant had greeted them by asking whether the prince planned to take his revenge for last year's tournament. Percy had laughed, said something vague about revenge being a family tradition, and waited for the servant to leave.
+An attendant arrived with tea. He greeted Percy with a cheerful question about whether the prince was planning to avenge his defeat in last year's tournament. Percy laughed and made a joke about taking the matter to the judges. Only after the attendant had gone did he realize that a real boy had played in a tournament he couldn't remember. Amphitrite hadn't caught his hesitation. To her, he was simply losing again.
 
-Amphitrite assumed he was rusty. Percy had encouraged the assumption.
+"You used to accuse Triton of cheating," she said, opening another sluice. "You were occasionally right."
 
-"You used to accuse Triton of cheating whenever he beat you," she said.
+"That sounds like him."
 
-"Sounds like me."
+"It sounds like both of you. He's merely better at denying it."
 
-"It was mostly because he cheated."
-
-"Also sounds like him."
-
-"Try the left sluice."
-
-"Isn't telling me what to do cheating?"
-
-"I'm trying to prevent you from losing before the tea arrives."
-
-"Maybe I'm lulling you into a false sense of security."
-
-"Your strategy is working beautifully."
-
-He opened the left gate and brought two red pieces into the center. Amphitrite waited until he'd finished congratulating himself before moving one blue piece to block them both.
-
-Percy stared at the board.
-
-"Do you do that to everybody?"
-
-"Only opponents who announce their plans."
+Percy took his time with the next move, watching the channels rather than the pieces. He forced Amphitrite to shift her blue line and managed, briefly, to claim the center. She let him enjoy it before redirecting his current against him.
 
 He sat back. Annabeth would have enjoyed this. She would have spent the first ten minutes learning how the channels interacted, then quietly dismantled anyone who treated the board like an ordinary strategy game. Percy imagined her leaning across the table, hair falling out of its ponytail, telling him he was opening the wrong gate. He could almost hear the impatience.
 
@@ -561,21 +480,37 @@ They set the board between them again. Amphitrite opened the first sluice withou
 
 ---
 
-On his last evening in Atlantis, Percy walked the palace corridors alone. The bioluminescence was brighter tonight, some kind of festival, or seasonal change, or just the ocean's capricious mood. The light drifted past him in ribbons of blue and green, painting the walls in shifting color.
+On his last evening in Atlantis, Percy left the packing half-finished and walked through the palace without telling anyone where he was going. He had been studying its passages for days now, following routes that his body seemed to know while his memory remained stubbornly empty. Tonight he tried to take the unfamiliar turns deliberately. The upper galleries were calmer after the household had eaten, and the stronger work currents had been reduced in the corridors where children and attendants moved most often. Pale blue lights shone from niches cut into the stone. Farther away, in the gardens, living anemones gave off a gentler glow, their colors changing as they folded and opened with the water. The palace was less silent than it looked. Percy heard metal struck somewhere in a repair workshop, the passage of a slow freight net beyond an outer arch, and the distant call of guards changing watch. It was a city under water, a place sustained not only by gods and ancient magic but by people who had to mend broken things before morning.
 
-He could imagine missing this. That was the strange, painful truth of it: the palace's quiet had begun to settle around him, and people here treated him as someone who belonged. In his original life, camp had been home, and he'd fought and bled and nearly died for it. But this version of him, this version of Percy who had grown up here, who had never known the surface world or mortal life or the grinding, beautiful chaos of being a demigod, had a claim on this place too.
+He followed the galleries past a small fountain where a carved dolphin poured water into water, an extravagance whose uselessness might have amused Sally. Beyond it, the corridor widened to reveal a balcony opening toward the reef. Workers had tied a net across part of the passage while repairs were under way; its edges were marked with pieces of white shell so that even in dim light nobody would swim through the unfinished stonework. Percy stopped to study a repair note left beside the net. He could recognize a few characters, enough to understand that it named a damaged fastening, but the sentence as a whole resisted him. Somewhere in this palace an older version of the boy he had become had learned to read these signs. Somewhere there were lessons, arguments, stories and small childhood triumphs that everyone expected him to remember. He felt their absence more sharply than he had in the first days, because the people who had supplied those memories with such kindness had begun to matter to him.
 
-A pair of smaller children, maybe six, maybe seven, swam past him, chasing each other through the corridors. They were the children of minor sea spirits, and they seemed to expect him to join a game whose rules he did not know. They looked at him with the particular shyness of kids who had heard he was leaving and didn't know how to feel about it.
+The promise of camp ought to have been uncomplicated. It meant Grover, who would be waiting at the port without any knowledge of the friendship Percy remembered; it meant the cabins and the lake, the sword arena and the smell of strawberries, and somewhere among those things it might mean Annabeth. The hope of finding her was strong enough to make him feel disloyal to the people he would leave beneath the sea. He had arrived here terrified of being kept from the life he knew, and now he could imagine missing the sound of Amphitrite's voice in the morning, the sea garden where she wrote her lists, even Poseidon's habit of leaving a cup of tea forgotten beside a stack of petitions. None of that made the old life less real. The two kinds of longing occupied him together, neither willing to yield.
 
-"Are you really going?" one of them asked.
+Rhode and Benthesikyme found him beside the balcony, moving through the passage in pursuit of one another until the sight of his travel clothes brought their game to an awkward stop. He knew their names, and he knew they lived in Atlantis as his sisters. Everything else that ought to have made the meeting effortless lay behind the veil over his altered childhood. He had spent the week trying to listen carefully when they talked, afraid that a careless question would reveal he had no memory of the games they mentioned or the places they expected him to know. Their hesitation now seemed to carry a similar uncertainty. They knew he was leaving and had not decided whether to be annoyed, frightened, or proud of it.
 
-"Yeah. Tomorrow."
+Rhode approached first, glancing at the passage behind him as though the answer might be waiting there. “Are you really going tomorrow, or is Dad going to find one more reason you have to stay? He said the weather above the port might be bad, but he looked as though he was hoping it would be.”
 
-"Will you come back?"
+“I'm really going,” Percy said, keeping his voice as gentle as he could. “Grover's meeting me, and Chiron knows when I'm supposed to arrive. Dad's been worried enough to write instructions for everybody, but I think even he knows I'll find something to complain about if we spend another week deciding which cloak I need.”
 
-Percy smiled. "I promise."
+Benthesikyme came closer, her expression more serious than her sister's. “Are you coming back? Not just because you have things here, but because you want to?”
 
-They raced off, and he watched them go, and something in his chest ached in a way that had nothing to do with missing Sally and everything to do with the strangeness of loving a place that he'd discovered he'd lose.
+The question struck a place Percy had been carefully avoiding. In his remembered life Atlantis had been a kingdom he visited when the gods allowed it and a family he had never been sure how to approach. These girls stood in front of him with a claim that went deeper than ceremony, and he had no right to pretend that missing memories meant their love was imaginary. He had promised many people that he would return from danger. Some of those promises had been broken by circumstance, others by his own choices. He did not want to turn an ordinary departure into a declaration he could not control. “I want to come back,” he answered. “Camp is somewhere I need to go, and there are people I want to meet there. But I don't want that to mean I stop being your brother. I'll write if I can, and when I'm able to come home, I will.”
+
+Rhode studied him as though she had expected a quicker answer. “You make it sound like a council meeting. I just wanted to know whether you'd come back and let us show you the gardens after they've changed.”
+
+Percy laughed softly, recognizing the complaint. He had sounded too careful, too conscious of every word that might betray him. “Then yes. I want to see the gardens. And I'm counting on you to tell me everything I've missed, including all the things nobody wants to write in a letter because they sound silly.”
+
+“We can do that,” Benthesikyme said, and some of the worry left her face. “You have to tell us about the surface too. Not just the things Dad asks you to put in the reports.”
+
+“I'll tell you about the food, and the things people say when they're tired of practicing, and whatever trouble I get into that I'm allowed to admit.” He considered the women and men moving through the illuminated corridors behind them. “I can't promise it'll all be interesting. A lot of the surface is people doing ordinary things.”
+
+Rhode smiled. “Ordinary things are usually the parts you forget to tell us.”
+
+For a while they remained together by the balcony, speaking of the way the garden lights would change with the season and the many opinions the palace seemed to have about what Percy ought to pack. He did not invent stories of the childhood he could not remember, and his sisters did not ask him to prove affection by recalling every shared experience. They were three people standing in a place that belonged to them in different ways, learning the shape of a departure. When they finally raced back toward the residential halls, their voices carried along the stone passage and dissolved into the low sound of the moving sea. Percy watched them go until he could no longer distinguish one voice from the other.
+
+He stayed at the balcony a little longer. Tomorrow he would leave this light for the colder, stranger brightness of the surface, and somewhere beyond the shore might be the girl who remembered the same lost years. Tonight the palace still surrounded him with its repairs, its gardens, and the quiet work of people preparing for morning. He placed a hand against the stone and admitted to himself that he would miss it. It was an incomplete affection, made without the memories that should have accompanied it, but it was not an unreal one.
+
+
 
 Later, unable to sleep, Percy sat on the balcony of his chambers watching small luminous creatures pass through the water. Triton found him there.
 
@@ -657,13 +592,7 @@ Poseidon hesitated. "I have to be at court. The Olympians are... restless. Somet
 
 Percy nodded. He didn't tell his father that he could feel it too, this thread of connection that ran from his chest to the ocean, humming with awareness. The air above carried moisture, and Percy wondered how much of his old control would return once he tried. He wasn't eager to test that in front of his parents.
 
-The chariot rose through the last stretch of clear water. A dark line divided the sea from the sky.
-
-"Close your eyes briefly," Amphitrite said. "Let your eyes adjust."
-
-Percy closed them. The light shifted from blinding to merely bright, and when he opened them again, he could see.
-
-The sky was blue and streaked with fast-moving cloud. Wind slapped wet hair across his forehead. He had missed it, though that was not something he could say aloud.
+The chariot rose through the last stretch of clear water, the dark line between sea and sky drawing nearer. “Close your eyes briefly,” Amphitrite said. “Let them adjust.” Percy did, waiting as the light shifted from blinding to merely bright. When he opened them, the sky was blue and streaked with fast-moving cloud; wind slapped wet hair across his forehead. He had missed it, though that was not something he could say aloud.
 
 "It's beautiful," he said, and meant it.
 
@@ -689,39 +618,29 @@ Then Percy walked up the beach toward the tree line, and the forest swallowed hi
 
 ---
 
-The satyr was waiting at the base of Half-Blood Hill.
+A satyr was waiting at the base of Half-Blood Hill, pacing a groove into the sandy path. He had pulled a faded hoodie over his curls and was checking the bend toward the beach with the anxious attention of someone responsible for collecting a late delivery.
 
-Percy saw him before Grover saw him, a slight figure in a faded hoodie and baggy trousers, his curly hair sticking out in every direction. He was pacing nervously, muttering to himself, and the sight of him hit Percy like a physical blow.
+Grover. Percy recognized his best friend before the satyr turned around. He wanted to call out something ridiculous, something from an old argument about Mythomagic or enchiladas, and watch Grover's face light up. But this Grover hadn't heard any of those arguments.
 
-Grover. His Grover. His best friend.
+"Percy Jackson?" Grover came forward, relief overtaking his nerves. "I'm Grover Underwood. Your father arranged for me to bring you in. Sorry, I thought the tide might have delayed you."
 
-Except this Grover was younger than the one Percy remembered, too. And he was looking for a stranger.
+"Good to meet you." Percy made himself take the offered hand. He hadn't realized until now how much it would hurt to introduce himself.
 
-"Uh, excuse me?" Grover said as Percy approached. "Are you, are you Percy?"
+Grover glanced at Percy's bare feet, then at the path. "Have you been on land before? I mean, they said you'd lived underwater, so I wasn't sure whether stairs were going to be a problem."
 
-Percy's throat was too tight. He nodded.
+"I can manage stairs."
 
-"Oh! Oh, good. I was worried I'd, I mean, you're right on time, that's, hi." Grover stuck out his hand, then thought better of it and withdrew it, fidgeting. "I'm Grover Underwood. Your dad asked me to escort you to camp. Are you, is this your first time on land?"
+"Good. I had a whole speech prepared about walking uphill, but it wasn't very inspiring." Grover gave a nervous laugh and started toward the pines.
 
-"Yeah," Percy said, and the lie tasted strange. "First time."
+Percy matched his pace. The satyr kept checking the trees and adjusting his route around exposed roots; whatever Grover had or hadn't experienced in this version of history, he took the responsibility of getting a new camper safely across the boundary seriously. Percy watched him and tried not to mistake competence for familiarity.
 
-Grover's expression softened with immediate sympathy. "It's a lot, right? Don't worry, I felt the same way my first time. Well, not the same way, exactly, I mean I grew up in New York, but, anyway. Come on. It's not far."
+"You going to miss Atlantis?" Grover asked after a while.
 
-They walked together up the hill. Percy had made this journey before, in his original timeline, Grover had been the first friend he'd made, the one who'd protected him from monsters, who'd believed in him when no one else did. The dynamic was backward now: Grover was the guide, the protector, the one who knew the way.
+Percy thought of the shell board, the crab defending Amphitrite's writing table, the way Poseidon had held him long enough to embarrass himself. Then he thought of Sally's kitchen, where a person could burn cookies and call that a good day.
 
-It was disorienting. Percy kept wanting to fall into step beside his best friend and make jokes about Mythomagic and complain about his ADHD, but this Grover didn't know him. This Grover was being careful and polite and slightly awkward, the way you were with someone you'd only met.
+"Parts of it already," he said.
 
-"So," Grover said, glancing sideways at him. "Your dad said you grew up in Atlantis? That must be... different."
-
-"It is."
-
-"Do you miss it? The ocean?"
-
-Percy thought about the blue-black depths, the coral halls, the drag of water against his skin. He thought about Poseidon's hand on his shoulder and Amphitrite's hug and the way the palace looked in the morning light.
-
-He thought about Sally's apartment. The smell of blue cookies. The small kitchen table where they'd eaten breakfast together, only the two of them, before the world went to hell.
-
-"Yeah," he said quietly. "I miss it."
+Grover didn't demand an explanation. He pointed out a loose stretch of path instead, and they climbed the last few yards together.
 
 They reached the crest of Half-Blood Hill, and the camp spread out below them.
 
@@ -729,7 +648,7 @@ Percy had seen the camp before. He'd seen it in its original configuration, the 
 
 "What's that?" he asked, pointing.
 
-Grover followed his gaze. "Oh! That's the Hall of the Gods. They built it a few years ago, it's for divine visitations. Lord Zeus comes sometimes. It's, well, it's mostly for the big three kids. There's not many of them, you know. You're the first new Poseidon camper in a while. Your sisters are already here."
+Grover followed his gaze. "Oh! That's the Hall of the Gods. They built it a few years ago, it's for divine visitations. Lord Zeus comes sometimes. It's, well, it's mostly for the big three kids. There's not many of them, you know. You're the first new Poseidon camper in a while. Clarisse and Silena are already here."
 
 The big three. Percy's stomach flipped. If the Hall of the Gods was for the big three, and this timeline had rearranged the cabins ...
 
@@ -797,151 +716,117 @@ Grover changed course toward the Athena cabin, and Percy's heart hammered. Every
 
 ---
 
-The Athena cabin was a low, gray building with owl carvings above the door. Grover knocked, and then thought better of it, because the door opened before his knuckles connected.
+The Athena cabin was smaller than Percy remembered. Its owl carvings were familiar, but the worktables visible through the open doorway were crowded with maps and half-built models. There was no reason Annabeth Grace would live here. There was every reason she would borrow its library.
 
-A girl stood in the doorway.
+Grover raised a hand to knock just as the door opened.
 
-Percy's breath stopped.
+A blonde girl stood there with a roll of tracing paper under one arm and graphite on two fingers. She wore camp beads above the collar of an orange shirt, and her gray eyes were narrowed at Grover as if he had interrupted a complicated calculation.
 
-She was small. Twelve years old, just like him, with storm-gray eyes and blonde hair pulled back in a practical ponytail. She was wearing camp beads and an orange t-shirt, and she was glaring at Grover with an expression of profound irritation.
+"Is there a reason you're blocking the light?" she asked.
 
-"What," she said flatly.
+"Hi, Annabeth. This is Percy Jackson, our new Poseidon camper. I thought you might—"
 
-"Hi, Annabeth," Grover said nervously. "This is Percy. He's new. He's a Poseidon kid. I thought maybe you could show him around..."
+"Grover, I need to get these plans back before dinner."
 
-"I'm busy," Annabeth said, and started to pull the door shut.
+"Annabeth," Percy said.
 
-"Annabeth."
+He hadn't meant to interrupt. Her name simply came out in the tone he had used for years when he knew she would understand him before he finished speaking.
 
-Percy's voice. Raw and desperate and not twelve years old at all.
+She looked at him properly. The roll of paper slipped against her hip, and she caught it without glancing down.
 
-The door stopped. Annabeth's head turned. Her gray eyes met his.
+"Percy," she repeated. Her voice was uncertain, but she hadn't asked for his name again. "That's a sea name."
 
-And something happened, a flicker, a spark, something that passed between them like an electric current. Her expression shifted from irritation to confusion to something achingly close to recognition. Percy wanted to trust it, but he didn't yet know whether she remembered their life together.
+"Yeah. I guess it is."
 
-The way she was looking at him, like she was searching for something in his face, like she'd been waiting for someone who looked exactly like him, made his breath catch.
+Grover shifted his weight, unhappy about leaving a new camper without his escort. Percy was grateful for that; this satyr wasn't a prop waiting to disappear so the scene could become private. "Could I have a minute with her?" Percy asked. "I won't go anywhere. You can find Chiron and come back."
 
-"Percy," she repeated, testing the name. "That's... that's a sea name."
+Annabeth considered him for a long moment before setting her drawings inside the cabin. "I'll be at the path," she told Grover. "Not far."
 
-"Yeah," he said. "Yeah, it is."
+"Okay. But we still have to check in." Grover pointed two fingers toward the Big House, and Percy nodded until he was satisfied.
 
-They stared at each other. Grover looked between them, clearly baffled. The air around them felt charged, pressurized, like the moment before a storm.
+They walked to the side of the cabin where an unfinished stone bench stood beneath the owls. Percy wanted to take Annabeth's hand, but he had no idea whether her memories matched his. All he knew was that he couldn't survive hearing her introduce herself as though he were nobody.
 
-"Can I talk to you?" Percy asked. "Alone?"
+"You know me," she said, low enough not to reach the doorway.
 
-Annabeth hesitated. Then, slowly, she nodded.
+"I do. The last thing I remember is us trying to choose an apartment near New Rome University. You said my budget made no sense, which was rude because it was your budget too."
 
-She stepped out of the cabin and closed the door behind her. Grover looked like he wanted to protest, but Percy's expression must have been enough to silence him, because the satyr simply backed away, muttering something about finding Chiron.
+Annabeth's expression changed. Her eyes went to his hands, then back to his face. "You wanted the kitchen with the ridiculous oven."
 
-The two of them stood outside the Athena cabin, neither sure whether the other remembered. Percy couldn't make himself look away.
+"Exactly. And I still think it would have worked."
 
-"You know me," Annabeth said. It wasn't a question.
+She sat heavily on the end of the bench. For a moment Percy thought he had said something wrong. Then she gripped the tracing paper so hard that the edge bent.
 
-"Yes," Percy said. "I know you."
+"Tartarus," she said. "The Giant War. The three recommendation letters. You remember those?"
 
-"How?"
+"All of them. I remember you before this. Annabeth Chase, Athena's daughter. I remember us."
 
-"Because I've known you for years. Because we survived Tartarus together. Because we were going to go to New Rome University together. Because I went to sleep next to you on the last night I remember and you were seventeen years old and the daughter of Athena and I was trying to get three recommendation letters from the gods so I could go to college."
+"Good." She swallowed. "Because I woke up here, in Cabin One, and Thalia has been telling me stories about a childhood I don't remember. She knows how I take my tea, how I sleep when I'm sick, which subjects I used to hate. And I remember a different life. I tried writing both versions out, but the pages started contradicting each other before I finished."
 
-Annabeth's face went white. The color drained from her cheeks like water from a cracked glass, and for one held breath Percy thought she might faint.
+Percy crouched in front of her so they could talk without raising their voices. "I woke up in Atlantis. My mom says she's raised me since I was two. She told me Sally died when I was little. I remember Sally taking me to school. I'm trying not to let anybody see how much I don't know."
 
-"You..." she whispered. "You remember too."
+Annabeth looked across the green, making sure Grover was out of earshot. "Does she know?"
 
-"Remember what?"
+"No. She thinks I'm nervous about camp. I need her to keep thinking that."
 
-"Everything. The wars. The prophecies. Oh, my gods." Her hand flew to her mouth. "You're real. You're actually real. I thought I was, I thought maybe I'd lost my mind."
+"Then we agree on one thing: we don't tell anyone before we've worked out what we're actually telling them." Annabeth straightened the bent paper on her knee. It was such an ordinary, irritated movement that Percy almost laughed. "We can't afford to confuse what we remember with what people say happened here."
 
-"You haven't," Percy said. "I promise. I remember all of it. I remember you."
+"And we don't know who did this," Percy added.
 
-Annabeth's eyes filled with tears. She blinked them back fiercely, the way she always did, the way she had in Tartarus, in the war, in every moment when vulnerability was a luxury she couldn't afford.
+"Or why. That's the part that scares me." She looked at him. "I thought I'd imagined you. I could remember the texture of that stupid apartment brochure, but nobody here had ever heard of you until your name turned up on the camp arrival list."
 
-"I woke up in Cabin One," she said rapidly. "In this body. With this name. And everyone keeps telling me I'm a daughter of Zeus. I have a sister I don't remember. A father who... Percy, I don't remember any of it. I don't remember being her. But I remember being *me*. Not this childhood. Not this family."
+He held out his hand, palm up, rather than reaching for her. Annabeth placed her fingers in his for a moment, a familiar gesture newly complicated by their smaller bodies and the people who could be watching. She held on until she was ready to let go.
 
-"I know," Percy said quietly. "I know. I woke up in Atlantis. I have parents here, Poseidon and Amphitrite, and I remember Sally. I remember growing up with Sally. I remember being with you. I remember *us*. And now we're here and everything's different."
+"We can sort out the facts tomorrow," she said. "Right now, I'm trying to believe you're standing here."
 
-Annabeth wiped her eyes with the back of her hand. "How did this happen?"
+"I'm not leaving camp without telling you."
 
-"I don't know."
+"That's not the same as never leaving," she said. "Don't make promises because you're frightened."
 
-"Who did this?"
+Percy gave her a crooked smile. "You've been back in my life five minutes and you're already correcting me."
 
-"I don't know."
-
-"Are there others? Do you think anyone else..."
-
-"I don't know." Percy ran a hand through his hair. "I don't know enough to promise answers. I know you're here. That's something."
-
-Annabeth nodded shakily. Then, with a deliberateness that told him she was holding herself together by force of will, she straightened her spine and squared her shoulders. The gesture was so quintessentially Annabeth, the daughter of wisdom who had commanded armies and faced down gods and never, ever backed down, that Percy's chest ached.
-
-"Okay," she said. "Okay. We need to be careful. If anyone finds out..."
-
-"We should decide who needs to know."
-
-"Percy, my sister is *very* observant. And she's already noticed that I've been acting strange."
-
-"Thalia?"
-
-"Yes. She's, look, it's complicated. In this timeline, she raised me. She's not my friend; she's my *sister*, and she has all these memories of our childhood together that I don't have. She keeps mentioning things I'm supposed to remember and I can't, I can't pretend anymore. It's exhausting. And now you show up and you know me, you *actually* know me, and I..."
-
-She broke off. Percy wanted to reach for her, to pull her into his arms, but they were standing outside the Athena cabin and anyone could see and they couldn't afford to explain this yet.
-
-"I'm not leaving," he said. "Not now that I've found you."
-
-Annabeth let out a shaky laugh. "I missed you too. Gods, Percy."
-
-"I missed you too."
-
-They stood there for half a breath, looking at each other, and the weight of everything they'd lost and everything they still had pressed down on them like the ocean itself.
+"Somebody has to."
 
 Then a voice rang out across the camp.
 
 "Annabeth!"
 
-Percy turned. A girl was striding toward them from the direction of the dining pavilion, tall for sixteen, with wild black hair and electric blue eyes and an expression of fierce protectiveness that Percy recognized instantly.
+Percy turned to see Thalia Grace coming across the green from the dining pavilion. She was taller than he remembered her at sixteen, with untidy black hair, boots worn hard at the heels, and a folded training schedule in one hand. He knew her as the friend who had once become a pine tree and later joined the Hunters. This girl had stayed at camp and spent years looking after Annabeth.
 
-Thalia.
+"Annabeth." Thalia slowed when she saw Percy. Her eyes moved from his face to the plans in her sister's arm. "I've been looking for you. Your lunch is still sitting where I left it."
 
-In his remembered life, Thalia had been turned into a tree at twelve, returned at fifteen, and joined the Hunters. She'd been a friend, an ally, a sister-in-arms. She'd never been Annabeth's guardian. She'd never raised her.
+"I was working."
 
-But in this timeline, Thalia had stayed. She'd grown up at camp. She'd become Annabeth's sister in truth.
+"I can see that." Thalia unfolded the schedule, apparently decided the matter could wait, and tucked it away. "Who's with you?"
 
-And she was looking at Percy like he was a threat.
+"Percy Jackson," Annabeth said. "Grover brought him here. He's the new Poseidon camper."
 
-"Annabeth," Thalia repeated, reaching them. Her eyes swept over Percy with unmistakable suspicion. "Who's this?"
+"I heard." Thalia glanced at Percy, who offered his hand. She didn't take it. "I asked why you're talking out here when you were supposed to be finishing your plans."
 
-"This is Percy," Annabeth said, and her voice was carefully neutral. "He's new. Poseidon's son."
+"Because I wanted to." Annabeth met her gaze without lowering her voice. "I can finish later."
 
-Thalia's eyes narrowed. "I know who he is. I asked who he is to *you*."
+For a second Percy expected the sort of fight he had seen Annabeth win a hundred times. Instead Thalia stepped closer, freed a strand of blonde hair caught beneath the strap of Annabeth's necklace, and let her hand fall. It was an absent, practiced adjustment. Annabeth stood unnaturally still under it.
 
-Percy felt Annabeth stiffening beside him. Thalia's tone was protective, bordering on hostile, and the dynamic was so different from anything in his original timeline that it took him a moment to adjust.
+"Fine," Thalia said. "But eat before tomorrow's training. You got dizzy yesterday."
 
-"I'm Percy," he said, holding out his hand. "Grover brought me by."
+"I know what happened yesterday."
 
-Thalia ignored his hand. She was still looking at Annabeth, searching her sister's face with an intensity that spoke of years of practiced observation, the kind of attention that came from someone who'd spent a childhood learning to read moods and predict reactions and keep a smaller, more vulnerable person safe.
+"Then don't make me repeat myself." Thalia's tone was sharper than it needed to be, and she seemed to hear that herself. "Dinner's in an hour."
 
-"Dinner's in an hour," Thalia said. Then she reached over and freed a loose strand of Annabeth's hair from the strap of her camp necklace. The gesture was quick and practiced. Annabeth went still before she could hide it. Thalia noticed that too.
+She gave Percy another look, not welcoming but less dismissive. "Chiron's expecting you. Don't make Grover chase you across camp."
 
-"You skipped lunch," Thalia said.
+"I won't."
 
-"I had work."
+Thalia left. Annabeth watched her go, jaw set.
 
-"You always have work. Eat something before training tomorrow."
+"She notices everything," Annabeth said. "Every time I hesitate over something we supposedly did together, she takes it personally."
 
-"Thalia, I know how to eat lunch."
+"She remembers doing it," Percy said. He could still see the way Thalia had moved her sister's hair without thinking. "I can understand why she'd be afraid."
 
-"I wasn't convinced." Thalia gave Percy a short, assessing look. "See you at dinner."
+"Understanding doesn't make it easier when she tells me what I'm supposed to feel." Annabeth pressed the bent plans flat against her chest. "She isn't trying to be cruel. I wish I could remember enough to prove that to her."
 
-She walked away without waiting for a reply.
+"We don't have to decide what to tell her today," Percy said. "But you should get to decide it, not me."
 
-Percy watched her go. Beside him, Annabeth let out a breath.
-
-"She's going to be a problem," Annabeth murmured.
-
-"I know," Percy said, looking away.
-
-"She doesn't trust you yet. I don't think she trusts sudden changes."
-
-"You said she raised you," Percy said. "I'd probably be suspicious too."
+Annabeth nodded, once. It wasn't forgiveness for Thalia or agreement with Percy so much as a decision to keep the afternoon from becoming another argument.
 
 Percy looked at her. The daughter of Zeus. The sister of Thalia Grace. The girl who should have been Athena's daughter, who should have run away from home at seven and met Percy for the first time at twelve and fallen in love with him over years of shared danger and ordinary moments.
 
@@ -959,15 +844,11 @@ But he was more terrified of not having this moment. Of not having her.
 
 "What about Thalia? Your sister?"
 
-"She's..." Annabeth's expression flickered. "She's wonderful. And she loves me. And I don't, I can't..."
+“She's wonderful, and she loves me. But I can't love her the way she needs me to.” Annabeth rushed the words, as if she'd been holding them back. “She's been my sister for twelve years; she raised me, taught me to fight, and shares a cabin with me. She knows when I'm having a nightmare before I wake up. And I don't remember any of it. I remember her as someone I met later, someone I befriended, but this Thalia is—”
 
-"She what?"
+“Your sister,” Percy finished quietly.
 
-"I can't love her the way she needs me to." The words came out in a rush, like she'd been holding them back for too long. "Percy, she's been my sister for twelve years. She raised me. She taught me to fight. She sleeps in the same cabin as me and knows when I'm having a nightmare before I wake up. And I don't remember any of it. I remember her as someone I met later, someone I befriended, but this Thalia, this version, she's..."
-
-"She's your sister," Percy finished quietly.
-
-"She's a stranger who knows me better than I know myself." Annabeth's voice cracked. "How am I supposed to, how does any of this work?"
+“She's a stranger who knows me better than I know myself,” Annabeth said, her voice cracking. “How am I supposed to make any of this work?”
 
 Percy reached out and took her hand. He did it without thinking, the way he'd done a thousand times in another life, and the contact sent a jolt through them both, not electricity, but something simpler and more profound. Recognition.
 
@@ -989,23 +870,15 @@ They walked together toward the dining pavilion, side by side, and for the first
 
 ---
 
-Grover found Percy by the path a little later, as Annabeth made her way to dinner ahead of them. He had a question written all over his face.
+Grover found Percy by the path a little later, as Annabeth made her way to dinner. He had a question written all over his face.
 
-"Can I ask you something?" Grover said suddenly.
+“Can I ask you something? When you saw Annabeth, you looked like you already knew her—like you'd been waiting for her, or had found something you'd lost. But you said you just got here. Am I missing something?”
 
-"Sure."
+Percy's heart kicked. Grover sounded puzzled, not suspicious. Not yet. “Sometimes you meet someone and there's just a kind of recognition, like something clicks. That's all.”
 
-"The way you looked at her, at Annabeth, it was like you already knew her. But you said you just got here." Grover's expression was puzzled, not suspicious. Not yet. "Is there something I'm missing?"
+“Maybe.” Grover let it go, though he didn't sound convinced. “You're kind of weird, Percy. Not in a bad way; just different from anyone I've met.”
 
-Percy's heart rate spiked. "What do you mean?"
-
-"Like, when you saw her, you didn't just react. You, I don't know how to describe it. You looked like you'd been waiting for her. Or like you'd found something you'd lost."
-
-Percy was careful. "Sometimes you meet someone and there's just a... recognition. Like, something clicks. That's all."
-
-"Yeah, maybe." Grover didn't sound convinced, but he let it go. "It's just weird. You're kind of weird, Percy. I'm not saying that's bad. You're just, different. From anyone I've met."
-
-Percy gave him the least suspicious shrug he could manage. Grover didn't press. For now, Percy was grateful.
+Percy gave him the least suspicious shrug he could manage. Grover didn't press, and for now, Percy was grateful.
 
 They headed toward the dining pavilion, but Grover remembered they were supposed to see Chiron before dinner. Percy followed him to the Big House, where the centaur was speaking to a camper with a bandaged wrist.
 
@@ -1025,7 +898,7 @@ Chiron raised an eyebrow at Grover. "I expected you earlier."
 
 "Some."
 
-"We can see where you stand tomorrow. For now, get settled. Your sisters are expecting you."
+"We can see where you stand tomorrow. For now, get settled. Clarisse and Silena are expecting you at Cabin Three."
 
 Grover coughed into his hand, concealing a laugh badly.
 
@@ -1037,102 +910,102 @@ He meant it, though he wasn't ready to test the offer.
 
 ---
 
-Dinner at Camp Half-Blood was chaotic in a way Percy remembered fondly. Demigods from every cabin crowded the long tables, laughing and arguing and forking down food that smelled like home in a way that the Atlantean palace never quite had. The pavilion's open sides let in the evening air. Smoke rose from the offering brazier, and the campers' voices carried over it.
+At dinner, a gust caught the loose corner of a tablecloth and sent wooden cups skidding along the pavilion. Two Hermes campers retrieved them while a counselor scolded a younger boy for standing too close to the offering brazier. Percy had remembered camp as disorderly and loud. He had forgotten how much of its order depended on people noticing small disasters before they became large ones.
 
-Percy sat at the Poseidon table with two places set beside his own. The girls assigned to them were still carrying their offerings to the fire; he had not been introduced yet. He tried not to stare at Annabeth. She was three tables away, sitting between Thalia and another girl Percy didn't recognize, and every time Thalia leaned in to say something to her, Percy's jaw tightened.
+The Poseidon table had three places laid. Two were empty while their occupants carried offerings to the fire. Percy sat facing the pavilion's open side, where he could see the cabin paths and, three tables away, Annabeth sitting beside Thalia. His instinct was to read every movement between them as trouble. Instead he watched Annabeth turn a sheet of paper toward her sister, who pointed at a corner of the drawing without trying to take it away. Whatever they were struggling through, they also knew how to work together.
 
-He knew Thalia wasn't a threat. In his timeline, Thalia was brave and loyal and one of the best people he knew. But in this timeline, she was Annabeth's sister, and she had history with Annabeth that Percy didn't, and the territorial way she watched him made it clear that she considered Annabeth hers to protect.
+"You're Percy Jackson."
 
-Percy understood the impulse. He just didn't know how to navigate it.
+A broad-shouldered girl with short, dark hair stood at his elbow carrying a half-filled plate. There was a nick in the rim of her bronze wristguard, and she had the comfortable stance of someone who had spent all afternoon training.
 
-"You're the new kid, right?"
+"That's me."
 
-Percy looked up. A girl had materialized beside him, maybe thirteen, with close-cropped dark hair and the build of someone who spent a lot of time lifting things. She was smiling broadly.
+"Clarisse La Rue. Poseidon cabin. You can call me Clarisse." She set her plate down but stayed standing, assessing him. "I hear you came from Atlantis. Your father bother sending directions for the rest of us, or just you?"
 
-"Percy Jackson, yeah."
+"He sent a satyr who talks faster than he walks."
 
-"Clarisse. Poseidon cabin." She said it like a warning. "You're Poseidon's kid, huh? That's cool. Not many of us around anymore."
+"Good. We have enough royal visitors who expect an escort." She sat, then pushed a chipped cup out of the way before it tipped onto his sleeve. "You're staying in Cabin Three. There are rules about drying gear. I'll explain them when you aren't eating."
 
-"Us?"
+Percy eyed the wristguard. "Does everyone here give the new guy a test?"
 
-"Big three kids. There's me and Silena, the Zeus sisters, and now you. We're kind of special." She grinned, and it wasn't entirely friendly. "Try not to drown in the canoe lake, newbie."
+"Not everyone." Her grin sharpened. "Some of us wait until tomorrow."
 
-She sauntered away. Percy exhaled slowly.
+She named Silena as the other Cabin Three sister, already busy on the far side of the pavilion, and pointed Percy toward the cabin they shared. He had known Clarisse as the daughter of Ares in his remembered life, a rival with a talent for making every competition personal. Here she was his older half-sister, and the fact that she'd bothered to keep his sleeve dry was probably as meaningful as any welcome he was going to get.
 
-Big three kids. Zeus sisters. That meant Annabeth and Thalia. And himself. The cabins had been rearranged to accommodate them, the Hall of the Gods had been built for them. In this timeline, the children of the big three weren't rare anomalies; they were fixtures.
+"Don't drown in the canoe lake, newbie," she added as she left to settle an argument at the next table.
 
-And the changes went deeper than cabin assignments. Percy could feel it, in the way people looked at him, in the way the camp was laid out, in the way the power structures had shifted. Someone had rewritten the rules of his world, and he didn't know who or why or what they wanted.
+"I'll do my best."
+
+Percy looked from her retreating back to the Zeus table. This history hadn't simply moved people between cabins. It had given them years of loyalties, resentments, and work he knew nothing about. He would have to learn those relationships instead of assuming the people he remembered were waiting unchanged for him.
 
 ---
 
 After dinner, Percy found Annabeth by the canoe lake. She was sitting on the dock with her feet in the water, the lake water lapping around her ankles. Moonlight caught in her hair as she watched the dark water.
 
-Percy sat down beside her. Their shoulders almost touched.
+He left enough space on the dock for Annabeth to decide whether she wanted him close. She shifted toward him until their shoulders touched, then went back to watching the freshwater turn black beyond her bare feet. Somewhere along the shore, a canoe bumped against a mooring post at regular intervals.
 
-"Hey," he said.
+"Thalia saved me a seat at dinner," Annabeth said. "She'd kept the corner place open because she thought I wanted to see the door."
 
-"Hey."
+"Did you?"
 
-They sat in silence for a while. It was the first quiet moment they'd had since arriving at camp, and Percy felt the exhaustion of the day settling into his bones.
+"Apparently I always do." Annabeth picked a splinter from the dock. "I don't remember her learning that about me. But I was looking at the door."
 
-"I can't stop thinking about it," Annabeth said finally. "About the life we remember. About, about my mom. In this timeline, she's alive. Beryl Grace. She's living in New York and she sends letters sometimes and Thalia reads them to me because I, because this me, doesn't know how to feel about her. And I don't know either. I remember Athena. I remember being Athena's daughter and running away from home and meeting you and, and Thalia keeps telling me about a mother who drank too much and couldn't take care of her children. I don't have those memories. I don't know how to answer her letters."
+Percy tried to picture Thalia leaving that place empty year after year, just in case her younger sister wanted it. It was the sort of care that could become unbearable if you were the one expected to remember every reason for it.
 
-"The life we remember was real," Percy said, looking away. "And the history everyone here knows is real to them. Someone changed what came before us."
+"She talks about Beryl sometimes," Annabeth continued. "The letters from New York. Some are ordinary. Some aren't. Thalia knows which ones used to make me cry, and she reads them first. I remember Athena being my mother. I remember running away. I don't know what to write back to someone whose letters belong to a childhood I didn't have."
 
-"But they don't remember it changing."
+"Maybe you don't write back until you know what you want to say."
 
-"No. Just us."
+"Thalia will think I'm asking her to decide for me."
 
-Annabeth pulled her knees to her chest. "It's lonely when everyone expects a story you can't tell."
+"Then tell her the opposite. You're asking for time."
 
-Percy thought about Sally. About the blue cookies and the small apartment and the way she'd smiled when she was scared. About the fact that in this timeline, she'd been dead for ten years and no one remembered her the way he did.
+Annabeth looked at him sideways. "You've been talking to Amphitrite."
 
-"I know," he said quietly. "I remember Sally. And here, she's been gone since I was two. No one tells stories about her. No one knows she was brave. And I, I have to carry that. All by myself."
+"Getting beaten by her at a game with nine water channels, mostly." He told Annabeth about *Tessera*, the crab in the garden, and the argument over sandals. He found he could tell these stories without pretending they were memories of twelve years. They were things that had happened to him this week.
 
-Annabeth looked at him. In the moonlight, her eyes were luminous. "You don't have to carry it by yourself anymore."
+Then he told her what Amphitrite had said about Sally: that she died when he was two, that Poseidon had letters and photographs, and that she'd made him promise their son would be allowed to know the mortal world.
 
-Percy's throat tightened. "Neither do you."
+Annabeth didn't tell him it was going to be all right. She simply asked, "Did you get to see the letters?"
 
-They stayed until the sounds from the pavilion faded. Percy knew he should head back before Clarisse locked him out for being late. Neither of them moved.
+"Not yet. I want to. But part of me's afraid of finding something written by a Sally who didn't get to know me."
 
-"We should go back," Annabeth said eventually. "Thalia will worry."
+"You know her," Annabeth said. "That's still yours."
 
-"Yeah. She already hates me."
+Percy rested his hands on the dock. "So is the time Amphitrite's given me this week. I don't know how those two things fit together."
 
-"She doesn't hate you. She's just protective."
+"Neither do I." She drew her feet from the water, careful not to splash him. "Tomorrow we should make a list. Things we remember ourselves, things we've been told, and things we've actually seen since waking up. If we mix them up, we're going to start believing our own guesses."
 
-"She looked at me like I was a monster."
+"That sounds annoyingly like homework."
 
-"You *are* a kind of monster. You're a Poseidon kid." Annabeth's mouth twitched. "We're all monsters here. It's kind of the point."
+"It is homework."
 
-Percy smiled. It came easily for once.
+He smiled. "And we don't tell Thalia or my family yet?"
 
-They walked back to the cabins together. At the fork in the path, left toward the Poseidon cabin, right toward the Zeus cabin, they stopped.
+"We decide together what we can say, and when. I'm not promising it'll stay secret forever. I'm promising not to make the decision because we're frightened tonight."
 
-"Tomorrow," Annabeth said, looking away. "We'll piece together what to do. Who did this. Why."
+They remained on the dock until the pavilion went quiet. When they stood, Percy held out a hand and Annabeth took it to steady herself on the slick boards. They followed the cabin path together, talking about where to meet tomorrow, then stopped at the fork. Cabin Three lay to the left; Annabeth's Cabin One was to the right.
 
-"Tomorrow," Percy agreed.
+"Thalia will worry if I'm late," she said. "She'll probably worry even if I'm on time."
 
-She turned to go, then stopped. "Percy?"
+"She thinks I'm a terrible influence already."
 
-"Yeah?"
+"She barely knows you." Annabeth's mouth curved. "Give her another day before she decides you're terrible."
 
-"I'm glad you're here. I'm glad I'm not the only one."
+"Tomorrow, then. The list and the terrible influence."
 
-"Me too."
+"Tomorrow." She hesitated, still holding his hand. "I'm glad you found me."
 
-She smiled, small and tired and real, and then disappeared into the Zeus cabin. Percy stood there for a single heartbeat, watching the door close behind her, and then turned toward his own cabin.
+"I'm glad you knew me."
+
+She let go and walked toward Cabin One. Percy made sure she reached the door before turning down his own path. The ordinary distance between two cabins was suddenly something he could bear.
 
 ---
 
-That night, Percy lay in his bunk in the Poseidon cabin and listened to the unfamiliar sounds of the camp through the open window. Distant laughter. The clang of practice weapons. Someone singing badly. The rustle of wind through pine trees.
+That night, Percy lay in the lower bunk of Cabin Three while water moved through the narrow channels beneath the floor. From outside came the clang of someone putting away weapons after curfew, followed by a sharp order to be quiet. The cabin had been his alone in the childhood he remembered. This one had four bunks and rules nobody had thought to teach him because the rules belonged to Clarisse and Silena, his Camp Three sisters.
 
-In his original timeline, he'd had his own cabin, the same one, actually, but it had been empty when he arrived. Just him, the salt smell, and the loneliness of being the only Poseidon camper until Tyson came.
+Clarisse slept nearby. In the opposite corner a neatly folded quilt rested beside a notebook with a blue cover. Silena's things, he assumed from the name Clarisse had given him. He had not yet met her, and he was beginning to understand that being someone's brother on a family tree didn't tell him what she would expect of him at breakfast.
 
-Not anymore. The cabin had four bunks now: his, two clearly used beds, and a spare for visitors. At dinner, the girl with close-cropped dark hair and a warrior's posture had introduced herself as Clarisse. She had also informed him that wet towels belonged on hooks. Across from her, a quilt lay folded beside a notebook with blue ink on its cover. His other sister's bed. He would meet her properly in the morning.
+Percy took stock of the day. Amphitrite had answered his questions about Sally without claiming Sally's place. Poseidon had trusted him with part of an old fear. Triton had admitted being frightened of the surface once himself. Grover had walked him safely up a hill without remembering any of the times Percy had once returned the favor. Clarisse had introduced herself and told him where to sleep. And Annabeth, who remembered the same vanished future, had asked him to sort evidence from assumptions tomorrow.
 
-Poseidon's daughter. His half-sister, technically, though they'd never met in this timeline.
-
-Percy thought about the people who expected to be his family. Amphitrite and Poseidon. Triton, who'd teased him mercilessly but loved him anyway. And now Clarisse, who shared his father but nothing else.
-
-It would take time to learn who they were. Percy listened to Clarisse turn over in the next bunk. Somewhere outside a camper laughed, and somebody else told them to be quiet. He closed his eyes. He had promised Annabeth they would talk again tomorrow, and for once the promise involved only walking across the green.
+He listened as Clarisse rolled onto her other side and muttered something about the window being open too far. Percy closed it a little, then lay back. He couldn't repair a stolen childhood in a night; there were people in both of his histories whom he had barely begun to know. But he knew the path to Cabin One now. Morning would give them someplace to start.

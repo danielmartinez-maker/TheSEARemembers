@@ -1,0 +1,85 @@
+chapter: 201
+title: "The Weather in the Room"
+source: "chapters/201-the-weather-in-the-room.md"
+status: "10,153 body words; scoped arc implementation, continuity review recorded"
+relative_chronology:
+  - "The day after Chapter 200; no exact calendar date or year is established"
+  - "Begins at the Big House work board in the morning and continues through the evening"
+  - "The planned work review and dinner occur on the same day"
+pov: "Annabeth Chase, third-person limited"
+locations:
+  - "Big House work board and table"
+  - "Chiron's forge exterior"
+  - "West path, awning approach, and braced fence"
+  - "Big House porch and dining room"
+people_knowledge_relationships:
+  annabeth:
+    - "Keeps the camp map separate from Ianthe's weather chart and work schedule"
+    - "Marks a muddy approach and speaks to Ianthe about the difference between a useful schedule and assigning people"
+    - "Does not speak for Thalia when Ianthe comments on the heel; lets Thalia answer for herself"
+    - "Shares a quiet map-and-tea moment with Percy; they remain secure and affectionate"
+    - "Leandros says they are not half-siblings; their exchange does not establish a sibling bond"
+  ianthe:
+    - "Writes workers' names into a proposed schedule before asking them; the weather sequence is useful, but availability is guessed"
+    - "Clarisse refuses an unasked canvas-holding assignment; Beckendorf declines ladder work while the wind shifts and the correct strap is unavailable"
+    - "Revises the sheet to separate tasks, conditions, whether a person was asked, and stated availability"
+    - "Eli confirms that he can sweep the west path before practice; the sweep is completed"
+    - "She tells Thalia where she should stand because of the heel; Thalia states that she is following her own plan and does not need Ianthe to manage her"
+    - "Says Zeus told her she notices what others miss; she does not claim that he assigned her authority"
+    - "Keeps her first schedule as a record of her mistake; no apology, trust milestone, mother-call, or lasting room decision occurs"
+  thalia:
+    - "Appears with the existing splint and chooses to stand on the porch for air"
+    - "States that her heel and activity decisions remain between her and Chiron; no examination, reassessment, recovery, swimming decision, or clearance occurs"
+    - "Accepts Annabeth's answer when she asks whether Annabeth is okay; their sister bond remains secure"
+    - "Tells Ianthe she can be present without managing her sisters but does not promise closeness"
+  leandros:
+    - "Objects to being named beside a water task without being asked"
+    - "Argues with Annabeth about whether yesterday's runoff observation identifies the drainage route; no inspection or digging occurs"
+    - "Does not gain authority, trust, or a new sibling relationship"
+  clarisse:
+    - "Refuses to hold the awning canvas and does not disclose why she is unavailable"
+    - "Ianthe removes her name from the first schedule; no apology or trust milestone follows"
+  percy:
+    - "Keeps Annabeth's map steady when asked and does not take over her exchange with Ianthe or Thalia"
+    - "Shares a low-key meal and map moment with Annabeth; no relationship reset or memory disclosure occurs"
+  chiron:
+    - "Keeps assignment decisions with workers and asks Ianthe to record confirmed availability rather than guess"
+    - "Does not approve ladder work while the wind shifts"
+  beckendorf:
+    - "Refuses ladder work because the wind is shifting and the correct replacement strap is not available"
+    - "Does not repair or inspect the awning"
+  eli:
+    - "Confirms that he can sweep the west path before practice and completes that task"
+work_and_health_states:
+  - item_or_event: "Awning"
+    last_seen: "Bracket remains bent; tie holds. The correct replacement strap is unavailable and shifting wind prevents ladder work. No repair or inspection is completed."
+  - item_or_event: "Fence"
+    last_seen: "Still braced; ground remains too soft for drainage review. No digging or load test occurs."
+  - item_or_event: "Cabin One rail"
+    last_seen: "Repaired in Chapter 200; heavy-rain recheck remains pending and does not occur."
+  - item_or_event: "West path"
+    last_seen: "Eli completes one confirmed sweep before practice."
+  - item_or_event: "North step, greenhouse bank, and Annabeth's stool"
+    last_seen: "First-hard-frost check remains pending; greenhouse bank remains complete for now; stool remains curing."
+  - item_or_event: "Thalia's heel"
+    last_seen: "Existing Chapter 193 care plan and splint remain; this chapter includes no medical reassessment or outcome."
+knowledge_boundaries:
+  - "Only Percy and Annabeth retain autobiographical memories of the erased future; neither memory is disclosed."
+  - "Percy's altered-childhood memory gap is not disclosed to Ianthe, Leandros, or Amphitrite."
+  - "Ianthe reports what Zeus told her; Zeus does not appear and no new divine visit occurs."
+  - "Ianthe's intended call to her unnamed living mother remains unconfirmed; no call or conversation is shown."
+  - "No maternal title, forgiveness, broad trust, permanent sibling bond, or sleeping arrangement is established."
+next_chapter_dependencies:
+  - "Continue after Chapter 201 without inventing a calendar date or year."
+  - "Ianthe remains expected in the Big House guest room; her mother-call, cot inspection, window-side bed, and long-term placement remain unresolved."
+  - "Leandros and Ianthe have met twice but have not formed an immediate bond."
+  - "Leandros has no cabin authority or broad trust; his status assumptions persist."
+  - "The awning remains bent pending a calm interval, the correct strap, and a worker who agrees to inspect it."
+  - "The fence remains braced pending a safe drainage review once the ground firms."
+  - "The Cabin One rail needs a heavy-rain recheck; the north step waits for first hard frost; the greenhouse bank remains complete for now; Annabeth's stool is still curing."
+  - "Thalia's heel remains under the Chapter 193 plan without reassessment or recovery."
+unresolved_canon_questions:
+  - "Ianthe's mother-call, mother's identity, cot inspection, and long-term Cabin One placement remain unresolved."
+  - "The safe drainage route and the awning's correct strap and next inspection remain pending."
+  - "Leandros's relationship with the Poseidon siblings, his authority assumptions, and the siblings' willingness to share work remain unsettled."
+  - "Ianthe's relationship with Thalia, Annabeth, and Jason remains new and unearned."

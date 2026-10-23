@@ -1,0 +1,77 @@
+chapter: 117
+title: "A Day Apart"
+source: "chapters/117-a-day-apart.md"
+status: "expanded; body count and chapter-specific handoff verified; independent style review pending"
+chronology:
+  - "Opens the morning after Chapter 116, at breakfast; no date, season, year, or exact elapsed time is supplied."
+  - "The day covers breakfast, Tempest Hall work, Annabeth and Thalia's east-porch study, a shifted quiet-hour trial, dinner, and a brief evening walk."
+  - "Chapter 118 opens the following morning at camp's freshwater canoe lake."
+pov: "Third-person limited in sequence: Percy (breakfast), Percy (Tempest Hall), Annabeth (porch study), Percy (quiet hour), Percy (dinner and evening walk); scene breaks use standalone dividers."
+scene_locations:
+  - "Dining pavilion"
+  - "Tempest Hall"
+  - "East porch and rose bed"
+  - "Big House library"
+  - "Cabin Three"
+  - "Camp green and pavilion"
+participants:
+  - "Percy"
+  - "Annabeth"
+  - "Clarisse"
+  - "Silena"
+  - "Thalia"
+directly_witnessed:
+  - "Percy and Annabeth choose separate activities for the day and agree to meet at dinner. Percy goes to Tempest Hall with Clarisse and Silena; Annabeth completes the east-porch study with Thalia. No hourly check-ins or hidden test are planned."
+  - "At Tempest Hall, Percy, Clarisse, and Silena conduct staged gate/baffle testing. They first test without swimmers, then use floats and a one-person-at-a-time run. A float crosses the stop boundary; Silena calls stop, Percy reduces the flow, and Clarisse waits until the gate is settled before retrieval. They add separate caution and closed markers, a clear exit route, a hand rope along the coping, and a sequence requiring a locked gate before anyone retrieves a float."
+  - "The fast lane remains closed pending Chiron's inspection, sealed signs, and a wet retest of the rewrapped practice grip. Clarisse, Percy, and Silena log tide direction and settings, brace the hinge, reset the baffles to neutral, and leave the Hall clean. At the lowest step, the post obscures Percy's raised-arm cue from the original watcher position; Silena moves one tile toward the ladder and the signal passes clearly on retest. The day's test is not recorded as Chiron's final safety approval."
+  - "Clarisse is spun by the current on an early spear pass, then adjusts and completes a controlled pass. Percy gets a scrape to his elbow; Silena applies salve. Clarisse has a blister; Percy cleans and wraps it. Wet spear grip remains a design/safety issue."
+  - "Annabeth and Thalia remeasure the east porch and confirm the existing plan's landing width is three inches greater than the actual landing. A bucket test shows water escaping at the gutter joint and spreading behind the step. Annabeth sketches a separate shallow channel around the stair footing toward an outlet between the roses. No digging, gutter repair, or construction occurs. Chiron and Katie must approve the joint repair/outlet and the ground near the roots."
+  - "Annabeth and Thalia test the door swing, a shallow wall-side bench, and the passage to the stairs with a basket and a person occupying the seat. Annabeth selects a narrow landing with a shallow bench along the wall, keeping the main walking route open and the rose bed undisturbed pending foundation/root checks. She prepares two stair options and a review list for Chiron; the chosen design is a recommendation, not authorization to build."
+  - "Percy, Clarisse, and Silena mutually shift the Cabin Three quiet hour for the day to after the Tempest Hall test and before dinner. Percy hangs the blue cloth and records the gate notes; Clarisse sharpens on the porch; Silena rewraps and dry-checks the practice grip, which remains pending a wet retest with Chiron. They share the hour without loud work. The agreement returns to the regular board time the next day."
+  - "At dinner, Percy and Annabeth calmly exchange the porch and rig results. They remain established romantic partners; a later brief walk includes a kiss and a possible, unbooked plan to spend time together the following day."
+reported_facts: []
+private_or_remembered_facts:
+  - "Only Percy and Annabeth retain memories of their erased future. Neither discloses them to Clarisse, Silena, or Thalia in this chapter."
+  - "No one is told about Percy's missing autobiographical access to his altered childhood. Amphitrite is not present or informed."
+relationships:
+  - pair: "Percy / Annabeth"
+    state: "Established romantic partners who choose a day of separate activities and reunite at dinner. They do not make separation a test or repeatedly seek reassurance. Affection is age-appropriate and nonsexual; no erased-future disclosure."
+  - pair: "Percy / Clarisse / Silena"
+    state: "Poseidon siblings and Cabin Three residents. They test the current rig together, with Clarisse leading safety stops, Silena recording observations, and Percy adjusting flow. Their quiet-hour agreement from Chapter 116 is shifted by mutual agreement for this day."
+  - pair: "Annabeth / Thalia"
+    state: "Zeus/Grace sisters. Their porch study produces a concrete recommended plan; Annabeth remains responsible for her own design decision and Thalia provides measured input. Annabeth explicitly frames her picture of her younger self's fear of distance as an inference from Thalia's stories, not autobiographical memory; Thalia's reply distinguishes current affection from remembered childhood."
+items_promises_injuries:
+  - item_or_event: "Tempest Hall current rig"
+    owner_or_people: ["Percy", "Clarisse", "Silena"]
+    current_status: "Tested in stages; temporary stop markers and a hand rope are positioned. Fast lane remains closed pending Chiron's inspection, sealed signs, and a wet retest of the rewrapped grip. Tide direction and settings are logged; the watcher position is moved one tile toward the ladder to keep the signal visible from the lowest step."
+  - item_or_event: "Percy's elbow scrape and Clarisse's blister"
+    owner_or_people: ["Percy", "Clarisse", "Silena"]
+    current_status: "Percy's scrape receives salve; Clarisse's blister is cleaned and wrapped. No further injury is reported."
+  - item_or_event: "East porch study"
+    owner_or_people: ["Annabeth", "Thalia", "Chiron", "Katie"]
+    current_status: "Recommendation: narrow landing, shallow wall-side bench, keep path and rose bed clear. Two stair options and an approval list prepared. Gutter joint, foundation/root locations, and drainage outlet need review. No work is authorized or completed."
+  - item_or_event: "Cabin Three quiet-hour agreement"
+    owner_or_people: ["Percy", "Clarisse", "Silena"]
+    current_status: "One-time shift after the rig test and before dinner, mutually agreed and completed. Board's regular time resumes the next day unless all residents agree to shift it again."
+  - item_or_event: "Atlantis invitation"
+    owner_or_people: ["Percy", "Annabeth", "Clarisse", "Silena", "Thalia"]
+    current_status: "No invitation, reply, trip plan, or travel date is introduced in Chapter 117. The playful next-day idea is not a scheduled commitment."
+unknowns:
+  - "Exact date, season, year, and elapsed time remain unknown."
+  - "Chiron's inspection/approval of Tempest Hall is pending; no full operational clearance is recorded."
+  - "The porch channel's exact outlet, foundation/root conditions, gutter repair, and construction schedule remain pending."
+  - "No next-day plan with Annabeth is booked; their closing exchange is conditional and playful."
+next_chapter:
+  chapter: 118
+  opening_checked: true
+  locator: "chapters/118-a-message-from-amphitrite.md#L3-L7"
+  handoff: "The following morning Percy is at the freshwater canoe lake with Clarisse and Silena when Amphitrite sends an Iris-message inviting him and chosen camp family to Atlantis. Chapter 117 does not establish a travel date, route, reply, or that Chiron cleared the Tempest Hall rig."
+qa:
+  body_words: 10163
+  body_count_method: "scripts/audit_chapter_length.py; whitespace-separated body words, excluding headings, standalone dividers, and Markdown comments"
+  previous_chapter_closing_scene_checked: true
+  next_chapter_opening_checked: true
+  prior_life_memory_boundary_checked: true
+  chronology_and_props_checked: true
+  full_manuscript_duplicate_scan: "Final local QA on 2026-10-17: zero exact matches across 1,941,481 chapter-only windows and 2,092,033 bonus-inclusive windows in 196 files."
+  independent_scene_semantic_and_style_review: "pending"

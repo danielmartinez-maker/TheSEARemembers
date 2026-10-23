@@ -12,7 +12,143 @@ And Annabeth had turned, soaked to the bone, hair plastered to her face, a scrat
 
 Then she had let go, said, "You idiot, you could have drowned," and gone straight back to tying knots.
 
-That was it. That was the storm kiss, different from their earlier kisses here and from every kiss they remembered.
+That was it.
+
+Except it wasn't the whole story.
+
+Will had made Annabeth sit on an infirmary bench before she'd finished telling Percy why he'd scared her. The scratch on her cheek wasn't deep, but there was grit in it from the wind and a sliver of wood stuck near the edge. Percy stood by the door, drenched and shaking from the effort of holding the water away from the younger campers.
+
+"You can sit too," Will told him.
+
+"I'm fine."
+
+"Then you can sit fine."
+
+Percy sat.
+
+The storm had been an unseasonal squall, not the first violent weather they'd faced. He hadn't solved it alone. Annabeth had organized the rope team, Clarisse had pulled the children away from the exposed rail, and Chiron had directed the sheltering of the canoe equipment. Percy had pushed the worst of the water back toward the lake long enough for the last camper to clear the path. It had felt like a duel with the whole sky. The report made it sound like a community response, which was closer to the truth.
+
+Will cleaned Annabeth's cheek and removed the splinter. He asked Percy how long he'd been holding the water and whether he'd felt dizzy afterward.
+
+"A while," Percy said.
+
+"Not an answer."
+
+"Maybe six minutes."
+
+Annabeth looked at him sharply. "You told me two."
+
+"I wasn't looking at a clock."
+
+"That's why we have people watching the time," Will said. "You can't judge your limits by how heroic the last minute felt."
+
+Percy wanted to argue. He had held up far more water in the life he remembered. He had survived Tartarus, battles with giants and things he couldn't discuss in the infirmary without raising questions he wasn't ready to answer. But the body he inhabited here was thirteen. He didn't get to assume it would tolerate every feat his old memory said he could perform.
+
+"Chiron wants you to rest today," Will continued. "Both of you. No drills and no experiments with the lake."
+
+Annabeth sighed. "I have a design meeting."
+
+"You can send the notes."
+
+"I need to explain the load failure."
+
+"Then write the explanation."
+
+Percy looked at her. "I can help."
+
+She turned on him. "You can help by sitting still for a minute."
+
+He went quiet.
+
+Will left them a bottle of clean water and went to treat a camper who'd twisted an ankle on the path. The room smelled of antiseptic and damp jackets. Percy could hear the rain easing outside.
+
+"I'm sorry," he said.
+
+Annabeth touched the bandage on her cheek. "For what?"
+
+"For making you worry."
+
+"That's not what I'm angry about."
+
+"Then what?"
+
+"You decided you could hold the whole storm. I was asking you to move with the rope team. You didn't answer."
+
+Percy remembered. He had heard her calling over the wind and assumed she wanted him to hold the water a little longer. He'd been too occupied proving he could help to hear the change in her plan.
+
+"I didn't know you wanted me to stop," he said.
+
+"That is the problem."
+
+He looked at his hands. "I thought if I let go, somebody would get hurt."
+
+"And if you'd passed out, somebody might have."
+
+The words landed. He had experienced versions of himself dying or disappearing in false worlds, and he was tired of being scared. It would have been easier if Annabeth told him she wasn't angry, kissed him again and let the incident fade into a romantic story about bravery.
+
+Instead she asked him to listen.
+
+"I kissed you because I was relieved," she said. "Not because I think you should nearly drown every time you want to make me happy."
+
+Percy looked up. "I know."
+
+"Do you?"
+
+"Yeah. I was relieved too. I love you. I just got stuck thinking the only safe thing was to keep pushing."
+
+Annabeth sat back against the bench. "I want us to be able to say stop and know the other one heard it."
+
+"Then we'll make a signal for when we can't hear."
+
+"We have signals."
+
+"We should check they're the same ones."
+
+She considered that. It was the kind of solution she liked, concrete enough to test and change.
+
+"Okay," she said.
+
+They wrote the emergency gestures on the back of her draft report: stop, retreat, need help, route clear. Percy suggested one he called *water is being rude*, which Annabeth removed because it could describe everything from a wave to a full sea monster.
+
+When Will returned, he checked the list and made them repeat the gestures without looking at the paper. Percy got the retreat signal wrong the first time. Annabeth corrected him, not unkindly. They tried again until both could identify the commands.
+
+"Now don't make this into a secret code only the two of you know," Will said. "If the rope team is going to use it, everybody needs to be trained."
+
+Annabeth nodded. She asked Chiron to review it before the next storm drill, and wrote his name beside the request so she wouldn't forget.
+
+Percy was still shaken. The kiss had been real, the relief had been real, and their love had existed long before the storm. They were allowed to remember the moment tenderly without turning the dangerous part into something they hoped would happen again.
+
+Before he left the infirmary, Clarisse arrived with the list of campers who had been on the rope line. She wanted to know which gestures Percy and Annabeth proposed using in the next drill. Percy showed her the paper. She read it slowly, then pointed at the retreat signal.
+
+"That could be confused with the signal to tighten the line," she said.
+
+"Then we change it," Annabeth replied.
+
+Clarisse suggested using both arms for the full retreat and one for the line adjustment. Will checked that the signs were visible from behind, where the younger campers might be standing with their backs to the water.
+
+Chiron agreed to test the revised signals at the next supervised drill. He didn't declare the entire plan safe just because it looked good on paper. The rope crew would need practice, and anybody could report a problem.
+
+Percy accepted the correction. It meant the scary part of the storm could change the way they worked, not just become an embarrassing story told at the next campfire. Annabeth wrote Clarisse's name beside the alteration. Neither expected every future storm to obey their signals, but they could prepare to listen to one another better. Clarisse also made Percy promise that he would stay out of the water until Will cleared him for training. He agreed, asked for the expected date, and wrote it down. Annabeth watched him do it without taking the pencil away. It was a small sign that he intended to keep the agreement himself.
+
+When he rose to leave, Annabeth caught his hand.
+
+"Can we talk about the kiss later?" she asked.
+
+"Sure."
+
+"When you're not trembling."
+
+"I'm not trembling."
+
+She looked at his fingers.
+
+"Fine," he admitted. "A little."
+
+"Rest first," she said.
+
+He nodded. That was one promise he could keep immediately.
+
+ That was the storm kiss, different from their earlier kisses here and from every kiss they remembered.
 
 Everyone at camp had seen it. Half the Poseidon cabin had cheered. Clarisse had laughed so hard she fell off the canoe rack. Grover had fainted sideways into a life jacket bin and then popped back up shouting, "Did I miss it? Tell me I didn't miss it!"
 
@@ -119,7 +255,6 @@ Percy stared at her. "You want to ask Clarisse La Rue for kissing advice."
 But he was already standing up, because when Annabeth got that look, resistance was ceremonial.
 
 ---
-
 Clarisse La Rue was in the arena hitting a practice dummy with a spear. She was Percy's older half-sister — same father, different mothers. Poseidon's daughter. Her helmet was pushed up and her armor scuffed.
 
 Silena Beauregard, the other Poseidon sister, was sitting on the arena fence with a sketchbook.
@@ -230,7 +365,7 @@ There was a beat of quiet in the arena. Even Clarisse stopped glaring at Bob the
 
 Then Percy said, very quietly, "Thanks."
 
-"Yeah," Annabeth said, throat tight. "Thanks, guys."
+"Yeah," Annabeth said. "Thanks. And please don't tell the rest of camp. We're not inviting an audience."
 
 Clarisse cleared her throat loudly and picked her spear back up. "Yeah, yeah. Don't get sappy. And Jackson — " She pointed the spear at him. "If you hurt her feelings, I will boarding-action *you*. Understood?"
 
@@ -248,8 +383,71 @@ Chris called, "Tilt opposite! Don't both go left! Left-left is death!"
 
 Clarisse called, "BREATHE THROUGH YOUR NOSE!"
 
----
+Percy paused outside the arena, then went back through the door.
 
+Clarisse had already turned to her training dummy, and Silena was collecting the scattered pencils from the fence. Annabeth waited by the exit, her expression asking whether he wanted her to come with him. Percy nodded.
+
+"One more thing," he said.
+
+Clarisse lowered the spear. "Did you forget how to breathe?"
+
+"No. I wanted to ask you something without turning it into a joke."
+
+Silena sat down on the low wall. Clarisse kept standing, though she leaned the spear against the rack so she could listen.
+
+Percy rubbed his hands together. "Do you think we're making too much of this?"
+
+Clarisse considered. "Probably."
+
+"Helpful."
+
+"You asked for an answer."
+
+Silena smiled. "I think the storm frightened you. Sometimes after a scare people want to do something carefully and make it feel safe again. That doesn't mean you don't already know how to kiss each other."
+
+Annabeth nodded. "That's exactly it."
+
+Percy looked at Clarisse. "And you?"
+
+"I think if you want time alone, say so and mean it. Don't ask ten different people for approval and then complain when they have opinions."
+
+He winced. "Fair."
+
+Clarisse looked at Annabeth. "And you don't have to explain every detail to Thalia."
+
+"I want to tell her we're going to the dock."
+
+"Then tell her you're going to the dock. You don't have to give her a schedule of how long you plan to hold hands."
+
+Annabeth smiled reluctantly. "She'll probably ask."
+
+"She can ask. You can say no."
+
+Percy thought about how much he wanted Clarisse and Silena to approve of him as a brother, and how easily that desire could turn their lives into a set of permissions he tried to collect before making any decision. He was thirteen, but he remembered having been seventeen. He knew what it was to love Annabeth, and he was still allowed to feel awkward about being a boy who could barely keep a shirt free of pizza.
+
+"Thanks," he said.
+
+Silena reached for his hand, then waited until he offered it. "And you can tell us about it afterward if you want. You don't owe us a report."
+
+Clarisse nodded. "No betting pools either. I'll tell the Stolls to knock it off if they start."
+
+"Please do," Annabeth said.
+
+Percy looked at his sisters. Clarisse had learned to share poems only when she wanted them read; Silena had learned not to turn every act of care into responsibility for everybody else's happiness. They weren't perfect. Neither was he. But the family could disagree without pretending any of them were strangers.
+
+He glanced at Annabeth. "Ready?"
+
+"For the dock or dinner?"
+
+"Both."
+
+"Then let's go."
+
+They left the arena. Behind them Clarisse resumed her lesson, this time explaining to the younger trainees why a shield could be lowered during a pause but not during an active drill. Silena took the notes and helped the next camper put on a properly fitted helmet. Their afternoon went on. The couple's evening wasn't the only story happening at camp.
+
+Percy held Annabeth's hand on the path. He was glad his sisters had given him advice. He was even glad Clarisse had disagreed with him. Advice was something he could use or leave, not a ritual that changed the status of the relationship he'd already chosen.
+
+---
 They spent the rest of Sunday in a state of heightened, ridiculous nerves that Grover Underwood later described as watching two squirrels try to defuse a bomb.
 
 It started at dinner. The pavilion was golden with late light. The Poseidon table was, as always, loud. Percy and Annabeth sat in their usual spot where the Poseidon and Zeus tables almost touched. They tried to act normal. They failed.
@@ -262,37 +460,39 @@ Across the table, Malcolm from Athena raised an eyebrow at Annabeth. "Are you ok
 
 "Compelling," Malcolm said.
 
-Grover, who had trotted over with his tray to sit with them, looked from one to the other with dawning delight. "Oh," he said. "Oh, it's today, isn't it?"
+Grover, who had trotted over with his tray to sit with them, looked from one to the other and stopped himself before asking. "You two have plans, don't you?"
 
 "It's not today," Percy said too quickly. "It's — we're thinking about — it's a general — "
 
-"It's today," Grover announced to the table. "They're going to do the proper kiss today."
+"Then I hope you have a good evening," Grover said, keeping his voice low enough that nobody else could hear.
 
-Half the pavilion turned around.
+The pavilion kept talking. The other campers had their own plans, and Grover didn't announce anything on the couple's behalf.
 
-"No we aren't!" Annabeth squeaked, which fooled no one because Annabeth never squeaked.
+Silena came over with a small tin of strawberry chapstick and set it between them.
 
-"You are!" Silena sang from two tables over. "Sunset! Dock! I told you! Oh, this is perfect, Chris, they're doing sunset dock!"
+"For whenever you want it," she said. "You don't have to use it. Or tell me how the evening went."
 
-Clarisse stood up and banged her goblet on the table. "QUIET! All of you! This is a military operation now! No one follows them! No one spies! No one places bets!"
+Percy looked at the tin. "You really think we're that hopeless?"
 
-"Too late," Connor Stoll called. "I got five drachmas on nervous laughter before!"
+"I think you're both nervous. That's allowed."
 
-"Ten on someone trips!" Travis added.
+Clarisse arrived carrying her dinner plate. She glanced at the tin, then at Percy.
 
-"You're betting on us?" Percy demanded, horrified and flattered in equal measure.
+"I'm not making an announcement," she said. "Somebody has to be the responsible sister."
 
-"We bet on everything," Travis said. "Last week we bet on whether Chiron would wear the brown vest or the black vest. Love you. No pressure."
+Silena raised her eyebrows.
 
-Chiron, passing with his tray, paused and gave them a warm, knowing look that made both of them want to melt through the floor. "Percy. Annabeth. Whatever you have planned this evening, the lake is lovely at sunset. Mr. D and I will be ensuring the Big House porch is — very occupied — between seven and eight. For administrative reasons."
+"I'm capable of learning," Clarisse replied.
 
-"Thank you, Chiron," Annabeth whispered.
+Annabeth looked up at both of them. "Thank you. We actually want this to stay ours."
 
-"Discretion is a virtue," Chiron said gravely. "So is chapstick. Silena left some on your plate, Percy."
+"Then it stays yours," Silena said.
 
-Percy looked down. Sure enough, there was a little tin of strawberry chapstick on his bread plate with a note in Silena's looping script: *FOR THE MISSION. No garlic bread. Love you!!*
+Chiron passed behind their bench and asked Percy whether the dock had been cleared after Thursday's storm. Percy confirmed the repair crew had signed the work off and the damaged rack was out of service. Chiron checked the note on his clipboard and said the dock would be open during the normal supervised evening hours.
 
-He wanted to die. He also wanted to laugh. He did both, internally, at the same time.
+"No special audience," Chiron added quietly. "Enjoy the sunset."
+
+Percy watched him go. It was almost strange to have a private plan remain private at camp. Strange and good.
 
 After dinner, Annabeth dragged Percy to Cabin One's back porch. On her desk was a half-finished model of the new footbridge and now — incongruously — a single orange with a face drawn on it.
 
@@ -359,6 +559,55 @@ He looked down. She was right. There was pizza on it.
 They hugged quickly at the porch steps, tight and warm, and then Annabeth went to find her sister while Percy went to panic in private.
 
 ---
+On her way to the hill, Annabeth stopped by the old bridge near the creek.
+
+The railing had been repaired after the rain earlier in June. A new length of timber sat where the old one had split, and the warning signs had been removed only after the repair crew checked the bolts. Annabeth leaned on the safe section and looked down at the water, letting her mind settle.
+
+She wasn't afraid Percy would reject her. They had been together for years in the life they remembered and more than a year in the one they were living now. She knew the way his face changed before he laughed, the way he held his breath when he was trying not to cry, and how he waited for her to explain an idea even when the explanation required diagrams on three sheets of paper.
+
+The fear was stranger than that. She was afraid they'd turn a tender moment into an assignment and disappoint one another by failing to follow the plan.
+
+She thought of the spring dance, when Percy had tried to keep counting the steps instead of listening to the music. She thought of the Pennsylvania memory trap, where the false version of Percy had spoken in exactly the right way and she still knew something was wrong. Love couldn't be verified by perfect lines or familiar words. She had learned that painfully.
+
+A girl from the Demeter cabin came down the path carrying a small basket of seedlings. She stopped at the bridge, looked at the newly repaired rail and reached out to test it.
+
+"Did they finish?" she asked Annabeth.
+
+"Yes. Beckendorf signed it off this morning."
+
+"Good. My brother fell here last week and doesn't want to cross it now."
+
+Annabeth looked toward the far path. "He doesn't have to use it until he's ready. There's another route by the pavilion."
+
+"That's longer."
+
+"It is. But he can choose."
+
+The girl nodded and went on toward the garden. Annabeth watched her cross the bridge without hesitating. The boy she'd mentioned would still be frightened, and the repair certificate wouldn't make his fear disappear. Both things could be true.
+
+She continued uphill and found a quiet place beside the pine. Thalia was supposed to be on watch later, and Annabeth had promised to speak with her before the shift began. She took out a scrap of paper and wrote three words: *Want. Can. Change.*
+
+She stared at them for a while. It wasn't a vow or a magical formula. It was the reminder she needed for tonight.
+
+She wanted time with Percy. She could say yes to a kiss or stop it, and so could he. They could change their minds without accusing each other of not loving enough.
+
+Annabeth folded the paper and put it away. She knew Percy would tease her for writing a checklist about kissing. She didn't mind. A checklist was useful only if it helped her listen afterward, not if she used it to control every motion.
+
+For a moment she thought of telling Thalia everything: the frightened relief of the storm, Percy's exhaustion, the argument in the infirmary, the way he'd agreed to practice retreat signals with the whole rope team. Thalia knew parts of it from the incident report. The rest belonged to Percy as much as to Annabeth. She could ask for advice without giving away his private words.
+
+When she heard her sister approaching along the patrol path, she stood.
+
+"Hey," Thalia called.
+
+"Hey."
+
+Thalia looked at her face and immediately frowned. "Is something wrong?"
+
+"No. I just wanted to tell you what I'm doing tonight."
+
+"Okay."
+
+Annabeth smiled. She was ready to talk about a choice, not ask someone else to authorize it.
 
 Thalia Grace was on Half-Blood Hill, sitting under the pine, watching the sun go down. She heard Annabeth coming up the path two steps at a time.
 
@@ -374,7 +623,7 @@ Thalia sat up. "Okay. Spill. Do I need to kill someone?"
 
 Thalia waited. Thalia was good at waiting. She'd learned it from years of being the older sister, the one who stayed up while Annabeth had nightmares and didn't push, just left the light on and hummed until the breathing evened out.
 
-Annabeth took a deep breath. "Me and Percy — we want to have a proper kiss. Tonight. At sunset. On the dock."
+Annabeth took a deep breath. "Percy and I want an evening that's ours. We already kiss. But after the storm, I want a kiss without anyone in danger or a quest clock ticking. At sunset, on the dock, if we both still want that."
 
 Thalia blinked. Then she grinned, wide and helpless. "Oh, thank the gods. Finally, an actual plan."
 
@@ -416,7 +665,7 @@ Annabeth's eyes filled. "Really?"
 
 Annabeth laughed through tears. "I have it! Percy has it! We all have chapstick!"
 
-"Good. Now scram. I'll be — elsewhere. Definitely not watching. Definitely not hiding in the trees with binoculars like a creep."
+"Good. Now go have your evening. I'll be on the hill and I won't come down unless there's an actual patrol emergency."
 
 Annabeth narrowed her eyes. "Thalia."
 
@@ -431,7 +680,6 @@ Annabeth hugged her once more, hard, then ran down the hill toward the lake, pon
 Thalia watched her go, hand pressed to her chest, and whispered to the wind, to whoever was listening, "Be good to her, Seaweed Brain."
 
 ---
-
 Percy Jackson spent the hour before seven-thirty in a state of preparation that could only be described as military-grade panic.
 
 He showered. He changed his shirt — twice, because the first replacement also had pizza on it. He brushed his teeth until Grover, sitting on Percy's bunk, said, "Dude, your enamel's going to complain."
@@ -566,9 +814,9 @@ So they did it again, a second time, still sweet, a little less shaky, a little 
 
 When they pulled back, Annabeth tucked her head under his chin the way she had through their remembered years together, and Percy wrapped his arms around her, and they stood at the end of the dock wrapped up together while the sun sank the rest of the way and the first stars pricked through the eastern sky.
 
-"Do you think the betting pool is satisfied?" Percy murmured into her hair.
+"Are you glad we didn't have to explain ourselves to everybody?" Percy murmured into her hair.
 
-"I think Connor owes Travis five drachmas because we definitely had nervous laughter before," Annabeth said. "And someone definitely tripped — did you trip? I felt a trip."
+"Very." Annabeth smiled against his shoulder. "And you definitely tripped getting onto the dock. Did you trip on a nail?"
 
 "I tripped on a nail on the way in. Don't tell Clarisse. She'll make it a lesson."
 
@@ -582,59 +830,200 @@ Percy's throat closed. He held her tighter. "I love you too. You're my person to
 
 "And I'll never forget it."
 
+They sat side by side on the end of the dock until the last orange light had moved beyond the trees. Percy kept Annabeth's hand in his lap, turning her fingers gently when the breeze grew cold.
+
+"Can I tell you something?" she asked.
+
+"Always."
+
+"You don't need to be good at every new version of a thing we've already done."
+
+Percy looked at her. "What's that supposed to mean?"
+
+"You're acting like because we had years together before the rewrite, we should know exactly what we're doing now. We know each other. That isn't the same as knowing how every day in this life will feel."
+
+He thought about the spring dance and the hours he'd spent practicing a step that was supposed to be simple. He thought about the storm, when he'd tried to hold the water until his arms shook because his old memories told him he could endure more.
+
+"I guess I keep trying to prove we're still the same," he admitted.
+
+"Are we?"
+
+"Of course."
+
+Annabeth raised an eyebrow.
+
+He considered. "We're still us. But we're not the same age. We have different families here. You like a yellow ribbon now."
+
+"I liked yellow before."
+
+"See? I'm bad at knowing the difference."
+
+She smiled faintly. "Then ask."
+
+Percy looked toward the lake. "Do you ever wish we could go back to the other life for a day? Just to see Sally, the apartment, New Rome?"
+
+"Yes," she said immediately.
+
+The answer hurt less than he expected. He had been afraid she'd say it was wrong to want the impossible.
+
+"Me too."
+
+"I don't wish we had to give up the people here to get it," she added. "I want to remember what we had without pretending we don't have something worth choosing now."
+
+He looked at her. "Amphitrite likes you."
+
+"I know."
+
+"She gave you that pearl level in April."
+
+"And she didn't ask me to be a different person to deserve it."
+
+Percy smiled. His mother had raised him in the history other people remembered, and he was still learning the stories that belonged to that childhood. But the affection she showed Annabeth was something both of them had witnessed. It was theirs without any explanation of a lost timeline.
+
+"Thalia thinks you're going to move mountains," he said.
+
+"She thinks I'll design a better road around them."
+
+"That's more terrifying."
+
+Annabeth laughed. It was easy laughter now, nothing like the shaky sound she'd made after the storm. Percy felt some of his own tension leave him.
+
+"Do you want to go back to the cabin?" he asked.
+
+"Not yet."
+
+"Okay."
+
+They stayed quiet. Percy listened to the water, which had settled into ordinary small waves. He didn't move it. The repaired canoe rack held beside the shore, empty until the next morning. A week from now the camp would be busy again; new campers would arrive with lost backpacks and dangerous questions, and Chiron would ask the older children to help.
+
+"We should train the emergency signals before the next bad weather," Annabeth said.
+
+"We said we would."
+
+"Can we ask Clarisse and the rope crew tomorrow?"
+
+"Yes."
+
+She nodded. That was a promise with a day attached, not a grand speech. Percy liked it.
+
+He looked at her again. "You still glad we chose tonight?"
+
+"Yes."
+
+"Even though I tripped?"
+
+"Especially because you tripped and then laughed at yourself."
+
+He grinned. "Could we choose another night sometime?"
+
+"That's generally how dating works, Seaweed Brain."
+
+He leaned over and kissed her forehead. She squeezed his hand, and for a while they let the dock be a place where nothing had to be proved.
+
+When the evening bell sounded, Percy stood and offered Annabeth his hand. They walked back along the lit path together, talking about breakfast and whether the new campers would like the repaired bridge. At the fork he waited while she went toward Cabin One. He didn't feel as if leaving her there for the night weakened the promise they'd made to find one another across years and worlds.
+
+It meant they were living inside a camp with people they loved, in a life where tomorrow was allowed to arrive normally.
+
 ---
+At the edge of the woods, Thalia Grace heard a branch snap.
 
-Up in the treeline above the lake, half-hidden behind a pine with bark digging into her shoulder, Thalia Grace stood with her hands clamped over her mouth and tears running freely down her face.
+She had been walking the regular border route since sunset, checking the path near the lake. The dock was visible through a break in the trees. She could have stepped behind the pine and watched Percy and Annabeth sitting together. She knew that if she did, she would be able to tell them exactly when they'd held hands and whether they'd kissed.
 
-She had told herself she wouldn't watch. She had told herself she would give them privacy, be cool, be the chill older sister who trusted and waited on the hill.
+She stopped.
 
-She had lasted approximately four minutes on the hill before muttering, "I'm just going to make sure no monsters show up, that's a legitimate sister duty," and creeping down through the trees with all the stealth she had learned on camp patrols.
+Annabeth had asked for privacy. It was a simple request, one her sister had managed to turn into a joke about excellent vision and protective patrols. Thalia realized that she was a little ashamed of the joke now. She wasn't guarding against monsters at the dock. She was trying to reassure herself that the people she loved were happy, and she wanted to see the proof with her own eyes.
 
-Now she was crying so hard her shoulders shook.
+She turned away.
 
-She watched Percy take Annabeth's hands. She watched Annabeth laugh through tears. She watched the nose bump and the laughter and the two brief, sweet kisses backlit gold, and she pressed her fist to her mouth to keep from sobbing out loud and scaring them.
+Grover was coming up the path with Clarisse, Silena and Chris. They carried a box of tissues and a bag of popcorn.
 
-*That's my baby sister,* she thought. *Choosing her person. Safe and happy and thirteen.*
+"Please tell me you weren't going to watch them," Thalia said.
 
-She thought of carrying a six-year-old Annabeth on her back and promising, *I'll keep you safe until we find somewhere safe.* She thought of every thunderstorm they'd huddled through, every night she'd hummed until Annabeth slept. And here was Annabeth, safe, at Camp, at sunset, held gently by a boy with sea-green eyes and clammy hands who loved her with his whole enormous heart.
+Clarisse stopped. "No."
 
-Thalia cried harder.
+"You brought binoculars."
 
-A branch cracked behind her. She whirled, hand on her spear — and found Grover, Clarisse, Silena, and Chris crouched in the bushes behind her with a pair of binoculars, a box of tissues, and a bag of popcorn respectively.
+"Chris brought binoculars."
 
-"What are you guys doing here?" Thalia hissed. "Clarisse, you said no spying! You made it a military operation!"
+Chris tucked them behind his back. "For birdwatching."
 
-"I said no one follows them," Clarisse whispered back, eyes suspiciously bright. "This is overwatch. It's different. It's tactical."
+"At night."
 
-"You have popcorn!" Thalia accused.
+"Owls exist."
 
-"It's emotional support popcorn!" Chris whispered. "Silena, give her a tissue."
+Thalia looked at all four of them until nobody could keep a straight face.
 
-Silena, already crying, handed Thalia a tissue with a sob. "They tilted opposite! Did you see? They tilted opposite! Our babies! Our beautiful babies!"
+"Look," she said, "I know you're excited. I'm excited too. But Annabeth told me she wanted to be alone with Percy. She didn't ask us to stand in the bushes and make their evening into a show."
 
-"They held hands the whole time," Grover wept quietly. "Did you hear what he said? He chooses her every day — "
+Silena stared at the tissues in her hand. "I didn't think of it that way."
 
-"I heard," Thalia choked. "Shut up, I'm trying to be tough."
+"Neither did I, at first."
 
-"You failed," Clarisse said gruffly, swiping at her own eyes with the back of her hand. "We all failed. They're perfect. If anyone tells Jackson I cried I'll deny it and then I'll kill them."
+Grover looked toward the dock. "They've been together a long time. It's weird to act like this is the first time they've ever kissed."
 
-"Noted," Chris said, putting an arm around her.
+"Exactly," Thalia said. "They wanted a different kind of evening after the storm. They can have it without us collecting evidence."
 
-Down on the dock, Percy and Annabeth stood wrapped together against the sunset, laughing softly about something none of the watchers could hear. The lake glowed. The stars came out. The world, for once, was gentle.
+Clarisse took the binoculars from Chris and folded them. "Fine. We're going home."
 
-Thalia watched a moment longer, heart so full it hurt. Then she turned to the others, wiped her face fiercely, and whispered, "Okay. Retreat. Give them a minute. If anyone bothers them on the walk back, answer to me."
+"Thank you."
 
-They crept away through the pines together, five unlikely guardians, sniffing and smiling and shushing each other, leaving the dock to the two thirteen-year-olds who had chosen each other — not in desperation, not in a storm, but on purpose, at sunset, with nervous laughter and strawberry chapstick and love.
+They began walking uphill. Thalia stayed with them rather than waiting for a glimpse of the couple through the trees. She wanted her sister to know that the promise of privacy meant something, not merely that everybody had agreed to be quiet while watching.
 
-On the dock, Annabeth tilted her head up. "Do you hear something in the trees?"
+At the fork, Silena caught her sleeve.
 
-Percy listened. Branches. Sniffling. A whispered argument about popcorn.
+"Can I ask you something?"
 
-"Nah," he said, smiling. "Just the wind."
+"Sure."
 
-"Just the wind," Annabeth agreed, smiling too, leaning into him.
+"Do you think Annabeth will be disappointed if we don't ask her about it tomorrow?"
 
-And they stayed until the last gold faded from the water, holding hands, chosen and choosing, thirteen and brave and just beginning.
+Thalia thought about that. It was a strange problem: caring about someone meant wanting to share their happiness, but the same care could become pressure to explain every happy moment.
 
+"We can ask whether she had a good evening," Thalia said. "If she wants to tell us what happened, she'll tell us."
+
+"And if she doesn't?"
+
+"Then she doesn't."
+
+Silena smiled. "That's not terribly romantic."
+
+"It's more respectful than emotional support binoculars."
+
+Chris sighed. "I am never living those down."
+
+"Correct," Clarisse said.
+
+They passed the Big House, where Chiron was closing the last windows before the night chill. He asked whether the border route was clear.
+
+"Yes," Thalia said. "And the dock is occupied. Percy and Annabeth have permission to stay until the evening bell. There's no reason to send anyone down there unless they ask for help."
+
+Chiron nodded. "Then we will leave them to it."
+
+Thalia felt the old urge to return to the hill and make sure Annabeth was safe. She let the urge pass. Percy knew the lake; Annabeth knew the paths; the camp border was watched. Neither of them needed Thalia to decide how long a kiss should last.
+
+She went to Cabin One and set the patrol lantern by the door. On Annabeth's bed a book lay open beside a folded drawing of the new camp infirmary signs. Her sister had spent the morning making those signs readable for younger campers. The ordinary evidence of her life was all around Thalia. She didn't need to see the private parts to know Annabeth had built a place for herself.
+
+Thalia sat on her own bunk and opened the letter from Jason she'd been meaning to answer. He had asked whether she still wanted to propose a smaller sibling visit before committing to the weekend at Beryl's house.
+
+She took out a pen.
+
+*Yes*, she wrote. *Let's ask Annabeth when she gets back. I don't want to decide for her. And I'd rather see you first someplace we can all leave when we're ready.*
+
+She folded the letter and set it beside the lantern. The hardest part of being an older sister, she thought, was learning that protection could mean doing nothing after checking that nothing needed to be done.
+
+Later Annabeth came through the cabin door smiling. Thalia looked up from her book.
+
+"Good evening?" she asked.
+
+"Good evening," Annabeth said.
+
+"Want to talk?"
+
+"Not yet."
+
+"Okay."
+
+Annabeth changed into comfortable clothes and sat on her own bunk, still smiling. Thalia returned to her book. They didn't need a report. They were sisters, and tomorrow there would be other things to say.
+
+At the dock, far beyond the line of trees, Percy and Annabeth stayed until the last gold faded from the water, holding hands, choosing to spend an ordinary evening together without an audience.
 ---
-

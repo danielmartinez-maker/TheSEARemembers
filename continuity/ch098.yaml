@@ -1,0 +1,146 @@
+chapter: 98
+title: "Fathers' Day (Gods)"
+source: "chapters/098-fathers-day-gods.md"
+status: "revised; 10,121 body words; local and hosted QA passed on 1243faf"
+chronology:
+  relative_time: "Friday morning letters through Saturday evening barbecue and departures. Exact calendar date/year and gap to Chapter 099 are unknown."
+  season: "Warm weather as shown; no exact month is stated."
+  sequence: "Poseidon and Zeus invite the children to a joint meal. Friday's planning keeps the camp map and family conversations bounded. On Saturday the fathers arrive by sea and sky, the meal is served with safety adjustments, and each child chooses how to engage. The fathers depart separately."
+pov: "Percy Jackson, third-person limited"
+scene_locations:
+  - "Big House porch"
+  - "Big House rec room"
+  - "Camp green and pavilion"
+  - "Beach path above the shoreline"
+participants:
+  primary: ["Percy", "Annabeth", "Thalia", "Clarisse", "Silena", "Poseidon", "Zeus"]
+  other: ["Triton", "Tyson", "Chiron", "Will", "an Apollo counselor", "a Hephaestus counselor", "unnamed campers"]
+  offstage: ["Amphitrite"]
+preceding_scene_verified:
+  chapter: 97
+  locator: "chapters/097-the-map.md, final rec-room trial scene"
+  context: "The public first-edition survey is on a one-week Big House rec-room trial. The north trail remains closed; the dock's third board still flexes; the wide photo for Amphitrite is approved but not shown as sent."
+following_scene_verified:
+  chapter: 99
+  locator: "chapters/099-mothers.md, opening scene"
+  context: "Late August opening; Percy wakes before the conch and misses Sally. Tyson is on a forge break. The exact elapsed time from Chapter 098 and whether it is the same forge leave are unknown."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 98
+    earned_trust_or_conflict:
+      - "Established partners; they choose to tell Poseidon and Zeus together that they are a couple."
+      - "They ask for no vote or blessing."
+    what_each_remembers_firsthand:
+      - "Current Friday planning and Saturday meal."
+      - "Each retains autobiographical erased-life memories; these remain private between them."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "No erased-life autobiographical detail is disclosed to any father or sibling."
+    new_change_this_chapter: "Both fathers hear the current relationship named directly."
+    future_callback_required: "Do not imply Zeus, Poseidon, Thalia, Triton, Silena, Clarisse or Amphitrite knows the erased-life memories."
+  - pair: "Thalia / Zeus"
+    last_shared_scene_chapter: 98
+    earned_trust_or_conflict:
+      - "Thalia says Zeus's changing face and repeated questions make visits feel like restarts."
+      - "Zeus says he can identify himself and ask before starting a conversation."
+    what_each_remembers_firsthand:
+      - "The current Saturday conversation and prior visits they personally shared."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Thalia states a concrete boundary; no reconciliation or dated return is established."
+    future_callback_required: "Zeus's next guise still changes. Do not convert his words into proof that he visits consistently."
+  - pair: "Clarisse / Poseidon"
+    last_shared_scene_chapter: 98
+    earned_trust_or_conflict:
+      - "Clarisse tells Poseidon her firsthand memory of his roughly ten-minute visit when she was eight, his shield-arm criticism, and her crying after he left."
+      - "Poseidon apologizes; Clarisse does not accept a hug."
+    what_each_remembers_firsthand:
+      - "Clarisse remembers the visit. Poseidon remembers arriving and seeing her drill, but not the words he used."
+    what_each_knows_secondhand:
+      - fact: "Clarisse had already told Percy and others the story in Chapter 023."
+        source: "Percy recalls the Chapter 023 kitchen conversation in this scene."
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Poseidon says he will ask the next morning whether Clarisse wants him at training; her answer is not shown."
+    future_callback_required: "Do not report a completed training visit or healed relationship."
+  - pair: "Silena / Poseidon"
+    last_shared_scene_chapter: 98
+    earned_trust_or_conflict:
+      - "Silena chooses menu-board work and says she will decide whether to talk more."
+      - "She refuses to mediate between Poseidon and Clarisse."
+    what_each_remembers_firsthand:
+      - "The current meal, menu work and boundary conversation."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Poseidon helps wipe the board after asking; Silena accepts a handshake at departure."
+    future_callback_required: "No future conversation or forgiveness is promised."
+  - pair: "Tyson / Poseidon"
+    last_shared_scene_chapter: 98
+    earned_trust_or_conflict:
+      - "Tyson explains his bronze hinge revision and its seven tests."
+      - "Poseidon asks questions without taking over the work."
+    what_each_remembers_firsthand:
+      - "The explanation at the meal."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Tyson asks Poseidon to hear the hinge click on a later forge visit; no date is set."
+    future_callback_required: "The brief napkin sketch was erased and no physical drawing remains."
+  - pair: "Annabeth / Zeus"
+    last_shared_scene_chapter: 98
+    earned_trust_or_conflict:
+      - "Annabeth shows Zeus only the public survey and explains its trial status and limitations."
+      - "She says she does not remember the childhood Thalia remembers and wants Zeus to ask about her current life."
+    what_each_remembers_firsthand:
+      - "The current map conversation and meal."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other:
+      - "Zeus does not receive the private field notebook or erased-life memory."
+    new_change_this_chapter: "Zeus acknowledges the survey's public scope and asks before sitting with his daughters."
+    future_callback_required: "Do not treat the one visit or meal as a repair of Zeus's neglect."
+items_promises_injuries:
+  - item_or_event: "Annabeth's camp survey"
+    owner_or_people: ["Annabeth", "Camp Half-Blood reviewers"]
+    last_seen_chapter: 98
+    current_status: "Public first edition remains in the Big House rec room for a one-week trial with a separate correction card."
+  - item_or_event: "North-trail brace inspection"
+    owner_or_people: ["Clarisse", "Chiron", "two unnamed counselors"]
+    last_seen_chapter: 98
+    current_status: "Still closed pending inspection; no result or reopening is shown."
+  - item_or_event: "Third shoreline dock board"
+    owner_or_people: ["Annabeth", "Percy", "camp reviewers"]
+    last_seen_chapter: 98
+    current_status: "Still flexes; no one uses it and no repair is shown."
+  - item_or_event: "Chiron's ramp route"
+    owner_or_people: ["Chiron", "Annabeth"]
+    last_seen_chapter: 98
+    current_status: "One dry-weather test for Chiron's chair only; not a universal certification."
+  - item_or_event: "Thalia's right palm"
+    owner_or_people: ["Thalia", "Will"]
+    last_seen_chapter: 98
+    current_status: "Still wrapped and not cleared for sparring or bracing. Will's next check is pending."
+  - item_or_event: "Clarisse / Poseidon training conversation"
+    owner_or_people: ["Clarisse", "Poseidon"]
+    last_seen_chapter: 98
+    current_status: "Poseidon says he will ask the next morning whether she wants him to watch; no visit or answer is shown."
+  - item_or_event: "Tyson's hinge demonstration"
+    owner_or_people: ["Tyson", "Poseidon"]
+    last_seen_chapter: 98
+    current_status: "Tyson asks Poseidon to hear the hinge click on a later forge visit; no date is booked. Temporary napkin drawing was erased."
+unresolved_tensions:
+  - "Poseidon's apology does not resolve the brief childhood visit Clarisse remembers."
+  - "Silena's future contact with Poseidon is up to her."
+  - "Thalia says the visit does not repair Zeus's history of neglect."
+  - "The one-week map trial, north-trail inspection, dock repair, strawberry alternate path and missing Cabin Six window remain open."
+  - "The exact date/year and gap to Chapter 099 remain unknown; Tyson's later forge leave may be a separate visit."
+open_canon_questions: []
+qa:
+  prior_entrances_checked: true
+  previous_titles_and_nicknames_checked: true
+  first_vs_secondhand_knowledge_checked: true
+  gifts_promises_injuries_carried_forward: true
+  prior_life_memory_boundary_checked: true
+  adjacent_chapters_checked: true
+  original_source_anchors_recorded: true
+  chapter_length_pass: true
+  duplicate_scan_pass: true
+  manuscript_structure_pass: true
+  character_memory_regression_pass: true

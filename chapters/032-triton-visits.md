@@ -1,12 +1,8 @@
 ## Chapter 32: Triton Visits
 
-The morning Triton came to Camp Half-Blood, the canoe lake was doing something wrong.
+On the morning Triton came to Camp Half-Blood, Percy found the canoe lake unnaturally smooth. He stood at the dock in a hoodie and sneakers, watching the surface hold still beneath the gulls. The color had shifted too, from the lake's usual green to the trench blue Percy knew from a mile beyond the continental shelf.
 
-Percy noticed it before breakfast, down at the canoe lake dock with nothing but a hoodie and his sneakers going soggy at the edges. The water was too flat. Not calm-flat, like after a storm passes. Flat like someone had pressed glass over the top of it. No ripple. No gull chop. And the color was wrong too, that deep trench blue you only get a mile out past the shelf, not in a lake that’s usually green and full of naiad gossip.
-
-Then it stood up.
-
-Not a wave. A column. A pillar of water about ten feet tall rose straight out of the middle of the canoe lake without splashing, and inside it, arms crossed and looking extremely annoyed about being damp in the wrong kind of water, was a guy with sea-green eyes and black hair tied back and armor made out of abalone shell.
+The middle of that glassy surface rose without a splash. Water lifted into a ten-foot column, and Triton stood inside it with his arms crossed, annoyed to be damp in the wrong kind of water. His black hair was tied back, his eyes sea-green, his armor made of abalone shell.
 
 “Perseus,” he said, in a voice that echoed off the water. “You were supposed to meet me at the shore. Father drew you a map.”
 
@@ -124,7 +120,7 @@ Triton looked again. Percy was listed as twelve years old, which he knew, and as
 
 "At some forms of water control he is very experienced. At other skills, especially the surface systems we teach here, he is still learning. That's why the instructors assess the activity rather than assuming one title qualifies him for everything."
 
-Triton was about to object. He'd seen Percy move through the reef passages in Atlantis with instincts older than the boys who were celebrated at formal demonstrations. He also knew the boy had arrived in the palace with memories he could not explain, and was still piecing together skills his body sometimes remembered more readily than his mind.
+Triton was about to object. He'd seen Percy move through the reef passages in Atlantis with instincts older than the boys who were celebrated at formal demonstrations. He also knew Percy had gaps in the palace childhood Triton described to him, and was still trying to fit those stories beside skills his body sometimes found before he could name them.
 
 "What exactly does the lesson cover?" he asked.
 
@@ -214,7 +210,7 @@ The circle that formed was instant. Word travels fast at camp — *new godling i
 
 Annabeth slid in next to Percy on the front bench, notebook already open. Thalia dropped down behind them, boots up, lightning crackling faintly around her bracelet. Even Mr. D paused his pinochle game on the porch to watch.
 
-Chiron trotted into the center, tail swishing. “Rules,” he said sternly. “Sparring blades only. First to three touches. No godly powers. Triton, that means no calling water. Clarisse, that means no — ”
+Chiron trotted into the center, tail swishing. “Rules,” he said sternly. “Sparring blades only. First to three touches. A simultaneous hit is a draw. No godly powers. Triton, that means no calling water. Clarisse, that means no — ”
 
 “Yeah, yeah, no cheap shots on the guest,” Clarisse muttered, lowering her spear to salute position. “Spoilsport.”
 
@@ -249,6 +245,8 @@ Clarisse fought like a wildfire — aggressive, pressing, shield-first, using he
 Second touch went to Clarisse after a brutal shield rush that sent Triton skidding five feet in the dirt. Third touch — a draw, both blades landing at the same instant, chest to chest — had the whole arena on its feet shouting.
 
 They stood there panting, swords locked, faces six inches apart, both grinning like maniacs.
+
+Chiron blew his whistle. “Clean draw. Neither of you reached three; the match stops here.”
 
 “You’re good,” Clarisse said grudgingly.
 
@@ -482,7 +480,7 @@ Triton was quiet for a long moment. The bravado slipped. “Cold,” he said fin
 
 Thalia nodded slowly. She understood that kind of parental lie. She’d lived it.
 
-“He’s a good kid,” she said. “Brave. Loyal to a fault. Annoying kid when he wants to be, but he shows up when it counts.”
+“He’s a good kid,” she said. “Brave and loyal to a fault, annoying when he wants to be, but he shows up when it counts.”
 
 “He is small,” Triton said fondly. “When he was seven he tried to ride a dolphin backwards and fell off and cried and then punched a shark that laughed at him.”
 
@@ -816,7 +814,7 @@ They surfaced together under the moon, treading water, hair slicked back, grinni
 
 Percy laughed, then sniffed. The salt water stung his eyes. Or something did.
 
-“I’ll come visit Atlantis soon,” he promised. “When… when things calm down. I want to see Mom — Amphitrite. And the whale. Is the whale still in my nursery?”
+“I’ll come visit Atlantis soon,” he promised. “When… when things calm down. I want to see Mom again. And the whale. Is the whale still in my nursery?”
 
 “The whale is enormous now and still sleeps in your old crib and refuses to move. We have built around him.”
 
@@ -832,7 +830,7 @@ Finally Triton sighed. “We should go in. You need sleep. You have training tom
 
 “You’re on, barnacle.”
 
-They shot toward the beach side by side — two streaks of glowing water, two sons of the sea, one remembering the palace they had both grown up in, one carrying an erased apartment childhood too, meeting in the middle in moonlit water off Long Island — and if you’d been watching from the dunes, you’d have sworn the sea itself lifted to push them both home.
+They shot toward the beach side by side — two streaks of glowing water, two sons of the sea. Triton carried memories of growing up in the palace; Percy remembered Sally’s apartment from the life he and Annabeth had lost, and knew the palace only through what his family had told him. In the moonlit water off Long Island, the brothers met in a new place they had chosen together. From the dunes, it might have looked as if the sea had lifted to push them both home.
 
 Percy won by a nose. Or Triton let him win. No one will ever know, and both will lie about it forever.
 
@@ -868,11 +866,25 @@ Percy looked at the folded report. At court, he had learned that adults could ta
 
 "They do."
 
-Triton hesitated. "I also mentioned that you don't always recall the routines we used to practice together. I didn't ask her to arrange more tests. I thought she should know we spoke about it."
+Triton hesitated. "I left our old routines out of the report. I didn't ask her to arrange anything else."
 
 Percy nodded slowly. He remembered the swim they'd taken under the stars and how easy it had felt when Triton stopped asking him to describe a childhood he couldn't see.
 
 "Thanks," he said. "I like hearing the stories. Sometimes I want them to be stories, not questions."
+
+"Do you want to see what I wrote?" Triton asked.
+
+Percy nodded. Triton loosened the pouch cord and held out the folded pages. The report said Percy liked training, even when he complained, and that Clarisse and Silena took their cabin responsibilities seriously. It left out their old routines, the swim under the stars and the questions Percy couldn't answer.
+
+"That sounds right," Percy said.
+
+"If there's something you want me to add, tell me."
+
+Percy read it again. He wanted Amphitrite to know he was managing and his sisters were there. He did not want every close moment turned into proof of gratitude, or every silence into a problem to fix. "This is enough for now."
+
+Triton nodded and folded the report. "Then I'll send it as written."
+
+Percy returned the pages. Something in his chest eased. He could choose which stories traveled home, one at a time.
 
 "I understand. Better than I did when I arrived."
 
@@ -886,7 +898,7 @@ Percy opened it. The pages were empty.
 
 "I considered it. Then Silena told me you have enough things people expect you to study."
 
-Percy laughed. He tucked the notebook beneath his arm and promised to write when he'd filled a few pages. Triton didn't ask him to report on a fixed schedule. They agreed to send letters through the palace courier whenever the route allowed it.
+Percy laughed. He tucked the notebook beneath his arm and promised to write when he'd filled a few pages. Triton told him Amphitrite had proposed one letter every fortnight when the palace route was open, with a monthly Iris-message if both ends could arrange it. Percy agreed to the letter rhythm and said he'd decide about each Iris-message when it was offered. Triton welcomed extra notes but did not ask him to report on a schedule or wait by the lake.
 
 As his elder brother stepped toward the water, Percy thought about the ways he belonged to both households. He did not have to restore every lost memory before he was allowed to care about either. Triton had come to see him, argued with his sisters, lost a practice match and learned how a borrowed cloak was returned. Those were new memories they could share without requiring the old ones to come back.
 

@@ -6,7 +6,7 @@ The first person to knock on Zoe's door that morning was Tomas. He was carrying 
 
 "Which numbers?"
 
-"Who watches which route. Nico said somebody had written two people into the same place and nobody into the west crossing."
+"Who watches which route. Nico found two people assigned to one post and nobody at the west crossing. I checked it against yesterday's sheet before I came. The correction is on the back." Tomas had not simply repeated a worry. He had done a second count when every older camper was busy making plans for the sky.
 
 Zoe took the cards. She had checked the assignments the previous afternoon, but a late request from the infirmary had changed the list. The west crossing was indeed unassigned. She could have found the mistake in another hour of paperwork. She was grateful Tomas had noticed before the eclipse began.
 
@@ -18,7 +18,7 @@ Zoe took the cards. She had checked the assignments the previous afternoon, but 
 
 "So I came here."
 
-Zoe sent him to get breakfast before she would discuss the cards further. He argued that he wasn't hungry, then ate the piece of bread she'd placed beside her notebook while continuing to object. She hadn't expected to spend the morning chasing children into ordinary routines when the Hall might behave unpredictably. That made it exactly the sort of morning she should have expected.
+Zoe sent him to get breakfast before she would discuss the cards further. He argued that he wasn't hungry, then ate the bread she'd placed beside her notebook while continuing to object. She'd promised to tell him if she left camp for winter rather than simply vanish. For now that meant letting him help with the sort of work he could safely finish and making sure he ate before the eclipse, even when she was frightened enough to skip her own meal. She hadn't expected to spend the morning chasing children into ordinary routines when the Hall might behave unpredictably. That made it exactly the sort of morning she should have expected.
 
 Mara arrived with the forge checklist and a small wooden box containing the sealed test strips. They had no intention of using the strips on the live ward. They were included because the team wanted an intact record of which independent control tests had been completed before any intervention.
 
@@ -88,9 +88,7 @@ Only when the equipment had been signed back into the observation log did Zoe pe
 
 ---
 
-Eclipse morning arrived clear and cold.
-
-Percy woke before the conch. Clarisse had already pulled on her boots; Silena stood beside the door with a bundle of clean towels and the expression she wore when someone was about to make a preventable mess.
+Percy woke before the conch on a clear, cold eclipse morning. Clarisse had already pulled on her boots; Silena stood beside the door with a bundle of clean towels and the expression she wore when someone was about to make a preventable mess.
 
 "Infirmary supplies," she told him.
 
@@ -116,23 +114,19 @@ Percy dressed and found the two of them inspecting a wooden board propped agains
 
 "And if something happens while you're away?"
 
-Clarisse looked at the assignment sheet. There were not enough senior campers for every route to have a familiar face at both ends. Percy understood the problem. They had built a plan around the idea that everyone would reach the pavilion before the eclipse. If anyone was delayed, the last person on the path might be on their own.
+Clarisse looked at the assignment sheet. There weren't enough senior campers for every route to have a familiar face at both ends. They'd planned around everyone reaching the pavilion before the eclipse; a delay could leave the last person on the path alone.
 
-"I can take the western turn," he offered.
+"I can take the western turn," Percy offered.
 
 Silena shook her head. "You're assigned to the pavilion group. The counselors asked you to help account for the younger swimmers because you know who can handle the water crossings."
 
 "I can still be useful over there."
 
-"That's not the point. The point is that we can't build a route around you and then move you every time a problem appears."
+"That's not the point. We can't build a route around you and then move you every time a problem appears."
 
-Clarisse set down the chalk. She didn't look pleased, but she didn't argue.
+Clarisse set down the chalk. She didn't look pleased, but she didn't argue. "Fine. I'll stay at the west crossing. Bea can take the upper path. Percy stays at the pavilion, and the younger campers can be counted before they move."
 
-"Fine," she said. "I'll stay at the west crossing. Bea can take the upper path. Percy stays at the pavilion, and the younger campers can be counted before they move."
-
-Silena wrote the changes on the board, then made each of them read the assignment aloud. Percy tried to joke about being tested on a schedule, but she ignored him.
-
-"I want us to know where to find one another if the light changes," she said. "If the Hall starts making noise, we don't go chasing whoever isn't in sight. We report the missing person to Chiron."
+Silena wrote the changes on the board, then had each of them read the assignment aloud. "I want us to know where to find one another if the light changes. If the Hall starts making noise, we don't run after anyone who's out of sight. We report them to Chiron. We have enough people to get everyone to the pavilion if we keep the counts accurate; we don't have enough to send everyone running off on separate rescues." She boxed Percy's name and left the pencil beside it. She wasn't trying to keep him from Annabeth; she wanted his promise to the other children to mean something.
 
 Clarisse looked at Percy. "And if you decide to be helpful by running into the building, I will personally make your chores so bad you'll miss the infirmary."
 
@@ -382,7 +376,7 @@ A girl from Hermes cabin pointed toward the Hall. "There's lightning inside."
 
 "Then his crew leader knows where he's assigned. We're going to the assembly point, and I'll have someone check the crew log."
 
-The girl wanted to argue, but Clarisse put her hand on the girl's shoulder and walked her back to the group. Panic had a way of making ordinary routes seem impossible. She had been thirteen long enough to know how humiliating it felt when an older camper treated fear as childish. She refused to be gentle in a way that made them feel stupid.
+The girl wanted to argue, but Clarisse put a hand on her shoulder and walked her back to the group. She knew how easily somebody could mistake an order to stay put for indifference. It was why she'd told Percy to report missing people before leaving the evacuation line. The rule was harder to follow when the missing person mattered to you, and that was precisely when they needed it. Panic had a way of making ordinary routes seem impossible. She had been thirteen long enough to know how humiliating it felt when an older camper treated fear as childish. She refused to be gentle in a way that made them feel stupid.
 
 At the bend by the infirmary, they met Silena coming the other way with the revised count. She had been helping a limping camper from Apollo reach the porch and was still carrying an empty water pouch.
 
@@ -780,39 +774,25 @@ Silena had already gone back to stores. There were dressings to inventory and la
 
 Percy sat on the step beside her.
 
-"Are you going to yell?"
+"Are you going to yell?" Percy asked.
 
-"Not yet. I'm deciding what to yell about."
-
-"That sounds promising."
-
-She placed the clipboard between them. The final count contained the names of every camper who had reached the Big House safely. Below the last line was a separate list of counselors and staff who had remained on duty near the Hall.
-
-"That's your group," Clarisse said, pointing to a checked entry. "You were supposed to help Silena count them before we moved anyone."
+"Not yet. I'm deciding what to yell about." Clarisse set the clipboard between them and pointed to his checked entry. "This was your group. You were supposed to help Silena count everyone before we moved."
 
 "I know."
 
 "Then why were you inside the building?"
 
-"Thalia went toward the door, and it looked like she was going to get hurt. Chiron called us over when the ward started drawing in pressure. I thought I could help keep the water off the floor."
+"Thalia went toward the door, and it looked like she was going to get hurt. Chiron called us over when the ward started drawing in pressure. I thought I could keep the water off the floor."
 
-"You did help with the water. That's not the question."
+"You did help with the water. That's not what I'm asking." Clarisse tapped the clipboard. "Did you check whether Silena still had enough people to move the pavilion group? Did you tell your counselor where you were going?"
 
-Percy looked at her. He had been waiting for somebody to say that his contribution justified the decision. Clarisse refused to give him the easy version.
+"No. I didn't check her count or tell the counselor. I only told you I'd stay with Chiron."
 
-"Did anyone check whether Silena still had enough people to move the pavilion group when you left?" she asked.
-
-"I didn't."
-
-"Did you tell your counselor where you were going?"
-
-"No. I told you I'd stay with Chiron."
-
-"Which is not where you were assigned."
+"Which wasn't where you were assigned."
 
 He turned the pencil over in his hands. "You're right."
 
-"I know I'm right. I had twelve children on the path, one fallen post and a little girl who thought her brother was still in the building. I didn't have time to count you missing as well. Silena had to do your part of the headcount while she was already managing two other groups."
+"I know I'm right. I had twelve children on the path, a fallen post, and a girl who thought her brother was still in the building. I didn't have time to count you missing too. Silena did your headcount while she was already managing two other groups." Clarisse touched the edge of the clipboard. She had called him *little brother* without planning to, and she was learning how inconvenient it was to mean it. "You taught me you would show up when you said you would. That's what I believed this morning."
 
 Percy thought of Silena with the clipboard, correcting his invented quantities when he was too tired to think. He had promised her that morning to remain at the pavilion. She would have trusted him to be there until somebody officially changed his assignment.
 

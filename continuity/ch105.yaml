@@ -1,0 +1,120 @@
+chapter: 105
+title: "The Place at the Table"
+source: "chapters/105-the-place-at-the-table.md"
+status: "expanded; 10,033 body words; repository word-count audit passed"
+chronology:
+  relative_time: "After Chapter 104's Montauk date and dinner. Exact calendar date, day, year, and elapsed interval remain unknown."
+  sequence: "After-dinner Cabin Three invitation; walk to the western-bluff beach; lantern, carved figures, toast, cocoa, and Percy-Clarisse shore walk; return to Cabin Three with figures; Percy and Annabeth walk toward Cabin One and part for the night; Percy returns Clarisse's wrapped bronze knife to her before bed."
+  adjacent_gaps: "Chapter 104 closes at dinner after the date. Chapter 105 begins after dinner. Chapter 106 opens when Clarisse notices the lake go quiet before Poseidon's arrival; no exact gap, calendar day, or date is established between these events."
+pov: "Percy Jackson, third-person limited throughout. Other characters' motives and feelings are reported through their speech, visible choices, and Percy's interpretations; no scene shifts viewpoint."
+scene_locations:
+  - "Poseidon cabin doorway and path to the beach"
+  - "Empty beach below the western bluff, lantern area and waterline"
+  - "Path back to the cabins"
+  - "Cabin Three exterior and common space"
+  - "Path toward Cabin One"
+participants:
+  primary: ["Percy", "Clarisse", "Silena", "Annabeth"]
+  other: []
+  offstage: ["Thalia", "Chiron", "Poseidon", "Amphitrite", "Triton", "Jason", "Tyson"]
+preceding_scene_verified:
+  chapter: 104
+  locator: "chapters/104-a-day-that-was-theirs.md, camp gate and dinner close"
+  context: "Percy and Annabeth return from their Montauk date four minutes after the stated camp return time. Clarisse and Thalia were at the gate; Silena saved food. Clarisse's wrapped bronze knife was lent for the date and no return was shown in Chapter 104."
+following_scene_verified:
+  chapter: 106
+  locator: "chapters/106-the-visit-that-wasnt-a-test.md, opening lake-quiet scene"
+  context: "Clarisse notices the lake become quiet before Poseidon arrives. Chapter 105 creates no new appointment, invitation, overnight arrangement, or promise involving Poseidon. The interval between chapters remains unspecified."
+relationship_memory:
+  - pair: "Percy / Annabeth"
+    last_shared_scene_chapter: 105
+    earned_trust_or_conflict:
+      - "They remain established partners. They share the Montauk date in Chapter 104 and a later group beach evening in Chapter 105; neither is presented as a first courtship."
+      - "They hold hands, share affectionate contact, and privately affirm they want to keep building current-timeline experiences together."
+      - "Annabeth chooses what to share with Thalia, including a possible report about the owl; she keeps the postcard and private details at her discretion."
+      - "Percy recognizes he can tell Annabeth his worry and let her decide; Clarisse reminds him not to decide what Annabeth can handle or imply that she needs Clarisse's permission."
+    what_each_remembers_firsthand:
+      - "The Montauk date from Chapter 104 and this evening's beach gathering, conversation, and walk."
+      - "Only Percy and Annabeth retain autobiographical memories of the erased future. This chapter does not transfer those memories to anyone."
+    what_each_knows_secondhand:
+      - "Clarisse and Silena hear selected ordinary details about the Montauk date; they did not attend it."
+    private_facts_not_known_to_other:
+      - "No erased-future disclosures are made to Clarisse or Silena. Percy and Annabeth keep private details of their relationship and correspondence to themselves unless they choose to share them."
+    new_change_this_chapter: "Their present relationship gains a group evening that includes Clarisse and Silena without making the siblings responsible for validating or supervising it."
+    future_callback_required: "Keep the Montauk date and this beach evening distinct. Preserve Annabeth's choice over the postcard and what she reports to Thalia."
+  - pair: "Percy / Clarisse"
+    last_shared_scene_chapter: 105
+    earned_trust_or_conflict:
+      - "They speak directly about Percy not remembering the altered-history childhood Clarisse remembers; Clarisse can be annoyed about that gap without assigning blame, and Percy does not claim memories he lacks."
+      - "Clarisse says Percy is her brother even without his remembering every day they grew up together. Percy accepts their current sibling relationship without pretending to share those childhood memories."
+      - "Clarisse gives practical feedback about Percy over-interpreting Annabeth's choices and checking Clarisse's reaction instead of listening to Annabeth. Percy accepts the correction."
+      - "Clarisse asks Percy and the others to join her beach outing and shares her carving project. The conversation does not resolve broader Poseidon-family history."
+    what_each_remembers_firsthand:
+      - "This chapter's invitation, walk, carving discussion, toast, conversation, and return."
+      - "Clarisse remembers giving Percy the carved panther months earlier; she has refined its wings and brought it with the four figures."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Clarisse states directly that Percy is her brother while accepting that he lacks firsthand recall of their altered childhood. Percy hears her corrections without being asked to solve or erase her feelings."
+    future_callback_required: "Do not reset their sibling familiarity or give Percy fabricated altered-childhood memories. Clarisse's resentment and efforts to include Percy remain real and unresolved."
+  - pair: "Clarisse / Silena"
+    last_shared_scene_chapter: 105
+    earned_trust_or_conflict:
+      - "Silena asks before assisting with Clarisse's figures, listens when Clarisse declines, and offers her own preference about the sea-horse carving and cocoa."
+      - "Clarisse asks Silena what she wants and accepts that she may decide after thinking; they do not resolve every difference."
+      - "Silena brings a lantern, cocoa, cups, and napkins; Clarisse creates the carving set and controls how the figures are arranged and stored."
+    what_each_remembers_firsthand:
+      - "Their shared beach invitation, arrangement of the figures, conversation, and walk back."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "The sisters share practical work while Clarisse retains authorship of her carvings and Silena states her own preferences."
+    future_callback_required: "Keep Clarisse and Silena distinct; Silena's support is chosen and does not make her a default caretaker or mediator."
+  - pair: "Clarisse / Annabeth"
+    last_shared_scene_chapter: 105
+    earned_trust_or_conflict:
+      - "Clarisse includes Annabeth in the beach invitation and makes the owl carving for her; Annabeth accepts it and says she wants to be included as Clarisse's friend without pretending to be a Poseidon sibling."
+      - "Annabeth and Clarisse coordinate around the lantern and discuss how Annabeth's choices do not require Clarisse to guard or authorize her."
+    what_each_remembers_firsthand:
+      - "Their shared evening, carving exchange, and direct conversation."
+    what_each_knows_secondhand: []
+    private_facts_not_known_to_other: []
+    new_change_this_chapter: "Their chosen friendship gains an explicit invitation and handmade owl carving; Clarisse is not recast as Annabeth's biological sister or guardian."
+    future_callback_required: "Annabeth remains a Zeus/Grace sibling, Percy’s partner, and Clarisse's friend by choice."
+items_promises_injuries:
+  - item_or_event: "Clarisse's carved figures"
+    owner_or_people: ["Clarisse", "Percy", "Silena", "Annabeth"]
+    last_seen_chapter: 105
+    current_status: "The sea horse, ship, and owl remain on the Cabin Three common table. The panther is Percy's prior gift and is returned to his shelf at chapter close. Clarisse has not chosen a permanent arrangement for the remaining shared figures."
+  - item_or_event: "Montauk postcards"
+    owner_or_people: ["Annabeth", "Percy"]
+    last_seen_chapter: 105
+    current_status: "Annabeth keeps the harbor card for Thalia and the cove-map card for possible cabin display. She postpones giving Thalia's card until the next day; Chiron has not approved displaying the cove map."
+  - item_or_event: "Clarisse's bronze knife"
+    owner_or_people: ["Clarisse", "Percy"]
+    last_seen_chapter: 105
+    current_status: "Percy returns the wrapped knife to Clarisse after the beach gathering; she accepts it."
+  - item_or_event: "Percy's clam postcard"
+    owner_or_people: ["Percy"]
+    last_seen_chapter: 105
+    current_status: "Percy keeps the clam postcard Annabeth gave him inside its paper sleeve and carries it to his shelf with Clarisse's panther carving. The shell they saw at Montauk remains there as Percy and Annabeth chose."
+  - item_or_event: "Lantern and cocoa"
+    owner_or_people: ["Silena", "Clarisse"]
+    last_seen_chapter: 105
+    current_status: "Silena brings the lantern, thermos, and cups. They remain beach supplies; no new promise or future outing is scheduled."
+unresolved_tensions:
+  - "Exact date, year, season, and day are unknown; Chapter 106's interval remains unknown."
+  - "Clarisse's feelings about the broader Poseidon-family history remain unresolved; this chapter only establishes current sibling interaction and her inclusion of Percy."
+  - "The sea horse, ship, and owl remain on the common table; Clarisse has not chosen their permanent arrangement. Percy returns his own panther to his shelf with the clam postcard. The shell Percy and Annabeth chose to leave at Montauk is not brought to camp."
+  - "Annabeth defers giving the harbor postcard to Thalia until she decides the next day; Chiron's approval to display the cove-map postcard remains pending."
+open_canon_questions: []
+qa:
+  prior_chapter_close_checked: true
+  following_chapter_open_checked: true
+  original_life_memory_boundary_checked: true
+  witnessed_vs_reported_checked: true
+  gifts_promises_injuries_carried_forward: true
+  chapter_length_pass: true
+  duplicate_scan_pass: false
+  manuscript_structure_pass: false
+  character_memory_regression_pass: false
+  whitespace_check_pass: true
+  hosted_actions_status: "Not run for this local expansion."

@@ -18,7 +18,7 @@ Mrs. O'Leary, his huge hellhound, thumped her tail against the dock planks and w
 
 Mrs. O'Leary sneezed.
 
-Before the first dance this spring he had crouched on this exact dock and panicked for three days about asking Annabeth to the Spring Dance. He had forgotten speeches. He had knocked over nectar. He had needed Clarisse La Rue to teach him a box step in secret in the archery range while threatening him with boots. He had stepped on Annabeth's toes twice in one song and on his own pride about eleven times.
+Before the first dance this spring he had crouched on this exact dock and panicked for three days about asking Annabeth to the Spring Dance. He had forgotten speeches. He had knocked over berry juice. He had needed Clarisse La Rue to teach him a box step in secret in the archery range while threatening him with boots. He had stepped on Annabeth's toes twice in one song and on his own pride about eleven times.
 
 Now he and Annabeth had been boyfriend and girlfriend for more than a year. They had their own bench by the lake with initials carved small underneath where Chiron pretended not to see. Thalia, Annabeth's older sister — both of them daughters of Zeus, the same stubborn chin, Annabeth's gray eyes and Thalia's electric-blue ones — had threatened to throw him off Half-Blood Hill six times.
 
@@ -96,11 +96,11 @@ Percy put his forehead on the table, same as before. "Great. No secrets at camp.
 
 "He did stammer," Tyson conceded. "But he still got a dance. You will get a dance too. I have already sung to the flowers. They are ready."
 
-Percy lifted his head. "You already got sea flowers?"
+Percy lifted his head. "You already asked about sea flowers?"
 
-"Pink ones. Like sunrise. Same as before, but bigger, because our love is bigger after the first dance." Tyson pressed huge hands to his chest. "I did not eat them this time either. I ate kelp instead. It was hard."
+"Pink ones. Like sunrise. I asked the palace gardeners for permission. They will send them if they are in season." Tyson pressed huge hands to his chest. "I did not eat them this time either. I ate kelp instead. It was hard."
 
-Across the room Annabeth looked up and waved two fingers, same as before. Percy waved back. He did not knock over his nectar cup this time. Grover caught nothing because there was nothing to catch, and looked faintly disappointed.
+Across the room Annabeth looked up and waved two fingers, same as before. Percy waved back. He did not knock over his juice cup this time. Grover caught nothing because there was nothing to catch, and looked faintly disappointed.
 
 "Real smooth," Grover whispered anyway, out of tradition.
 
@@ -228,13 +228,145 @@ Clarisse hesitated, the old embarrassment flickering. Then she nodded, short. "Y
 
 Silena laughed and linked arms with both of them, war and love and sea, and Percy watched with his hands in slow-dance shape, grinning when a firefly landed on his sleeve like applause, same as before.
 
-One-two-three, he told the firefly. It blinked and drifted off toward the lake, same as before. Growth and repetition, side by side.
+One-two-three, he told the firefly. It blinked and drifted off toward the lake. It was strange how much easier counting felt when he was helping somebody else.
+
+Before they left, Tyson stayed in the range and tried the steps by himself. Percy watched from the bench, where Clarisse had sat to retie a bootlace.
+
+The dance looked different when Tyson did it alone. His movements were precise, almost delicate, the way they were when he checked a gear before installing it. He counted under his breath and moved one foot at a time, careful not to scrape the chalked lines.
+
+"Can I ask you something?" Percy said.
+
+"Yes, brother."
+
+"Why do you want to dance this time?"
+
+Tyson stopped. "Because it is fun."
+
+"Sure. But you watched the first one."
+
+"Watching was fun too."
+
+"Then what changed?"
+
+Tyson sat down beside him, making the bench creak. "Last time I thought if I danced I would break something. I am big. People are small. You know this."
+
+Percy nodded.
+
+"I know I can hold things gently," Tyson continued. "I do not always know whether other people know. Some look at me like I am a rock falling off a cliff."
+
+Clarisse tightened the lace and looked over. Percy could see she was listening, but for once she didn't have a joke prepared.
+
+"So this time," Tyson said, "I want to ask someone. If they say yes, then I dance. If they say no, then I dance by myself or watch. I have learned."
+
+"Who did you want to ask?" Percy said.
+
+Tyson thought about it. "Silena is my sister. She promised she would teach. Clarisse said all three of us should dance. I would like that. And maybe I would like to ask Nyssa, because she helped me with the forge work and I think she is funny."
+
+"Nyssa is a good choice," Percy said. "But you should ask her. Not send Clarisse to tell her."
+
+Clarisse snorted. "I wasn't going to."
+
+Percy raised his eyebrows.
+
+"I wasn't," she repeated. "And it's not my job to find my brother a dance partner. He knows how to use words."
+
+Tyson grinned. "Yes, sister Clarisse."
+
+He went toward the forge, where Nyssa was checking the evening equipment list. Percy followed far enough to make sure the path was clear but stopped before they reached her. Tyson asked if he could speak to her for a minute. When she said she was busy, he waited.
+
+After a while she came out holding a measuring tape and a pencil.
+
+"What's up, Tyson?"
+
+"Would you like a dance on Saturday? At the Big House? I know I am very big. I can dance slowly."
+
+Nyssa looked surprised. "Thanks for asking. I don't want a formal partner. I'm going to be helping with the lights most of the evening."
+
+Tyson nodded at once. "Okay."
+
+"But," she added, "if I get a break and there's a group song, I'd be happy to dance in the group."
+
+Tyson's expression brightened. "I would like that."
+
+"Then see you there." She glanced at Percy, who was trying very hard not to be visible. "And tell your brother I can hear him breathing behind that wall."
+
+Percy emerged. "I wasn't doing anything."
+
+"You were hovering."
+
+"That's a hobby."
+
+Tyson was laughing as they walked away. Percy liked that the answer hadn't hurt him. He had asked, received a real answer, and still had a plan for Saturday. It was less dramatic than the movies made it look.
+
+They returned to the range where Silena was putting away the music box. Tyson told her what had happened. She listened without interrupting.
+
+"Then we'll do one song together," she said. "But I want you to be comfortable on the floor too. We can't rehearse everything."
+
+"What if I step wrong?"
+
+"Then you stop and start again. Just like the forge."
+
+Tyson considered that. "At the forge, stopping is important when something is wrong."
+
+"Exactly."
+
+Annabeth arrived near the end with a rolled drawing of the Big House floor. She had been asked to check the dance layout because Chiron wanted a clear path between the door and the refreshments, and because the Stolls had proposed putting a chair directly in front of the only easy exit.
+
+"That chair isn't staying," she said.
+
+Percy looked at the map. "Is this for the dance or a siege?"
+
+"Both benefit from sensible traffic flow."
+
+She spread the drawing on the practice bench. The dancers would enter on one side of the room, the punch table would stand against the opposite wall, and the aisle nearest the doors would stay open. There was plenty of room for smaller campers to move along the edge without having to pass through the center.
+
+Tyson leaned over the drawing. "Where will I stand?"
+
+"Where you like, as long as you can move without blocking anyone." Annabeth tapped a space near the back of the dance floor. "This corner is good for practicing. It's away from the chairs and close to a clear path."
+
+"Can I ask people not to push me?"
+
+"Of course."
+
+"Sometimes they forget."
+
+"Then tell them."
+
+He examined the drawing. "I think I would like to dance here at first. Then maybe the middle."
+
+Percy watched Annabeth mark the spot with a small pencil circle. She didn't label it *Tyson's space* or make it a rule that nobody else could use it. It was simply a place Tyson had chosen for the first song.
+
+"Will you be dancing too?" Tyson asked.
+
+"With Percy," she said.
+
+"Good. He has practiced a lot."
+
+Percy groaned. "We are not telling the entire camp."
+
+"We are," Clarisse called from the equipment racks. "I'm putting it in the announcements."
+
+Annabeth laughed. She rolled up the drawing and slipped it into her satchel.
+
+On the way back to Cabin Three, Tyson told Percy that he liked the practice better than the first dance had sounded. There had been mistakes, people saying no, a map that might need changes, and no guarantee the evening would be perfect.
+
+"Good," Percy said. "That's what real dances are like."
+
+"Have you been to many?"
+
+"Two if you count the first one and the one we're about to go to."
+
+"Then maybe I know as much as you."
+
+Percy laughed. "Probably more."
+
+Tyson went inside to hang up his clean dance shirt where nobody would spill lake water on it. Percy looked back toward the range, thinking about how often he'd wanted his brother to stay in camp because Percy needed the company. Tonight Tyson had made plans that belonged to him. It felt like the right way for a good week to begin.
 
 ---
 
 While Percy taught, Annabeth had a nicer time, same as before but softer.
 
-Silena had borrowed the Aphrodite back room from her friends Friday afternoon again. Lights strung. Lemonade out. Brushes by size, ribbons by shade.
+Silena had arranged to use her Aphrodite friends' back room on Thursday afternoon for a dress and hairstyle rehearsal, leaving Saturday free for last-minute changes. Lights strung. Lemonade out. Brushes by size, ribbons by shade.
 
 "Nothing fancy," Annabeth said. "Just neat."
 
@@ -264,11 +396,115 @@ Annabeth hugged her carefully. "Thank you. For everything. For the first dance t
 
 "Okay, mush over," Thalia said, blinking fast same as before. "Same threat stands. Eyeliner or casualties."
 
+They were almost finished when Annabeth noticed the yellow ribbon on the dressing table and stopped smiling.
+
+Silena had laid out three possibilities: a narrow blue silk tie, the pale yellow ribbon Annabeth had chosen earlier, and a little silver cord that matched the owl clips. Any of them would have worked with the dress. Annabeth had asked for yellow, and Silena had already cut it to length.
+
+"What?" Silena asked.
+
+"Nothing."
+
+"Annabeth."
+
+She looked up. Silena wasn't demanding a confession. She had simply noticed the change in Annabeth's face.
+
+"I picked yellow because Percy said it reminded him of the afternoon we went to the beach," Annabeth said. "But now I'm wondering whether I should use blue, because that was the color of the first dance. I can't decide whether repeating something makes it special or makes it feel like I never learned anything."
+
+Thalia leaned against the doorframe. "It's a ribbon, Annie."
+
+"I know."
+
+"Then pick the one you like."
+
+Annabeth looked at the mirror. The girl reflected there had gray eyes and blonde hair pinned with owl clips. She was thirteen, daughter of Zeus and Beryl Grace in this life. She remembered being someone else's daughter in the first life she'd lived. The two stories were not identical, even when the dress in front of her looked like something she might have worn in either.
+
+"Sometimes I feel like I'm collecting proof," she said. "The same clips. Same song. Same flowers. If I can make the night line up, it'll mean the first one mattered."
+
+Silena sat on the floor beside her. "The first one already mattered. You were there."
+
+"I know."
+
+"You were happy. Percy was trying not to trip. Thalia threatened to throw him off a hill. I didn't need a ribbon to remember it."
+
+Annabeth laughed reluctantly. "She did threaten him."
+
+"I was standing right there," Silena replied. "I remember."
+
+That distinction helped. Silena had firsthand memories of the first dance in this life, even though she didn't know the entirety of the future Annabeth and Percy carried. She didn't have to be a proxy for the girl they had lost in a different history.
+
+Thalia came to sit opposite Annabeth.
+
+"You used to hate ribbons when you were little," she said.
+
+Annabeth looked at her. "You remember that?"
+
+"Yes." Thalia paused. "I remember trying to tie one in your hair for a school event. You took it out because you said it scratched. I don't know whether you remember any part of that. I can tell you what happened to me, not put the feeling back in your head."
+
+"I don't," Annabeth said. "But I like hearing it."
+
+Thalia smiled. "You looked like a furious little hedgehog. I had to find a different way to hold the braid."
+
+"Did I apologize?"
+
+"Eventually. With a drawing of a storm cloud that had my name under it."
+
+"That sounds like me."
+
+"It was. It still is."
+
+Annabeth looked back at the ribbon. She didn't know whether she would have liked yellow at seven in this altered childhood. She knew she liked it now.
+
+"Yellow," she said.
+
+Silena picked it up. "Sure?"
+
+"Sure. Because I want it. Not because Percy likes it and not because it matches an old memory."
+
+"Excellent." Silena pinned it into place. "I'll keep the blue tie in the drawer in case you change your mind on Saturday."
+
+"Thanks."
+
+Thalia picked up a small box from the shelf. It was the one she'd been using to keep the old corsage band safe while Annabeth and Tyson planned the updated flowers.
+
+"One more question," she said. "Are you sure you want to reuse the band? You wore it at the first dance. It has a scratch near the clasp."
+
+"That's why I want it," Annabeth said.
+
+"Because of the scratch?"
+
+"Because it shows it was there. It doesn't need to be new to be worth keeping."
+
+Thalia put the box down gently. "Then I'll give it back to Percy after we check the clasp. You can decide whether to wear it on Saturday."
+
+Annabeth nodded. She knew the old band was hers; it hadn't been sitting in Percy's trunk waiting for someone else to claim ownership of it. Letting him help redesign it was a choice she and Thalia had made.
+
+Silena began tidying the table. Annabeth watched her sort pins and brushes, then asked a question she'd been holding since the campfire when Elena told her story.
+
+"Can I write down what happened at the first dance?" she asked Thalia. "Not as a public story. For myself. The part you remember about me helping in the preparations."
+
+"You can write what I tell you," Thalia said. "Just say it's my account, not something you remember firsthand from before Percy arrived."
+
+"Okay."
+
+"And don't put the school event with the ribbon in the archive," Thalia added. "That one stays with us."
+
+"I won't."
+
+Silena glanced at them but didn't ask what the school event meant. She had known the Grace sisters long enough to recognize when their conversation was private.
+
+They finished the rehearsal in companionable quiet. Annabeth practiced moving in the dress, discovered the hem caught on the heel of one shoe, and asked Silena to adjust it before Saturday. Silena marked the spot with a pin and scheduled the sewing for Friday. The dress was beautiful but wasn't finished yet.
+
+Annabeth changed back into her camp clothes and helped put away the mirrors. Thalia returned the jewelry box to its shelf. They had a plan, a few jobs left to do, and a dress Annabeth had chosen to wear for reasons that belonged to her.
+
+On the way back to Cabin One she looked at the yellow ribbon folded in its packet.
+
+She would wear it Saturday. And if Percy didn't remember the first dance exactly the way she did, she wouldn't make him. They had another evening to remember together, one that hadn't happened yet.
+
 ---
 
-Percy survived teaching. Now he needed a corsage, same as before but with a twist.
+Percy survived teaching. Now he needed a corsage.
 
-He had Thalia's silver wrist band from the first dance, kept in tissue in his trunk. Annabeth had kept the sea blooms pressed in her notebook because they wilted after spring tide no matter how much mist Chiron lent. This time they wanted matching.
+The silver wristband from the first dance had stayed with Annabeth as her gift. Thalia had asked to borrow it for repair and redesign, and Percy had received permission to help attach new flowers. Annabeth had kept the sea blooms pressed in her notebook because they wilted after spring tide no matter how much mist Chiron lent. This time they wanted matching.
 
 He found Thalia outside Cabin One Thursday. At the first dance she had dragged him onto the porch for a threatening talk. This time she saw the box and pulled him into a hug.
 
@@ -294,7 +530,7 @@ Thalia punched his arm lightly, same as before. "If you get nervous, don't count
 
 "I'm terrifying and huggable now," Thalia said. "It's a gift. Growth."
 
-Tyson returned from collecting flowers in Atlantis through the lake portal, holding a cloth bundle high. Inside were sea blooms, pink veined gold, plus small white surface blossoms Juniper helped pick.
+Tyson returned from meeting an approved Atlantean messenger at the saltwater beach, holding a cloth bundle high. Inside were sea blooms, pink veined gold, plus small white surface blossoms Juniper helped pick.
 
 They fixed them onto the band with sea grass. Pink and silver and green and white.
 
@@ -306,15 +542,151 @@ Saturday dawned bright. The Big House was closed for decorating. Apollo snuck in
 
 Percy did not fail at normal. He held his book right-side up.
 
-Grover was more nervous than Percy. At the first dance he had gone with Ella, the russet-feathered harpy. Then Juniper, the dryad and Grover's oldest friend, returned Monday and hugged him hard. Ella went quiet, fearing to be unchosen. Juniper cried sap tears, not wanting to steal anyone.
+Grover was more nervous than Percy. At the first dance he had gone with Ella, the russet-feathered harpy. Juniper, his longtime dryad friend, had recently returned from an extended absence. Ella and Juniper had each asked Grover for clarity about what their relationships meant, and he had tried to answer without rushing either of them.
 
 Silena talked to both girls Thursday. Now Saturday lunch, Grover sat with his head in his hands.
 
-"Breathe," Percy told him. "Tell them you love Ella as girlfriend and Juniper as herd, and you want to dance with both."
+"Breathe," Percy told him. "Don't let everybody else choose the labels. Ask Ella and Juniper what they want, and tell them what you actually mean."
 
 Grover lifted his head. "You think that works?"
 
-"Annabeth says triangles only hurt when people compete," Percy said. "So don't compete. Share the dance."
+"Annabeth says honesty works better than guessing. That doesn't mean they have to agree to share a dance."
+
+Grover looked at his empty plate. "I think they both know what I mean. I'm just not sure they heard the same thing."
+
+"Then ask," Percy said. "And listen to the answers, even if you don't like them."
+
+Grover gave him a look. "When did you become the person telling me to listen?"
+
+"After Annabeth said it approximately eight hundred times."
+
+"Fair."
+
+They found Ella near the Big House library, carrying three neatly tied stacks of books. She was sorting return slips with a care that Percy had begun to recognize as part of her own choices, not just a habit someone had taught her. Juniper was outside beneath the oak, checking whether a new shoot had begun growing too close to the foundation.
+
+Grover stopped a few paces away from them.
+
+"Can we talk?" he asked.
+
+Ella set the books down. "Grover is worried. Ella can hear worried breathing."
+
+"Very helpful, thanks."
+
+Juniper straightened, wiping soil from her fingers. "About tonight?"
+
+"Yeah."
+
+Percy considered retreating, but Grover glanced back at him.
+
+"Would you stay?" Grover asked. "I don't want you to answer for me. I just need somebody to tell me if I start talking nonsense."
+
+"That sounds like a lot of work," Percy said. "But okay."
+
+Grover took a breath.
+
+"At the first dance I was happy to go with Ella," he said. "I'm still happy. I like her and I want us to have a real dance tonight. Juniper, you're one of my oldest friends. I missed you when you were away. I don't want asking Ella to a dance to mean you can't come over and talk to me."
+
+Juniper looked at him. "That's not what I was asking."
+
+"I know. I think I got confused about what you meant."
+
+"I was asking whether you'd stopped being my friend because you were scared Ella would think I wanted to take your place beside her."
+
+Ella tilted her head. "Juniper has her own place. A tree place and a grove place. Not Ella's place."
+
+"I know that," Juniper said. "But Grover didn't act like he knew."
+
+Grover winced. Percy had never liked hearing his friends describe the hurt he'd caused. He liked it even less when he recognized the same habit in himself: making a decision based on the conversation he imagined other people were having.
+
+"I'm sorry," Grover said. "I made you both do a lot of guessing."
+
+"Yes," Ella replied.
+
+Juniper nodded too.
+
+There was a brief silence. Percy watched a beetle climb the library step and wondered whether anyone would mind if he excused himself now. But Grover wasn't done.
+
+"Ella, do you still want to be my date tonight?"
+
+"Yes," she said, without hesitation. "Ella wants the first slow dance with Grover. A proper dance. Grover asks and Ella says yes."
+
+Grover smiled. "Then may I have the first slow dance?"
+
+"Yes."
+
+"And Juniper," he continued, "would you like to come with us as a friend? There are fast songs and group dances. I like dancing with you."
+
+Juniper thought about it. "I'd like that. I don't want to spend the evening watching from the door because everyone's afraid I might feel left out. But I also don't want you two treating me like I need escorting."
+
+"Okay."
+
+"If I'm tired, I'll go back to my tree. Don't follow me to ask if I'm upset unless I tell you I am."
+
+Grover nodded. "Okay."
+
+Ella looked at Juniper. "Ella would like to walk with Juniper and Grover. Not every dance. Walking."
+
+"I'd like that too," Juniper said.
+
+Percy felt the tension ease, not because somebody had settled the whole question of their relationships, but because each of them had chosen something specific. A first slow dance. A group song. A walk. Nobody had to turn the choices into a triangle that needed solving.
+
+Grover rubbed the back of his neck. "I should have said that days ago."
+
+"You could have," Juniper agreed.
+
+Ella opened the top book and pulled out a folded dance program. "Ella helped Austin write the order. Two fast songs before the first slow one. Time to practice."
+
+Grover stared at the program. "You knew the order?"
+
+"Yes."
+
+"You let me panic anyway?"
+
+"Ella thought Grover should choose what to say without a schedule telling him."
+
+Percy burst out laughing. Grover looked betrayed for approximately two seconds, then laughed too.
+
+Juniper went back to checking the new root by the library step. Percy knelt beside her and pointed at a dark line in the stone foundation.
+
+"Is the tree doing that?"
+
+"No. That crack is old." She touched the edge, then drew her hand back. "But the new root will reach it next season if nobody moves the path."
+
+"Tell Annabeth," Percy said.
+
+"I already did."
+
+"Of course you did."
+
+"She asked whether I wanted the path moved or the root redirected. I told her the path could move a little, if Chiron approved."
+
+Percy remembered Annabeth's sandcastle from the Atlantis beach day, where a drainage channel and access ramp had changed a plan she'd once thought perfect. She would be pleased to hear Juniper had considered her options instead of treating the tree as an obstacle.
+
+"Is that why you're here?" he asked.
+
+"Partly. I wanted to finish the work before tonight. But I also wanted to make sure I could enjoy the dance without spending half of it explaining why I came."
+
+Percy nodded. Grover and Ella were now practicing a slow turn on the walkway, arguing mildly about which hoof went first.
+
+"Are you going to the dance?" Juniper asked him.
+
+"With Annabeth."
+
+"She must be pleased."
+
+"I asked Monday."
+
+"Good." Juniper smiled. "Last time you spent all week looking like someone had announced a siege."
+
+"That was strategic concentration."
+
+"It was panic."
+
+"Fine. It was panic."
+
+He went back toward the cabins feeling oddly hopeful. Grover had gotten an answer he could live with, Ella had a date she had chosen, and Juniper had accepted an invitation without giving up her right to walk away. Nothing about it required magic.
+
+Later, he would tell Annabeth how the conversation had gone. He wouldn't copy the private parts into the camp archive, and he wouldn't let anyone claim Ella and Juniper had agreed to something bigger than one evening. He could remember what his friends said without making their words a public property.
 
 In Aphrodite cabin, preparations were calmer, because Silena had already done the hard talk.
 
@@ -382,7 +754,7 @@ Thalia loomed, same as before — then instead of two fingers to her eyes, she w
 
 "Feel waves," Percy agreed, hugging back one-armed.
 
-Grover and Ella and Juniper came out hand in wing in hand, bow tie correct, blossoms bobbing, trio shy-proud. The six of them walked to the Big House as sun sank gold across grass, same path, larger party.
+Grover, Ella and Juniper came out together, each having agreed to walk as friends. The six of them walked to the Big House as sun sank gold across grass, same path, larger party.
 
 ---
 
@@ -402,7 +774,143 @@ Apollo set up. A fast song filled the room. Percy and Annabeth got punch and wat
 
 Grover tripped. Ella and Juniper caught him. They laughed.
 
-Percy's nerves turned good-buzzy, same as before. Then music changed.
+The music stopped.
+
+It happened in the middle of Austin's second fast song, just as the dancers were starting to find the rhythm. The lanterns above the punch table blinked once. A low pop came from the sound box. Then the room was quiet except for shoes scuffing the floor and the Stolls arguing about whether the silence was part of the program.
+
+Austin lifted his guitar. "That wasn't me."
+
+Kayla checked the cable. "No, it was the speaker."
+
+A few campers laughed. Someone clapped as though the silence had been a successful trick. Percy looked toward Annabeth, who was already scanning the room. The lanterns were still giving off a faint light, but the ones near the far wall had dimmed.
+
+"It's probably the shared circuit," Annabeth said. "We loaded the light rig and the speakers onto the same line after the room was decorated."
+
+"Can you fix it?" Percy asked.
+
+"Not by guessing."
+
+Thalia was standing near the door. She lifted her hands instinctively, a tiny static glow moving over her fingertips, then stopped.
+
+"No," she said to herself. "This isn't a lightning problem."
+
+Percy almost laughed. He had spent years seeing people solve an ordinary mistake with an extraordinary power, only to discover they'd made everything worse. Thalia was getting better at not becoming the entire emergency response.
+
+Chiron crossed the room and spoke to the Apollo sound crew. They unplugged the damaged speaker and checked that it wasn't hot. Beckendorf took one look at the connection board and told them it would need an inspection before anyone switched it on again.
+
+"No jury-rigged extension leads," he said. "We'll use acoustic music for now."
+
+Austin shrugged. "I can play guitar without a speaker."
+
+"Kayla can play flute," Silena said.
+
+Kayla looked up. "Obviously."
+
+The problem might have ended there. But Percy noticed Milo standing rigid near the punch table, his hands pressed to his ears. Lucy was beside him holding her light-up sneakers by their laces, and Bea had begun to cry quietly into her stuffed seal.
+
+The loud pop had frightened them. So had the sudden pause and the older campers crowding toward the sound crew to find out what happened.
+
+Percy walked over slowly and stopped a few feet away.
+
+"You okay?" he asked Milo.
+
+"I hate when things make that noise."
+
+"Fair."
+
+"Is the building going to catch fire?"
+
+"No. Beckendorf unplugged the speaker and Chiron is checking it. You don't have to stay by the equipment."
+
+Milo stared at the floor. "I wanted to dance."
+
+"Then we can find a place where you can still hear the music without being close to the speaker."
+
+Lucy looked toward the far door. "Can we go outside?"
+
+"Sure. Your counselor's right there. Tell her where you're going."
+
+Bea nodded before he had finished. She wanted to leave the room, and Percy wasn't going to argue that the dance was supposed to be fun.
+
+Annabeth appeared beside him with the floor plan tucked beneath her arm.
+
+"The side path is clear," she said. "The one by the windows. We kept it open for exactly this kind of thing."
+
+Percy grinned. "You mean your flow diagram was actually useful?"
+
+"Try to contain your surprise."
+
+She showed Lucy where the lower doorway led to a covered porch. It wasn't an emergency exit and didn't need to be treated like one; it was simply a quiet way out that didn't require pushing through the dance floor. The counselor took Bea's hand after Bea offered it, and Milo followed with Lucy.
+
+Percy watched until they were out of the room. He thought of the beach day when Milo had counted a missing tide pool and helped recover it without treating anyone as a villain. Tonight someone else was noticing what Milo needed. That felt right.
+
+Tyson was near the center of the floor with his hands awkwardly raised in a dance position. He looked at the empty space where the music had been.
+
+"Brother," he said when Percy approached. "Should I help?"
+
+"Maybe. What do you want to do?"
+
+Tyson pointed toward the group of campers milling near the doorway. "People are in way. Annabeth wanted clear path."
+
+Percy nodded. Tyson didn't need a job invented for him, and he didn't need Percy assigning people to move. He could simply ask.
+
+"Could you and Clarisse help the counselors keep the aisle clear?" Percy said. "Without pushing anybody?"
+
+"Yes."
+
+Tyson went to find his sister. Clarisse was already moving the nearest chairs back against the wall. She gave Tyson one end of a bench and directed him to the other. They moved it together, then stopped when the path was wide enough. Clarisse told the Stolls not to put it back unless they enjoyed listening to Chiron explain fire exits for the rest of the evening.
+
+Silena began asking the younger campers whether they'd rather sit and wait or try dancing without amplification. Some chose chairs. Some stayed on the floor. One Apollo boy insisted the whole problem had been caused by the Stolls' punch, but nobody paid him much attention.
+
+Grover took a breath and approached Ella.
+
+"Will you still dance with me?" he asked.
+
+Ella looked at the broken speaker, then at Austin tuning his guitar.
+
+"Yes," she said. "When there is music."
+
+"Fair."
+
+Juniper stood nearby, smiling. She hadn't come to the dance to supervise anybody's feelings, and Percy was glad nobody was asking her to. She found a seat near the windows where she could see the floor and the tree line outside.
+
+Austin strummed a simple rhythm. Kayla found the melody above it. The sound was quieter without the speakers, but it carried far enough for the nearest rows of dancers to hear.
+
+Someone started a clap. Others joined. Percy noticed that the beat wasn't exactly the same as the original fast song. It didn't matter. The dancers began moving again, a little slower this time.
+
+The older campers cleared enough space for a wide circle. Tyson stood near the edge, where he'd said he wanted to begin. Nyssa was still watching the unplugged equipment. She gave him a quick wave when he looked over, then returned to the inspection.
+
+Nico arrived beside Percy with a small plate of cookies.
+
+"Is this the part where everybody forgets how to dance?" he asked.
+
+"Mostly."
+
+"Good. I was beginning to think I was the only one."
+
+Percy crouched beside him. "You don't have to be good at it."
+
+"I know." Nico considered the room. "Can Cecil and I do that one with the spinning?"
+
+"Ask Chiron and make sure there's space."
+
+Nico nodded and went to find his friend. Percy watched him go, thinking of Bianca and her birthday letter, of the way she'd let her brother choose what the party meant instead of forcing him to be happy about every part of it. Nico was doing the same here. He wanted one song, not the whole evening.
+
+Annabeth returned from speaking with Chiron. Her yellow dress looked different in the lower light, almost golden. The little owl clips in her hair caught the lamps as she moved.
+
+"Good news," she said. "The band asked if they could do the slow song next. They can play it acoustically."
+
+"Works for me."
+
+"You don't mind that the timing's different?"
+
+Percy looked around. Tyson had found a place to dance without worrying about crushing anyone. Milo and the others could rejoin if they chose. Grover and Ella were still waiting for their promised song. The room wasn't perfect, but it was full of people making decisions that mattered.
+
+"No," he said. "Why would I?"
+
+Annabeth smiled at him.
+
+His nerves turned good-buzzy. Then the music changed.
 
 Austin strummed soft. Kayla lifted flute. A slow sweet melody drifted like water over stones — the same melody as the first dance, requested by Annabeth because tradition.
 
@@ -436,7 +944,7 @@ She laughed through his hand. "You smell like kelp and cookies again."
 
 Around them lanterns glowed. Vines swayed. Mr. D smiled faintly, tapping time. Chiron watched soft-handed, misty-eyed.
 
-Nearby Grover and Ella and Juniper swayed in a careful trio, cheek to feather to blossom, Ella quoting, "'Danced until stars came out, and no one was unchosen,'" while Grover held Ella's wing like glass and Juniper's hand like grove, gentle both. His bow tie stayed tied. No one tripped. Juniper cried happy sap tears and Ella pretended not to cry and Grover cried openly because satyr empathy maxed out.
+Nearby Grover danced with Ella for the first slow song, just as he'd asked her. He held her wing gently, and she smiled at him without needing to consult anyone else's feelings. Juniper sat by the window and kept time with one hand, visibly content to listen. When the music changed to a group dance later, she joined them by her own choice. His bow tie stayed tied. Nobody had to compete for a place.
 
 Percy caught his eye. Grover mouthed, SWAYING COUNTS DOUBLE.
 
@@ -448,9 +956,7 @@ Percy felt his chest ache happy. At the first dance Clarisse had hidden ballroom
 
 The song played on. Percy and Annabeth kept dancing, whole song, without stepping — not once on toes, not once wrong direction, not once counting out loud. When the guitar wobbled, Percy adjusted without thinking. When the flute ran fast, Annabeth squeezed his hand and they slowed together, listening to each other more than music. It was not perfect technique. Silena would later say their box drifted left. Clarisse would say Percy's leading was still unclear half the time. But they never broke hold. They never looked down. They breathed together, swayed together, smiled until cheeks ached.
 
-When the last guitar note hung like firefly, same as before, Percy did something new.
-
-He leaned in, slow enough she could move away, and kissed her cheek — soft, quick, respectful, right where vanilla-rain scent lived. Chiron-approved, Thalia-approved, practiced between dances.
+When the last guitar note hung in the air, Percy leaned in slowly enough that Annabeth could meet him halfway, then kissed her cheek. It was an ordinary tenderness for a couple who had been together a long time, not an announcement that they'd only just discovered how to love each other. What felt new was his ease with being seen.
 
 Annabeth went pink to her ears and grinned so wide her owl clips slipped. "Smooth," she whispered. "Ten out of ten this time."
 
@@ -498,6 +1004,34 @@ Last song slowed softer still, same melody reprised. Percy and Annabeth danced a
 
 When it ended they thanked Apollo and walked into spring night with Thalia steps behind. Porch boards cool. Frogs singing. Windows glowing gold behind them.
 
+Near the porch Milo stood with Lucy and Bea, all three accompanied by their counselor. Milo had come back inside after the sound system was unplugged, but only for the final group song. Lucy's light-up shoes blinked in time as she practiced a little step beside the wall. Bea held her seal against her chest and looked tired.
+
+"Did you like it?" Percy asked.
+
+"Some of it," Milo said. "Not the pop. The guitar after was good."
+
+"Yeah," Percy replied. "I liked that part too."
+
+Lucy pointed toward Annabeth's corsage. "Did you build the flowers?"
+
+"No," Annabeth said. "I helped design the band and Percy asked people to find the blooms. Tyson and Juniper did that part."
+
+"There's a lot of people making one thing," Lucy observed.
+
+"Usually there are," Annabeth said.
+
+Bea tugged at the counselor's sleeve. "Can we go to bed?"
+
+"Yes," the counselor answered.
+
+No one asked Bea to stay for another song. Milo waved and followed the others down the path. Percy watched them go, thinking it was a good thing the dance had allowed them to leave and return without making anyone explain themselves to a crowd.
+
+He looked at Annabeth. "You still like the yellow ribbon?"
+
+"I picked it myself," she replied. "Of course I do."
+
+"Good." He touched the edge of her hand without snagging the flowers. "I like it too."
+
 Air cooled grass and night flowers. Torches and fireflies lit path. Owl called, same as before.
 
 At the fork to Zeus's cabin Thalia tactfully checked for monsters behind a bush where she could see, same as before. Crickets stitched dark. Torch sputtered. Path stones still held little daytime warmth through shoe soles. Annabeth's corsage gave off soft pink-white glow, lighting her fingers from below like a lantern, fuller light this time.
@@ -526,9 +1060,9 @@ He passed the forge, dark now. He passed cabins glowing warm. Above stars burned
 
 Another dance. Same setup. Same dock, same notice, same porch, same punch, same song. Same boy asking same girl. Same sisters hugging. Same brothers carrying flowers without eating them.
 
-Different boy. Steadier hands. Smoother ask. Whole song without stepping. Cheek kiss given and returned. Threats retired to hugs. Secret lessons become open dances. Triangle become trio. Two vials instead of one. Yellow dress instead of blue. Zero steps instead of two.
+Different boy. Steadier hands. Smoother ask. Whole song without stepping. Cheek kiss given and returned. Threats retired to hugs. Secret lessons become open dances. Three friends chose their own places. Two vials instead of one. Yellow dress instead of blue. Zero steps instead of two.
 
-Growth, Percy thought, walking home under steady stars, hand tingling where Annabeth had held it, cheek warm where she had kissed it. Chiron would put it in the permanent record.
+Percy thought about what had actually changed: Tyson asking without assuming, Grover listening instead of guessing, Annabeth changing a plan when the room needed it, and Thalia deciding an ordinary electrical fault was not hers to solve with lightning. A steady evening had taken more work than a perfect one.
 
 One-two-three, the crickets sang. Feel waves, Percy answered, and went home.
 
