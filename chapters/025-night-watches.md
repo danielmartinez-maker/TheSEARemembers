@@ -131,7 +131,7 @@ Thalia was quiet for a moment, turning her stick in the coals. "Do you... like h
 
 Percy thought about it. The ache that had sat behind his ribs since he'd left Atlantis, like homesickness for a place he'd supposedly lived for years but was only beginning to know. The way his dad had hugged him goodbye at the thermocline, hard enough to crack ribs, and whispered, *You always have a home in the sea, Percy. Never doubt that.*
 
-"Yeah," he said softly. "I do. It's weird. I remember a different kind of home with Sally. I told you some of it, I know. She was enough. She was everything to me in that life. But here they all know this whole... other ocean of people. Who know my dad in a way I don't yet. Who fight and tease and send me weird shell necklaces with notes like 'do not eat this, love, Nerissa.' She's one of the palace nereids. Triton says she's been putting instructions on my presents forever. It's messy. But I like knowing they're there. When I'm near the water, I feel less... solo."
+"Yeah," he said softly. "I do. It's weird. I remember a different kind of home with Sally, and I've told you some of it. She was enough—everything to me in that life. But here, there's this whole other ocean of people who know my dad in a way I don't yet, who fight and tease and send me weird shell necklaces with notes like 'do not eat this, love, Nerissa.' She's one of the palace nereids. Triton says she's been putting instructions on my presents forever. It's messy, but I like knowing they're there. When I'm near the water, I feel less... solo."
 
 "Less solo," Thalia repeated. "I like that."
 
@@ -463,13 +463,7 @@ Percy laughed, and the fear melted out of his shoulders. "Deal. Princess Sockhat
 ---
 
 
-Clarisse La Rue had decided Annabeth Grace was not as annoying as she'd previously categorized.
-
-This was a significant reclassification. Previously, Annabeth had been filed under *Know-It-All, Avoid Unless Strategically Necessary*. Now she was under *Know-It-All Zeus Spawn, Tolerable, Maybe Even Useful*.
-
-Progress.
-
-Night four was warm and buggy. They'd both slathered on the Hermes cabin's homemade citronella goo (recipe courtesy of Travis Stoll: beeswax, lemon, and "good vibes") and still got eaten alive. Clarisse had seven bites on one ankle. Annabeth had one on her eyelid and looked faintly piratical.
+Clarisse La Rue had decided Annabeth Grace was not as annoying as she'd previously categorized. This was a significant reclassification: Annabeth had moved from *Know-It-All, Avoid Unless Strategically Necessary* to *Know-It-All Zeus Spawn, Tolerable, Maybe Even Useful*. Progress. Night four was warm and buggy; they'd both slathered on the Hermes cabin's homemade citronella goo (Travis Stoll's recipe: beeswax, lemon, and "good vibes") and still got eaten alive. Clarisse had seven bites on one ankle. Annabeth had one on her eyelid and looked faintly piratical.
 
 "Tell me a campfire story," Clarisse demanded, scratching her ankle with a stick. "A real one. Not one of those Athena moral fables where the lesson is 'plan better.'"
 
