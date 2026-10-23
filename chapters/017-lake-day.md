@@ -607,15 +607,11 @@ He hesitated. It would have been easy to use the memory gaps as a reason to stop
 
 "Does it make you feel strange?" he asked Silena. "When I don't know what you're talking about?"
 
-"Sometimes."
+"Sometimes," Silena said. She glanced toward Clarisse, who was finishing the knee-tuck lesson with a younger camper, then turned her attention back to Percy. "I remember teaching you to tie the ribbons on your practice armor because you kept getting the knot wrong. When you arrived at camp and didn't recognize the ribbon I showed you, it felt as if I'd been carrying a photograph that nobody else could see."
 
-She had answered without trying to make him feel better. Percy looked at her.
+"I'm sorry," Percy said.
 
-"I remember you being little," she continued. "I remember teaching you to tie the ribbons on your practice armor because you kept getting the knot wrong. Then you arrived at camp and didn't recognize the ribbon when I showed it to you. It made me feel as if I'd been carrying a photograph that nobody else could see."
-
-"I'm sorry."
-
-"I know. You didn't choose it."
+"I know. You didn't choose it," Silena said.
 
 He looked down at the towel. "I don't want you to feel as though you have to make me remember by telling the same story again."
 
@@ -725,9 +721,7 @@ Percy looked back at the little circles Clarisse had erased. The game hadn't res
 
 ---
 
-Annabeth had been awake since dawn with a knot between her shoulder blades that wouldn't loosen.
-
-It wasn't a bad knot. Not danger, not prophecy, not the cold finger-trail she'd learned to recognize in the life she remembered when something was coming. Just — noise. Too many people, too many expectations, too much *remembering*. She remembered being seventeen and planning sieges and holding a knife to survive, and she remembered being seven and running away and Thalia's hand around hers so tight it hurt. And now she was twelve in a swimsuit with zinc on her nose, sitting next to a sister who was alive here and had lost years as a pine tree in the history Annabeth remembered, and she didn't know what to do with her hands.
+Annabeth had been awake since dawn, trying to loosen the knot between her shoulder blades. It wasn't danger or prophecy, nothing like the cold finger-trail she'd learned to recognize in the life she remembered when something was coming. This was only noise: too many people, too many expectations, too much remembering. She remembered being seventeen, planning sieges and gripping a knife to survive; she remembered being seven, running away with Thalia's hand clamped around hers so tightly it hurt. Now she was twelve, in a swimsuit with zinc on her nose, sitting beside a sister who was alive here but had lost years as a pine tree in the history Annabeth remembered. She didn't know what to do with her hands.
 
 Thalia seemed to know. Thalia always seemed to know lately, which was new and strange and wonderful.
 
