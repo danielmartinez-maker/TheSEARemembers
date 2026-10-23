@@ -132,7 +132,7 @@ Files: Chapters 211–218, continuity handoffs, canon/index updates.
 - [x] Verify 11,540 body words by the repository whitespace-token method; Thalia-limited POV, Chapter 216 continuity YAML, current 194–216 ledger, index, arc progress, and scoped character-state updates added.
 - [x] Ch217: Clarisse-limited Poseidon visit reopens the siblings' separate hurts; Amphitrite supports Clarisse without mediating; Clarisse privately chooses “Mom” sometimes without forgiving Poseidon.
 - [x] Ch218: the seven siblings share a seasonal meal and paper-lantern work with negotiated boundaries; Leandros and Ianthe remain imperfect, and no trust reset follows.
-- [x] Verify 10,545 body words by the repository's whitespace-token method; Annabeth-limited POV, Chapter 218 continuity YAML, current 194–218 ledger, chapter index, arc progress, and scoped character-state updates added.
+- [x] Verify 10,488 body words by the repository's whitespace-token method; Annabeth-limited POV, Chapter 218 continuity YAML, current 194–218 ledger, chapter index, arc progress, and scoped character-state updates added.
 - [x] Update selected character-state profiles, the 194–218 arc ledger, chapter index, illustration count, README, FIC_CONTEXT, and spec/plan progress to reflect Chapters 212–218's witnessed events.
 - [x] Verify Chapter 217 at 10,410 body words; add its continuity YAML, 194–217 ledger/handoff, index, README, illustration count, and scoped state updates.
 
@@ -153,7 +153,7 @@ Check: completion report separates implemented files, actual counts, local QA, h
 ## Progress ledger
 
 - Chapters complete: **25/25**.
-- Arc body words: **257,780 / 250,000**; the arc clears its cumulative floor by **7,780** words.
+- Arc body words: **257,723 / 250,000**; the arc clears its cumulative floor by **7,723** words.
 - Canon and arc files: spec, plan, Chapters 194–218, index, per-chapter continuity YAMLs, the current 194–218 ledger, and selected sibling/relationship profiles are on PR #103.
 - Illustration coverage is **125 of 218 chapters**; the latest illustration commit was preserved.
 - Current next action: complete final hosted full-manuscript and character-memory validation, then record the results.

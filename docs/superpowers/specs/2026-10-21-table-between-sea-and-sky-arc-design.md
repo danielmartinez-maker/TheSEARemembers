@@ -3,7 +3,7 @@
 **Status:** Drafting complete; hosted validation pending on PR #103. The family-first engine and working sibling pair below were approved by the author in conversation on 2026-10-21. This document records the arc contract and current evidence.
 **Source baseline:** Live PR #103 branch `audit/four-phase-continuity-2026-10-13`, current manuscript ending Chapter 193, “The Heel.”
 **Scope:** New Chapters 194–218; planned cumulative floor 250,000 body words.
-**Implementation checkpoint (2026-10-22):** Chapters 194–218 are drafted on PR #103 at **257,780 body words** across twenty-five installments. Chapter 218, “Tide, Thunder, Home,” measures **10,545 body words**. The arc clears the 250,000-word floor; final hosted validation is pending.
+**Implementation checkpoint (2026-10-22):** Chapters 194–218 are drafted on PR #103 at **257,723 body words** across twenty-five installments. Chapter 218, “Tide, Thunder, Home,” measures **10,488 body words**. The arc clears the 250,000-word floor; final hosted validation is pending.
 
 ## Author-approved direction
 

@@ -38,9 +38,7 @@ He looked at her. “You’re right.”
 
 The quick agreement surprised her. Percy nudged the paper toward her and let his hand rest beside her wrist. She touched two fingers to his knuckles before she returned to the list.
 
-The idea had started the night after Clarisse’s walk with Amphitrite. Annabeth had not been there, and she had not asked Clarisse how it had gone. She knew Silena had asked. Clarisse had said “fine,” and Silena had let the word stand.
-
-The next morning, Percy had said the seven of them might share a seasonal meal before the kitchen changed over to the winter stores. He had spoken as though the logistics were the only difficult part. Annabeth had asked whether he wanted to invite everyone himself.
+After Poseidon’s visit, Percy had said the seven of them might share a seasonal meal before the kitchen changed over to winter stores. He had spoken as though the logistics were the only difficult part. Annabeth had asked whether he wanted to invite everyone himself.
 
 “No,” he had said. “I don’t want to tell them what it means.”
 
@@ -234,7 +232,7 @@ Percy caught the edge of her sleeve. “You’re welcome.”
 
 She looked up. He was smiling at her in a way that did not ask the room to notice. She brushed her thumb over the inside of his wrist. His hand stayed near hers until the first knock came.
 
-Clarisse stepped into the Big House room with a coil of leather cord over one shoulder. She had been headed somewhere else and had stopped when she heard Percy’s voice. Her eyes moved over the three lists.
+Clarisse stepped into the Big House room with a coil of leather cord over one shoulder. Her eyes moved over the three lists.
 
 “What are those?”
 

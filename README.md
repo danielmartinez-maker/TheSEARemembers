@@ -13,7 +13,7 @@ Edit chapters independently using pull requests or direct commits. This is an un
 
 ## Active family-first arc (October 22, 2026)
 
-PR #103 contains the completed draft of Chapters 194–218: **25 installments and 257,780 body words** by the repository's whitespace-token method. Chapter 218, “Tide, Thunder, Home,” measures **10,545 body words**. The arc clears its 250,000-word floor. Illustration coverage is **125 of 218 chapters**. Final hosted validation is tracked on the PR.
+PR #103 contains the completed draft of Chapters 194–218: **25 installments and 257,723 body words** by the repository's whitespace-token method. Chapter 218, “Tide, Thunder, Home,” measures **10,488 body words**. The arc clears its 250,000-word floor. Illustration coverage is **125 of 218 chapters**. Final hosted validation is tracked on the PR.
 
 ## Canon and editing
 
