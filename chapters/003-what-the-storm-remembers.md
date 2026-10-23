@@ -70,67 +70,61 @@ Thalia drew her into an embrace that pressed against Annabeth's sore arms. Annab
 
 ---
 
-The aftermath of the drakon fight was a blur of activity. Chiron arrived in his centaur form, his bow slung across his back, and began organizing the cleanup. The younger campers were herded back to the cabins, and Thalia was surrounded by well-wishers and congratulations.
+It was the ordinary work after the drakon's destruction that finally made Annabeth understand how close they had come to losing somebody. During the fight she had been able to measure distances and openings, to name the danger, and to give her fear a useful task. Once the monster had dissolved there was nothing left to strike, so the fear settled into her hands instead, making her fingers tremble whenever she tried to loosen them. Chiron came up the lower path in his centaur form with a medical satchel slung beside his quiver and began giving instructions to the campers gathering around the broken oak. He sent two older children to check the boundary markers, had a third count everyone who had been on the path, and knelt beside a boy whose ankle had twisted when he scrambled up the bank. His calm did not make the scene less serious. It made the seriousness possible to manage. Annabeth had seen armies after battles and knew how much of their survival depended on people who could count the injured, find clean water, and remember where the supplies had been put.
 
-Annabeth slipped away. She needed to be alone.
+Thalia stood near the broken tree, insisting she was capable of walking, while one of the healers examined the bruising along her side. A few campers had begun to congratulate her, speaking over one another about the lightning and the final throw. She answered only when they asked something practical, and twice Annabeth saw her look beyond the crowd toward the place where her sister had been standing. Annabeth knew Thalia would come after her as soon as Chiron finished examining the injury, and she could not yet bear another conversation in which her own recklessness became proof that Thalia had failed to protect her. She told the nearest counselor that she was going back toward the cabins and waited for him to nod before walking away. The promise she made was small, merely that she would not leave the central grounds, but it was still a promise and she intended to keep it.
 
-She found herself at the canoe lake, sitting on the same dock where she'd met Percy the night before. The water was calm, glass-warm on top with a cold undertow, reflecting the midday sun in broken shards of light. Pine and strawberries scented the wind.
+She went to the canoe lake because she knew the route well enough that she did not have to think while walking. The sun had risen clear of the trees and lay across the water in long broken strips, turning the shallows near the dock green while the deeper middle remained dark. The reeds along the bank had begun to dry at their tips. A pair of dragonflies hunted just above the surface, darting through the air with such precise confidence that Annabeth found herself watching them out of an instinctive envy. There was a sort of engineering in their movement, wings answering each other almost before their bodies changed direction. No designer she knew could have built a machine that small with so much ability to recover from a gust. For several minutes she let herself attend to that fact instead of the scrape across her knuckles or the memory of gold eyes turning toward her.
 
-Her hands shook as she looked at the scraped knuckles the practice sword had left. She'd recognized the drakon's opening but nearly lost the blade because her twelve-year-old arms couldn't carry the force she remembered using. Saving Thalia had been worth the risk; pretending that her old skills made the risk disappear would be a mistake.
+The dock boards were warm beneath her hands, though the water that struck the piles had the lingering cold of springs rising from deeper ground. She sat near the end without putting her feet in, and examined the marks left by the practice sword. The blisters on her palms were not terrible. She had acquired worse ones in earlier training sessions. What bothered her was their position. The sword had twisted at the moment of impact, and the skin had torn where she had failed to control the weight. The body that remembered how to intercept a drakon's strike was not the body that had delivered it. She had made a calculation with the strength of a seventeen-year-old fighter and tried to carry it out with the reach of a twelve-year-old girl. It was the sort of error she would have torn apart on a practice field if another camper had made it. Remembering that did not make her regret trying to save Thalia, but it stopped her from calling what had happened a success simply because both of them were alive.
 
-And Thalia had seen.
+She heard Percy before she saw him. One of the loose boards near the shore creaked beneath his foot, and he slowed rather than pretend he had managed to approach silently. Annabeth appreciated the decision. She was tired of surprises, even small ones. He came along the dock with his jacket folded over one arm and a waterskin in his hand, glanced at the scraped skin across her knuckles, and sat down close enough for their shoulders to touch without making a show of the injury. The water moved toward his side of the dock almost imperceptibly. He noticed it, frowned, and let it settle again.
 
-"Thought I'd find you here," Percy said. Annabeth didn't turn; she kept staring at the water, trying to steady her breathing.
+“I went by the infirmary first,” he told her. “Thalia's there. Chiron says they want to examine her ribs and keep her from going back to training before someone can make sure nothing serious happened. She asked where you were, and I told her I'd look around the lake.”
 
-He sat beside her. "I heard about the drakon. Are you all right?"
+Annabeth turned toward him, relieved and uneasy at once. “Is she angry with you for leaving before she could send somebody else?”
 
-"I shouldn't have done it."
+“Not yet. She seemed to think I ought to have enough sense to find you without a search party. I didn't argue, mostly because she was standing beside a healer who was already annoyed with her.” Percy offered the waterskin, and when she took it, his eyes moved again to her hands. “I heard what happened from three people who weren't close enough to see all of it, so I'm not going to act as though I know. Are you hurt anywhere they didn't check?”
 
-"Help your sister?" His answer came gently. "That was the right thing to do."
+“Just the hands,” Annabeth said. She drank before giving it back. “And a very deserved blow to my opinion of my own judgment. I saw the tail hit her, Percy. I knew what the drakon would do next, and for one second I was sure I could get there with a sword before it reached her. In the old life I probably could have. Today I almost dropped the weapon before I landed the strike.”
 
-"I mean I shouldn't have done it *well*. I shouldn't have been that fast, that precise. I'm supposed to be a twelve-year-old who's never fought a monster before."
+Percy pulled at a loose thread on the cuff of his jacket, his expression growing more serious as she spoke. “I know what you mean about expecting your body to be where it used to be. Half the time I turn too quickly in training because I remember having another six inches of reach. The other day I stepped toward a higher rung on the climbing wall without thinking, and Clarisse asked whether I was trying to throw myself off it.” He looked across the lake, then back at her. “But you were frightened for Thalia. That's not the part you should be ashamed of. Maybe we need to work out which of our old instincts this version of us can actually use.”
 
-Percy was quiet for a breath. "My problem is that I can't turn the training and instincts off. When that drakon showed up, my body just... knew what to do, and I had to stop myself."
+Annabeth rubbed her thumb along the edge of her waterskin, considering how quickly he had found the distinction she herself had been circling. “We should. I can write drills for distance and grip strength, and you can stop treating every practice sword like Riptide. I don't want another lesson that requires somebody to throw lightning over my head.” She tried to smile, but the image came back too easily. “What I'm more worried about is what Thalia thinks she saw. She keeps telling me stories about learning to fight when we were younger. I remember none of them, and then I go running at a drakon as though I've been doing this for years. It isn't fair to her.”
 
-"Same," Annabeth admitted.
+Percy was quiet while a little wave broke against the dock. He did not immediately tell her that Thalia would understand or that everything would work out. Those answers had never satisfied Annabeth, and after everything they remembered she would have doubted him if he offered them. At last he said, “You know how many people told me about the things I did as a little kid in Atlantis? Rhode and Benthesikyme can finish each other's stories about me. Amphitrite knows exactly which food I refused to eat when I was small. I believe them, but when they tell me about it, all I have is the picture they make in my head. It feels like hearing about another boy who happens to have my name.”
 
-"So we're both pretending to be something we're not, and neither of us is very good at it."
+“Do you think that's what Thalia sees when she looks at me?” Annabeth asked. “Somebody who looks right and answers the questions, but doesn't belong to the memories she's trying to share?”
 
-"We're going to get caught."
+“I don't know. She might be wondering why you're suddenly so careful around her. Or maybe she just sees her little sister, who nearly got killed this morning, and hasn't had time to think about anything else.” He shifted his hand across the boards until their fingers met. “I don't think we can decide what she feels for her. You can tell her which parts of the morning frightened you, though. That much is yours to say.”
 
-"Maybe. Or people will decide we're prodigies."
+The answer frustrated her precisely because it was sensible. Annabeth wanted to sit with a plan detailed enough to account for every reaction her sister might have, and there was no plan that could restore a history she had not experienced. She leaned against Percy's shoulder, letting their joined hands rest between them, and watched a canoe move slowly along the far shore. A pair of campers were using it to gather reeds blown across the water. One reached too far, and the boat tilted until the other steadied it with a paddle. Annabeth found herself following the familiar sequence of motion, correction, and trust. It seemed almost unfair that ordinary people could depend on one another without explaining the foundations of their lives first.
 
-Annabeth's laugh came out short and bitter. "Do you really think Chiron will buy that?"
+“There's something else,” she said when the canoe had passed. “This morning you asked me whether I was settling into Cabin One. I told you it was fine, and I wasn't lying. Thalia brings me tea when I can't sleep, and she knows which books I want before I ask. She's spent years learning me. But I keep thinking of everything I don't remember doing with her, and it makes me feel as though I'm stealing the affection meant for the girl who grew up here.”
 
-"No. But what choice do we have?"
+Percy turned toward her, his face troubled in a way she recognized from the days after Tartarus, when he had wanted so badly to protect her from something neither of them could put into a single sentence. “Do you remember what you said to me when I thought I wasn't the same person after we got out? You told me that surviving something doesn't replace every year that came before it. I know this is stranger than that. Maybe you're not the girl Thalia remembers in every detail. You're still the one who got scared when she fell, and the one who came running. I wouldn't call that stealing anything.”
 
-Annabeth looked at him. In the sunlight, his eyes were the same green she remembered — the color of sea glass, of shallow water over sand. He was twelve years old and too thin and still looked like he was carrying the press of a world she'd only glimpsed in fragments.
+Annabeth gave him a look. “It's annoying when you remember my better advice.”
 
-"I'm scared," she said quietly. "Not of monsters. Not of the enemy. I'm scared that I'm going to hurt Thalia. She loves me — this version of me — so much. And I don't remember earning it. Every time she looks at me with that fierce, protective love, I feel like a fraud."
+“I keep a collection. It takes up most of my brain, which explains a lot of my mistakes.”
 
-"You're not a fraud. You're Annabeth. That doesn't change just because your circumstances do."
+She laughed, unwillingly at first, and then because he was grinning at her with precisely the crooked expression she had loved before either of them had been forced into this new beginning. She was glad for the familiarity. It did not solve Thalia, and she did not need it to. She rested her forehead against his shoulder until the laughter passed, listening to the sound of the freshwater lake beneath their feet, so different from the deeper pressure that followed Percy whenever he spoke of Atlantis.
 
-"Doesn't it? The Annabeth Grace who grew up here — she had a childhood with Thalia. She learned to fight from her. She has twelve years of memories that I don't have. Does that make me a stranger to her?"
+“Do you miss Sally?” she asked after a while. The question came from the sight of his hands as much as anything he had said, from remembering how often he used to describe his mother's kitchen when the world became too difficult to bear. “You can tell me if you don't want to talk about it.”
 
-Percy didn't have an answer for that. They sat in silence, watching the water, and the distance between them felt both vast and infinitesimal.
+“I miss her,” Percy said. He did not attempt to make the admission gentler. “This morning Silena gave me another lecture about wet socks, and all I could think about was Sally putting dry ones on the radiator before school. Amphitrite looks after me in ways I haven't earned the memories for, and she doesn't deserve to have me standing there comparing her to somebody she can't know the way I do.” He bent his head, studying their hands. “I love that she wants me home. It doesn't stop me missing the home I remember.”
 
-"Percy," Annabeth said after a while. "Can I ask you something?"
+Annabeth squeezed his fingers. She had feared that loving Thalia and missing Athena were contradictory, or at least evidence that she was failing to appreciate what this life had given her. Hearing Percy speak without trying to rank his mothers made the question less cruel. The people who loved them in this history were not mistakes because an earlier history had existed. Nor were their old losses imaginary because they had been offered something else in the present. They would have to live with both truths. She could already imagine Thalia objecting to the phrase, insisting that truths were supposed to fit neatly together, but Annabeth was learning how little of a human life ever did.
 
-"Always."
+“I'm going to speak to Thalia after the healers finish with her,” Annabeth said. “Not about the old life. About today, and about what I can and can't do when I'm frightened. She deserves an explanation for why I ignored her warning, even if she won't like the explanation.”
 
-"Do you miss Sally?"
+“I can walk you to the infirmary if you want,” Percy offered. “Or I can stay here and pretend I came to inspect the dock.”
 
-His expression shifted — a flicker of pain so raw it made her chest ache. "Every day."
+“You're a terrible liar, Seaweed Brain. If we go, we should go because I asked you to come with me.”
 
-"Even though you have Amphitrite now?"
+“Then ask.” He leaned closer, still careful of her sore hands. “I won't turn it into a rescue mission.”
 
-"Even though. They're different kinds of love. Amphitrite is real and present and wonderful. But Sally is... she's the reason I know what a mother's love feels like. She gave me that template. And I can't just stop missing her because I have someone else who cares for me."
-
-Annabeth nodded. "That's what I'm afraid of. That I'm going to hurt Thalia by not being able to love her the way she deserves."
-
-"You can't force it," Percy said, taking a breath. "But you can choose to try. That's all any of us can do."
-
-Annabeth leaned against him, just slightly. He put his arm around her shoulders, and they sat like that for a long time, two displaced souls finding comfort in the only person who understood.
+Annabeth smiled at him and stood, drawing him up beside her. “Come as far as the path. I want to talk to her alone once I get inside.” Percy accepted the limit without arguing, and they walked back toward camp with their shoulders brushing whenever the track narrowed. From the infirmary they could already hear somebody protesting that an injured rib did not prevent a person from giving perfectly good orders. Annabeth knew the voice, though she could not remember all the years that had made it part of her earliest days. She went forward to meet the sister who possessed those years, determined at least to give her the truth about this one.
 
 ---
 
